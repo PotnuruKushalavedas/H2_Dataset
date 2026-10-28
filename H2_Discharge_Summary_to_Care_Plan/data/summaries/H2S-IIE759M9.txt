@@ -1,0 +1,53 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Harpreet D'Souza | 59 Y/M | UHID CDH9974799 | IP IP/26/827809
+DOA - 06-08-2026 | DOD - 12-08-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Dilated cardiomyopathy, LVEF 33%
+  • BPH
+
+Presenting complaints & history - 59/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 89 kg to 86 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 4543 pg/ml | S. Cr 1.0 mg/dl | Na 132 mEq/L | K 4.2 mEq/L | 2D Echo: LVEF 33%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 82/min, SpO2 97% on RA. Dry weight 86 kg.
+
+ADV ON DISCHARGE -
+• Tab. Frusemide 40 mg PO BD till review
+• Tab. Concor 2.5 mg PO OD lifelong
+• Tab. Ramipril (Cardace) 2.5 mg PO OD life long
+• Tab. Spironolactone (Aldactone) 25 mg PO OD lifelong
+• Tab. Empagliflozin (Jardiance) 10 mg PO OD life long
+Continue previous medications for BPH as before.
+
+• Stop Tab. Dilzem 30 mg (contraindicated in HFrEF)
+
+Instructions -
+  Diet:
+    • Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    • Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Daily morning weight - maintain record
+    • Do not take painkillers from the chemist without doctor's advice
+
+Report immediately to Casualty in case of -
+  • Wt gain > 2 kg in 3 days
+  • Breathlessness at rest / on lying down flat
+  • Increasing pedal oedema (swelling of feet / legs)
+  • Marked decrease in urine output
+  • Giddiness, fainting or loss of consciousness
+  • Palpitations - fast / irregular heart beat
+
+Follow up -
+  • Review with reports - Cardiology OPD on 22-08-2026 (Sat); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

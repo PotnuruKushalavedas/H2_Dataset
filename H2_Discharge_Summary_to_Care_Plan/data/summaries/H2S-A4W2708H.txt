@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Rakesh Kushwaha, 31/M  UHID: CDH6882763  IP: IP/26/440675
+DOA: 11-Aug-26  DOD: 15-Aug-26  Cons: Dr. Sunita Patil (Surgery Unit II)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis with localised perforation
+- s/p Laparoscopic appendicectomy (11-Aug-26)
+
+H/o: 31/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 9. USG: inflamed, non-compressible appendix.
+
+Course: Emergency laparoscopic appendicectomy under GA on 11-Aug-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure: Laparoscopic appendicectomy under GA (11-Aug-26)
+
+Ix: TLC 12,500/cumm, CRP 122 mg/L, HPE: awaited, Hb 12.2 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 118/76 mmHg, PR 76/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Cefuroxime 500 mg BD after food x 7 days
+2) T. Flagyl 400 TDS after food x 7/7 (avoid alcohol)
+3) T. Paracetamol 650 mg SOS for fever / pain (max 4 doses/day)
+4) T. Hifenac 100 mg BD after food x 3 days
+5) T. Razo 20 OD 30 min before breakfast x 5/7
+
+Adv:
+  Diet:
+  - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+  - Walk around the house several times a day
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound:
+  - Keep wound site clean and dry
+  - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Review SOS if:
+- Fever > 100.4 F (38 C)
+- Wound site redness / swelling / pus or discharge
+- Severe / increasing abdominal pain
+- Persistent vomiting / not able to take orally
+- Abdominal distension, not passing stools / flatus
+
+F/U:
+- Surgery OPD on 18-Aug-26 (Tue) - Wound inspection (POD 7)
+- General Surgery OPD on 25-Aug-26 (Tue) - Review with histopathology report
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Sunita Patil (Consultant)

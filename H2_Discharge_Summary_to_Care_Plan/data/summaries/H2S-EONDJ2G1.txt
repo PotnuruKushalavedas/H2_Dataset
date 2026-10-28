@@ -1,0 +1,61 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Sanjay Kulkarni
+Age / Sex    : 65 yrs / Male
+UHID         : CDH3825939      IP No: IP/26/209381
+Admitted on  : 21.04.2026      Discharged on: 26.04.2026
+Consultant   : Dr. Manoj Kulkarni, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Primary osteoarthritis left knee (KL grade 4)
+  * s/p Left TKR (22.04.2026)
+
+Brief History:
+  * 65/M, c/o pain left knee x 4 yrs, difficulty in walking and climbing stairs, not relieved by conservative management.
+
+Course in Hospital:
+  * Underwent Left cemented TKR under spinal-epidural anaesthesia on 22.04.2026. Received Inj. Cefazolin periop. Mobilised with walker on POD 1; knee flexion 96 deg at discharge. Thromboprophylaxis started.
+
+Procedure:
+  * Left cemented total knee replacement (22.04.2026)
+
+Investigations:
+  * Hb (post-op) 11.3 g/dl; S. Cr 1.1 mg/dl; Weight 56 kg; Check X-ray: implant in good position; RBS 117 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, walking with walker. BP 126/80 mmHg, PR 69/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Rivaroxaban 10 mg 1-0-0 x 10 days
+- Tab. Paracetamol 650 mg 1-1-1 after food x 2 weeks
+- Cap. Tramadol 50 mg SOS for severe pain (not more than 2 doses in 24 h)
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 2 weeks
+- Tab. Shelcal 500 mg 1-1-0 PC x 3 months
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Knee bending and quadriceps exercises as taught by physiotherapist, 3-4 times a day
+    * Mobilise with walker - FWB as tolerated
+    * No squatting / cross-legged sitting; western toilet only
+  Wound care:
+    * Keep wound site clean and dry
+    * Do not remove the dressing; it will be changed at review
+  General:
+    * Cryotherapy (ice) 15-20 min TDS-QID over knee
+
+Danger signs - report to Casualty immediately:
+  * Calf pain / leg swelling - ? DVT (clot in leg vein)
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Physiotherapy - Physiotherapy Dept. on 30.04.2026
+  * Removal of skin staples + wound inspection - Orthopaedics OPD on 06.05.2026 (Wed) (POD 14); bring reports: X-ray
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Manoj Kulkarni (Consultant)

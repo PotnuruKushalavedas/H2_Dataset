@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Mary Gowda
+Age / Sex    : 64 yrs / Female
+UHID         : CDH7725579      IP No: IP/26/886974
+Admitted on  : 09.02.2026      Discharged on: 14.02.2026
+Consultant   : Dr. Manoj Kulkarni, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Closed bimalleolar fracture right ankle
+  * s/p ORIF with plating and malleolar screw (10.02.2026)
+
+Brief History:
+  * 64/F, h/o twisting injury right ankle while getting down stairs; pain and swelling, unable to walk.
+
+Course in Hospital:
+  * Limb immobilised in slab. Underwent ORIF (lateral malleolus plating + medial malleolus CC screw) under SA on 10.02.2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+Procedure:
+  * ORIF (lateral malleolus plating + medial malleolus CC screw) under SA (10.02.2026)
+
+Investigations:
+  * Hb 10.4 g/dl; S. Cr 0.7 mg/dl; Weight 53 kg; Post-op X-ray: fracture fixed in good alignment; RBS 103 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, distal pulses felt. BP 114/76 mmHg, PR 88/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg SOS for fever (not more than 4 doses in 24 h)
+- Tab. Ibuprofen (Brufen) 400 mg 1-1-1 after food x 3 days
+- Tab. Calcium carbonate + Vit D3 500 mg 1-0-0 PC x 1 month
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * NWB operated limb (walker / crutches)
+    * Leg elevation on pillows at rest + active toe movements
+  Wound care:
+    * Keep the plaster slab dry; do not insert anything under it
+    * Keep the wound clean and dry
+
+Danger signs - report to Casualty immediately:
+  * Operated leg - numbness / tingling / bluish discolouration / severe swelling
+  * Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  * Wound site redness / swelling / pus or discharge
+  * Fever > 100.4 F (38 C)
+
+Follow-up:
+  * Suture removal - Ortho OPD on 24.02.2026 (POD 14)
+  * Review with check X-ray - Orthopaedics OPD on 28.03.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Manoj Kulkarni (Consultant)

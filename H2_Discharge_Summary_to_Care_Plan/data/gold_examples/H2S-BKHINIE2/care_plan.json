@@ -1,0 +1,80 @@
+{
+  "summary_id": "H2S-BKHINIE2",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Paracetamol",
+        "dose": "650 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 1 tablet (650 mg) only when you have fever. Do not take more than 4 doses in a day."
+      },
+      {
+        "name": "Iron + Folic Acid (IFA)",
+        "dose": "1 tablet",
+        "frequency": "OD (0-0-1)",
+        "timing": "after dinner",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet once a day, after dinner, for 6 months."
+      },
+      {
+        "name": "Calcium + Vitamin D3",
+        "dose": "500 mg",
+        "frequency": "BD (1-1-0)",
+        "timing": "after food",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 6 months."
+      }
+    ],
+    "stop_medicines": [
+      "Metformin 500 mg"
+    ],
+    "warning_signs": [
+      "Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots",
+      "Fever above 100.4 F (38 C)",
+      "Painful, red, hard swelling in the breast with fever",
+      "Severe headache, blurred vision, or pain in the upper belly",
+      "Baby not feeding well, very sleepy, has fever, or skin turning yellow",
+      "Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby"
+    ],
+    "diet": [
+      "Do not eat sugar and sweets; keep your weight healthy",
+      "Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids"
+    ],
+    "activity": [
+      "Slowly increase your walking day by day, as much as you comfortably can"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-05-12",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report",
+        "bring": [
+          "your Hb (haemoglobin) report"
+        ]
+      },
+      {
+        "date": "2026-05-26",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Sugar test with 75 g glucose drink (OGTT)",
+        "bring": []
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Feed the baby only breast milk, nothing else, for 6 months",
+      "Get the baby's vaccines on the dates written on the vaccination card"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Radha Kushwaha    Age: 22 years\nWent home from hospital on: 2026-04-01 (1 April 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had diabetes that started during pregnancy (gestational diabetes). Your baby has been delivered. This type of diabetes usually goes away after delivery, but needs a sugar test later.\n\nYOUR MEDICINES (take exactly as written)\n1. Paracetamol 650 mg\n   - Take 1 tablet (650 mg) only when you have fever.\n   - Do not take more than 4 doses in a day.\n   - What it is for: relieves pain and fever.\n2. Iron + Folic Acid (IFA) 1 tablet\n   - Take 1 tablet once a day, after dinner, for 6 months.\n   - What it is for: iron tablet that builds up blood (haemoglobin).\n3. Calcium + Vitamin D3 500 mg\n   - Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 6 months.\n   - What it is for: calcium for strong bones.\n\nMEDICINES TO STOP\n- STOP Metformin 500 mg. Do not take it any more: it is not needed after delivery.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots\n- Fever above 100.4 F (38 C)\n- Painful, red, hard swelling in the breast with fever\n- Severe headache, blurred vision, or pain in the upper belly\n- Baby not feeding well, very sleepy, has fever, or skin turning yellow\n- Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby\n\nFOOD\n- Do not eat sugar and sweets; keep your weight healthy\n- Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids\n\nACTIVITY\n- Slowly increase your walking day by day, as much as you comfortably can\n\nOTHER ADVICE\n- Feed the baby only breast milk, nothing else, for 6 months\n- Get the baby's vaccines on the dates written on the vaccination card\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-05-12 (Tuesday, 12 May 2026): Obstetrics & Gynaecology (women's) OPD. Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report.\n- 2026-05-26 (Tuesday, 26 May 2026): Obstetrics & Gynaecology (women's) OPD. Sugar test with 75 g glucose drink (OGTT).\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Radha Kushwaha    उम्र: 22 साल\nअस्पताल से छुट्टी की तारीख़: 2026-04-01 (1 अप्रैल 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको गर्भावस्था में शुरू हुई डायबिटीज़ (gestational diabetes) थी। बच्चे का जन्म हो गया है। यह डायबिटीज़ अक्सर डिलीवरी के बाद ठीक हो जाती है, पर बाद में शुगर की जाँच ज़रूरी है।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Paracetamol 650 mg\n   - सिर्फ़ बुखार होने पर: 1 गोली (650 mg) लें।\n   - दिन भर में 4 बार से ज़्यादा न लें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n2. Iron + Folic Acid (IFA) 1 गोली\n   - दिन में 1 बार, रात के खाने के बाद: 1 गोली लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: खून (हीमोग्लोबिन) बढ़ाने वाली आयरन की गोली।\n3. Calcium + Vitamin D3 500 mg\n   - दिन में 2 बार (सुबह और दोपहर), खाने के बाद: 1 गोली (500 mg) लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए कैल्शियम।\n\nये दवाइयाँ बंद करें\n- Metformin 500 mg लेना बंद करें। इसे अब बिल्कुल न लें: प्रसव के बाद इसकी ज़रूरत नहीं है।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- योनि से बहुत ज़्यादा खून आना (1 घंटे में 1 से ज़्यादा पैड भीग जाना) या थक्के निकलना\n- 100.4 F (38 C) से ज़्यादा बुखार\n- बुखार के साथ स्तन में दर्द, लाली और सख़्त सूजन\n- तेज़ सिरदर्द, धुंधला दिखना, या पेट के ऊपरी हिस्से में दर्द\n- बच्चा ठीक से दूध न पिए, बहुत सुस्त रहे, बुखार हो, या त्वचा पीली पड़े\n- ज़्यादातर समय उदासी या निराशा रहना, नींद न आना, या खुद को या बच्चे को नुकसान पहुँचाने के विचार आना\n\nखाना\n- चीनी और मिठाई न खाएँ; अपना वज़न ठीक रखें\n- पौष्टिक खाना खाएँ और रोज़ 1 बार ज़्यादा (अलग से) खाना लें: हरी पत्तेदार सब्ज़ियाँ, दूध और दाल; खूब पानी/तरल पिएँ\n\nचलना-फिरना और काम\n- धीरे-धीरे रोज़ थोड़ा ज़्यादा चलें, जितना आराम से चल सकें\n\nअन्य सलाह\n- 6 महीने तक बच्चे को सिर्फ़ माँ का दूध दें, और कुछ नहीं\n- बच्चे के टीके टीकाकरण कार्ड पर लिखी तारीख़ों पर लगवाएँ\n\nअगली बार अस्पताल कब आना है\n- 2026-05-12 (मंगलवार, 12 मई 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। प्रसव के 6 हफ़्ते बाद की जाँच। साथ लाएँ: Hb (हीमोग्लोबिन) की रिपोर्ट।\n- 2026-05-26 (मंगलवार, 26 मई 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। 75 g ग्लूकोज़ पीकर की जाने वाली शुगर जाँच (OGTT)।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 6.58
+  }
+}

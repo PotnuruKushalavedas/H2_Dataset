@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Pooja Joseph                   Age/Sex  : 31 Y / F
+UHID       : CDH2893584                     IP No.   : IP/26/927604
+DOA        : 30 Jun 2026                    DOD      : 03 Jul 2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, GDM on insulin
+  - 2. Delivered by elective LSCS on 30 Jun 2026
+
+BRIEF HISTORY:
+  - 31/F, diagnosed GDM at 24 wks (OGTT), on Inj. Actrapid before meals. Admitted at 38 wks.
+
+HOSPITAL COURSE:
+  - Elective LSCS under SA on 30 Jun 2026: live baby girl, 3.54 kg, APGAR 8/9. Baby's sugars monitored - normal. Mother's postpartum sugars normal off treatment (FBS 80 mg/dl, PPBS 133 mg/dl).
+
+PROCEDURE(S) DONE:
+  - Elective LSCS under SA (30 Jun 2026)
+
+KEY INVESTIGATIONS:
+  - Postpartum FBS 80 mg/dl | Hb 11.0 g/dl | HbA1c (antenatal) 5.6%
+
+CONDITION AT DISCHARGE: Stable. BP 126/72 mmHg, PR 79/min, SpO2 99% on RA. Baby: healthy, breastfeeding.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+-------------+----------+--------------+
+| No | Medicine                                  | Dose   | Route | Frequency   | Duration | Instructions |
++----+-------------------------------------------+--------+-------+-------------+----------+--------------+
+| 1  | Tab. Cefuroxime                           | 500 mg | PO    | BD (1-0-1)  | 5 days   | after food   |
+| 2  | Tab. Paracetamol                          | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food   |
+| 3  | Tab. Iron + Folic acid (IFA)              | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner |
+| 4  | Tab. Calcium carbonate + Vit D3 (Shelcal) | 500 mg | PO    | BD (1-1-0)  | 6 months | after food   |
++----+-------------------------------------------+--------+-------+-------------+----------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Inj. Actrapid (not required post delivery)
+
+ADVICE:
+  Diet:
+    - Avoid sugar and sweets; keep a healthy weight
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Gradual increase in walking as tolerated
+  Wound care:
+    - Keep the wound clean and dry
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Baby's immunisation as per the card given
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever > 100.4 F (38 C)
+  - Painful, red, hard swelling of the breast with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Redness, swelling, pus or discharge from the wound
+
+FOLLOW-UP:
+  - PNC visit at 6 weeks - Obstetrics & Gynaecology OPD on 11 Aug 2026; bring reports: Hb
+  - 75 g OGTT (glucose tolerance test) - Obstetrics & Gynaecology OPD on 25 Aug 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Nirmala Joshi (Consultant)

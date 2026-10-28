@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Deepa Rajput
+Age / Sex    : 44 yrs / Female
+UHID         : CDH5047761      IP No: IP/26/774459
+Admitted on  : 08/04/2026      Discharged on: 16/04/2026
+Consultant   : Dr. Imran Qureshi, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Brief History:
+  * 44/F, presented with cough x 7 weeks, evening rise of temperature, loss of appetite and weight loss of 9 kg, with 2 episodes of streaky haemoptysis.
+
+Course in Hospital:
+  * Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 09/04/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations:
+  * Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: right upper zone infiltrates with cavity; Hb 9.9 g/dl; LFT: within normal limits; RBS 126 mg/dl; HIV: non-reactive; Weight 56 kg
+
+Condition at Discharge: Afebrile for 3 days, tolerating ATT. BP 124/72 mmHg, PR 77/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Isoniazid + Rifampicin + Pyrazinamide + Ethambutol (4-FDC) 4 tabs 1-0-0 on empty stomach x 49 days (as per weight band; to complete 8 weeks of intensive phase; review for CP thereafter)
+- Tab. Pyridoxine 10 mg 1-0-0 till next review
+- Tab. Paracetamol 650 mg SOS for fever or pain (max 3 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * High-protein nutritious diet (dal, eggs, milk, soya)
+    * Strictly no alcohol
+  General:
+    * Daily ATT without missing doses - full course to be completed
+    * Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+    * Family members to be screened for TB at the nearest health centre
+    * Urine may turn orange-red due to TB medicine - harmless
+    * OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Danger signs - report to Casualty immediately:
+  * Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  * Blurred vision / difficulty in distinguishing colours
+  * Generalised skin rash / itching
+  * Coughing up blood
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with LFT - TB clinic (DOTS centre) on 30/04/2026
+  * Sputum examination at end of intensive phase - DOTS centre / TB clinic on 05/06/2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Imran Qureshi (Consultant)

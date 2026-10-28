@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Kavita Rajput                  Age/Sex  : 40 Y / F
+UHID       : CDH4386514                     IP No.   : IP/26/542775
+DOA        : 17/07/2026                     DOD      : 20/07/2026
+Consultant : Dr. Sunita Patil, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute appendicitis
+  - 2. s/p Open appendicectomy (17/07/2026)
+
+BRIEF HISTORY:
+  - 40/F, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+HOSPITAL COURSE:
+  - Emergency open appendicectomy under GA on 17/07/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+PROCEDURE(S) DONE:
+  - Open appendicectomy under GA (17/07/2026)
+
+KEY INVESTIGATIONS:
+  - TLC 12,100/cumm | CRP 133 mg/L | HPE: awaited | Hb 12.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 130/70 mmHg, PR 83/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+--------+-------+-------------+----------+-------------------------+
+| No | Medicine                | Dose   | Route | Frequency   | Duration | Instructions            |
++----+-------------------------+--------+-------+-------------+----------+-------------------------+
+| 1  | Tab. Clavam             | 625 mg | PO    | TDS (1-1-1) | 5 days   | PC                      |
+| 2  | Tab. Paracetamol        | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food              |
+| 3  | Tab. Diclofenac         | 50 mg  | PO    | BD (1-0-1)  | 5 days   | after food              |
+| 4  | Tab. Pantoprazole (Pan) | 40 mg  | PO    | OD (1-0-0)  | 5 days   | 30 min before breakfast |
++----+-------------------------+--------+-------+-------------+----------+-------------------------+
+
+ADVICE:
+  Diet:
+    - Soft diet x 1 week, then normal diet
+  Activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+    - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    - Keep the wound clean and dry
+    - Bath allowed after 48 h - pat wound dry with clean cloth
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe / increasing abdominal pain
+  - Persistent vomiting or unable to take food and fluids orally
+  - Abdominal distension, not passing stools / flatus
+
+FOLLOW-UP:
+  - Removal of sutures - General Surgery OPD on 24/07/2026 (Fri) (POD 7)
+  - Review with HPE report - General Surgery OPD on 31/07/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Sunita Patil (Consultant)

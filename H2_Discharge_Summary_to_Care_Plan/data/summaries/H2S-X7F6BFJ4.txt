@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Rajesh Krishnan
+Age / Sex    : 56 yrs / Male
+UHID         : CDH8210100      IP No: IP/26/520133
+Admitted on  : 06/09/2026      Discharged on: 12/09/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+
+Brief History:
+  * 56/M, k/c/o T2DM x 8 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 438 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 10.8%; FBS 298 mg/dl; PPBS 386 mg/dl; S. Cr 1.0 mg/dl; Urine routine: pus cells plenty; Hb 14.2 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 114/78 mmHg, PR 74/min, SpO2 96% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food long term (lifelong)
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Inj. Insulin Glargine 10 units SC 0-0-1 (HS) till review
+- Tab. Cefixime 200 mg 1-0-1 after food x 5 days
+- Tab. Atorvastatin 10 mg 0-0-1 (HS) long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+  General:
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * High grade fever with chills
+  * Burning or pain while passing urine
+  * Blood sugar above 300 mg/dl on two readings
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 22/09/2026 (Tue); bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

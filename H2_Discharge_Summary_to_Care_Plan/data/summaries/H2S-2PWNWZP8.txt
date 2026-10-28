@@ -1,0 +1,49 @@
+CDH / General Medicine / DISCHARGE SUMMARY
+Name - Shankar Kushwaha | 43 Y/M | UHID CDH3741142 | IP IP/26/892234
+DOA - 01/05/2026 | DOD - 08/05/2026 | Consultant - Dr. Farah Siddiqui, Medicine Unit III
+
+Diagnosis -
+  • Diabetic ketoacidosis (moderate) - resolved
+  • Type 2 diabetes mellitus (ketosis-prone)
+  • Systemic hypertension
+
+Presenting complaints & history - 43/M, k/c/o T2DM x 1 yr on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: UTI.
+
+Hospital course -
+  • Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 31 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations -
+  • Admission ABG: pH 7.1, HCO3 12 mEq/L | Urine ketones +++ | RBS at admission 424 mg/dl | HbA1c 12.8% | S. Cr 0.9 mg/dl | K 4.1 mEq/L (at discharge)
+
+Status at discharge - Conscious, oriented, tolerating diet. BP 114/72 mmHg, PR 71/min, SpO2 96% on RA. Ketones negative.
+
+ADV ON DISCHARGE -
+• Inj. Insulin Glargine 14 U SC OD at 10 pm daily till review
+• Inj. Insulin Aspart (NovoRapid) 4-4-4 U TDS SC 0-15 min before meals till next visit
+• Tab. Glycomet 500 mg PO BD PC till next visit
+• Tab. Ondansetron (Emeset) 4 mg PO SOS for nausea or vomiting (not more than 3 doses in 24 h)
+To continue other previous medicines for HTN as before (unchanged).
+
+Instructions -
+  Diet:
+    • Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    • Small frequent meals; do not skip meals
+    • Adequate oral fluids - 2 to 3 litres per day
+  Others:
+    • Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    • Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    • Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    • Carry glucose / sugar at all times
+
+Report immediately to Casualty in case of -
+  • Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  • Blood sugar above 300 mg/dl on two readings
+  • Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow up -
+  • RFT + S. electrolytes on 11/05/2026 at Hospital laboratory
+  • Review with sugar chart - Diabetes Clinic (Medicine OPD) on 13/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Farah Siddiqui (Consultant)

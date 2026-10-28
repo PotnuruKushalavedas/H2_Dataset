@@ -1,0 +1,53 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Selvam Sandhu                  Age/Sex  : 55 Y / M
+UHID       : CDH7227258                     IP No.   : IP/26/761549
+DOA        : 11/05/2026                     DOD      : 17/05/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+BRIEF HISTORY:
+  - 55/M, k/c/o T2DM x 13 yrs, presented with swelling, redness and pain over left foot x 5 days following a minor injury. RBS 358 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.9% | FBS 263 mg/dl | PPBS 361 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.4 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 124/80 mmHg, PR 77/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------------+--------+-------+-------------+------------------+-----------------+
+| No | Medicine                                    | Dose   | Route | Frequency   | Duration         | Instructions    |
++----+---------------------------------------------+--------+-------+-------------+------------------+-----------------+
+| 1  | Tab. Metformin                              | 500 mg | PO    | BD (1-0-1)  | Till next review | PC              |
+| 2  | Tab. Empagliflozin                          | 10 mg  | PO    | OD (1-0-0)  | Till review      | after breakfast |
+| 3  | Tab. Amoxycillin + Clavulanic acid (Clavam) | 625 mg | PO    | TDS (1-1-1) | 5 days           | after food      |
+| 4  | Tab. Atorvastatin                           | 20 mg  | PO    | HS (0-0-1)  | Lifelong         |                 |
++----+---------------------------------------------+--------+-------+-------------+------------------+-----------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - Diabetes Clinic (Medicine OPD) on 28/05/2026; bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. S. K. Mishra (Consultant)

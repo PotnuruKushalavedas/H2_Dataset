@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Murugan Reddy                  Age/Sex  : 66 Y / M
+UHID       : CDH4621297                     IP No.   : IP/26/892209
+DOA        : 06/07/2026                     DOD      : 09/07/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate
+  - 2. Rheumatic heart disease - moderate mitral stenosis
+  - 3. BPH
+  - 4. Dyslipidaemia
+
+BRIEF HISTORY:
+  - 66/M, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 156/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 75/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: thickened MV, MVA 1.1 cm2, LA dilated, LVEF 53% | S. Cr 1.1 mg/dl | Hb 14.2 g/dl | TSH 2.2 mIU/L | Weight 58 kg | INR at discharge 1.9
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 110/78 mmHg, PR 84/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+------------+-------------+-------------------------------+
+| No | Medicine                                  | Dose   | Route | Frequency  | Duration    | Instructions                  |
++----+-------------------------------------------+--------+-------+------------+-------------+-------------------------------+
+| 1  | Tab. Metoprolol Succinate ER (Seloken XL) | 50 mg  | PO    | OD (1-0-0) | Lifelong    |                               |
+| 2  | Tab. Acenocoumarol                        | 1 mg   | PO    | OD (0-0-1) | Till review | after dinner; dose as per INR |
+| 3  | Cap. Tamsulosin (Urimax)                  | 0.4 mg | PO    | HS (0-0-1) | Lifelong    |                               |
++----+-------------------------------------------+--------+-------+------------+-------------+-------------------------------+
+  Continue previous medications for dyslipidaemia as before.
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - INR test on 14/07/2026 at Hospital laboratory
+  - Review with reports - Cardiology OPD on 23/07/2026; bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

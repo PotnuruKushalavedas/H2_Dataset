@@ -1,0 +1,47 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Kalpana Hegde | 66 Y/F | UHID CDH7689627 | IP IP/26/735585
+DOA - 15-09-2026 | DOD - 18-09-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate
+  • Rheumatic heart disease - moderate mitral stenosis
+  • Systemic hypertension
+
+Presenting complaints & history - 66/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 149/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 72/min at discharge.
+
+Investigations -
+  • 2D Echo: thickened MV, MVA 1.3 cm2, LA dilated, LVEF 57% | S. Cr 0.6 mg/dl | Hb 11.7 g/dl | TSH 3.4 mIU/L | Weight 56 kg | INR at discharge 2.0
+
+Status at discharge - Stable, rate controlled. BP 130/80 mmHg, PR 75/min, SpO2 98% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Seloken XL 50 mg PO OD lifelong
+• Tab. Acenocoumarol 1 mg PO OD after dinner till review (dose as per INR)
+• Tab. Amlodipine (Stamlo) 5 mg PO OD lifelong
+
+Instructions -
+  Diet:
+    • Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Do not take painkillers from the chemist without doctor's advice
+    • Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+Report immediately to Casualty in case of -
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Sudden weakness of face / arm / leg or slurring of speech
+  • Palpitations (fast or irregular heartbeat)
+  • Giddiness / fainting / LOC
+  • Breathlessness / difficulty in breathing
+
+Follow up -
+  • Get INR test done on 23-09-2026 (Wed) (Central lab)
+  • Review with reports - Cardiology OPD on 09-10-2026 (Fri); bring reports: ECG, INR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

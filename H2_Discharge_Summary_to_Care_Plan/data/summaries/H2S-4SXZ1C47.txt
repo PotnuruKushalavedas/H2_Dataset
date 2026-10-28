@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Abdul Menon
+Age / Sex    : 37 yrs / Male
+UHID         : CDH1168864      IP No: IP/26/865889
+Admitted on  : 10/09/2026      Discharged on: 16/09/2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis right foot
+
+Brief History:
+  * 37/M, k/c/o T2DM x 10 yrs, presented with swelling, redness and pain over right foot x 7 days following a minor injury. RBS 403 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 11.9%; FBS 221 mg/dl; PPBS 261 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 12.6 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 126/80 mmHg, PR 80/min, SpO2 96% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 after food long term (lifelong)
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 PC x 5 days
+- Tab. Paracetamol 500 mg SOS for pain (max 3 doses/day)
+
+- STOP Tab. Glimepiride 2 mg (risk of low sugar)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Redness, swelling, pus or discharge from the wound
+  * Fever above 100.4 F (38 C)
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with reports - Diabetes Clinic (Medicine OPD) on 26/09/2026 (Sat); bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. S. K. Mishra (Consultant)

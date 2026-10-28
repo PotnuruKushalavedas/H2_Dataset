@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Rahul Kulkarni
+Age / Sex    : 37 yrs / Male
+UHID         : CDH7206761      IP No: IP/26/484652
+Admitted on  : 08.06.2026      Discharged on: 11.06.2026
+Consultant   : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+
+Brief History:
+  * 37/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 180 to 350 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 350 L/min; CXR: no pneumothorax, no consolidation; AEC 315/cumm; TLC 7,200/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 126/74 mmHg, PR 75/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 till next review (with spacer; rinse mouth after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+- Tab. Prednisolone 40 mg 1-0-0 after breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid dust, smoke and cold air (asthma triggers)
+    * Gradual increase in walking as tolerated
+  General:
+    * Inhaler technique taught; to use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze / breathlessness not settling with reliever inhaler
+  * Unable to speak full sentences due to breathlessness
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Chest pain / heaviness / sweating
+
+Follow-up:
+  * Review with reports - Chest OPD on 25.06.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Kavita Deshmukh (Consultant)

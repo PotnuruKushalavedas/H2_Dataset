@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Dinesh Pillai, 53/M  UHID: CDH6766061  IP: IP/26/958376
+DOA: 22/03/2026  DOD: 26/03/2026  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+H/o: 53/M, presented with cough x 8 weeks, evening rise of temperature, loss of appetite and weight loss of 4 kg, with 2 episodes of streaky haemoptysis.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 23/03/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: right upper zone infiltrates, Hb 10.7 g/dl, LFT: within normal limits, RBS 119 mg/dl, HIV: non-reactive, Weight 67 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 110/76 mmHg, PR 66/min, SpO2 96% on RA.
+
+Rx on discharge:
+1) T. Forecox 5 tablets OD on empty stomach x 53 days (as per weight band; to complete 8 weeks of intensive phase; review for CP thereafter)
+2) T. Pyridoxine 10 mg OD till next review
+
+Adv:
+  Diet:
+  - High-protein nutritious diet (dal, eggs, milk, soya)
+  - Avoid alcohol completely
+  Others:
+  - Take TB medicines daily without missing a dose; complete the full course
+  - Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+  - Household contacts - TB screening at nearest PHC
+  - No smoking / no tobacco in any form
+  - Urine may turn orange-red due to TB medicine - harmless
+
+Review SOS if:
+- Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+- Blurred vision / difficulty in distinguishing colours
+- Skin rash or itching all over the body
+- Coughing up blood
+- Breathlessness / difficulty in breathing
+
+F/U:
+- DOTS centre / TB clinic on 10/04/2026 - Review with LFT
+- TB clinic (DOTS centre) on 19/05/2026 - Sputum examination at end of intensive phase
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Kavita Deshmukh (Consultant)

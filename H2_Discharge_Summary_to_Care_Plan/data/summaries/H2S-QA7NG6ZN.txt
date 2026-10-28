@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Rukhsana Bhatt    Age: 50 years    Sex: Female
+UHID: CDH7530925    IP Number: IP/26/861197
+Date of admission: 19th June 2026    Date of discharge: 23rd June 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right lower lobe) - CURB-65 score 1
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 50/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 13,600/cumm; CRP 155 mg/L; CXR: consolidation right lower lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 118/70 mmHg, PR 87/min, SpO2 99% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin-Clavulanate 625 mg twice daily after food for 7 days
+2. Tablet Paracetamol (Crocin) 500 mg only if needed (SOS) for fever or pain (max 4 doses/day)
+To continue other previous medicines for HTN as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Physical activity:
+    - Deep breathing exercises - 10 breaths every hour when awake
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Influenza and pneumococcal vaccination advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain, heaviness or sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Coughing up blood
+
+REVIEW:
+  - Review with reports in Chest OPD on 30th June 2026 (Tue). Please bring: CBC.
+  - Repeat CXR in Chest OPD on 4th August 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

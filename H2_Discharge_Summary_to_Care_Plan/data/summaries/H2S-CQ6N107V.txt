@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Nirmala Rajput
+Age / Sex    : 76 yrs / Female
+UHID         : CDH1230321      IP No: IP/26/470522
+Admitted on  : 26/07/2026      Discharged on: 29/07/2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+
+Brief History:
+  * 76/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 167/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 73/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 54%; S. Cr 0.8 mg/dl; Hb 13.1 g/dl; TSH 2.5 mIU/L; Weight 66 kg; CrCl (Cockcroft-Gault) 62 ml/min; CHA2DS2-VASc score 4
+
+Condition at Discharge: Stable, rate controlled. BP 120/76 mmHg, PR 89/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate 50 mg 1-0-0 long term (lifelong)
+- Tab. Apixaban 5 mg 1-0-1 long term (lifelong)
+- Tab. Telmisartan 40 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 13/08/2026 (Thu); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

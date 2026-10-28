@@ -1,0 +1,55 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Naresh Lal, 46/M  UHID: CDH4252578  IP: IP/26/600503
+DOA: 27-May-26  DOD: 01-Jun-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+
+H/o: 46/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 9.4 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 29-May-26: 82% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (29-May-26)
+
+Ix: Hb 13.4 g/dl, S. Cr 0.6 mg/dl, K 4.2 mEq/L, LDL 176 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 38%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 110/72 mmHg, PR 88/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 OD after lunch life long
+2) T. Ticagrelor 90 mg BD x 1 yr
+3) T. Atorva 40 HS life long
+4) T. Metoprolol Succinate 50 mg OD lifelong
+5) T. Telma 40 mg OD life long
+6) T. Rablet 20 mg OD 30 min before breakfast till review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+8) T. Aldactone 25 OD till next review
+9) T. Forxiga 10 mg OD life long
+
+Adv:
+  Diet:
+  - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - No heavy lifting (more than 5 kg) for 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness or difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 11-Jun-26 - Review with reports with ECG, S. Creatinine, S. Electrolytes
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Meenakshi Rao (Consultant)

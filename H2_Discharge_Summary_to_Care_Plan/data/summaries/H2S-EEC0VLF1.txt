@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sarita Krishnan                Age/Sex  : 32 Y / F
+UHID       : CDH9316777                     IP No.   : IP/26/692365
+DOA        : 06/09/2026                     DOD      : 07/09/2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G3P3L3, FTNVD on 06/09/2026
+
+BRIEF HISTORY:
+  - 32/F, G3P2L2 at 40 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 3.5 kg, APGAR 7/9, on 06/09/2026. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 10.4 g/dl | Blood group AB +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 124/78 mmHg, PR 79/min, SpO2 96% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration | Instructions                             |
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------------+
+| 1  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                             |
+| 2  | Tab. Calcium + Vitamin D3                  | 500 mg | PO    | BD (1-1-0) | 6 months | PC                                       |
+| 3  | Tab. Paracetamol                           | 650 mg | PO    | SOS        | -        | for fever; not more than 4 doses in 24 h |
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest - only light household work x 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+    - Contraception to be discussed at postnatal visit; spacing of at least 2 years advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Foul smelling lochia / vaginal discharge
+  - Fever above 100.4 F (38 C)
+  - Painful, red, hard swelling of the breast with fever
+  - Severe headache / blurred vision / epigastric pain
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - OBG OPD on 19/10/2026; bring reports: Hb
+  - Infant immunisation - 6 week dose - Paediatric immunisation clinic on 19/10/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Lakshmi Iyer (Consultant)

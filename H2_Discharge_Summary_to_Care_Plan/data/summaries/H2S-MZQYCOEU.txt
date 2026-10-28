@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Joseph Rajput                  Age/Sex  : 48 Y / M
+UHID       : CDH8110316                     IP No.   : IP/26/520693
+DOA        : 22/03/2026                     DOD      : 30/03/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 32%
+
+BRIEF HISTORY:
+  - 48/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 14 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 56 kg to 52 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 3875 pg/ml | S. Cr 0.7 mg/dl | Na 137 mEq/L | K 4.4 mEq/L | 2D Echo: LVEF 32%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 76/min, SpO2 97% on RA. Dry weight 52 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+--------+-------+------------+------------------+--------------+
+| No | Medicine                | Dose   | Route | Frequency  | Duration         | Instructions |
++----+-------------------------+--------+-------+------------+------------------+--------------+
+| 1  | Tab. Torsemide (Dytor)  | 10 mg  | PO    | OD (1-0-0) | Till next review |              |
+| 2  | Tab. Carvedilol 6.25 mg | ½ tab  | PO    | BD (½-0-½) | Lifelong         |              |
+| 3  | Tab. Cardace            | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 4  | Tab. Aldactone          | 25 mg  | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Forxiga            | 10 mg  | PO    | OD (1-0-0) | Lifelong         |              |
++----+-------------------------+--------+-------+------------+------------------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 06/04/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

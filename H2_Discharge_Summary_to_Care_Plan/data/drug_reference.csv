@@ -1,0 +1,82 @@
+generic_name,common_brands,dose_forms,typical_strengths,drug_class,plain_language_purpose,also_known_as,used_at_discharge
+aceclofenac,Zerodol;Hifenac,tablet,100 mg,NSAID (painkiller),relieves pain and swelling,,yes
+acenocoumarol,Acitrom,tablet,1 mg;2 mg;4 mg,Anticoagulant (vitamin K antagonist),thins the blood to prevent clots and stroke; needs regular INR blood tests,nicoumalone,yes
+amlodipine,Amlong;Stamlo,tablet,2.5 mg;5 mg;10 mg,Calcium-channel blocker,lowers blood pressure,,yes
+amoxicillin + clavulanic acid,Augmentin;Clavam,tablet,625 mg (500 mg + 125 mg),Antibiotic (penicillin),antibiotic that kills the germs causing infection,amoxycillin + clavulanic acid;amoxicillin clavulanate;amoxycillin clavulanate;amoxicillin-clavulanate;co-amoxiclav;amoxiclav;amoxicillin/clavulanate;amoxicillin;amoxycillin,yes
+apixaban,Eliquis,tablet,2.5 mg;5 mg,Anticoagulant (DOAC),thins the blood to prevent clots and stroke,,yes
+aspirin,Ecosprin,tablet (enteric-coated),75 mg;150 mg,Antiplatelet,thins the blood to prevent clots,acetylsalicylic acid;asa,yes
+atorvastatin,Atorva;Storvas,tablet,10 mg;20 mg;40 mg;80 mg,Statin (lipid-lowering),lowers cholesterol and protects the heart and blood vessels,,yes
+azithromycin,Azithral;Azee,tablet,500 mg,Antibiotic (macrolide),antibiotic that kills the germs causing infection,,yes
+bisoprolol,Concor,tablet,2.5 mg;5 mg,Beta-blocker,slows the heart rate and protects the heart,,yes
+budesonide + formoterol,Foracort;Budamate,inhaler (MDI);rotacap,6/200 mcg per puff;6/400 mcg per puff,Inhaled steroid + long-acting bronchodilator (controller),daily controller inhaler that keeps the airways open and calm,formoterol + budesonide;budesonide/formoterol;formoterol/budesonide;budesonide;formoterol,yes
+calcium carbonate + vitamin d3,Shelcal,tablet,500 mg elemental calcium + 250 IU vitamin D3,Calcium supplement,calcium for strong bones,calcium;calcium carbonate;calcium + vitamin d3;calcium + vit d3;calcium carbonate + vit d3;calcium carbonate + vitamin d3,yes
+carvedilol,Cardivas,tablet,3.125 mg;6.25 mg;12.5 mg,Beta-blocker,slows the heart rate and helps a weak heart,,yes
+cefazolin,,injection,1 g;2 g,Antibiotic (surgical prophylaxis),antibiotic injection before surgery,,no (hospital use only)
+cefixime,Taxim-O;Zifi,tablet,200 mg,Antibiotic (cephalosporin),antibiotic that kills the germs causing infection,,yes
+ceftriaxone,Monocef,injection,1 g,"Antibiotic (cephalosporin, injectable)",injectable antibiotic,,no (hospital use only)
+cefuroxime,Ceftum,tablet,250 mg;500 mg,Antibiotic (cephalosporin),antibiotic that kills the germs causing infection,cefuroxime axetil,yes
+cholecalciferol,Uprise-D3;Calcirol,capsule;sachet (granules),"60,000 IU",Vitamin D,vitamin D for strong bones,vitamin d3;vitamin d;vit d3;vit d,yes
+clopidogrel,Clopilet;Clopitab,tablet,75 mg,Antiplatelet (P2Y12 inhibitor),thins the blood to prevent clots,,yes
+dabigatran,Pradaxa,capsule,110 mg;150 mg,Anticoagulant (DOAC),thins the blood to prevent clots and stroke,dabigatran etexilate,yes
+dapagliflozin,Forxiga,tablet,10 mg,SGLT2 inhibitor,helps the heart and kidneys; in diabetes it also lowers blood sugar,,yes
+diclofenac,Voveran,tablet,50 mg,NSAID (painkiller),painkiller,diclofenac sodium,yes
+digoxin,Lanoxin,tablet,0.25 mg,Cardiac glycoside,"controls a fast, irregular heartbeat",,yes
+diltiazem,Dilzem,tablet,30 mg;60 mg,Calcium-channel blocker (rate control),slows a fast heartbeat,,yes
+doxycycline,Biodoxi,capsule,100 mg,Antibiotic (tetracycline),antibiotic that kills the germs causing infection,,yes
+empagliflozin,Jardiance,tablet,10 mg;25 mg,SGLT2 inhibitor,helps the heart and kidneys; in diabetes it also lowers blood sugar,,yes
+enalapril,Envas,tablet,2.5 mg;5 mg,ACE inhibitor,lowers blood pressure and protects the heart and kidneys,,yes
+enoxaparin,Clexane;Lonopin,injection (pre-filled syringe),40 mg/0.4 ml;60 mg/0.6 ml,Anticoagulant (LMWH),injection that prevents blood clots in the legs,lmwh;low molecular weight heparin,yes
+etoricoxib,Nucoxia;Etoshine,tablet,60 mg;90 mg,NSAID (COX-2 selective painkiller),relieves pain and swelling,,yes
+ferrous sulphate + folic acid,,tablet,60 mg elemental iron + 500 mcg folic acid,Iron and vitamin supplement,iron tablet that builds up blood (haemoglobin),ifa;iron folic acid;iron and folic acid;ferrous sulfate + folic acid;iron;ferrous sulphate,yes
+fondaparinux,Arixtra,injection,2.5 mg,Anticoagulant (injectable),blood thinner injection,,no (hospital use only)
+furosemide,Lasix,tablet,40 mg,Loop diuretic ('water pill'),removes extra water from the body by making you pass more urine,frusemide,yes
+glimepiride,Amaryl,tablet,1 mg;2 mg,Sulfonylurea (anti-diabetic),lowers blood sugar,,yes
+heparin,,injection,5000 IU/ml,Anticoagulant (injectable),blood thinner injection,ufh,no (hospital use only)
+hydrocortisone,,injection,100 mg,Corticosteroid (injectable),steroid injection,,no (hospital use only)
+ibuprofen,Brufen,tablet,400 mg,NSAID (painkiller),relieves pain and swelling,,yes
+insulin aspart,NovoRapid,injection (pen/vial),100 units/ml,Rapid-acting (meal-time) insulin,quick-acting insulin that controls the sugar rise after meals,aspart;rapid-acting insulin,yes
+insulin glargine,Lantus;Basalog;Glaritus,injection (pen/vial),100 units/ml,Long-acting (basal) insulin,long-acting insulin that controls blood sugar through the day and night,glargine;basal insulin,yes
+insulin premix 30/70,Human Mixtard 30;Huminsulin 30/70,injection (vial/pen),40 units/ml;100 units/ml,Premixed insulin (30% short + 70% intermediate),mixed insulin taken before breakfast and dinner to control blood sugar,biphasic isophane insulin;premix insulin;premixed insulin;30/70 insulin;insulin 30/70;mixtard,yes
+insulin regular,Actrapid;Huminsulin R,injection (vial/pen),40 units/ml;100 units/ml,Short-acting insulin,short-acting insulin that controls the sugar rise after meals,regular insulin;human regular insulin;plain insulin;soluble insulin;short-acting insulin,yes
+ipratropium,,nebulisation solution,500 mcg/2 ml,Bronchodilator (nebulised),nebulised airway opener,ipratropium bromide,no (hospital use only)
+isoniazid + rifampicin + pyrazinamide + ethambutol,Forecox,tablet (fixed-dose combination),H 75 mg + R 150 mg + Z 400 mg + E 275 mg per tablet,Anti-tuberculosis treatment (fixed-dose combination),TB medicine (4 medicines in one tablet) that kills the TB germs; the full course must be completed,4fdc;4-fdc;fdc;hrze;akt;att;anti-tb fdc;isoniazid;rifampicin;rifampin;pyrazinamide;ethambutol;rifampicin + isoniazid + pyrazinamide + ethambutol,yes
+isosorbide dinitrate,Sorbitrate,tablet (sublingual),5 mg,Nitrate (anti-anginal),quick relief of chest pain; put it under the tongue,isdn,yes
+labetalol,Labebet,tablet,100 mg;200 mg,Alpha/beta-blocker (antihypertensive),lowers blood pressure,,yes
+lactulose,Duphalac,syrup/solution,10 g/15 ml,Osmotic laxative,softens stools and prevents constipation,,yes
+levofloxacin,Levoflox;Glevo,tablet,500 mg;750 mg,Antibiotic (fluoroquinolone),antibiotic that kills the germs causing infection,,yes
+levothyroxine,Thyronorm;Eltroxin,tablet,25 mcg;50 mcg;75 mcg;100 mcg,Thyroid hormone,thyroid hormone for an underactive thyroid,thyroxine;l-thyroxine,yes
+linagliptin,Trajenta,tablet,5 mg,DPP-4 inhibitor (anti-diabetic),keeps your blood sugar under control,,yes
+losartan,Losar;Repace,tablet,25 mg;50 mg,Angiotensin receptor blocker (ARB),lowers blood pressure,losartan potassium,yes
+magnesium sulphate,,injection,50% w/v,Anticonvulsant (eclampsia prophylaxis),injection that prevents fits in pre-eclampsia,mgso4;magnesium sulfate,no (hospital use only)
+metformin,Glycomet;Glyciphage,tablet,500 mg;850 mg;1000 mg,Biguanide (anti-diabetic),keeps your blood sugar under control,metformin hydrochloride,yes
+metoprolol succinate,Met XL;Seloken XL,tablet (extended-release),12.5 mg;25 mg;50 mg,Beta-blocker,slows the heart rate and protects the heart,metoprolol er;metoprolol xl;metoprolol,yes
+metronidazole,Flagyl;Metrogyl,tablet,400 mg,Antibiotic (nitroimidazole),antibiotic for infection in the belly,,yes
+montelukast,Montair,tablet,10 mg,Leukotriene receptor antagonist,helps prevent asthma attacks,,yes
+mupirocin,T-Bact,ointment,2%,Topical antibiotic,antibiotic ointment for the wound,,yes
+nifedipine,Nicardia Retard,tablet (sustained-release),10 mg;20 mg,Calcium-channel blocker (antihypertensive),lowers blood pressure,nifedipine sr;nifedipine retard,yes
+ondansetron,Emeset;Ondem,tablet;orally disintegrating tablet,4 mg,Anti-emetic,stops nausea and vomiting,,yes
+oxytocin,,injection,10 IU,Uterotonic,injection that helps the womb contract after delivery,,no (hospital use only)
+pantoprazole,Pan;Pantocid,tablet,40 mg,Proton-pump inhibitor (antacid),reduces stomach acid and protects the stomach,,yes
+paracetamol,Dolo;Crocin;Calpol,tablet,500 mg;650 mg,Analgesic / antipyretic,relieves pain and fever,acetaminophen;pcm,yes
+piperacillin + tazobactam,,injection,4.5 g,Antibiotic (injectable),injectable antibiotic,pip-taz;piptaz,no (hospital use only)
+potassium chloride,,IV infusion,15% w/v,Electrolyte replacement,potassium given through a drip,kcl,no (hospital use only)
+prasugrel,Prasita,tablet,10 mg,Antiplatelet (P2Y12 inhibitor),thins the blood to prevent clots,,yes
+prednisolone,Wysolone;Omnacortil,tablet,5 mg;10 mg;20 mg;30 mg;40 mg,Corticosteroid (steroid),steroid that reduces swelling in the airways,,yes
+propranolol,Ciplar,tablet,10 mg;20 mg;40 mg,Non-selective beta-blocker,beta-blocker (can tighten the airways in asthma),,yes
+pyridoxine,,tablet,10 mg;25 mg,Vitamin,vitamin B6 that prevents nerve side effects of TB medicine,vitamin b6;vit b6,yes
+rabeprazole,Razo;Rablet,tablet,20 mg,Proton-pump inhibitor (antacid),reduces stomach acid and protects the stomach,,yes
+ramipril,Cardace,tablet/capsule,2.5 mg;5 mg,ACE inhibitor,lowers blood pressure and protects the heart and kidneys,,yes
+rivaroxaban,Xarelto,tablet,10 mg;15 mg;20 mg,Anticoagulant (DOAC),thins the blood to prevent clots,,yes
+rosuvastatin,Rosuvas;Rozavel,tablet,10 mg;20 mg;40 mg,Statin (lipid-lowering),lowers cholesterol and protects the heart and blood vessels,,yes
+sacubitril + valsartan,Vymada,tablet,50 mg (24/26 mg);100 mg (49/51 mg),ARNI (heart-failure medicine),helps a weak heart pump better and lowers blood pressure,sacubitril/valsartan;sacubitril-valsartan;arni;sacubitril;valsartan,yes
+salbutamol,Asthalin,inhaler (MDI),100 mcg/puff,Reliever bronchodilator,reliever inhaler that opens the airways quickly when you are breathless,albuterol,yes
+sitagliptin,Januvia;Istavel,tablet,50 mg;100 mg,DPP-4 inhibitor (anti-diabetic),keeps your blood sugar under control,,yes
+spironolactone,Aldactone,tablet,25 mg,Mineralocorticoid receptor antagonist (diuretic),helps a weak heart and removes extra water,,yes
+tamsulosin,Urimax;Veltam,capsule,0.4 mg,Alpha-blocker (for prostate),helps urine flow in prostate enlargement,,yes
+telmisartan,Telma,tablet,20 mg;40 mg;80 mg,Angiotensin receptor blocker (ARB),lowers blood pressure,,yes
+ticagrelor,Brilinta;Axcer,tablet,90 mg,Antiplatelet (P2Y12 inhibitor),thins the blood to prevent clots,,yes
+timolol,Iotim,eye drops,0.5%,Beta-blocker eye drop (glaucoma),eye drop that lowers pressure inside the eye (glaucoma),timolol maleate,yes
+tiotropium,Tiova,rotacap (inhalation capsule);inhaler,18 mcg,Long-acting bronchodilator (LAMA),daily inhaler that keeps the airways open,tiotropium bromide,yes
+torsemide,Dytor,tablet,10 mg;20 mg,Loop diuretic ('water pill'),removes extra water from the body by making you pass more urine,torasemide,yes
+tramadol,Contramal,tablet/capsule,50 mg,Opioid analgesic,"strong painkiller, only if the pain is severe",tramadol hydrochloride,yes
+vildagliptin,Galvus;Jalra,tablet,50 mg,DPP-4 inhibitor (anti-diabetic),keeps your blood sugar under control,,yes

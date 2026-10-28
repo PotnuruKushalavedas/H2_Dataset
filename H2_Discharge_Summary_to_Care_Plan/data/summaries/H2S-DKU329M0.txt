@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Usha Sandhu, 37/F  UHID: CDH3769764  IP: IP/26/113840
+DOA: 05-Apr-26  DOD: 11-Apr-26  Cons: Dr. Rajesh Kumar Verma (Surgery Unit II)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis with localised perforation
+- s/p Laparoscopic appendicectomy (05-Apr-26)
+
+H/o: 37/F, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course: Emergency laparoscopic appendicectomy under GA on 05-Apr-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure: Laparoscopic appendicectomy under GA (05-Apr-26)
+
+Ix: TLC 15,900/cumm, CRP 57 mg/L, HPE: awaited, Hb 14.6 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 114/80 mmHg, PR 79/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Ceftum 500 mg BD after food x 7 days
+2) T. Flagyl 400 TDS PC x 7 days (avoid alcohol)
+3) T. Calpol 650 mg TDS after food x 3/7
+4) T. Razo 20 mg OD 30 min before breakfast x 5/7
+
+Adv:
+  Diet:
+  - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+  - Early ambulation - walk in the house several times a day
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound:
+  - Keep wound site clean and dry
+  - Bath allowed after 48 h - pat wound dry with clean cloth
+
+Review SOS if:
+- Fever > 100.4 F (38 C)
+- Wound site redness / swelling / pus or discharge
+- Severe / increasing abdominal pain
+- Persistent vomiting or unable to take food and fluids orally
+- Distension of abdomen with no passage of stool or gas
+
+F/U:
+- General Surgery OPD on 13-Apr-26 - Wound check (POD 8)
+- Surgery OPD on 20-Apr-26 - Review with HPE report
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Rajesh Kumar Verma (Consultant)

@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Raju Gupta, 50/M  UHID: CDH2422200  IP: IP/26/334374
+DOA: 29/01/2026  DOD: 02/02/2026  Cons: Dr. Anil Bhosale (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 50/M, k/c/o T2DM x 5 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: acute gastroenteritis.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 42 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.14, HCO3 11 mEq/L, Urine ketones +++, RBS at admission 544 mg/dl, HbA1c 11.2%, S. Cr 1.2 mg/dl, K 4.3 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 130/80 mmHg, PR 74/min, SpO2 98% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Insulin Glargine 20 U SC OD at 10 pm daily till next review
+2) Inj. Human Regular Insulin 6-4-6 U SC 30 min before meals till review
+3) T. Metformin 500 mg BD after food till review
+4) T. Emeset 4 mg SOS for nausea or vomiting (not more than 3 doses in 24 h)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  - Adequate oral fluids - 2 to 3 litres per day
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+  - Always carry sugar or glucose with you
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+- Vomiting / pain abdomen / rapid breathing / drowsiness
+
+F/U:
+- DM clinic, Medicine OPD on 09/02/2026 (Mon) - Review with SMBG chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

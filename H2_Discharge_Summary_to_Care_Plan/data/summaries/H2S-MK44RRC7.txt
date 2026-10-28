@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Harish Kumar    Age: 33 years    Sex: Male
+UHID: CDH8553264    IP Number: IP/26/641431
+Date of admission: 3rd May 2026    Date of discharge: 7th May 2026
+Under the care of: Dr. Sunita Patil, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis
+  - 2. s/p Laparoscopic appendicectomy (3rd May 2026)
+
+HISTORY:
+  - 33/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 9. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency laparoscopic appendicectomy under GA on 3rd May 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+OPERATIVE PROCEDURE:
+  - Laparoscopic appendicectomy under GA (3rd May 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 12,900/cumm; CRP 37 mg/L; HPE: awaited; Hb 11.8 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 110/72 mmHg, PR 81/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Clavam 625 mg three times daily after food for 5 days
+2. Tablet Paracetamol 650 mg three times daily after food for 5 days
+3. Tablet Pantoprazole 40 mg once daily in the morning ½ hr before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Splint wound with pillow on coughing / sneezing; avoid straining
+  Care of the wound:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting or unable to take food and fluids orally
+  - Distension of abdomen with no passage of stool or gas
+
+REVIEW:
+  - Wound check in Surgery OPD on 11th May 2026 (POD 8).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Sunita Patil (Consultant)

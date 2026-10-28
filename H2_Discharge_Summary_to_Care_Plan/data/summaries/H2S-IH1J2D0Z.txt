@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Deepa Shetty                   Age/Sex  : 24 Y / F
+UHID       : CDH1231667                     IP No.   : IP/26/358006
+DOA        : 02/02/2026                     DOD      : 06/02/2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G1P1L1, Emergency LSCS for fetal distress on 02/02/2026
+
+BRIEF HISTORY:
+  - 24/F, Primigravida at 38 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 02/02/2026 for fetal distress. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby boy, 3.12 kg, APGAR 9/10. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (02/02/2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 11.2 g/dl | Blood group O +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 118/78 mmHg, PR 70/min, SpO2 97% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+| No | Medicine                                   | Dose   | Route | Frequency   | Duration | Instructions          |
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Augmentin                             | 625 mg | PO    | BD (1-0-1)  | 5 days   | PC                    |
+| 2  | Tab. Paracetamol (Calpol)                  | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food            |
+| 3  | Tab. Pantoprazole                          | 40 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast |
+| 4  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner          |
+| 5  | Tab. Calcium carbonate + Vit D3 (Shelcal)  | 500 mg | PO    | BD (1-1-0)  | 6 months | PC                    |
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Walk around the house several times a day
+    - No heavy lifting (more than 5 kg) for 6 weeks
+  Wound care:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Fever > 100.4 F (38 C)
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Breast - painful red hard swelling with fever
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Wound inspection - OBG OPD on 10/02/2026 (POD 8)
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 16/03/2026; bring reports: Hb
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Pooja Mehra (Consultant)

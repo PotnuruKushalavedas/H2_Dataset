@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sunil Siddiqui                 Age/Sex  : 24 Y / M
+UHID       : CDH2421877                     IP No.   : IP/26/321563
+DOA        : 11/05/2026                     DOD      : 15/05/2026
+Consultant : Dr. Ravi Teja, MS (Orthopaedics) Unit     : Ortho Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Closed fracture distal end left radius
+  - 2. s/p ORIF with volar locking plate (13/05/2026)
+
+BRIEF HISTORY:
+  - 24/M, h/o fall on outstretched hand 2 days back; pain, swelling and deformity left wrist.
+
+HOSPITAL COURSE:
+  - Limb immobilised in slab. Underwent ORIF with volar locking plate under brachial block on 13/05/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - ORIF with volar locking plate under brachial block (13/05/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.2 g/dl | S. Cr 0.7 mg/dl | Weight 69 kg | Post-op X-ray: fracture fixed in good alignment | RBS 140 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 110/80 mmHg, PR 66/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+--------+-------+-------------+----------+------------------------------------------+
+| No | Medicine                            | Dose   | Route | Frequency   | Duration | Instructions                             |
++----+-------------------------------------+--------+-------+-------------+----------+------------------------------------------+
+| 1  | Tab. Paracetamol                    | 650 mg | PO    | SOS         | -        | for fever; not more than 3 doses in 24 h |
+| 2  | Tab. Ibuprofen                      | 400 mg | PO    | TDS (1-1-1) | 3 days   | PC                                       |
+| 3  | Tab. Calcium + Vitamin D3 (Shelcal) | 500 mg | PO    | OD (1-0-0)  | 1 month  | PC                                       |
+| 4  | Tab. Pantoprazole                   | 40 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast                    |
++----+-------------------------------------+--------+-------+-------------+----------+------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - Limb elevation (hand above heart level) + active finger movements
+  Wound care:
+    - Slab to be kept dry - nothing to be inserted under slab
+    - Keep the wound clean and dry
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Operated hand - numbness / tingling / bluish discolouration / severe swelling
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+
+FOLLOW-UP:
+  - Suture removal - Orthopaedics OPD on 28/05/2026 (POD 15)
+  - Check X-ray and review - Orthopaedics OPD on 26/06/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Ravi Teja (Consultant)

@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Selvam Rao
+Age / Sex    : 37 yrs / Male
+UHID         : CDH1987809      IP No: IP/26/290021
+Admitted on  : 02/07/2026      Discharged on: 06/07/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis right foot
+  * Systemic hypertension
+  * Hypothyroidism
+
+Brief History:
+  * 37/M, k/c/o T2DM x 14 yrs, presented with swelling, redness and pain over right foot x 6 days following a minor injury. RBS 421 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 9.3%; FBS 286 mg/dl; PPBS 342 mg/dl; S. Cr 0.7 mg/dl; Urine routine: sugar ++, ketones nil; Hb 14.2 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 114/80 mmHg, PR 79/min, SpO2 98% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 after food till next review
+- Tab. Glimepiride 1 mg 1-0-0 30 min before breakfast till next review
+- Tab. Amoxicillin + Clavulanic acid 625 mg 1-1-1 after food x 5 days
+- Tab. Paracetamol 650 mg SOS for pain (not more than 4 doses in 24 h)
+- Tab. Amlodipine (Stamlo) 5 mg 1-0-0 long term (lifelong)
+Continue previous medications for hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Sugar > 300 mg/dl on 2 readings
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+Follow-up:
+  * Review with reports - Medicine OPD on 13/07/2026; bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

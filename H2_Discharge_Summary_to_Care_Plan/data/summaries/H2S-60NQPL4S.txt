@@ -1,0 +1,70 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Raju Siddiqui                  Age/Sex  : 73 Y / M
+UHID       : CDH6616191                     IP No.   : IP/26/703399
+DOA        : 24 Jun 2026                    DOD      : 29 Jun 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Lateral wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LCx
+  - 3. BPH
+
+BRIEF HISTORY:
+  - 73/M, smoker, presented with retrosternal chest pain with sweating x 6 hrs. ECG: ST elevation in I, aVL, V5-V6.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 25 Jun 2026: CAG showed 98% thrombotic occlusion of proximal LCx; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LCx (25 Jun 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.8 g/dl | S. Cr 0.8 mg/dl | K 4.8 mEq/L | LDL 164 mg/dl | 2D Echo: RWMA in LCx territory, LVEF 59%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/74 mmHg, PR 66/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration    | Instructions                                                                   |
++----+----------------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                           | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch                                                                    |
+| 2  | Tab. Ticagrelor (Brilinta)             | 90 mg  | PO    | BD (1-0-1) | 1 year      |                                                                                |
+| 3  | Tab. Storvas                           | 80 mg  | PO    | HS (0-0-1) | Lifelong    |                                                                                |
+| 4  | Tab. Bisoprolol                        | 5 mg   | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 5  | Tab. Rabeprazole (Rablet)              | 20 mg  | PO    | OD (1-0-0) | Till review | 30 min before breakfast                                                        |
+| 6  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -           | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 7  | Cap. Tamsulosin (Veltam)               | 0.4 mg | PO    | HS (0-0-1) | Lifelong    |                                                                                |
++----+----------------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (not safe with heart disease)
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 09 Jul 2026 (Thu); bring reports: ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

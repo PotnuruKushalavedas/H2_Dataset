@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Deepak Iyer    Age: 74 years    Sex: Male
+UHID: CDH5500274    IP Number: IP/26/913390
+Date of admission: 4th March 2026    Date of discharge: 8th March 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+HISTORY:
+  - 74/M, k/c/o T2DM x 11 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.5%) with weight loss and fatigue. No ketosis.
+
+COURSE IN THE HOSPITAL:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 12.5%; FBS 226 mg/dl; PPBS 311 mg/dl; S. Cr 0.9 mg/dl; Urine microalbumin 97 mg/g; Fundus: no DR
+
+CONDITION AT THE TIME OF DISCHARGE: Stable. BP 130/80 mmHg, PR 77/min, SpO2 97% on RA. Pre-meal sugars 160-176 mg/dl.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 12 units SC once daily at bedtime till the next review
+2. Tablet Metformin 1000 mg twice daily after food to continue lifelong
+3. Tablet Sitagliptin 100 mg once daily in the morning till the next review
+4. Tablet Atorvastatin 20 mg once daily at bedtime lifelong
+
+PLEASE STOP:
+  - Tab. Glimepiride 2 mg (hypoglycaemia risk)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Carry glucose / sugar at all times
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+REVIEW:
+  - Review with sugar chart in Diabetes Clinic (Medicine OPD) on 18th March 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

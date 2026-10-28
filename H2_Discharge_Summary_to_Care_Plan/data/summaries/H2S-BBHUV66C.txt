@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ramesh Pillai                  Age/Sex  : 69 Y / M
+UHID       : CDH5706316                     IP No.   : IP/26/217189
+DOA        : 31 Aug 2026                    DOD      : 05 Sep 2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+BRIEF HISTORY:
+  - 69/M, k/c/o T2DM x 14 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.2%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.2% | FBS 184 mg/dl | PPBS 332 mg/dl | S. Cr 0.9 mg/dl | Urine microalbumin 107 mg/g | Fundus: no DR
+
+CONDITION AT DISCHARGE: Stable. BP 110/78 mmHg, PR 83/min, SpO2 96% on RA. Pre-meal sugars 163-181 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------------+---------------+-------+------------+------------------+------------------------------------+
+| No | Medicine                                       | Dose          | Route | Frequency  | Duration         | Instructions                       |
++----+------------------------------------------------+---------------+-------+------------+------------------+------------------------------------+
+| 1  | Inj. Premixed Insulin 30/70 (Human Mixtard 30) | 20-0-10 units | SC    | BD         | Till next review | 30 min before breakfast and dinner |
+| 2  | Tab. Metformin                                 | 1000 mg       | PO    | BD (1-0-1) | Lifelong         | after food                         |
+| 3  | Tab. Atorvastatin                              | 20 mg         | PO    | HS (0-0-1) | Lifelong         |                                    |
++----+------------------------------------------------+---------------+-------+------------+------------------+------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg (since started on insulin)
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Carry glucose / sugar at all times
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 15 Sep 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Anil Bhosale (Consultant)

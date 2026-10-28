@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Arjun Kushwaha                 Age/Sex  : 36 Y / M
+UHID       : CDH1944242                     IP No.   : IP/26/681704
+DOA        : 18/07/2026                     DOD      : 21/07/2026
+Consultant : Dr. Rajesh Kumar Verma, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Symptomatic cholelithiasis
+  - 2. s/p Laparoscopic cholecystectomy (18/07/2026)
+
+BRIEF HISTORY:
+  - 36/M, c/o recurrent right upper abdominal pain after fatty meals x 10 months. USG abdomen: multiple calculi in GB, largest 9 mm, CBD normal.
+
+HOSPITAL COURSE:
+  - Underwent Lap. cholecystectomy under GA on 18/07/2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+PROCEDURE(S) DONE:
+  - Laparoscopic cholecystectomy under GA (18/07/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.7 g/dl | LFT: within normal limits | S. Amylase 78 U/L | HPE: awaited
+
+CONDITION AT DISCHARGE: Afebrile, tolerating normal diet, port sites healthy. BP 126/70 mmHg, PR 76/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+--------+-------+-------------+----------+-----------------------------------------+
+| No | Medicine                | Dose   | Route | Frequency   | Duration | Instructions                            |
++----+-------------------------+--------+-------+-------------+----------+-----------------------------------------+
+| 1  | Tab. Paracetamol (Dolo) | 650 mg | PO    | TDS (1-1-1) | 3 days   | PC                                      |
+| 2  | Tab. Pantoprazole       | 40 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast                   |
+| 3  | Tab. Ondansetron        | 4 mg   | PO    | SOS         | -        | for nausea or vomiting; max 3 doses/day |
++----+-------------------------+--------+-------+-------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Low fat diet; avoid fried and oily food, ghee, red meat
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Can resume office work after 2 weeks
+  Wound care:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+    - Do not apply oil, turmeric or powder on the wound
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Redness, swelling, pus or discharge from the wound
+  - Severe / increasing abdominal pain
+  - Persistent vomiting / not able to take orally
+  - Yellow discolouration of eyes or urine
+  - Distension of abdomen with no passage of stool or gas
+
+FOLLOW-UP:
+  - Suture removal - General Surgery OPD on 27/07/2026 (POD 9)
+  - Review with histopathology report - General Surgery OPD on 01/08/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Rajesh Kumar Verma (Consultant)

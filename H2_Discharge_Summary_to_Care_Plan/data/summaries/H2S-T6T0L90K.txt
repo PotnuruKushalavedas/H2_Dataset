@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Jyoti Rathore                  Age/Sex  : 31 Y / F
+UHID       : CDH7358506                     IP No.   : IP/26/738470
+DOA        : 01/07/2026                     DOD      : 06/07/2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G1P1L1, Pre-eclampsia with severe features at 34 wks
+  - 2. Delivered by induced vaginal delivery (NVD) on 01/07/2026
+
+BRIEF HISTORY:
+  - 31/F, Primigravida, on low-dose aspirin from 12 wks, presented with headache and BP 160/110 mmHg, urine albumin ++.
+
+HOSPITAL COURSE:
+  - Received Inj. Magnesium sulphate (Pritchard regimen) and oral antihypertensives. Labour induced; delivered vaginally on 01/07/2026: live baby girl, 2.5 kg, APGAR 8/10. MgSO4 continued for 24 hrs postpartum. BP settled to 132/85 mmHg on oral treatment. No fits.
+
+KEY INVESTIGATIONS:
+  - Platelets 1.6 lakh/cumm | SGOT/SGPT 42/25 U/L | S. Cr 0.8 mg/dl | Urine albumin + | Hb 10.0 g/dl
+
+CONDITION AT DISCHARGE: Asymptomatic. BP 134/88 mmHg, PR 67/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+------------------+------------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration         | Instructions                             |
++----+--------------------------------------------+--------+-------+------------+------------------+------------------------------------------+
+| 1  | Tab. Labetalol                             | 100 mg | PO    | BD (1-0-1) | Till next review |                                          |
+| 2  | Tab. Paracetamol (Calpol)                  | 500 mg | PO    | SOS        | -                | for fever; not more than 3 doses in 24 h |
+| 3  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months         | after dinner                             |
+| 4  | Tab. Calcium + Vitamin D3 (Shelcal)        | 500 mg | PO    | BD (1-1-0) | 6 months         | after food                               |
++----+--------------------------------------------+--------+-------+------------+------------------+------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (low-dose aspirin of pregnancy - stop after delivery)
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Adequate rest; light household work only for 6 weeks
+  Other:
+    - Check BP at home twice daily and maintain a chart
+    - Exclusive breastfeeding for 6 months
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Fits (convulsions)
+  - Home BP >= 150/100 mmHg
+  - Breathlessness or difficulty in breathing
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+
+FOLLOW-UP:
+  - BP review with home BP chart - OBG OPD on 13/07/2026
+  - PNC visit at 6 weeks - OBG OPD on 12/08/2026; bring reports: Hb, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Nirmala Joshi (Consultant)

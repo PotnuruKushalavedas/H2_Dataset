@@ -1,0 +1,69 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Naresh Kumar
+Age / Sex    : 63 yrs / Male
+UHID         : CDH6805830      IP No: IP/26/996271
+Admitted on  : 20.05.2026      Discharged on: 25.05.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - NSTEMI
+  * CAD - SVD; s/p PCI with 1 DES to LCx
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 63/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 3.3 ng/ml (raised).
+
+Course in Hospital:
+  * Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 21.05.2026: 87% stenosis of mid LCx; PCI with 1 DES done. No post-procedure complications.
+
+Procedure:
+  * CAG + PCI with 1 DES to LCx (21.05.2026)
+
+Investigations:
+  * Hb 11.9 g/dl; S. Cr 0.9 mg/dl; K 4.8 mEq/L; LDL 152 mg/dl; 2D Echo: RWMA in LCx territory, LVEF 45%; HbA1c 9.4%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 124/70 mmHg, PR 85/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Clopidogrel 75 mg 1-0-0 x 12 months
+- Tab. Atorvastatin 40 mg 0-0-1 (HS) lifelong
+- Tab. Metoprolol Succinate 25 mg 1-0-0 long term (lifelong)
+- Tab. Ramipril 5 mg 1-0-0 lifelong
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 3 months
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+- Tab. Glycomet 500 mg 1-0-1 after food lifelong
+- Tab. Empagliflozin 10 mg 1-0-0 long term (lifelong)
+
+- STOP Tab. Diclofenac 50 mg (not safe with heart disease)
+
+Advice on Discharge:
+  Diet:
+    * Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    * Salt < 5 g/day - no pickle / papad / namkeen
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+    * Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Avoid driving x 1 week
+  General:
+    * No smoking / no tobacco in any form
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    * Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Danger signs - report to Casualty immediately:
+  * Chest pain not relieved after 3 SL tablets taken 5 min apart
+  * Breathlessness / difficulty in breathing
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness, fainting or loss of consciousness
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 04.06.2026; bring reports: ECG
+  * Get Lipid profile (fasting) done on 06.07.2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

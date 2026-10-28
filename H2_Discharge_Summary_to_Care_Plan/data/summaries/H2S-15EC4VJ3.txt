@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Sarita Mukherjee
+Age / Sex    : 64 yrs / Female
+UHID         : CDH7551225      IP No: IP/26/946127
+Admitted on  : 25/02/2026      Discharged on: 05/03/2026
+Consultant   : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute exacerbation of COPD (infective)
+  * Hypothyroidism
+
+Brief History:
+  * 64/F, h/o long-term chulha smoke exposure, k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations:
+  * ABG at admission: pH 7.32, pCO2 56 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 13,300/cumm; RBS 128 mg/dl; ECG: sinus rhythm
+
+Condition at Discharge: Breathlessness mMRC grade 3. BP 118/72 mmHg, PR 73/min, SpO2 91% on RA.
+
+Medications at Discharge:
+- Rotacap Tiotropium 18 mcg 1 cap 1-0-0 lifelong (via rotahaler)
+- Inh. Budesonide + Formoterol (6/400 mcg) 1 puff 1-0-1 long term (lifelong) (with spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (not more than 8 puffs in 24 h)
+- Tab. Omnacortil 40 mg 1-0-0 after breakfast x 5 days
+- Cap. Doxycycline 100 mg 1-0-1 PC x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Tab. Levothyroxine 75 mcg 1-0-0 on empty stomach long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Pursed lip breathing + daily walk as tolerated
+    * No exposure to biomass (chulha) smoke / dust
+  General:
+    * Inhaler technique taught; to use with spacer
+    * Influenza and pneumococcal vaccination advised
+
+Danger signs - report to Casualty immediately:
+  * Breathlessness or difficulty in breathing
+  * Wheeze / breathlessness not settling with reliever inhaler
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Fever > 100.4 F (38 C)
+  * Increase in sputum quantity or change to yellow/green colour
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 19/03/2026
+  * Spirometry (PFT) - Pulmonary Medicine (Chest) OPD on 16/04/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Kavita Deshmukh (Consultant)

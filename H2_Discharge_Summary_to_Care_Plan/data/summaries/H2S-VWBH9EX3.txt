@@ -1,0 +1,54 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Yusuf Sandhu                   Age/Sex  : 19 Y / M
+UHID       : CDH6292651                     IP No.   : IP/26/627861
+DOA        : 11/01/2026                     DOD      : 16/01/2026
+Consultant : Dr. T. Raghavan, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute severe asthma (exacerbation of bronchial asthma)
+
+BRIEF HISTORY:
+  - 19/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 173 to 327 L/min. Inhaler technique taught.
+
+KEY INVESTIGATIONS:
+  - PEFR at discharge 327 L/min | CXR: no pneumothorax, no consolidation | AEC 408/cumm | TLC 7,200/cumm
+
+CONDITION AT DISCHARGE: No wheeze at rest, speaking full sentences. BP 114/78 mmHg, PR 84/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+---------+-------+------------+----------+------------------------------------------------------------+
+| No | Medicine                                 | Dose    | Route | Frequency  | Duration | Instructions                                               |
++----+------------------------------------------+---------+-------+------------+----------+------------------------------------------------------------+
+| 1  | Inh. Budesonide + Formoterol (6/200 mcg) | 1 puff  | Inh   | BD (1-0-1) | Lifelong | with spacer; gargle after use                              |
+| 2  | Inh. Salbutamol (Asthalin) (100 mcg)     | 2 puffs | Inh   | SOS        | -        | for breathlessness / wheeze; not more than 8 puffs in 24 h |
+| 3  | Tab. Omnacortil                          | 40 mg   | PO    | OD (1-0-0) | 5 days   | after breakfast                                            |
+| 4  | Tab. Montelukast                         | 10 mg   | PO    | HS (0-0-1) | 1 month  |                                                            |
++----+------------------------------------------+---------+-------+------------+----------+------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Avoid dust, smoke and cold air (asthma triggers)
+    - Gradually increase walking as tolerated
+  Other:
+    - Inhaler technique taught; to use with spacer
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Too breathless to complete sentences
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Chest pain, heaviness or sweating
+
+FOLLOW-UP:
+  - Review with reports - Pulmonary Medicine (Chest) OPD on 30/01/2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. T. Raghavan (Consultant)

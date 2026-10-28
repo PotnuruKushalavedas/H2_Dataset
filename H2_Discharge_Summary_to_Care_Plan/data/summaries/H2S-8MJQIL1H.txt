@@ -1,0 +1,69 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Prakash Kulkarni               Age/Sex  : 62 Y / M
+UHID       : CDH6545674                     IP No.   : IP/26/908653
+DOA        : 21/07/2026                     DOD      : 27/07/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 62/M, smoker, presented with retrosternal chest pain with sweating x 2 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 21/07/2026: CAG showed 95% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (21/07/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.0 g/dl | S. Cr 0.9 mg/dl | K 3.8 mEq/L | LDL 169 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 39%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 124/78 mmHg, PR 82/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| No | Medicine                               | Dose  | Route | Frequency  | Duration         | Instructions                                                                   |
++----+----------------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)                | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                                    |
+| 2  | Tab. Clopidogrel (Clopilet)            | 75 mg | PO    | OD (1-0-0) | 1 year           |                                                                                |
+| 3  | Tab. Atorvastatin (Storvas)            | 40 mg | PO    | HS (0-0-1) | Lifelong         |                                                                                |
+| 4  | Tab. Metoprolol Succinate ER           | 50 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 5  | Tab. Ramipril                          | 5 mg  | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 6  | Tab. Pantoprazole (Pantocid)           | 40 mg | PO    | OD (1-0-0) | 3 months         | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg  | SL    | SOS        | -                | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Spironolactone                    | 25 mg | PO    | OD (1-0-0) | Till next review |                                                                                |
+| 9  | Tab. Dapagliflozin                     | 10 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
++----+----------------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 06/08/2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+  - Fasting lipid profile on 10/09/2026 at Hospital laboratory
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

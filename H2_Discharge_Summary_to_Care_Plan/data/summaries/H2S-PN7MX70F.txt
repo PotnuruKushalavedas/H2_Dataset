@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rakesh Reddy                   Age/Sex  : 55 Y / M
+UHID       : CDH8138262                     IP No.   : IP/26/268500
+DOA        : 28/03/2026                     DOD      : 03/04/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+  - 2. Primary open-angle glaucoma
+
+BRIEF HISTORY:
+  - 55/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 16,800/cumm | CRP 61 mg/L | CXR: consolidation left lower lobe | S. Cr 0.9 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 114/76 mmHg, PR 86/min, SpO2 99% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+-------------+----------+------------------------------------------+
+| No | Medicine                           | Dose   | Route | Frequency   | Duration | Instructions                             |
++----+------------------------------------+--------+-------+-------------+----------+------------------------------------------+
+| 1  | Tab. Amoxicillin + Clavulanic acid | 625 mg | PO    | TDS (1-1-1) | 7 days   | after food                               |
+| 2  | Tab. Paracetamol (Crocin)          | 650 mg | PO    | SOS         | -        | for fever; not more than 3 doses in 24 h |
+| 3  | E/D Timolol (Iotim) 0.5%           | 1 drop | Eye   | BD (1-0-1)  | Lifelong | BE                                       |
++----+------------------------------------+--------+-------+-------------+----------+------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other:
+    - Flu + pneumococcal vaccine advised
+    - No smoking / no tobacco in any form
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Coughing up blood
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 13/04/2026; bring reports: CBC
+  - Repeat chest X-ray - Pulmonary Medicine (Chest) OPD on 15/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. R. Venkatesh (Consultant)

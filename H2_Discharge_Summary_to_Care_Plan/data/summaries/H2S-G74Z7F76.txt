@@ -1,0 +1,70 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rajni Shetty                   Age/Sex  : 27 Y / F
+UHID       : CDH7909927                     IP No.   : IP/26/191456
+DOA        : 19/01/2026                     DOD      : 23/01/2026
+Consultant : Dr. Shabnam Ansari, MS (OBG)   Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Pre-eclampsia with severe features at 36 wks
+  - 2. Delivered by Emergency LSCS on 19/01/2026
+
+BRIEF HISTORY:
+  - 27/F, G2, on low-dose aspirin from 12 wks, presented with headache and BP 174/109 mmHg, urine albumin ++.
+
+HOSPITAL COURSE:
+  - Received Inj. Magnesium sulphate (Pritchard regimen) and oral antihypertensives. Underwent emergency LSCS on 19/01/2026: live baby girl, 2.22 kg, APGAR 9/10. MgSO4 continued for 24 hrs postpartum. BP settled to 135/89 mmHg on oral treatment. No fits.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (19/01/2026)
+
+KEY INVESTIGATIONS:
+  - Platelets 1.9 lakh/cumm | SGOT/SGPT 40/39 U/L | S. Cr 0.9 mg/dl | Urine albumin + | Hb 9.7 g/dl
+
+CONDITION AT DISCHARGE: Asymptomatic. BP 130/86 mmHg, PR 70/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+-------------+-------------+--------------+
+| No | Medicine                                   | Dose   | Route | Frequency   | Duration    | Instructions |
++----+--------------------------------------------+--------+-------+-------------+-------------+--------------+
+| 1  | Tab. Nifedipine SR (Nicardia Retard)       | 20 mg  | PO    | BD (1-0-1)  | Till review |              |
+| 2  | Tab. Cefuroxime (Ceftum)                   | 500 mg | PO    | BD (1-0-1)  | 5 days      | after food   |
+| 3  | Tab. Paracetamol                           | 650 mg | PO    | TDS (1-1-1) | 5 days      | PC           |
+| 4  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1)  | 6 months    | after dinner |
+| 5  | Tab. Calcium carbonate + Vit D3            | 500 mg | PO    | BD (1-1-0)  | 6 months    | after food   |
++----+--------------------------------------------+--------+-------+-------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (antenatal aspirin - not needed after delivery)
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Home BP monitoring BD - keep chart
+    - Exclusive breastfeeding for 6 months
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Convulsions / seizures
+  - Home BP >= 150/100 mmHg
+  - Breathlessness / difficulty in breathing
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+  - Wound site redness / swelling / pus or discharge
+
+FOLLOW-UP:
+  - Review with BP chart - OBG OPD on 30/01/2026 (Fri)
+  - Postnatal check-up (6 weeks) - OBG OPD on 02/03/2026 (Mon); bring reports: Hb, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Shabnam Ansari (Consultant)

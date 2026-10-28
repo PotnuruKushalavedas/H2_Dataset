@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Thomas Deshpande    Age: 40 years    Sex: Male
+UHID: CDH3436907    IP Number: IP/26/578242
+Date of admission: 26 Jun 2026    Date of discharge: 30 Jun 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+HISTORY:
+  - 40/M, k/c/o T2DM x 5 yrs, presented with swelling, redness and pain over left foot x 5 days following a minor injury. RBS 437 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 10.3%; FBS 319 mg/dl; PPBS 392 mg/dl; S. Cr 1.0 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.4 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 126/76 mmHg, PR 79/min, SpO2 97% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 500 mg twice daily PC to continue lifelong
+2. Tablet Vildagliptin (Jalra) 50 mg twice daily until the next visit
+3. Tablet Amoxicillin + Clavulanic acid (Augmentin) 625 mg three times daily PC for 5 days
+4. Tablet Atorvastatin (Atorva) 10 mg once daily at bedtime lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Gen. Medicine OPD on 14 Jul 2026 (Tue). Please bring: FBS, PPBS.
+  - HbA1c and review in DM clinic, Medicine OPD on 22 Sep 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

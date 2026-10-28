@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Rajni Dhillon, 54/F  UHID: CDH3546385  IP: IP/26/742089
+DOA: 22-May-26  DOD: 26-May-26  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to RCA
+
+H/o: 54/F, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 7.8 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 23-May-26: 84% stenosis of proximal RCA; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to RCA (23-May-26)
+
+Ix: Hb 14.1 g/dl, S. Cr 0.6 mg/dl, K 3.9 mEq/L, LDL 122 mg/dl, 2D Echo: RWMA in RCA territory, LVEF 54%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 120/76 mmHg, PR 73/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 mg OD after lunch lifelong
+2) T. Clopitab 75 mg OD x 1 yr
+3) T. Rosuvas 20 mg HS lifelong
+4) T. Bisoprolol 5 mg OD lifelong
+5) T. Rabeprazole 20 mg OD 30 min before breakfast x 3 months
+6) T. Sorbitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+Adv:
+  Diet:
+  - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain not relieved after 3 SL tablets taken 5 min apart
+- Breathlessness or difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 05-Jun-26 - Review with reports with ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

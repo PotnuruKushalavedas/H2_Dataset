@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nasreen Banerjee               Age/Sex  : 36 Y / F
+UHID       : CDH5142374                     IP No.   : IP/26/532914
+DOA        : 29/08/2026                     DOD      : 01/09/2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Emergency LSCS for previous LSCS with scar tenderness on 29/08/2026
+
+BRIEF HISTORY:
+  - 36/F, G2 at 40 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 29/08/2026 for previous LSCS with scar tenderness. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby boy, 3.05 kg, APGAR 9/10. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (29/08/2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 11.5 g/dl | Blood group O +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 118/76 mmHg, PR 85/min, SpO2 98% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+-------------+----------+-----------------------+
+| No | Medicine                           | Dose   | Route | Frequency   | Duration | Instructions          |
++----+------------------------------------+--------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Amoxycillin + Clavulanic acid | 625 mg | PO    | BD (1-0-1)  | 5 days   | PC                    |
+| 2  | Tab. Paracetamol                   | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food            |
+| 3  | Tab. Pan                           | 40 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast |
+| 4  | Tab. Iron + Folic acid (IFA)       | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner          |
+| 5  | Tab. Calcium carbonate + Vit D3    | 500 mg | PO    | BD (1-1-0)  | 6 months | PC                    |
++----+------------------------------------+--------+-------+-------------+----------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Walk around the house several times a day
+    - No heavy lifting (more than 5 kg) for 6 weeks
+  Wound care:
+    - Keep the wound clean and dry
+    - Bath allowed after 48 h - pat wound dry with clean cloth
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Fever above 100.4 F (38 C)
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Breast - painful red hard swelling with fever
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Removal of sutures - Obstetrics & Gynaecology OPD on 07/09/2026 (Mon) (POD 9)
+  - PNC visit at 6 weeks - OBG OPD on 10/10/2026 (Sat); bring reports: Hb
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Pooja Mehra (Consultant)

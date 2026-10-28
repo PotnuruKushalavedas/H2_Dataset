@@ -1,0 +1,42 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Lissy Singh, 61/F  UHID: CDH8804679  IP: IP/26/886850
+DOA: 07-Apr-26  DOD: 10-Apr-26  Cons: Dr. Farah Siddiqui (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+H/o: 61/F, k/c/o T2DM x 11 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.4%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 11.4%, FBS 189 mg/dl, PPBS 330 mg/dl, S. Cr 0.6 mg/dl, Urine microalbumin 92 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 118/74 mmHg, PR 80/min, SpO2 96% on RA. Pre-meal sugars 167-174 mg/dl.
+
+Rx on discharge:
+1) Inj. Human Mixtard 30 14-0-6 U SC 30 min before breakfast and dinner till review
+2) T. Metformin 1000 mg BD after food life long
+3) T. Atorva 10 HS lifelong
+
+STOP Tab. Amaryl 1 mg (now on insulin)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Carry glucose / sugar at all times
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 20-Apr-26 (Mon) - Review with sugar chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Farah Siddiqui (Consultant)

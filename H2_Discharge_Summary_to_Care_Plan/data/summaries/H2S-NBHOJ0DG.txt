@@ -1,0 +1,67 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Thomas Krishnan                Age/Sex  : 70 Y / M
+UHID       : CDH9610397                     IP No.   : IP/26/130017
+DOA        : 15/09/2026                     DOD      : 23/09/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 35%
+  - 3. BPH
+
+BRIEF HISTORY:
+  - 70/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6 L; weight down from 89 kg to 83 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 3162 pg/ml | S. Cr 1.1 mg/dl | Na 134 mEq/L | K 4.6 mEq/L | 2D Echo: LVEF 35%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 71/min, SpO2 99% on RA. Dry weight 83 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration    | Instructions |
++----+----------------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide                        | 40 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Cardivas 6.25 mg                  | ½ tab  | PO    | BD (½-0-½) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg  | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone                    | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin (Jardiance)         | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Ecosprin                          | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Storvas                           | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
+| 8  | Cap. Tamsulosin                        | 0.4 mg | PO    | HS (0-0-1) | Lifelong    |              |
++----+----------------------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 30/09/2026 (Wed); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 22/12/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

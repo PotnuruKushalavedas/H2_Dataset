@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Imran Thomas    Age: 43 years    Sex: Male
+UHID: CDH8081429    IP Number: IP/26/528651
+Date of admission: 22 Jul 2026    Date of discharge: 25 Jul 2026
+Under the care of: Dr. N. Chakraborty, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis
+  - 2. s/p Laparoscopic appendicectomy (22 Jul 2026)
+
+HISTORY:
+  - 43/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency laparoscopic appendicectomy under GA on 22 Jul 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+OPERATIVE PROCEDURE:
+  - Laparoscopic appendicectomy under GA (22 Jul 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 16,500/cumm; CRP 37 mg/L; HPE: awaited; Hb 12.6 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 130/70 mmHg, PR 87/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin-Clavulanate 625 mg three times daily PC for 5 days
+2. Tablet Paracetamol 500 mg three times daily PC for 7 days
+3. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Soft diet x 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Care of the wound:
+    - Keep the wound clean and dry
+    - Bath allowed after 48 h - pat wound dry with clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting / not able to take orally
+  - Distension of abdomen with no passage of stool or gas
+
+REVIEW:
+  - Wound inspection in General Surgery OPD on 01 Aug 2026 (POD 10).
+  - Review with histopathology report in General Surgery OPD on 05 Aug 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. N. Chakraborty (Consultant)

@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Suresh Krishnan
+Age / Sex    : 47 yrs / Male
+UHID         : CDH4907299      IP No: IP/26/404167
+Admitted on  : 08/09/2026      Discharged on: 14/09/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 47/M, k/c/o T2DM x 7 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 33 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.13, HCO3 7 mEq/L; Urine ketones +++; RBS at admission 464 mg/dl; HbA1c 11.4%; S. Cr 0.9 mg/dl; K 4.6 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 110/78 mmHg, PR 70/min, SpO2 96% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 16 U SC 0-0-1 at 10 pm daily till next review
+- Inj. Human Regular Insulin (Huminsulin R) 6 U SC 1-1-1 30 min before meals till review
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow-up:
+  * Review with SMBG chart - DM clinic, Medicine OPD on 21/09/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Farah Siddiqui (Consultant)

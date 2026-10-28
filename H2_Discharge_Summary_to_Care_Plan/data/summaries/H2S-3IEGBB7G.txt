@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Gopal Menon    Age: 51 years    Sex: Male
+UHID: CDH6969517    IP Number: IP/26/622912
+Date of admission: 23 Aug 2026    Date of discharge: 29 Aug 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right lower lobe) - CURB-65 score 2
+
+HISTORY:
+  - 51/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 5 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 19,600/cumm; CRP 142 mg/L; CXR: consolidation right lower lobe; S. Cr 0.9 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 130/70 mmHg, PR 87/min, SpO2 96% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxycillin + Clavulanic acid 625 mg three times daily PC for 5 days
+2. Tablet Paracetamol 650 mg only if needed (SOS) for pain (not more than 3 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Physical activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Influenza and pneumococcal vaccination advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Coughing up blood
+
+REVIEW:
+  - Review with reports in Chest OPD on 08 Sep 2026 (Tue). Please bring: CBC.
+  - Repeat CXR in Pulmonary Medicine (Chest) OPD on 10 Oct 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Farah Siddiqui (Consultant)

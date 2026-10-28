@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Dinesh Jat    Age: 46 years    Sex: Male
+UHID: CDH7830967    IP Number: IP/26/316321
+Date of admission: 04 Feb 2026    Date of discharge: 07 Feb 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute severe asthma (exacerbation of bronchial asthma)
+
+HISTORY:
+  - 46/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 3 days, unable to complete sentences.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 176 to 323 L/min. Inhaler technique taught.
+
+RELEVANT INVESTIGATIONS:
+  - PEFR at discharge 323 L/min; CXR: no pneumothorax, no consolidation; AEC 650/cumm; TLC 11,200/cumm
+
+CONDITION AT THE TIME OF DISCHARGE: No wheeze at rest, speaking full sentences. BP 118/74 mmHg, PR 76/min, SpO2 96% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Inhaler Budesonide + Formoterol (6/200 mcg) 2 puffs twice daily lifelong (with spacer; rinse mouth after use)
+2. Inhaler Salbutamol (Asthalin) 2 puffs only if needed (SOS) for breathlessness / wheeze (max 8 puffs/day)
+3. Tablet Prednisolone 40 mg once daily in the morning for 3 days, then 30 mg once daily in the morning for 3 days, then 20 mg once daily in the morning for 3 days, then 10 mg once daily in the morning for 3 days, then stop (after breakfast)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Avoid dust, smoke and cold air (asthma triggers)
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Too breathless to complete sentences
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Chest pain / heaviness / sweating
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 14 Feb 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

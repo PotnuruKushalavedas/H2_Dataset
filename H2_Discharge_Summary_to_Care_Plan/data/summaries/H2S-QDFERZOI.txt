@@ -1,0 +1,47 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Nasreen Sahu, 49/F  UHID: CDH9904767  IP: IP/26/597290
+DOA: 17-Aug-26  DOD: 21-Aug-26  Cons: Dr. S. K. Mishra (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+- Systemic hypertension
+- Hypothyroidism
+
+H/o: 49/F, k/c/o T2DM x 13 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.4%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 12.4%, FBS 196 mg/dl, PPBS 362 mg/dl, S. Cr 0.5 mg/dl, Urine microalbumin 75 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 114/72 mmHg, PR 87/min, SpO2 98% on RA. Pre-meal sugars 144-171 mg/dl.
+
+Rx on discharge:
+1) Inj. Huminsulin 30/70 18-0-10 U SC 30 min before breakfast and dinner till review
+2) T. Glyciphage 500 mg BD PC life long
+3) T. Storvas 10 HS lifelong
+4) T. Telmisartan 40 mg OD life long
+5) T. Eltroxin 50 mcg OD empty stomach life long
+
+STOP Tab. Amaryl 1 mg (now on insulin)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Always carry sugar or glucose with you
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- DM clinic, Medicine OPD on 28-Aug-26 (Fri) - Review with SMBG chart
+- Diabetes Clinic (Medicine OPD) on 13-Nov-26 - HbA1c and review with S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. S. K. Mishra (Consultant)

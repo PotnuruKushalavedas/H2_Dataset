@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ganesh Meena                   Age/Sex  : 57 Y / M
+UHID       : CDH9786030                     IP No.   : IP/26/933769
+DOA        : 08/02/2026                     DOD      : 12/02/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate
+  - 2. Rheumatic heart disease - moderate mitral stenosis
+  - 3. Systemic hypertension
+
+BRIEF HISTORY:
+  - 57/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 145/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 72/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: thickened MV, MVA 1.2 cm2, LA dilated, LVEF 52% | S. Cr 0.6 mg/dl | Hb 13.0 g/dl | TSH 3.0 mIU/L | Weight 61 kg | INR at discharge 2.1
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 110/80 mmHg, PR 90/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------+------+-------+------------+-------------+-------------------------------+
+| No | Medicine        | Dose | Route | Frequency  | Duration    | Instructions                  |
++----+-----------------+------+-------+------------+-------------+-------------------------------+
+| 1  | Tab. Bisoprolol | 5 mg | PO    | OD (1-0-0) | Lifelong    |                               |
+| 2  | Tab. Acitrom    | 2 mg | PO    | OD (0-0-1) | Till review | after dinner; dose as per INR |
+| 3  | Tab. Amlodipine | 5 mg | PO    | OD (1-0-0) | Lifelong    |                               |
++----+-----------------+------+-------+------------+-------------+-------------------------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - No self-adjustment of anticoagulant dose; consult before any new drug
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - Get PT/INR check done on 16/02/2026 (Mon) (Hospital laboratory)
+  - Review with reports - Cardiology OPD on 27/02/2026; bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Komal Gill
+Age / Sex    : 76 yrs / Female
+UHID         : CDH7416766      IP No: IP/26/600130
+Admitted on  : 19/01/2026      Discharged on: 24/01/2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (right upper lobe) - CURB-65 score 2
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 76/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 5 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 14,200/cumm; CRP 162 mg/L; CXR: consolidation right upper lobe; S. Cr 1.3 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 126/74 mmHg, PR 70/min, SpO2 96% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 PC x 7 days
+- Tab. Paracetamol 650 mg SOS for fever (not more than 3 doses in 24 h)
+- Tab. Linagliptin 5 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradually increase walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+    * Stop smoking and all forms of tobacco
+
+Danger signs - report to Casualty immediately:
+  * Fever recurring, or persisting for more than 3 days after discharge
+  * Breathlessness or difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 03/02/2026; bring reports: CBC
+  * Repeat chest X-ray - Chest OPD on 07/03/2026 (Sat)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

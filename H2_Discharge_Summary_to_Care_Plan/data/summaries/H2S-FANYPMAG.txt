@@ -1,0 +1,60 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Pooja Rathore
+Age / Sex    : 35 yrs / Female
+UHID         : CDH6594944      IP No: IP/26/208459
+Admitted on  : 29.07.2026      Discharged on: 02.08.2026
+Consultant   : Dr. Rajesh Kumar Verma, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Symptomatic cholelithiasis
+  * s/p Laparoscopic cholecystectomy (30.07.2026)
+
+Brief History:
+  * 35/F, c/o recurrent right upper abdominal pain after fatty meals x 7 months. USG abdomen: multiple calculi in GB, largest 13 mm, CBD normal.
+
+Course in Hospital:
+  * Underwent Lap. cholecystectomy under GA on 30.07.2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+Procedure:
+  * Laparoscopic cholecystectomy under GA (30.07.2026)
+
+Investigations:
+  * Hb 14.2 g/dl; LFT: within normal limits; S. Amylase 45 U/L; HPE: awaited
+
+Condition at Discharge: Afebrile, tolerating normal diet, port sites healthy. BP 130/76 mmHg, PR 71/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg 1-1-1 PC x 5 days
+- Tab. Pantoprazole (Pan) 40 mg 1-0-0 ½ hr before breakfast x 7 days
+- Tab. Cefuroxime 500 mg 1-0-1 after food x 5 days
+- Tab. Ondansetron 4 mg SOS for nausea / vomiting (max 3 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * Low-fat diet - no fried / oily food, ghee, red meat
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * May resume desk work after 2 weeks
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+    * Do not apply oil, turmeric or powder on the wound
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Severe / increasing abdominal pain
+  * Persistent vomiting or unable to take food and fluids orally
+  * Yellow discolouration of eyes or urine
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Removal of sutures - General Surgery OPD on 07.08.2026 (Fri) (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Rajesh Kumar Verma (Consultant)

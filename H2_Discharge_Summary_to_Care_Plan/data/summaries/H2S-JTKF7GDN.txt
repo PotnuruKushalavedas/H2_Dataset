@@ -1,0 +1,42 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Yusuf Dhillon, 66/M  UHID: CDH5645610  IP: IP/26/925632
+DOA: 17/06/2026  DOD: 21/06/2026  Cons: Dr. S. K. Mishra (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Cellulitis left foot
+
+H/o: 66/M, k/c/o T2DM x 14 yrs, presented with swelling, redness and pain over left foot x 7 days following a minor injury. RBS 353 mg/dl.
+
+Course: Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Ix: HbA1c 11.9%, FBS 230 mg/dl, PPBS 330 mg/dl, S. Cr 1.2 mg/dl, Urine routine: sugar ++, ketones nil, Hb 12.5 g/dl
+
+Condn at d/c: Afebrile, stable. BP 118/80 mmHg, PR 80/min, SpO2 96% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD after food till next review
+2) T. Galvus 50 mg BD till review
+3) T. Clavam 625 TDS PC x 5 days
+4) T. Atorva 20 HS life long
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  Others:
+  - Check fasting and post-meal blood sugar at home twice a week and keep a record
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Review SOS if:
+- Redness, swelling, pus or discharge from the wound
+- Fever > 100.4 F (38 C)
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- Gen. Medicine OPD on 06/07/2026 - Review with reports with FBS, PPBS
+- Diabetes Clinic (Medicine OPD) on 14/09/2026 - Review with HbA1c
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

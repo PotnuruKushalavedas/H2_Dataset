@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Murugan Menon
+Age / Sex    : 66 yrs / Male
+UHID         : CDH8431540      IP No: IP/26/407995
+Admitted on  : 26.06.2026      Discharged on: 29.06.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+  * Hypothyroidism
+
+Brief History:
+  * 66/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 7 days. ECG: AF with FVR (HR 132/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 79/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 58%; S. Cr 1.1 mg/dl; Hb 12.9 g/dl; TSH 2.8 mIU/L; Weight 70 kg; CrCl (Cockcroft-Gault) 65 ml/min; CHA2DS2-VASc score 2
+
+Condition at Discharge: Stable, rate controlled. BP 120/72 mmHg, PR 86/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol 5 mg 1-0-0 long term (lifelong)
+- Tab. Apixaban 5 mg 1-0-1 lifelong
+- Tab. Telmisartan (Telma) 40 mg 1-0-0 lifelong
+- Tab. Levothyroxine 25 mcg 1-0-0 on empty stomach long term (lifelong)
+
+- STOP Tab. Aspirin 75 mg (now on anticoagulant)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness / fainting / LOC
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 20.07.2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

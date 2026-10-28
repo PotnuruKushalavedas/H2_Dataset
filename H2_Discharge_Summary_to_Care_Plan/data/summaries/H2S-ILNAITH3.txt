@@ -1,0 +1,50 @@
+CDH / General Medicine / DISCHARGE SUMMARY
+Name - Abdul Shetty | 55 Y/M | UHID CDH5184490 | IP IP/26/584476
+DOA - 08-09-2026 | DOD - 12-09-2026 | Consultant - Dr. R. Venkatesh, Medicine Unit III
+
+Diagnosis -
+  • Diabetic ketoacidosis (moderate) - resolved
+  • Type 2 diabetes mellitus (ketosis-prone)
+  • Systemic hypertension
+  • Hypothyroidism
+
+Presenting complaints & history - 55/M, k/c/o T2DM x 7 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+Hospital course -
+  • Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 47 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations -
+  • Admission ABG: pH 7.16, HCO3 12 mEq/L | Urine ketones +++ | RBS at admission 358 mg/dl | HbA1c 10.5% | S. Cr 1.0 mg/dl | K 3.8 mEq/L (at discharge)
+
+Status at discharge - Conscious, oriented, tolerating diet. BP 120/80 mmHg, PR 88/min, SpO2 97% on RA. Ketones negative.
+
+ADV ON DISCHARGE -
+• Inj. Basalog 20 IU SC HS till next visit
+• Inj. NovoRapid 6 IU SC TDS within 15 min before meals till review
+• Tab. Glycomet 500 mg PO BD after food till review
+• Tab. Ondem 4 mg PO SOS for nausea or vomiting (not more than 3 doses in 24 h)
+• Tab. Thyronorm 50 mcg PO OD on empty stomach lifelong
+Continue previous medications for HTN as before.
+
+Instructions -
+  Diet:
+    • DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    • Small frequent meals; do not skip meals
+    • Oral fluids 2-3 L/day
+  Others:
+    • SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    • Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    • Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    • Always carry sugar or glucose with you
+
+Report immediately to Casualty in case of -
+  • Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  • Blood sugar above 300 mg/dl on two readings
+  • Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow up -
+  • Review with sugar chart - Diabetes Clinic (Medicine OPD) on 19-09-2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. R. Venkatesh (Consultant)

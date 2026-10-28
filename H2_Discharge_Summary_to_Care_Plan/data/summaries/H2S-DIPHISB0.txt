@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Imran Dhillon, 85/M  UHID: CDH4527486  IP: IP/26/502334
+DOA: 23/02/2026  DOD: 27/02/2026  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate (non-valvular)
+- Systemic hypertension
+
+H/o: 85/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 6 days. ECG: AF with FVR (HR 146/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 78/min at discharge.
+
+Ix: 2D Echo: LA dilated, no significant valvular disease, LVEF 57%, S. Cr 0.9 mg/dl, Hb 11.8 g/dl, TSH 2.3 mIU/L, Weight 58 kg, CrCl (Cockcroft-Gault) 49 ml/min, CHA2DS2-VASc score 3
+
+Condn at d/c: Stable, rate controlled. BP 130/70 mmHg, PR 89/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Seloken XL 25 mg OD lifelong
+2) T. Xarelto 15 mg OD with dinner life long
+3) T. Telma 40 mg OD life long
+
+STOP Tab. Ecosprin 75 mg (since started on anticoagulant)
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Review SOS if:
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Sudden weakness of face, arm or leg, or slurred speech
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+- Breathlessness or difficulty in breathing
+
+F/U:
+- Cardiology OPD on 20/03/2026 (Fri) - Review with reports with ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

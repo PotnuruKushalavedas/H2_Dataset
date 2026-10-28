@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Lakshman Bora    Age: 66 years    Sex: Male
+UHID: CDH2903497    IP Number: IP/26/615657
+Date of admission: 6th February 2026    Date of discharge: 12th February 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 36%
+
+HISTORY:
+  - 66/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 9 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 78 kg to 74 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 5456 pg/ml; S. Cr 1.0 mg/dl; Na 132 mEq/L; K 4.8 mEq/L; 2D Echo: LVEF 36%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 77/min, SpO2 96% on RA. Dry weight 74 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Torsemide 10 mg once daily in the morning until the next visit
+2. Tablet Carvedilol 6.25 mg half tablet twice daily to continue lifelong
+3. Tablet Sacubitril + Valsartan (Vymada) 50 mg twice daily to continue lifelong
+4. Tablet Empagliflozin (Jardiance) 10 mg once daily in the morning lifelong
+5. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch to continue lifelong
+6. Tablet Atorvastatin (Atorva) 40 mg once daily at bedtime lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 23rd February 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - Repeat 2D Echo and review in Cardiology OPD on 13th May 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

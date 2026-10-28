@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Bindu Patel
+Age / Sex    : 58 yrs / Female
+UHID         : CDH1195791      IP No: IP/26/574555
+Admitted on  : 31.07.2026      Discharged on: 07.08.2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 58/F, k/c/o T2DM x 1 yr on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: acute gastroenteritis.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 35 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.11, HCO3 11 mEq/L; Urine ketones +++; RBS at admission 210 mg/dl; HbA1c 13.2%; S. Cr 0.5 mg/dl; K 4.0 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 118/80 mmHg, PR 66/min, SpO2 97% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 14 U SC 0-0-1 (HS) till review
+- Inj. Insulin Regular (Human) 4-4-4 U SC ½ hr before meals till review
+- Tab. Ondem 4 mg SOS for nausea / vomiting (not more than 3 doses in 24 h)
+
+- STOP Tab. Dapagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+    * Oral fluids 2-3 L/day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Sugar > 300 mg/dl on 2 readings
+  * Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow-up:
+  * Review with SMBG chart - DM clinic, Medicine OPD on 14.08.2026 (Fri)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. S. K. Mishra (Consultant)

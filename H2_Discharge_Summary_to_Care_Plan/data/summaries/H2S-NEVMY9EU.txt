@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sachin Khan                    Age/Sex  : 66 Y / M
+UHID       : CDH4375972                     IP No.   : IP/26/762696
+DOA        : 05 Mar 2026                    DOD      : 12 Mar 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 25%
+
+BRIEF HISTORY:
+  - 66/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 12 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 77 kg to 71 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 6678 pg/ml | S. Cr 1.0 mg/dl | Na 137 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 25%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 86/min, SpO2 96% on RA. Dry weight 71 kg.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                       | Dose   | Route | Frequency  | Duration    | Instructions |
++----+--------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Dytor                     | 10 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol 6.25 mg        | ½ tab  | PO    | BD (½-0-½) | Lifelong    |              |
+| 3  | Tab. Ramipril (Cardace)        | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Spironolactone            | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin (Jardiance) | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Aspirin                   | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin              | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+--------------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 19 Mar 2026 (Thu); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Prakash Nair (Consultant)

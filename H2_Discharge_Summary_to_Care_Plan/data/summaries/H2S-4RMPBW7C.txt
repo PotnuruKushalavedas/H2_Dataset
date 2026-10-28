@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Satish Kalita                  Age/Sex  : 50 Y / M
+UHID       : CDH4105915                     IP No.   : IP/26/455575
+DOA        : 04 Jul 2026                    DOD      : 09 Jul 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 50/M, presented with retrosternal chest pain with sweating x 5 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 04 Jul 2026: CAG showed 100% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (04 Jul 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.6 g/dl | S. Cr 0.8 mg/dl | K 4.7 mEq/L | LDL 180 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 44%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 114/80 mmHg, PR 79/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| No | Medicine                    | Dose  | Route | Frequency  | Duration         | Instructions                                                |
++----+-----------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin                | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                 |
+| 2  | Tab. Clopidogrel (Clopitab) | 75 mg | PO    | OD (1-0-0) | 12 months        |                                                             |
+| 3  | Tab. Atorvastatin (Atorva)  | 40 mg | PO    | HS (0-0-1) | Lifelong         |                                                             |
+| 4  | Tab. Seloken XL             | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 5  | Tab. Ramipril               | 5 mg  | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 6  | Tab. Pantocid               | 40 mg | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate   | 5 mg  | SL    | SOS        | -                | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+-----------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 20 Jul 2026 (Mon); bring reports: ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

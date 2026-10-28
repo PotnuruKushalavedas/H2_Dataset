@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Shalini D'Souza, 71/F  UHID: CDH2434277  IP: IP/26/601619
+DOA: 19/03/2026  DOD: 28/03/2026  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 31%
+
+H/o: 71/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 9 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 62 kg to 57 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 3194 pg/ml, S. Cr 0.9 mg/dl, Na 135 mEq/L, K 4.1 mEq/L, 2D Echo: LVEF 31%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 83/min, SpO2 96% on RA. Dry weight 57 kg.
+
+Rx on discharge:
+1) T. Lasix 40 mg OD till review
+2) T. Cardivas 3.125 mg BD life long
+3) T. Vymada 50 mg BD lifelong
+4) T. Aldactone 25 mg OD lifelong
+5) T. Forxiga 10 mg OD lifelong
+6) T. Aspirin 75 mg OD after lunch life long
+7) T. Storvas 40 HS life long
+
+STOP Tab. Dilzem 30 mg (not suitable in weak heart (low EF))
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Marked decrease in urine output
+- Giddiness, fainting or loss of consciousness
+- Palpitations (fast or irregular heartbeat)
+
+F/U:
+- Cardiology OPD on 07/04/2026 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 26/06/2026 - 2D Echo + review
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

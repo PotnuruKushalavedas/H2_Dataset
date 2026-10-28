@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Meena Sahu
+Age / Sex    : 65 yrs / Female
+UHID         : CDH8242447      IP No: IP/26/198151
+Admitted on  : 06/05/2026      Discharged on: 11/05/2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate
+  * Rheumatic heart disease - moderate mitral stenosis
+
+Brief History:
+  * 65/F, presented with palpitations and breathlessness on exertion x 7 days. ECG: AF with FVR (HR 147/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 83/min at discharge.
+
+Investigations:
+  * 2D Echo: thickened MV, MVA 1.4 cm2, LA dilated, LVEF 51%; S. Cr 0.6 mg/dl; Hb 13.6 g/dl; TSH 1.2 mIU/L; Weight 52 kg; INR at discharge 2.3
+
+Condition at Discharge: Stable, rate controlled. BP 124/72 mmHg, PR 77/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Diltiazem 30 mg 1-1-1 till next review
+- Tab. Acenocoumarol 1 mg 0-0-1 after dinner till next review (dose as per INR)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * No self-adjustment of anticoagulant dose; consult before any new drug
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * PT/INR check on 18/05/2026 at Central lab
+  * Review with reports - Cardiology OPD on 26/05/2026 (Tue); bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

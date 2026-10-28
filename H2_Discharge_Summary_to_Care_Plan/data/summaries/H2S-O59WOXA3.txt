@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Jyoti Lal
+Age / Sex    : 40 yrs / Female
+UHID         : CDH1452008      IP No: IP/26/385438
+Admitted on  : 30.01.2026      Discharged on: 06.02.2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis left foot
+  * Systemic hypertension
+
+Brief History:
+  * 40/F, k/c/o T2DM x 9 yrs, presented with swelling, redness and pain over left foot x 6 days following a minor injury. RBS 384 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 11.9%; FBS 262 mg/dl; PPBS 342 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.8 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 114/78 mmHg, PR 82/min, SpO2 98% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 PC long term (lifelong)
+- Tab. Glimepiride (Amaryl) 1 mg 1-0-0 ½ hr before breakfast till review
+- Inj. Insulin Glargine (Lantus) 10 IU SC 0-0-1 (HS) till review
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 after food x 5 days
+To continue other previous medicines for HTN as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Redness, swelling, pus or discharge from the wound
+  * Fever > 100.4 F (38 C)
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - DM clinic, Medicine OPD on 20.02.2026; bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

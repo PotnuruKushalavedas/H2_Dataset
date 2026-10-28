@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Vandana Dhillon    Age: 74 years    Sex: Female
+UHID: CDH7269369    IP Number: IP/26/963918
+Date of admission: 30 Aug 2026    Date of discharge: 05 Sep 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 74/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 157/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 91/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 55%; S. Cr 0.6 mg/dl; Hb 12.5 g/dl; TSH 1.0 mIU/L; Weight 47 kg; CrCl (Cockcroft-Gault) 61 ml/min; CHA2DS2-VASc score 3
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 120/74 mmHg, PR 74/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate (Seloken XL) 25 mg once daily in the morning to continue lifelong
+2. Capsule Dabigatran 150 mg twice daily lifelong
+3. Tablet Amlodipine (Stamlo) 5 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 21 Sep 2026. Please bring: ECG, S. Creatinine, CBC.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

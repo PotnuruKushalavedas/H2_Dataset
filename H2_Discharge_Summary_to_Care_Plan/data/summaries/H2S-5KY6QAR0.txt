@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Divya Rajput    Age: 53 years    Sex: Female
+UHID: CDH7588759    IP Number: IP/26/978236
+Date of admission: 31 May 2026    Date of discharge: 05 Jun 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 34%
+
+HISTORY:
+  - 53/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 68 kg to 62 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 4966 pg/ml; S. Cr 0.6 mg/dl; Na 134 mEq/L; K 4.2 mEq/L; 2D Echo: LVEF 34%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 80/min, SpO2 97% on RA. Dry weight 62 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide (Lasix) 40 mg once daily in the morning until the next visit
+2. Tablet Carvedilol 6.25 mg half tablet twice daily to continue lifelong
+3. Tablet Ramipril 2.5 mg once daily in the morning to continue lifelong
+4. Tablet Spironolactone 25 mg once daily in the morning lifelong
+5. Tablet Jardiance 10 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 12 Jun 2026 (Fri). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - Repeat 2D Echo and review in Cardiology OPD on 03 Sep 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

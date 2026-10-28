@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Sunita Rao, 77/F  UHID: CDH3903610  IP: IP/26/398168
+DOA: 01/05/2026  DOD: 08/05/2026  Cons: Dr. R. Venkatesh (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Community-acquired pneumonia (right upper lobe) - CURB-65 score 1
+- Type 2 diabetes mellitus
+
+H/o: 77/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 5 days.
+
+Course: Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Ix: TLC 19,400/cumm, CRP 136 mg/L, CXR: consolidation right upper lobe, S. Cr 1.5 mg/dl, Blood C/S: no growth
+
+Condn at d/c: Afebrile, comfortable. BP 114/70 mmHg, PR 79/min, SpO2 96% on RA. Chest: crepts reducing.
+
+Rx on discharge:
+1) T. Ceftum 500 mg BD after food x 7 days
+2) T. Paracetamol 650 mg SOS for fever or pain (max 4 doses/day)
+3) T. Trajenta 5 mg OD life long
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+  - Deep breathing exercises - 10 breaths every hour when awake
+  - Gradual increase in walking as tolerated
+  Others:
+  - Influenza and pneumococcal vaccination advised
+
+Review SOS if:
+- Fever recurring, or persisting for more than 3 days after discharge
+- Breathlessness / difficulty in breathing
+- Chest pain, heaviness or sweating
+- Bluish lips / fingertips, drowsiness or confusion
+- Haemoptysis (coughing out blood)
+
+F/U:
+- Gen. Medicine OPD on 15/05/2026 (Fri) - Review with reports with CBC
+- Chest OPD on 19/06/2026 - Repeat CXR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Tarun Fernandes, 63/M  UHID: CDH2559813  IP: IP/26/800330
+DOA: 17/06/2026  DOD: 21/06/2026  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate
+- Rheumatic heart disease - moderate mitral stenosis
+- Dyslipidaemia
+
+H/o: 63/M, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 162/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 76/min at discharge.
+
+Ix: 2D Echo: thickened MV, MVA 1.2 cm2, LA dilated, LVEF 58%, S. Cr 1.1 mg/dl, Hb 11.6 g/dl, TSH 2.3 mIU/L, Weight 68 kg, INR at discharge 1.9
+
+Condn at d/c: Stable, rate controlled. BP 130/74 mmHg, PR 72/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Dilzem 30 mg TDS till review
+2) T. Acitrom 2 mg OD after dinner till review (further dose as per INR)
+3) T. Storvas 10 HS life long
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+  - No self-adjustment of anticoagulant dose; consult before any new drug
+
+Review SOS if:
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Sudden weakness of face, arm or leg, or slurred speech
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+- Breathlessness / difficulty in breathing
+
+F/U:
+- PT/INR check on 26/06/2026 at Hospital laboratory
+- Cardiology OPD on 06/07/2026 - Review with reports with ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

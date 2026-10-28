@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Farhan Kulkarni                Age/Sex  : 47 Y / M
+UHID       : CDH4482651                     IP No.   : IP/26/919255
+DOA        : 23 Apr 2026                    DOD      : 02 May 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 36%
+
+BRIEF HISTORY:
+  - 47/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3 L; weight down from 86 kg to 83 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 3375 pg/ml | S. Cr 0.7 mg/dl | Na 137 mEq/L | K 4.3 mEq/L | 2D Echo: LVEF 36%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 74/min, SpO2 97% on RA. Dry weight 83 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                     | Dose   | Route | Frequency  | Duration    | Instructions |
++----+------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide (Lasix)      | 40 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol 6.25 mg      | ½ tab  | PO    | BD (½-0-½) | Lifelong    |              |
+| 3  | Tab. Cardace                 | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Aldactone               | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin (Forxiga) | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Aspirin                 | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin            | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+------------------------------+--------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 09 May 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

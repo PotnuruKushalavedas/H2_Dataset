@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Yusuf Meena
+Age / Sex    : 72 yrs / Male
+UHID         : CDH6168176      IP No: IP/26/895343
+Admitted on  : 15.01.2026      Discharged on: 19.01.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+
+Brief History:
+  * 72/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 167/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 85/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 50%; S. Cr 0.7 mg/dl; Hb 11.9 g/dl; TSH 3.3 mIU/L; Weight 79 kg; CrCl (Cockcroft-Gault) 106 ml/min; CHA2DS2-VASc score 2
+
+Condition at Discharge: Stable, rate controlled. BP 110/72 mmHg, PR 80/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate ER 50 mg 1-0-0 lifelong
+- Tab. Eliquis 5 mg 1-0-1 lifelong
+- Tab. Telmisartan 40 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 09.02.2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Meenakshi Rao (Consultant)

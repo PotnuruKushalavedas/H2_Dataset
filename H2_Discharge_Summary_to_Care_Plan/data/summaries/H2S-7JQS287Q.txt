@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rupa Yadav                     Age/Sex  : 34 Y / F
+UHID       : CDH7209268                     IP No.   : IP/26/950643
+DOA        : 05/03/2026                     DOD      : 06/03/2026
+Consultant : Dr. Shabnam Ansari, MS (OBG)   Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, GDM on metformin
+  - 2. Delivered by NVD on 05/03/2026
+
+BRIEF HISTORY:
+  - 34/F, diagnosed GDM at 25 wks (OGTT), on Tab. Metformin 500 mg BD. Admitted at 38 wks.
+
+HOSPITAL COURSE:
+  - Vaginal delivery on 05/03/2026: live baby girl, 3.26 kg, APGAR 9/10. Baby's sugars monitored - normal. Mother's postpartum sugars normal off treatment (FBS 86 mg/dl, PPBS 117 mg/dl).
+
+KEY INVESTIGATIONS:
+  - Postpartum FBS 86 mg/dl | Hb 12.0 g/dl | HbA1c (antenatal) 6.1%
+
+CONDITION AT DISCHARGE: Stable. BP 114/74 mmHg, PR 85/min, SpO2 96% on RA. Baby: healthy, breastfeeding.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+------------+----------+-------------------------------------------------+
+| No | Medicine                                  | Dose   | Route | Frequency  | Duration | Instructions                                    |
++----+-------------------------------------------+--------+-------+------------+----------+-------------------------------------------------+
+| 1  | Tab. Dolo                                 | 650 mg | PO    | SOS        | -        | for fever / pain; not more than 4 doses in 24 h |
+| 2  | Tab. Iron + Folic acid (IFA)              | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                                    |
+| 3  | Tab. Calcium carbonate + Vit D3 (Shelcal) | 500 mg | PO    | BD (1-1-0) | 6 months | PC                                              |
++----+-------------------------------------------+--------+-------+------------+----------+-------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Metformin 500 mg (GDM - not needed after delivery)
+
+ADVICE:
+  Diet:
+    - No sugar / sweets; maintain healthy body weight
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Fever above 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - 75 g OGTT - OBG OPD on 16/04/2026
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 16/04/2026; bring reports: Hb
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Shabnam Ansari (Consultant)

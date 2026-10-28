@@ -1,0 +1,72 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nirmala Prajapati              Age/Sex  : 66 Y / F
+UHID       : CDH6172079                     IP No.   : IP/26/414457
+DOA        : 15/02/2026                     DOD      : 19/02/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Lateral wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LCx
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 66/F, k/c/o T2DM, presented with retrosternal chest pain with sweating x 2 hrs. ECG: ST elevation in I, aVL, V5-V6.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 16/02/2026: CAG showed 96% thrombotic occlusion of proximal LCx; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LCx (16/02/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.6 g/dl | S. Cr 0.7 mg/dl | K 4.1 mEq/L | LDL 129 mg/dl | 2D Echo: RWMA in LCx territory, LVEF 37% | HbA1c 8.9%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 110/74 mmHg, PR 85/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration         | Instructions                                                                   |
++----+----------------------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                           | 75 mg  | PO    | OD (0-1-0) | Lifelong         | after lunch                                                                    |
+| 2  | Tab. Clopidogrel (Clopitab)            | 75 mg  | PO    | OD (1-0-0) | 1 year           |                                                                                |
+| 3  | Tab. Rosuvastatin                      | 20 mg  | PO    | HS (0-0-1) | Lifelong         |                                                                                |
+| 4  | Tab. Seloken XL                        | 25 mg  | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 5  | Tab. Ramipril (Cardace)                | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 6  | Tab. Rablet                            | 20 mg  | PO    | OD (1-0-0) | Till next review | 30 min before breakfast                                                        |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -                | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Spironolactone                    | 25 mg  | PO    | OD (1-0-0) | Till review      |                                                                                |
+| 9  | Tab. Dapagliflozin (Forxiga)           | 10 mg  | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 10 | Tab. Metformin                         | 500 mg | PO    | BD (1-0-1) | Lifelong         | PC                                                                             |
++----+----------------------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 02/03/2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+  - Get Lipid profile (fasting) done on 02/04/2026 (Hospital laboratory)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

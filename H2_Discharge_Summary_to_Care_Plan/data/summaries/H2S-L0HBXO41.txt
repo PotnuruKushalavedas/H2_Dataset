@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Naresh Prajapati
+Age / Sex    : 67 yrs / Male
+UHID         : CDH8381989      IP No: IP/26/247483
+Admitted on  : 26.08.2026      Discharged on: 01.09.2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+
+Brief History:
+  * 67/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 6 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 16,800/cumm; CRP 158 mg/L; CXR: consolidation left lower lobe; S. Cr 0.8 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 130/70 mmHg, PR 66/min, SpO2 96% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 after food x 7 days
+- Tab. Paracetamol 650 mg SOS for pain (max 3 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises 10 times every hour while awake
+    * Gradually increase walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 08.09.2026 (Tue); bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Farah Siddiqui (Consultant)

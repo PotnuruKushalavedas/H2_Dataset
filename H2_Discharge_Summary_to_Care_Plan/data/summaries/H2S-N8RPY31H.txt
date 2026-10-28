@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Simran Khan, 66/F  UHID: CDH3575140  IP: IP/26/252705
+DOA: 30-Apr-26  DOD: 09-May-26  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 25%
+
+H/o: 66/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5 L; weight down from 56 kg to 51 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 5294 pg/ml, S. Cr 0.5 mg/dl, Na 133 mEq/L, K 3.8 mEq/L, 2D Echo: LVEF 25%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 81/min, SpO2 99% on RA. Dry weight 51 kg.
+
+Rx on discharge:
+1) T. Dytor 10 OD till next review
+2) T. Concor 2.5 OD lifelong
+3) T. Cardace 2.5 mg OD lifelong
+4) T. Spironolactone 25 mg OD life long
+5) T. Jardiance 10 mg OD lifelong
+6) T. Ecosprin 75 OD after lunch life long
+7) T. Storvas 40 HS lifelong
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest / on lying down flat
+- Increasing swelling of feet or legs
+- Marked decrease in urine output
+- Giddiness, fainting or loss of consciousness
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Cardiology OPD on 16-May-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Prakash Nair (Consultant)

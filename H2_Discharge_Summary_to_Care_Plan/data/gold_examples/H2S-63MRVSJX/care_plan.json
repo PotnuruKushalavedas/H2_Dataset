@@ -1,0 +1,70 @@
+{
+  "summary_id": "H2S-63MRVSJX",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Insulin Glargine",
+        "dose": "18 units",
+        "frequency": "OD (0-0-1)",
+        "timing": "at 10 pm every night",
+        "duration": "till next review",
+        "how_to_take_plain": "Inject 18 units under the skin once a day, at 10 pm every night, until your next check-up."
+      },
+      {
+        "name": "Short-acting Regular Insulin",
+        "dose": "6 units before breakfast, 4 units before lunch, 6 units before dinner",
+        "frequency": "TDS (6-4-6)",
+        "timing": "half an hour before each meal",
+        "duration": "till next review",
+        "how_to_take_plain": "Inject under the skin: 6 units before breakfast, 4 units before lunch, 6 units before dinner (half an hour before each meal), until your next check-up."
+      }
+    ],
+    "stop_medicines": [
+      "Dapagliflozin 10 mg"
+    ],
+    "warning_signs": [
+      "Signs of low sugar: sweating, shaking, confusion. Take 3 teaspoons of sugar or glucose in water at once, then come to hospital. If the person is drowsy, do not give anything by mouth; bring them to hospital",
+      "Blood sugar above 300 mg/dl on two checks",
+      "Vomiting, belly pain, fast breathing, or feeling very drowsy"
+    ],
+    "diet": [
+      "Diabetic food: do not eat sugar, sweets, jaggery (gur) or honey, and do not drink fruit juice",
+      "Eat small meals often; do not skip any meal",
+      "Drink 2 to 3 litres of fluids a day"
+    ],
+    "activity": [],
+    "follow_ups": [
+      {
+        "date": "2026-04-22",
+        "with_whom": "Hospital laboratory (blood test)",
+        "purpose": "Blood tests for the kidneys and blood salts (electrolytes)",
+        "bring": []
+      },
+      {
+        "date": "2026-04-23",
+        "with_whom": "Diabetes Clinic (Medicine OPD)",
+        "purpose": "Check-up. Bring with you: your sugar chart",
+        "bring": [
+          "your sugar chart"
+        ]
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Check your blood sugar 4 times a day (before each meal and at bedtime) and write it in a chart",
+      "Change the injection spot each time (belly or thigh); keep insulin in the fridge, not in the freezer",
+      "Do not stop insulin even when you are sick; check sugar every 4 hours and contact the hospital",
+      "Always carry sugar or glucose with you"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Sunil Ghosh    Age: 62 years\nWent home from hospital on: 2026-04-18 (18 April 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had diabetic ketoacidosis (DKA): very high blood sugar that made the blood acidic. It was treated in hospital and you are now on insulin.\n\nYOUR MEDICINES (take exactly as written)\n1. Insulin Glargine 18 units\n   - Inject 18 units under the skin once a day, at 10 pm every night, until your next check-up.\n   - What it is for: long-acting insulin that controls blood sugar through the day and night.\n2. Short-acting Regular Insulin 6 units before breakfast, 4 units before lunch, 6 units before dinner\n   - Inject under the skin: 6 units before breakfast, 4 units before lunch, 6 units before dinner (half an hour before each meal), until your next check-up.\n   - What it is for: short-acting insulin that controls the sugar rise after meals.\n\nMEDICINES TO STOP\n- STOP Dapagliflozin 10 mg. Do not take it any more: it can cause the dangerous acid problem (ketoacidosis) again; do not restart it.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Signs of low sugar: sweating, shaking, confusion. Take 3 teaspoons of sugar or glucose in water at once, then come to hospital. If the person is drowsy, do not give anything by mouth; bring them to hospital\n- Blood sugar above 300 mg/dl on two checks\n- Vomiting, belly pain, fast breathing, or feeling very drowsy\n\nFOOD\n- Diabetic food: do not eat sugar, sweets, jaggery (gur) or honey, and do not drink fruit juice\n- Eat small meals often; do not skip any meal\n- Drink 2 to 3 litres of fluids a day\n\nOTHER ADVICE\n- Check your blood sugar 4 times a day (before each meal and at bedtime) and write it in a chart\n- Change the injection spot each time (belly or thigh); keep insulin in the fridge, not in the freezer\n- Do not stop insulin even when you are sick; check sugar every 4 hours and contact the hospital\n- Always carry sugar or glucose with you\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-04-22 (Wednesday, 22 April 2026): Hospital laboratory (blood test). Blood tests for the kidneys and blood salts (electrolytes).\n- 2026-04-23 (Thursday, 23 April 2026): Diabetes Clinic (Medicine OPD). Check-up. Bring with you: your sugar chart.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Sunil Ghosh    उम्र: 62 साल\nअस्पताल से छुट्टी की तारीख़: 2026-04-18 (18 अप्रैल 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको डायबिटिक कीटोएसिडोसिस (DKA) हुआ था: बहुत ज़्यादा शुगर की वजह से खून में एसिड बढ़ गया था। अस्पताल में इसका इलाज हुआ और अब आपको इंसुलिन दिया जा रहा है।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Insulin Glargine 18 units\n   - दिन में 1 बार, हर रात 10 बजे: 18 units इंसुलिन त्वचा के नीचे लगाएँ; अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: लंबे समय तक असर करने वाला इंसुलिन, जो दिन-रात शुगर को काबू में रखता है।\n2. Regular Insulin (कम समय तक असर करने वाला) नाश्ते से पहले 6 units, दोपहर के खाने से पहले 4 units, रात के खाने से पहले 6 units\n   - त्वचा के नीचे इंसुलिन लगाएँ: नाश्ते से पहले 6 units, दोपहर के खाने से पहले 4 units, रात के खाने से पहले 6 units (हर खाने से आधा घंटा पहले), अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: कम समय तक असर करने वाला इंसुलिन, जो खाने के बाद शुगर बढ़ने से रोकता है।\n\nये दवाइयाँ बंद करें\n- Dapagliflozin 10 mg लेना बंद करें। इसे अब बिल्कुल न लें: इससे फिर से खून में एसिड बढ़ने की खतरनाक बीमारी (ketoacidosis) हो सकती है; इसे दोबारा शुरू न करें।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- शुगर कम होने के लक्षण: पसीना, कंपकंपी, सोचने-समझने में गड़बड़ी। तुरंत 3 छोटे (चाय वाले) चम्मच चीनी या ग्लूकोज़ पानी में घोलकर पिएँ, फिर अस्पताल आएँ। अगर मरीज़ बहुत सुस्त/बेहोश-सा हो, तो मुँह से कुछ न दें; सीधे अस्पताल लाएँ\n- 2 बार जाँच में शुगर 300 mg/dl से ज़्यादा आना\n- उल्टी, पेट दर्द, तेज़ सांस चलना, या बहुत सुस्ती/नींद आना\n\nखाना\n- डायबिटीज़ वाला खाना: चीनी, मिठाई, गुड़ या शहद न खाएँ, और फलों का जूस न पिएँ\n- थोड़ा-थोड़ा खाना बार-बार खाएँ; कोई भी खाना न छोड़ें\n- दिन में 2 से 3 लीटर पानी/पेय पिएँ\n\nअन्य सलाह\n- दिन में 4 बार शुगर जाँचें (हर खाने से पहले और सोते समय) और चार्ट में लिखें\n- हर बार इंजेक्शन की जगह बदलें (पेट या जांघ); इंसुलिन को फ़्रिज में रखें, फ़्रीज़र में नहीं\n- बीमार होने पर भी इंसुलिन बंद न करें; हर 4 घंटे में शुगर जाँचें और अस्पताल से संपर्क करें\n- हमेशा अपने पास चीनी या ग्लूकोज़ रखें\n\nअगली बार अस्पताल कब आना है\n- 2026-04-22 (बुधवार, 22 अप्रैल 2026): अस्पताल की लैब (खून की जाँच)। गुर्दे और खून में नमक (electrolytes) की जाँच।\n- 2026-04-23 (गुरुवार, 23 अप्रैल 2026): डायबिटीज़ क्लिनिक (Medicine OPD)। डॉक्टर को दिखाने आएँ। साथ लाएँ: अपना शुगर चार्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 6.6
+  }
+}

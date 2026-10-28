@@ -1,0 +1,74 @@
+{
+  "summary_id": "H2S-OYE2W49B",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Bisoprolol (Concor)",
+        "dose": "5 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (5 mg) once a day, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Rivaroxaban (Xarelto)",
+        "dose": "15 mg",
+        "frequency": "OD",
+        "timing": "with your evening meal (dinner)",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (15 mg) once a day, with your evening meal (dinner), every day for life; do not stop on your own."
+      },
+      {
+        "name": "Telmisartan (Telma)",
+        "dose": "40 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, every day for life; do not stop on your own."
+      }
+    ],
+    "stop_medicines": [
+      "Aspirin (Ecosprin) 75 mg"
+    ],
+    "warning_signs": [
+      "Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood",
+      "Sudden weakness of the face, arm or leg, or unclear speech (signs of stroke)",
+      "Heart racing or beating unevenly",
+      "Dizziness, fainting or passing out",
+      "Breathlessness or trouble breathing"
+    ],
+    "diet": [
+      "Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen"
+    ],
+    "activity": [
+      "Slowly increase your walking day by day, as much as you comfortably can"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-02-28",
+        "with_whom": "Cardiology (heart) OPD",
+        "purpose": "Check-up with your test reports. Bring with you: your ECG, your creatinine (kidney test) report, your CBC (blood count) report",
+        "bring": [
+          "your ECG",
+          "your creatinine (kidney test) report",
+          "your CBC (blood count) report"
+        ]
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Do not buy and take painkillers from a chemist without asking a doctor",
+      "Never stop your blood-thinning medicines on your own, even for a dental or small procedure, without asking the heart doctor"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Vandana Tiwari    Age: 83 years\nWent home from hospital on: 2026-02-14 (14 February 2026)\n\nWHY YOU WERE IN HOSPITAL\nYour heartbeat is irregular and fast (atrial fibrillation). This can cause clots and stroke, so you have been started on a blood thinner and a medicine to control the heart rate.\n\nYOUR MEDICINES (take exactly as written)\n1. Bisoprolol (Concor) 5 mg\n   - Take 1 tablet (5 mg) once a day, every day for life; do not stop on your own.\n   - What it is for: slows the heart rate and protects the heart.\n2. Rivaroxaban (Xarelto) 15 mg\n   - Take 1 tablet (15 mg) once a day, with your evening meal (dinner), every day for life; do not stop on your own.\n   - What it is for: thins the blood to prevent clots.\n3. Telmisartan (Telma) 40 mg\n   - Take 1 tablet (40 mg) once a day, every day for life; do not stop on your own.\n   - What it is for: lowers blood pressure.\n\nMEDICINES TO STOP\n- STOP Aspirin (Ecosprin) 75 mg. Do not take it any more: you have now been started on a different blood thinner instead.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood\n- Sudden weakness of the face, arm or leg, or unclear speech (signs of stroke)\n- Heart racing or beating unevenly\n- Dizziness, fainting or passing out\n- Breathlessness or trouble breathing\n\nFOOD\n- Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen\n\nACTIVITY\n- Slowly increase your walking day by day, as much as you comfortably can\n\nOTHER ADVICE\n- Do not buy and take painkillers from a chemist without asking a doctor\n- Never stop your blood-thinning medicines on your own, even for a dental or small procedure, without asking the heart doctor\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-02-28 (Saturday, 28 February 2026): Cardiology (heart) OPD. Check-up with your test reports. Bring with you: your ECG, your creatinine (kidney test) report, your CBC (blood count) report.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Vandana Tiwari    उम्र: 83 साल\nअस्पताल से छुट्टी की तारीख़: 2026-02-14 (14 फ़रवरी 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपके दिल की धड़कन अनियमित और तेज़ है (एट्रियल फ़िब्रिलेशन)। इससे खून के थक्के बन सकते हैं और लकवा हो सकता है, इसलिए आपके लिए खून पतला करने की दवा और धड़कन काबू में रखने की दवा शुरू की गई हैं।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Bisoprolol (Concor) 5 mg\n   - दिन में 1 बार: 1 गोली (5 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: दिल की धड़कन धीमी रखने और दिल की रक्षा के लिए।\n2. Rivaroxaban (Xarelto) 15 mg\n   - दिन में 1 बार, रात के खाने के साथ: 1 गोली (15 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: खून पतला रखकर थक्का (clot) बनने से रोकने के लिए।\n3. Telmisartan (Telma) 40 mg\n   - दिन में 1 बार: 1 गोली (40 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: ब्लड प्रेशर कम करने के लिए।\n\nये दवाइयाँ बंद करें\n- Aspirin (Ecosprin) 75 mg लेना बंद करें। इसे अब बिल्कुल न लें: अब इसकी जगह आपको खून पतला करने की दूसरी दवा दी गई है।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- कहीं से भी खून आना: मसूड़ों से, पेशाब में, काला या लाल मल (पाखाना), या खून की उल्टी\n- चेहरे, हाथ या पैर में अचानक कमज़ोरी, या ज़बान लड़खड़ाना या साफ़ न बोल पाना (लकवे के लक्षण)\n- दिल की धड़कन बहुत तेज़ या अनियमित (कभी तेज़, कभी रुक-रुक कर) होना\n- चक्कर आना, बेहोश होना या होश खो देना\n- सांस फूलना या सांस लेने में तकलीफ़\n\nखाना\n- कम नमक वाला खाना: दिन में 5 g से कम नमक; अचार, पापड़ और नमकीन न खाएँ\n\nचलना-फिरना और काम\n- धीरे-धीरे रोज़ थोड़ा ज़्यादा चलें, जितना आराम से चल सकें\n\nअन्य सलाह\n- डॉक्टर से पूछे बिना केमिस्ट से दर्द की दवा लेकर न खाएँ\n- दाँत के इलाज या छोटे ऑपरेशन के लिए भी, दिल के डॉक्टर से पूछे बिना खून पतला करने वाली दवाएँ खुद से बंद न करें\n\nअगली बार अस्पताल कब आना है\n- 2026-02-28 (शनिवार, 28 फ़रवरी 2026): दिल के रोग की ओपीडी (Cardiology OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ। साथ लाएँ: ECG, क्रिएटिनिन (गुर्दे की जाँच) की रिपोर्ट, CBC (खून की पूरी जाँच) की रिपोर्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 6.16
+  }
+}

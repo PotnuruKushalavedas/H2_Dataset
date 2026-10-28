@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Mohammed Pillai
+Age / Sex    : 73 yrs / Male
+UHID         : CDH4624879      IP No: IP/26/100405
+Admitted on  : 10.02.2026      Discharged on: 17.02.2026
+Consultant   : Dr. Imran Qureshi, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute exacerbation of COPD (infective)
+
+Brief History:
+  * 73/M, chronic smoker (45 pack-yrs), k/c/o COPD x 11 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 1 day. Improved; weaned to room air.
+
+Investigations:
+  * ABG at admission: pH 7.31, pCO2 58 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 12,500/cumm; RBS 117 mg/dl; ECG: sinus rhythm
+
+Condition at Discharge: Breathlessness mMRC grade 2. BP 118/76 mmHg, PR 74/min, SpO2 91% on RA.
+
+Medications at Discharge:
+- Rotacap Tiotropium 18 mcg 1 rotacap 1-0-0 long term (lifelong) (via rotahaler)
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 lifelong (via spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (not more than 8 puffs in 24 h)
+- Tab. Omnacortil 40 mg 1-0-0 after breakfast x 5 days
+- Cap. Doxycycline 100 mg 1-0-1 after food x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Pursed lip breathing + daily walk as tolerated
+  General:
+    * Inhaler technique demonstrated - use with spacer
+    * Flu + pneumococcal vaccine advised
+    * Stop smoking and all forms of tobacco
+
+Danger signs - report to Casualty immediately:
+  * Breathlessness / difficulty in breathing
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Fever above 100.4 F (38 C)
+  * Increase in sputum quantity or change to yellow/green colour
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 03.03.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Imran Qureshi (Consultant)

@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Murugan Gaikwad, 70/M  UHID: CDH7734752  IP: IP/26/987652
+DOA: 19-Sep-26  DOD: 25-Sep-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - Anterior wall STEMI
+- CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+H/o: 70/M, smoker, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+Course: Taken up for primary PCI on 20-Sep-26: CAG showed 100% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Procedure: CAG + PCI with 1 DES to LAD (20-Sep-26)
+
+Ix: Hb 14.4 g/dl, S. Cr 1.1 mg/dl, K 4.3 mEq/L, LDL 188 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 60%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 120/72 mmHg, PR 88/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 OD after lunch lifelong
+2) T. Clopitab 75 mg OD x 12/12
+3) T. Storvas 40 mg HS lifelong
+4) T. Concor 5 mg OD life long
+5) T. Telma 40 OD lifelong
+6) T. Razo 20 OD 30 min before breakfast till next review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+Adv:
+  Diet:
+  - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - No heavy lifting (more than 5 kg) for 4 weeks
+  - No driving for 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Review SOS if:
+- Chest pain not relieved after 3 SL tablets taken 5 min apart
+- Breathlessness or difficulty in breathing
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 05-Oct-26 (Mon) - Review with reports with ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

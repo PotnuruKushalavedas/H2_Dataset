@@ -1,0 +1,69 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rani Hegde                     Age/Sex  : 28 Y / F
+UHID       : CDH8782091                     IP No.   : IP/26/905024
+DOA        : 09/04/2026                     DOD      : 14/04/2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Emergency LSCS for fetal distress on 10/04/2026
+
+BRIEF HISTORY:
+  - 28/F, G2 at 37 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 10/04/2026 for fetal distress. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby girl, 2.54 kg, APGAR 8/9. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (10/04/2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 9.2 g/dl | Blood group O +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 120/72 mmHg, PR 71/min, SpO2 97% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+-------------+----------+-------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency   | Duration | Instructions            |
++----+--------------------------------------------+--------+-------+-------------+----------+-------------------------+
+| 1  | Tab. Zifi                                  | 200 mg | PO    | BD (1-0-1)  | 5 days   | PC                      |
+| 2  | Tab. Paracetamol                           | 650 mg | PO    | TDS (1-1-1) | 5 days   | PC                      |
+| 3  | Tab. Diclofenac                            | 50 mg  | PO    | BD (1-0-1)  | 3 days   | PC                      |
+| 4  | Tab. Pantoprazole                          | 40 mg  | PO    | OD (1-0-0)  | 5 days   | 30 min before breakfast |
+| 5  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner            |
+| 6  | Tab. Calcium carbonate + Vit D3            | 500 mg | PO    | BD (1-1-0)  | 6 months | after food              |
++----+--------------------------------------------+--------+-------+-------------+----------+-------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - No heavy lifting (more than 5 kg) for 6 weeks
+  Wound care:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever above 100.4 F (38 C)
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Severe headache / blurred vision / epigastric pain
+  - Breast - painful red hard swelling with fever
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Wound check - Obstetrics & Gynaecology OPD on 18/04/2026 (Sat) (POD 8)
+  - Postnatal check-up (6 weeks) - OBG OPD on 22/05/2026 (Fri); bring reports: Hb
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Lakshmi Iyer (Consultant)

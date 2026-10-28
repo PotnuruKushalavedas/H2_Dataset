@@ -1,0 +1,59 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Mahesh Murmu    Age: 58 years    Sex: Male
+UHID: CDH8726446    IP Number: IP/26/619341
+Date of admission: 14th July 2026    Date of discharge: 23rd July 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 34%
+
+HISTORY:
+  - 58/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 9 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 59 kg to 53 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 7402 pg/ml; S. Cr 0.7 mg/dl; Na 132 mEq/L; K 4.4 mEq/L; 2D Echo: LVEF 34%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 69/min, SpO2 96% on RA. Dry weight 53 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide (Lasix) 40 mg once daily in the morning until the next visit
+2. Tablet Metoprolol Succinate (Met XL) 12.5 mg once daily in the morning to continue lifelong
+3. Tablet Ramipril 2.5 mg once daily in the morning lifelong
+4. Tablet Spironolactone 25 mg once daily in the morning lifelong
+5. Tablet Dapagliflozin 10 mg once daily in the morning to continue lifelong
+
+PLEASE STOP:
+  - Tab. Diclofenac 50 mg (not safe with heart disease)
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 3rd August 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - Repeat 2D Echo and review in Cardiology OPD on 21st October 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

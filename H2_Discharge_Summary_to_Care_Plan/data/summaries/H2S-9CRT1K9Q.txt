@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Hema Shetty    Age: 76 years    Sex: Female
+UHID: CDH9244381    IP Number: IP/26/585911
+Date of admission: 5th February 2026    Date of discharge: 11th February 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 76/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 7 days. ECG: AF with FVR (HR 137/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 89/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 58%; S. Cr 0.9 mg/dl; Hb 13.1 g/dl; TSH 3.2 mIU/L; Weight 68 kg; CrCl (Cockcroft-Gault) 57 ml/min; CHA2DS2-VASc score 4
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 114/80 mmHg, PR 78/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate 50 mg once daily in the morning to continue lifelong
+2. Capsule Dabigatran (Pradaxa) 110 mg twice daily lifelong
+3. Tablet Amlodipine 5 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 25th February 2026 (Wed). Please bring: ECG, S. Creatinine, CBC.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

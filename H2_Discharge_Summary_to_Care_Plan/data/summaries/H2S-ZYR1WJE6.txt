@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Prakash D'Souza                Age/Sex  : 35 Y / M
+UHID       : CDH8817800                     IP No.   : IP/26/808617
+DOA        : 05/06/2026                     DOD      : 10/06/2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute severe asthma (exacerbation of bronchial asthma)
+
+BRIEF HISTORY:
+  - 35/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 3 days, unable to complete sentences.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 142 to 355 L/min. Inhaler technique taught.
+
+KEY INVESTIGATIONS:
+  - PEFR at discharge 355 L/min | CXR: no pneumothorax, no consolidation | AEC 682/cumm | TLC 8,200/cumm
+
+CONDITION AT DISCHARGE: No wheeze at rest, speaking full sentences. BP 130/72 mmHg, PR 80/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+---------+-------+------------+----------+------------------------------------------------------------+
+| No | Medicine                                 | Dose    | Route | Frequency  | Duration | Instructions                                               |
++----+------------------------------------------+---------+-------+------------+----------+------------------------------------------------------------+
+| 1  | Inh. Budesonide + Formoterol (6/200 mcg) | 1 puff  | Inh   | BD (1-0-1) | Lifelong | via spacer; gargle after use                               |
+| 2  | Inh. Salbutamol (100 mcg)                | 2 puffs | Inh   | SOS        | -        | for breathlessness / wheeze; not more than 8 puffs in 24 h |
+| 3  | Tab. Prednisolone                        | 30 mg   | PO    | OD (1-0-0) | 5 days   | after breakfast                                            |
+|    |   then                                   | 20 mg   |       | OD         | 5 days   |                                                            |
+|    |   then                                   | 10 mg   |       | OD         | 5 days   | then stop                                                  |
++----+------------------------------------------+---------+-------+------------+----------+------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Avoid dust, smoke and cold air (asthma triggers)
+  Other:
+    - Inhaler technique taught; to use with spacer
+    - No smoking / no tobacco in any form
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Too breathless to complete sentences
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Chest pain, heaviness or sweating
+
+FOLLOW-UP:
+  - Review with reports - Pulmonary Medicine (Chest) OPD on 17/06/2026 (Wed)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Kavita Deshmukh (Consultant)

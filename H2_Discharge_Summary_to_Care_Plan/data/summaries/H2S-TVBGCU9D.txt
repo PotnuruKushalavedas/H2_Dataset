@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mary Dhillon                   Age/Sex  : 55 Y / F
+UHID       : CDH1921798                     IP No.   : IP/26/350853
+DOA        : 27/04/2026                     DOD      : 30/04/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 55/F, k/c/o T2DM x 11 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.8%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.8% | FBS 239 mg/dl | PPBS 353 mg/dl | S. Cr 1.0 mg/dl | Urine microalbumin 168 mg/g | Fundus: mild NPDR
+
+CONDITION AT DISCHARGE: Stable. BP 110/80 mmHg, PR 72/min, SpO2 97% on RA. Pre-meal sugars 120-186 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+--------------+-------+------------+------------------+------------------------------------+
+| No | Medicine                        | Dose         | Route | Frequency  | Duration         | Instructions                       |
++----+---------------------------------+--------------+-------+------------+------------------+------------------------------------+
+| 1  | Inj. Human Premix Insulin 30/70 | 14-0-6 units | SC    | BD         | Till next review | 30 min before breakfast and dinner |
+| 2  | Tab. Metformin                  | 500 mg       | PO    | BD (1-0-1) | Lifelong         | PC                                 |
++----+---------------------------------+--------------+-------+------------+------------------+------------------------------------+
+  Continue previous medications for hypothyroidism as before.
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 2 mg (since started on insulin)
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Always carry sugar or glucose with you
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with sugar chart - DM clinic, Medicine OPD on 11/05/2026
+  - HbA1c and review - Diabetes Clinic (Medicine OPD) on 29/07/2026; bring reports: S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

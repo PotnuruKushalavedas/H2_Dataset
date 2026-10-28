@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vandana Pandey                 Age/Sex  : 28 Y / F
+UHID       : CDH3414150                     IP No.   : IP/26/166268
+DOA        : 08 Jul 2026                    DOD      : 09 Jul 2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, FTNVD with RMLE on 08 Jul 2026
+
+BRIEF HISTORY:
+  - 28/F, G2P1L1 at 38 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 3.1 kg, APGAR 8/9, on 08 Jul 2026. Episiotomy (RMLE) sutured. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 10.6 g/dl | Blood group O +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 130/80 mmHg, PR 82/min, SpO2 98% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+----------+--------------------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration | Instructions                                     |
++----+--------------------------------------------+--------+-------+------------+----------+--------------------------------------------------+
+| 1  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                                     |
+| 2  | Tab. Calcium + Vitamin D3                  | 500 mg | PO    | BD (1-1-0) | 6 months | PC                                               |
+| 3  | Tab. Paracetamol                           | 650 mg | PO    | SOS        | -        | for fever or pain; not more than 3 doses in 24 h |
++----+--------------------------------------------+--------+-------+------------+----------+--------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal hygiene - wash with clean water after toilet; change pads every 4-6 hours
+    - Warm sitz bath BD x 1 week
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Foul-smelling vaginal discharge
+  - Fever above 100.4 F (38 C)
+  - Painful, red, hard swelling of the breast with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+
+FOLLOW-UP:
+  - PNC visit at 6 weeks - OBG OPD on 20 Aug 2026 (Thu); bring reports: Hb
+  - Infant immunisation - 6 week dose - Paediatric immunisation clinic on 20 Aug 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Lakshmi Iyer (Consultant)

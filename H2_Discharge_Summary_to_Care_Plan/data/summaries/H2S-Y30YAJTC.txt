@@ -1,0 +1,48 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Farhan Patel, 33/M  UHID: CDH9313863  IP: IP/26/132753
+DOA: 03-Mar-26  DOD: 09-Mar-26  Cons: Dr. Rajesh Kumar Verma (Surgery Unit II)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis with localised perforation
+- s/p Laparoscopic appendicectomy (03-Mar-26)
+
+H/o: 33/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Course: Emergency laparoscopic appendicectomy under GA on 03-Mar-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure: Laparoscopic appendicectomy under GA (03-Mar-26)
+
+Ix: TLC 16,500/cumm, CRP 75 mg/L, HPE: awaited, Hb 12.8 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 120/74 mmHg, PR 70/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Cefuroxime 500 mg BD after food x 7/7
+2) T. Metrogyl 400 mg TDS after food x 7/7 (no alcohol during course)
+3) T. Crocin 500 TDS PC x 5/7
+4) T. Pantocid 40 mg OD ½ hr before breakfast x 5/7
+
+Adv:
+  Diet:
+  - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+  - Walk around the house several times a day
+  - No heavy lifting (more than 5 kg) for 4 weeks
+  - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound:
+  - Keep the wound clean and dry
+  - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Review SOS if:
+- Fever > 100.4 F (38 C)
+- Wound site redness / swelling / pus or discharge
+- Severe / increasing abdominal pain
+- Persistent vomiting / not able to take orally
+- Abdominal distension, not passing stools / flatus
+
+F/U:
+- Surgery OPD on 11-Mar-26 - Wound inspection (POD 8)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Rajesh Kumar Verma (Consultant)

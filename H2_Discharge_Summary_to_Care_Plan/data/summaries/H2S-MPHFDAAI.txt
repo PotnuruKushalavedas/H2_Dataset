@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Sachin Shaikh, 23/M  UHID: CDH9258427  IP: IP/26/378098
+DOA: 15/09/2026  DOD: 21/09/2026  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+H/o: 23/M, presented with cough x 10 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 16/09/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: bilateral upper zone infiltrates with cavity, Hb 10.2 g/dl, LFT: within normal limits, RBS 129 mg/dl, HIV: non-reactive, Weight 42 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 124/78 mmHg, PR 80/min, SpO2 97% on RA.
+
+Rx on discharge:
+1) T. Forecox 3 tablets OD on empty stomach x 51 days (weight-band dose; to complete IP of 8 wks; then review for continuation phase)
+2) T. Pyridoxine (Vit B6) 10 mg OD till next review
+
+Adv:
+  Diet:
+  - High protein diet - dal / eggs / milk / soya
+  - Strictly no alcohol
+  Others:
+  - Take TB medicines daily without missing a dose; complete the full course
+  - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+  - Household contacts - TB screening at nearest PHC
+  - No smoking / no tobacco in any form
+  - Urine may turn orange-red due to TB medicine - harmless
+
+Review SOS if:
+- Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+- Blurring of vision or difficulty in telling colours apart
+- Generalised skin rash / itching
+- Haemoptysis (coughing out blood)
+- Breathlessness or difficulty in breathing
+
+F/U:
+- TB clinic (DOTS centre) on 06/10/2026 (Tue) - LFT and review
+- TB clinic (DOTS centre) on 12/11/2026 (Thu) - Sputum examination at end of intensive phase
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. T. Raghavan (Consultant)

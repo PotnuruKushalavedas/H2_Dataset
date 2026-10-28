@@ -1,0 +1,54 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nirmala Yadav                  Age/Sex  : 42 Y / F
+UHID       : CDH8912006                     IP No.   : IP/26/537663
+DOA        : 05/06/2026                     DOD      : 09/06/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+
+BRIEF HISTORY:
+  - 42/F, k/c/o T2DM x 7 yrs, stopped medicines 6 months ago, presented with polyuria, polydipsia, generalised weakness x 14 days. RBS 519 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.3% | FBS 268 mg/dl | PPBS 324 mg/dl | S. Cr 0.7 mg/dl | Urine routine: sugar ++, ketones nil | Hb 14.5 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 120/72 mmHg, PR 71/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+----------+-------+------------+------------------+---------------------------+
+| No | Medicine                  | Dose     | Route | Frequency  | Duration         | Instructions              |
++----+---------------------------+----------+-------+------------+------------------+---------------------------+
+| 1  | Tab. Metformin            | 1000 mg  | PO    | BD (1-0-1) | Lifelong         | after food                |
+| 2  | Tab. Glimepiride          | 2 mg     | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast     |
+| 3  | Inj. Lantus               | 10 units | SC    | OD (0-0-1) | Till review      | at 10 pm daily            |
+| 4  | Tab. Storvas              | 20 mg    | PO    | HS (0-0-1) | Lifelong         |                           |
+| 5  | Tab. Paracetamol (Crocin) | 650 mg   | PO    | SOS        | -                | for pain; max 3 doses/day |
++----+---------------------------+----------+-------+------------+------------------+---------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Sugar > 300 mg/dl on 2 readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 16/06/2026; bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Salim Krishnan                 Age/Sex  : 39 Y / M
+UHID       : CDH9436515                     IP No.   : IP/26/472888
+DOA        : 05/07/2026                     DOD      : 10/07/2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 39/M, k/c/o T2DM x 10 yrs, presented with swelling, redness and pain over left foot x 4 days following a minor injury. RBS 423 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 12.5% | FBS 226 mg/dl | PPBS 296 mg/dl | S. Cr 0.6 mg/dl | Urine routine: sugar ++, ketones nil | Hb 11.7 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 130/74 mmHg, PR 78/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+-------------+------------------+---------------------------+
+| No | Medicine                           | Dose   | Route | Frequency   | Duration         | Instructions              |
++----+------------------------------------+--------+-------+-------------+------------------+---------------------------+
+| 1  | Tab. Metformin                     | 500 mg | PO    | BD (1-0-1)  | Lifelong         | after food                |
+| 2  | Tab. Amaryl                        | 2 mg   | PO    | OD (1-0-0)  | Till review      | 30 min before breakfast   |
+| 3  | Inj. Insulin Glargine (Basalog)    | 10 U   | SC    | HS (0-0-1)  | Till next review |                           |
+| 4  | Tab. Amoxycillin + Clavulanic acid | 625 mg | PO    | TDS (1-1-1) | 5 days           | PC                        |
+| 5  | Tab. Paracetamol                   | 650 mg | PO    | SOS         | -                | for pain; max 4 doses/day |
++----+------------------------------------+--------+-------+-------------+------------------+---------------------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 24/07/2026 (Fri); bring reports: FBS, PPBS
+  - Review with HbA1c - Diabetes Clinic (Medicine OPD) on 03/10/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Farah Siddiqui (Consultant)

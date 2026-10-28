@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Asha Rao    Age: 76 years    Sex: Female
+UHID: CDH7771088    IP Number: IP/26/637700
+Date of admission: 28 Feb 2026    Date of discharge: 06 Mar 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 76/F, h/o long-term chulha smoke exposure, k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 60 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 11,300/cumm; RBS 185 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 3. BP 118/76 mmHg, PR 84/min, SpO2 91% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 cap once daily in the morning to continue lifelong (via rotahaler)
+2. Inhaler Budesonide + Formoterol (Budamate) 200 2 puffs twice daily to continue lifelong (via spacer; gargle after use)
+3. Inhaler Salbutamol (Asthalin) 100 mcg 2 puffs only if needed (SOS) for breathlessness / wheeze (not more than 8 puffs in 24 h)
+4. Tablet Prednisolone 30 mg once daily in the morning for 5 days, then 20 mg once daily in the morning for 5 days, then 10 mg once daily in the morning for 5 days, then stop (after breakfast)
+5. Tablet Amoxicillin + Clavulanic acid 625 mg twice daily PC for 5 days
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 14 days
+7. Tablet Amlodipine 5 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed-lip breathing and daily walking as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+    - Flu + pneumococcal vaccine advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Chest OPD on 16 Mar 2026.
+  - PFT / spirometry in Chest OPD on 10 Apr 2026 (Fri).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. T. Raghavan (Consultant)

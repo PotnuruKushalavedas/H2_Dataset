@@ -1,0 +1,65 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Harpreet Gupta                 Age/Sex  : 47 Y / M
+UHID       : CDH4666531                     IP No.   : IP/26/295097
+DOA        : 16 Jul 2026                    DOD      : 25 Jul 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 36%
+
+BRIEF HISTORY:
+  - 47/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 6 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 88 kg to 82 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 5393 pg/ml | S. Cr 0.9 mg/dl | Na 138 mEq/L | K 4.3 mEq/L | 2D Echo: LVEF 36%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 77/min, SpO2 99% on RA. Dry weight 82 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                   | Dose   | Route | Frequency  | Duration    | Instructions |
++----+----------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide (Lasix)    | 40 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Met XL                | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Envas                 | 2.5 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone        | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin         | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Aspirin               | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin (Atorva) | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+----------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 04 Aug 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 23 Oct 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Prakash Nair (Consultant)

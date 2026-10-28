@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ajay Dhillon                   Age/Sex  : 59 Y / M
+UHID       : CDH8544000                     IP No.   : IP/26/203830
+DOA        : 09 Mar 2026                    DOD      : 14 Mar 2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 59/M, k/c/o T2DM x 8 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.9%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.9% | FBS 277 mg/dl | PPBS 352 mg/dl | S. Cr 0.8 mg/dl | Urine microalbumin 138 mg/g | Fundus: mild NPDR
+
+CONDITION AT DISCHARGE: Stable. BP 120/72 mmHg, PR 75/min, SpO2 96% on RA. Pre-meal sugars 162-184 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+----------+-------+------------+------------------+--------------------------------+
+| No | Medicine                    | Dose     | Route | Frequency  | Duration         | Instructions                   |
++----+-----------------------------+----------+-------+------------+------------------+--------------------------------+
+| 1  | Inj. Premixed Insulin 30/70 | 18-0-8 U | SC    | BD         | Till next review | ½ hr before breakfast & dinner |
+| 2  | Tab. Metformin              | 1000 mg  | PO    | BD (1-0-1) | Lifelong         | after food                     |
+| 3  | Tab. Atorvastatin (Atorva)  | 20 mg    | PO    | HS (0-0-1) | Lifelong         |                                |
++----+-----------------------------+----------+-------+------------+------------------+--------------------------------+
+  To continue other previous medicines for HTN as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg (since started on insulin)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Carry glucose / sugar at all times
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 24 Mar 2026
+  - Review with HbA1c - Diabetes Clinic (Medicine OPD) on 06 Jun 2026; bring reports: S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

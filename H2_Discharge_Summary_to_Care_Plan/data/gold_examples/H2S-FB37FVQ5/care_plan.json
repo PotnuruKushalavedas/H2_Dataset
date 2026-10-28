@@ -1,0 +1,116 @@
+{
+  "summary_id": "H2S-FB37FVQ5",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Cefixime (Zifi)",
+        "dose": "200 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (200 mg) twice a day, after food, for 5 days."
+      },
+      {
+        "name": "Paracetamol (Calpol)",
+        "dose": "650 mg",
+        "frequency": "TDS",
+        "timing": "after food",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (650 mg) three times a day, after food, for 5 days."
+      },
+      {
+        "name": "Diclofenac (Voveran)",
+        "dose": "50 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "3 days",
+        "how_to_take_plain": "Take 1 tablet (50 mg) twice a day, after food, for 3 days."
+      },
+      {
+        "name": "Rabeprazole (Rablet)",
+        "dose": "20 mg",
+        "frequency": "OD",
+        "timing": "half an hour before breakfast",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (20 mg) once a day, half an hour before breakfast, for 5 days."
+      },
+      {
+        "name": "Iron + Folic Acid (IFA)",
+        "dose": "1 tablet",
+        "frequency": "OD",
+        "timing": "after dinner",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet once a day, after dinner, for 6 months."
+      },
+      {
+        "name": "Calcium + Vitamin D3 (Shelcal)",
+        "dose": "500 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day, after food, for 6 months."
+      },
+      {
+        "name": "Lactulose (Duphalac)",
+        "dose": "15 ml",
+        "frequency": "HS",
+        "timing": "",
+        "duration": "7 days",
+        "how_to_take_plain": "Take 15 ml once a day, at bedtime, for 7 days."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Wound becomes red or swollen, or pus or fluid comes out of it",
+      "Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots",
+      "Fever above 100.4 F (38 C)",
+      "Pain in the calf (back of the lower leg), or swelling of the leg (could be a blood clot in a leg vein)",
+      "Severe headache, blurred vision, or pain in the upper belly",
+      "Painful, red, hard swelling in the breast with fever",
+      "Baby not feeding well, very sleepy, has fever, or skin turning yellow",
+      "Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby"
+    ],
+    "diet": [
+      "Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids"
+    ],
+    "activity": [
+      "Walk around the house several times a day",
+      "Do not lift anything heavier than 5 kg for 6 weeks"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-04-15",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Wound check",
+        "bring": []
+      },
+      {
+        "date": "2026-05-19",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report",
+        "bring": [
+          "your Hb (haemoglobin) report"
+        ]
+      }
+    ],
+    "wound_care": [
+      "Keep the wound clean and dry",
+      "You may bathe after 48 hours; gently pat the wound dry with a clean cloth"
+    ],
+    "other_advice": [
+      "Feed the baby only breast milk, nothing else, for 6 months",
+      "Get the baby's vaccines on the dates written on the vaccination card",
+      "Talk about family planning at your after-delivery check-up; keep a gap of at least 2 years before the next baby"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Jyoti Sharma    Age: 25 years\nWent home from hospital on: 2026-04-11 (11 April 2026)\n\nWHY YOU WERE IN HOSPITAL\nYour baby was delivered by caesarean operation (LSCS). You and your baby are well.\n\nYOUR MEDICINES (take exactly as written)\n1. Cefixime (Zifi) 200 mg\n   - Take 1 tablet (200 mg) twice a day, after food, for 5 days.\n   - What it is for: antibiotic that kills the germs causing infection.\n2. Paracetamol (Calpol) 650 mg\n   - Take 1 tablet (650 mg) three times a day, after food, for 5 days.\n   - What it is for: relieves pain and fever.\n3. Diclofenac (Voveran) 50 mg\n   - Take 1 tablet (50 mg) twice a day, after food, for 3 days.\n   - What it is for: painkiller.\n4. Rabeprazole (Rablet) 20 mg\n   - Take 1 tablet (20 mg) once a day, half an hour before breakfast, for 5 days.\n   - What it is for: reduces stomach acid and protects the stomach.\n5. Iron + Folic Acid (IFA) 1 tablet\n   - Take 1 tablet once a day, after dinner, for 6 months.\n   - What it is for: iron tablet that builds up blood (haemoglobin).\n6. Calcium + Vitamin D3 (Shelcal) 500 mg\n   - Take 1 tablet (500 mg) twice a day, after food, for 6 months.\n   - What it is for: calcium for strong bones.\n7. Lactulose (Duphalac) 15 ml\n   - Take 15 ml once a day, at bedtime, for 7 days.\n   - What it is for: softens stools and prevents constipation.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Wound becomes red or swollen, or pus or fluid comes out of it\n- Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots\n- Fever above 100.4 F (38 C)\n- Pain in the calf (back of the lower leg), or swelling of the leg (could be a blood clot in a leg vein)\n- Severe headache, blurred vision, or pain in the upper belly\n- Painful, red, hard swelling in the breast with fever\n- Baby not feeding well, very sleepy, has fever, or skin turning yellow\n- Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby\n\nFOOD\n- Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids\n\nACTIVITY\n- Walk around the house several times a day\n- Do not lift anything heavier than 5 kg for 6 weeks\n\nWOUND CARE\n- Keep the wound clean and dry\n- You may bathe after 48 hours; gently pat the wound dry with a clean cloth\n\nOTHER ADVICE\n- Feed the baby only breast milk, nothing else, for 6 months\n- Get the baby's vaccines on the dates written on the vaccination card\n- Talk about family planning at your after-delivery check-up; keep a gap of at least 2 years before the next baby\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-04-15 (Wednesday, 15 April 2026): Obstetrics & Gynaecology (women's) OPD. Wound check.\n- 2026-05-19 (Tuesday, 19 May 2026): Obstetrics & Gynaecology (women's) OPD. Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Jyoti Sharma    उम्र: 25 साल\nअस्पताल से छुट्टी की तारीख़: 2026-04-11 (11 अप्रैल 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपके बच्चे का जन्म सिज़ेरियन ऑपरेशन (LSCS) से हुआ है। आप और आपका बच्चा दोनों ठीक हैं।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Cefixime (Zifi) 200 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (200 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: संक्रमण (infection) फैलाने वाले कीटाणुओं को मारने वाली एंटीबायोटिक।\n2. Paracetamol (Calpol) 650 mg\n   - दिन में 3 बार, खाने के बाद: 1 गोली (650 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n3. Diclofenac (Voveran) 50 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (50 mg) लें; 3 दिन तक जारी रखें।\n   - यह किसलिए है: दर्द कम करने की दवा।\n4. Rabeprazole (Rablet) 20 mg\n   - दिन में 1 बार, नाश्ते से आधा घंटा पहले: 1 गोली (20 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: पेट का एसिड कम करने और पेट की रक्षा के लिए।\n5. Iron + Folic Acid (IFA) 1 गोली\n   - दिन में 1 बार, रात के खाने के बाद: 1 गोली लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: खून (हीमोग्लोबिन) बढ़ाने वाली आयरन की गोली।\n6. Calcium + Vitamin D3 (Shelcal) 500 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (500 mg) लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए कैल्शियम।\n7. Lactulose (Duphalac) 15 ml\n   - दिन में 1 बार, रात को सोते समय: 15 ml लें; 7 दिन तक जारी रखें।\n   - यह किसलिए है: मल (stool) को नरम करने और कब्ज़ रोकने के लिए।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- घाव में लाली या सूजन, या घाव से मवाद/पानी निकलना\n- योनि से बहुत ज़्यादा खून आना (1 घंटे में 1 से ज़्यादा पैड भीग जाना) या थक्के निकलना\n- 100.4 F (38 C) से ज़्यादा बुखार\n- पिंडली में दर्द, या टांग में सूजन (पैर की नस में खून का थक्का हो सकता है)\n- तेज़ सिरदर्द, धुंधला दिखना, या पेट के ऊपरी हिस्से में दर्द\n- बुखार के साथ स्तन में दर्द, लाली और सख़्त सूजन\n- बच्चा ठीक से दूध न पिए, बहुत सुस्त रहे, बुखार हो, या त्वचा पीली पड़े\n- ज़्यादातर समय उदासी या निराशा रहना, नींद न आना, या खुद को या बच्चे को नुकसान पहुँचाने के विचार आना\n\nखाना\n- पौष्टिक खाना खाएँ और रोज़ 1 बार ज़्यादा (अलग से) खाना लें: हरी पत्तेदार सब्ज़ियाँ, दूध और दाल; खूब पानी/तरल पिएँ\n\nचलना-फिरना और काम\n- दिन में कई बार घर के अंदर चलें-फिरें\n- 6 हफ़्ते तक 5 kg से ज़्यादा वज़न न उठाएँ\n\nघाव की देखभाल\n- घाव को साफ़ और सूखा रखें\n- 48 घंटे बाद नहाना ठीक है; घाव को साफ़ कपड़े से हल्के-हल्के थपथपाकर सुखाएँ\n\nअन्य सलाह\n- 6 महीने तक बच्चे को सिर्फ़ माँ का दूध दें, और कुछ नहीं\n- बच्चे के टीके टीकाकरण कार्ड पर लिखी तारीख़ों पर लगवाएँ\n- प्रसव के बाद की जाँच में परिवार नियोजन पर बात करें; अगले बच्चे से पहले कम से कम 2 साल का अंतर रखें\n\nअगली बार अस्पताल कब आना है\n- 2026-04-15 (बुधवार, 15 अप्रैल 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। घाव की जाँच के लिए।\n- 2026-05-19 (मंगलवार, 19 मई 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। प्रसव के 6 हफ़्ते बाद की जाँच। साथ लाएँ: Hb (हीमोग्लोबिन) की रिपोर्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.66
+  }
+}

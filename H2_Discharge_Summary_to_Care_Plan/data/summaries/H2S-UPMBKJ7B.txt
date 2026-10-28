@@ -1,0 +1,48 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Bhavana Yadav
+Age / Sex    : 40 yrs / Female
+UHID         : CDH3674558      IP No: IP/26/186991
+Admitted on  : 06.05.2026      Discharged on: 10.05.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+Brief History:
+  * 40/F, k/c/o T2DM x 17 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.6%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 10.6%; FBS 280 mg/dl; PPBS 280 mg/dl; S. Cr 1.0 mg/dl; Urine microalbumin 149 mg/g; Fundus: mild NPDR
+
+Condition at Discharge: Stable. BP 118/76 mmHg, PR 85/min, SpO2 98% on RA. Pre-meal sugars 142-177 mg/dl.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 14 U SC 0-0-1 (HS) till next review
+- Tab. Metformin 500 mg 1-0-1 after food lifelong
+- Tab. Glimepiride 1 mg 1-0-0 ½ hr before breakfast till next review
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Carry glucose / sugar at all times
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with sugar chart - Diabetes Clinic (Medicine OPD) on 18.05.2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

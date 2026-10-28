@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Babu Rao, 80/M  UHID: CDH1991680  IP: IP/26/500142
+DOA: 10/04/2026  DOD: 19/04/2026  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Dilated cardiomyopathy, LVEF 31%
+- Hypothyroidism
+
+H/o: 80/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6 L; weight down from 88 kg to 82 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 8181 pg/ml, S. Cr 0.8 mg/dl, Na 132 mEq/L, K 4.3 mEq/L, 2D Echo: LVEF 31%, global hypokinesia, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 71/min, SpO2 96% on RA. Dry weight 82 kg.
+
+Rx on discharge:
+1) T. Lasix 40 OD till review
+2) T. Metoprolol Succinate 12.5 mg OD life long
+3) T. Cardace 2.5 OD lifelong
+4) T. Spironolactone 25 mg OD life long
+5) T. Empagliflozin 10 mg OD lifelong
+6) T. Thyronorm 25 OD empty stomach lifelong
+
+STOP Tab. Dilzem 30 mg (contraindicated in HFrEF)
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing swelling of feet or legs
+- Marked decrease in urine output
+- Giddiness / fainting / LOC
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Heart Failure Clinic, Cardiology OPD on 27/04/2026 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

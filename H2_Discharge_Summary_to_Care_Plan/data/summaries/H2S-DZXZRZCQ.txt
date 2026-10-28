@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Rekha Ghosh    Age: 36 years    Sex: Female
+UHID: CDH5983412    IP Number: IP/26/575930
+Date of admission: 3rd February 2026    Date of discharge: 7th February 2026
+Under the care of: Dr. Rajesh Kumar Verma, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis with localised perforation
+  - 2. s/p Laparoscopic appendicectomy (3rd February 2026)
+
+HISTORY:
+  - 36/F, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency laparoscopic appendicectomy under GA on 3rd February 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+OPERATIVE PROCEDURE:
+  - Laparoscopic appendicectomy under GA (3rd February 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 15,500/cumm; CRP 94 mg/L; HPE: awaited; Hb 14.1 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 114/72 mmHg, PR 83/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin + Clavulanic acid (Augmentin) 625 mg three times daily after food for 7 days
+2. Tablet Paracetamol (Crocin) 650 mg three times daily PC for 7 days
+3. Tablet Diclofenac 50 mg twice daily PC for 5 days
+4. Tablet Rabeprazole 20 mg once daily in the morning ½ hr before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Care of the wound:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever > 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting or unable to take food and fluids orally
+  - Abdominal distension, not passing stools / flatus
+
+REVIEW:
+  - Wound inspection in Surgery OPD on 13th February 2026 (Fri) (POD 10).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Rajesh Kumar Verma (Consultant)

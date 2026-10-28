@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Raju Meena                     Age/Sex  : 41 Y / M
+UHID       : CDH6670081                     IP No.   : IP/26/696456
+DOA        : 04/07/2026                     DOD      : 07/07/2026
+Consultant : Dr. Ravi Teja, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Closed bimalleolar fracture right ankle
+  - 2. s/p ORIF with plating and malleolar screw (05/07/2026)
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 41/M, h/o twisting injury right ankle while getting down stairs; pain and swelling, unable to walk.
+
+HOSPITAL COURSE:
+  - Limb immobilised in slab. Underwent ORIF (lateral malleolus plating + medial malleolus CC screw) under SA on 05/07/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - ORIF (lateral malleolus plating + medial malleolus CC screw) under SA (05/07/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.0 g/dl | S. Cr 0.9 mg/dl | Weight 61 kg | Post-op X-ray: fracture fixed in good alignment | RBS 124 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 120/70 mmHg, PR 67/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+----------+------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration | Instructions                             |
++----+---------------------------+--------+-------+------------+----------+------------------------------------------+
+| 1  | Tab. Paracetamol          | 650 mg | PO    | SOS        | -        | for fever; not more than 3 doses in 24 h |
+| 2  | Tab. Calcium + Vitamin D3 | 500 mg | PO    | OD (1-0-0) | 3 months | PC                                       |
+| 3  | Tab. Rabeprazole          | 20 mg  | PO    | OD (1-0-0) | 5 days   | 30 min before breakfast                  |
++----+---------------------------+--------+-------+------------+----------+------------------------------------------+
+  To continue other previous medicines for T2DM as before (unchanged).
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - NWB operated limb (walker / crutches)
+    - Leg elevation on pillows at rest + active toe movements
+  Wound care:
+    - Keep the plaster slab dry; do not insert anything under it
+    - Keep wound site clean and dry
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Numbness, tingling, bluish colour or severe swelling of the operated leg
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+
+FOLLOW-UP:
+  - Suture removal - Orthopaedics OPD on 20/07/2026 (POD 15)
+  - Review with check X-ray - Ortho OPD on 18/08/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Ravi Teja (Consultant)

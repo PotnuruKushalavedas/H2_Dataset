@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rakesh Ansari                  Age/Sex  : 76 Y / M
+UHID       : CDH1512160                     IP No.   : IP/26/577426
+DOA        : 10/04/2026                     DOD      : 16/04/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to RCA
+
+BRIEF HISTORY:
+  - 76/M, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 4.5 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 12/04/2026: 81% stenosis of proximal RCA; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (12/04/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.9 g/dl | S. Cr 0.9 mg/dl | K 4.3 mEq/L | LDL 137 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 59%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 124/74 mmHg, PR 76/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+-------------+-------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration    | Instructions                                                |
++----+----------------------------------------+--------+-------+------------+-------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)                | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch                                                 |
+| 2  | Tab. Clopidogrel (Clopilet)            | 75 mg  | PO    | OD (1-0-0) | 12 months   |                                                             |
+| 3  | Tab. Rosuvastatin                      | 20 mg  | PO    | HS (0-0-1) | Lifelong    |                                                             |
+| 4  | Tab. Bisoprolol                        | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 5  | Tab. Ramipril                          | 5 mg   | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 6  | Tab. Pantoprazole (Pantocid)           | 40 mg  | PO    | OD (1-0-0) | Till review | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -           | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+----------------------------------------+--------+-------+------------+-------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 23/04/2026 (Thu); bring reports: ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

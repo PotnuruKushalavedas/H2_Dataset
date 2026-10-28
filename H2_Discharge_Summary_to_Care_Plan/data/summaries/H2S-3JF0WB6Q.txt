@@ -1,0 +1,54 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bhavana Ansari                 Age/Sex  : 49 Y / F
+UHID       : CDH4116472                     IP No.   : IP/26/140261
+DOA        : 06/02/2026                     DOD      : 12/02/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+
+BRIEF HISTORY:
+  - 49/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 7 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 19,400/cumm | CRP 163 mg/L | CXR: consolidation left lower lobe | S. Cr 0.9 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 118/78 mmHg, PR 82/min, SpO2 97% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+------------------+--------+-------+------------+----------+----------------------------+
+| No | Medicine         | Dose   | Route | Frequency  | Duration | Instructions               |
++----+------------------+--------+-------+------------+----------+----------------------------+
+| 1  | Tab. Ceftum      | 500 mg | PO    | BD (1-0-1) | 5 days   | PC                         |
+| 2  | Tab. Paracetamol | 650 mg | PO    | SOS        | -        | for fever; max 3 doses/day |
++----+------------------+--------+-------+------------+----------+----------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    - Deep breathing exercises - 10 breaths every hour when awake
+    - Gradually increase walking as tolerated
+  Other:
+    - Influenza and pneumococcal vaccination advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 23/02/2026 (Mon); bring reports: CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

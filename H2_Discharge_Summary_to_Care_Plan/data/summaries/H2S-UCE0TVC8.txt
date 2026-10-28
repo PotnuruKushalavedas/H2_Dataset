@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Raju Sandhu
+Age / Sex    : 26 yrs / Male
+UHID         : CDH8084230      IP No: IP/26/493350
+Admitted on  : 10.04.2026      Discharged on: 14.04.2026
+Consultant   : Dr. N. Chakraborty, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis with localised perforation
+  * s/p Laparoscopic appendicectomy (10.04.2026)
+
+Brief History:
+  * 26/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 9. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency laparoscopic appendicectomy under GA on 10.04.2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Laparoscopic appendicectomy under GA (10.04.2026)
+
+Investigations:
+  * TLC 18,500/cumm; CRP 114 mg/L; HPE: awaited; Hb 13.8 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 126/74 mmHg, PR 88/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 after food x 7 days
+- Tab. Paracetamol 650 mg 1-1-1 PC x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting / not able to take orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Wound check - Surgery OPD on 20.04.2026 (POD 10)
+  * Review with HPE report - Surgery OPD on 24.04.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. N. Chakraborty (Consultant)

@@ -1,0 +1,53 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Mahesh Jadhav | 50 Y/M | UHID CDH4830057 | IP IP/26/904070
+DOA - 05/09/2026 | DOD - 14/09/2026 | Consultant - Dr. Prakash Nair, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Ischaemic cardiomyopathy, LVEF 25%
+
+Presenting complaints & history - 50/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 14 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 80 kg to 74 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 8741 pg/ml | S. Cr 0.7 mg/dl | Na 138 mEq/L | K 4.5 mEq/L | 2D Echo: LVEF 25%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 83/min, SpO2 96% on RA. Dry weight 74 kg.
+
+ADV ON DISCHARGE -
+• Tab. Torsemide (Dytor) 10 mg PO OD till next visit
+• Tab. Cardivas 3.125 mg PO BD lifelong
+• Tab. Ramipril 2.5 mg PO OD life long
+• Tab. Spironolactone (Aldactone) 25 mg PO OD lifelong
+• Tab. Dapagliflozin (Forxiga) 10 mg PO OD life long
+• Tab. Aspirin (Ecosprin) 75 mg PO OD after lunch life long
+• Tab. Atorvastatin 40 mg PO HS lifelong
+
+• Stop Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+    • Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Check weight every morning and keep a record
+    • Avoid OTC painkillers (NSAIDs) without medical advice
+
+Report immediately to Casualty in case of -
+  • Weight gain of more than 2 kg in 3 days
+  • Breathlessness at rest or on lying flat
+  • Increasing pedal oedema (swelling of feet / legs)
+  • Urine output markedly reduced
+  • Giddiness, fainting or loss of consciousness
+  • Palpitations (fast or irregular heartbeat)
+
+Follow up -
+  • Review with reports - Cardiology OPD on 24/09/2026 (Thu); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

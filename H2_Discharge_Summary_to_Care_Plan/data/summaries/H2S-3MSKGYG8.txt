@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Parvati Kalita                 Age/Sex  : 33 Y / F
+UHID       : CDH2857442                     IP No.   : IP/26/213635
+DOA        : 24 Jun 2026                    DOD      : 30 Jun 2026
+Consultant : Dr. Shabnam Ansari, MS (OBG)   Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Pre-eclampsia with severe features at 37 wks
+  - 2. Delivered by induced vaginal delivery (NVD) on 25 Jun 2026
+
+BRIEF HISTORY:
+  - 33/F, G2, on low-dose aspirin from 12 wks, presented with headache and BP 163/104 mmHg, urine albumin ++.
+
+HOSPITAL COURSE:
+  - Received Inj. Magnesium sulphate (Pritchard regimen) and oral antihypertensives. Labour induced; delivered vaginally on 25 Jun 2026: live baby girl, 3.3 kg, APGAR 9/10. MgSO4 continued for 24 hrs postpartum. BP settled to 132/90 mmHg on oral treatment. No fits.
+
+KEY INVESTIGATIONS:
+  - Platelets 2.2 lakh/cumm | SGOT/SGPT 46/26 U/L | S. Cr 0.6 mg/dl | Urine albumin ++ | Hb 10.5 g/dl
+
+CONDITION AT DISCHARGE: Asymptomatic. BP 136/86 mmHg, PR 86/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+--------+-------+------------+-------------+-----------------------------------------+
+| No | Medicine                            | Dose   | Route | Frequency  | Duration    | Instructions                            |
++----+-------------------------------------+--------+-------+------------+-------------+-----------------------------------------+
+| 1  | Tab. Nifedipine (retard)            | 10 mg  | PO    | BD (1-0-1) | Till review |                                         |
+| 2  | Tab. Paracetamol (Calpol)           | 500 mg | PO    | SOS        | -           | for pain; not more than 3 doses in 24 h |
+| 3  | Tab. Iron + Folic acid (IFA)        | 1 tab  | PO    | OD (0-0-1) | 6 months    | after dinner                            |
+| 4  | Tab. Calcium + Vitamin D3 (Shelcal) | 500 mg | PO    | BD (1-1-0) | 6 months    | PC                                      |
++----+-------------------------------------+--------+-------+------------+-------------+-----------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (antenatal aspirin - not needed after delivery)
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Adequate rest; light household work only for 6 weeks
+  Other:
+    - Check BP at home twice daily and maintain a chart
+    - Exclusive breast feeding x 6 months
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Severe headache / blurred vision / epigastric pain
+  - Fits (convulsions)
+  - BP 150/100 mmHg or higher on home check
+  - Breathlessness / difficulty in breathing
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Review with BP chart - Obstetrics & Gynaecology OPD on 07 Jul 2026
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 06 Aug 2026 (Thu); bring reports: Hb, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Shabnam Ansari (Consultant)

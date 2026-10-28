@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Gopal Yadav    Age: 41 years    Sex: Male
+UHID: CDH2861856    IP Number: IP/26/613762
+Date of admission: 13th August 2026    Date of discharge: 19th August 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+HISTORY:
+  - 41/M, k/c/o T2DM x 7 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 6 days. RBS at admission 426 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.4%; FBS 282 mg/dl; PPBS 364 mg/dl; S. Cr 1.0 mg/dl; Urine routine: pus cells plenty; Hb 13.3 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 120/70 mmHg, PR 82/min, SpO2 98% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin (Glycomet) 500 mg twice daily PC to continue lifelong
+2. Tablet Glimepiride 1 mg once daily in the morning ½ hr before breakfast until the next visit
+3. Injection Insulin Glargine 8 U SC once daily at night at 10 PM till the next review
+4. Tablet Cefixime 200 mg twice daily PC for 5 days
+5. Tablet Atorvastatin 20 mg once daily at bedtime lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning micturition / pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+REVIEW:
+  - Review with reports in DM clinic, Medicine OPD on 2nd September 2026. Please bring: FBS, PPBS, Urine routine.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

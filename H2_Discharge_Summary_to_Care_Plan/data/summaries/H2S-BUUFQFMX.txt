@@ -1,0 +1,67 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Meena Singh                    Age/Sex  : 42 Y / F
+UHID       : CDH9001259                     IP No.   : IP/26/826849
+DOA        : 12/03/2026                     DOD      : 16/03/2026
+Consultant : Dr. Vivek Rathore, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Symptomatic cholelithiasis
+  - 2. s/p Laparoscopic cholecystectomy (13/03/2026)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 42/F, c/o recurrent right upper abdominal pain after fatty meals x 6 months. USG abdomen: multiple calculi in GB, largest 12 mm, CBD normal.
+
+HOSPITAL COURSE:
+  - Underwent Lap. cholecystectomy under GA on 13/03/2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+PROCEDURE(S) DONE:
+  - Laparoscopic cholecystectomy under GA (13/03/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.9 g/dl | LFT: within normal limits | S. Amylase 73 U/L | HPE: awaited
+
+CONDITION AT DISCHARGE: Afebrile, tolerating normal diet, port sites healthy. BP 120/70 mmHg, PR 86/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+--------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine           | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+--------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. Paracetamol   | 650 mg | PO    | SOS        | -        | for fever; max 4 doses/day              |
+| 2  | Tab. Aceclofenac   | 100 mg | PO    | BD (1-0-1) | 5 days   | PC                                      |
+| 3  | Tab. Pantoprazole  | 40 mg  | PO    | OD (1-0-0) | 5 days   | 30 min before breakfast                 |
+| 4  | Tab. Ondansetron   | 4 mg   | PO    | SOS        | -        | for nausea or vomiting; max 3 doses/day |
+| 5  | Tab. Levothyroxine | 50 mcg | PO    | OD (1-0-0) | Lifelong | empty stomach                           |
++----+--------------------+--------+-------+------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Low fat diet; avoid fried and oily food, ghee, red meat
+    - Soft diet x 1 week, then normal diet
+  Activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Can resume office work after 2 weeks
+  Wound care:
+    - Keep the wound clean and dry
+    - Bath allowed after 48 h - pat wound dry with clean cloth
+    - Nothing (oil / haldi / powder) to be applied on wound
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever > 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting / not able to take orally
+  - Yellowish eyes / urine (jaundice)
+  - Distension of abdomen with no passage of stool or gas
+
+FOLLOW-UP:
+  - Suture removal - Surgery OPD on 23/03/2026 (Mon) (POD 10)
+  - Review with histopathology report - General Surgery OPD on 27/03/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Vivek Rathore (Consultant)

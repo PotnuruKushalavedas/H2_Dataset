@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Gurpreet Reddy, 74/F  UHID: CDH8147934  IP: IP/26/438484
+DOA: 02/01/2026  DOD: 07/01/2026  Cons: Dr. Anil Bhosale (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+- Systemic hypertension
+- Hypothyroidism
+
+H/o: 74/F, k/c/o T2DM x 10 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.1%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 11.1%, FBS 265 mg/dl, PPBS 280 mg/dl, S. Cr 1.0 mg/dl, Urine microalbumin 84 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 110/76 mmHg, PR 67/min, SpO2 98% on RA. Pre-meal sugars 148-189 mg/dl.
+
+Rx on discharge:
+1) Inj. Glaritus 12 U SC HS till review
+2) T. Metformin 1000 mg BD after food life long
+3) T. Sitagliptin 100 mg OD till next review
+4) T. Atorva 20 mg HS lifelong
+Continue previous medications for HTN and hypothyroidism as before.
+
+STOP Tab. Amaryl 2 mg (risk of low sugar)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Carry glucose / sugar at all times
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 17/01/2026 - Review with SMBG chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

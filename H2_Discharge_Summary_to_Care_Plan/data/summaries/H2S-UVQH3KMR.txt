@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Salim Gaikwad                  Age/Sex  : 65 Y / M
+UHID       : CDH6770852                     IP No.   : IP/26/106686
+DOA        : 12/05/2026                     DOD      : 16/05/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 65/M, k/c/o T2DM x 7 yrs, presented with swelling, redness and pain over left foot x 8 days following a minor injury. RBS 458 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.7% | FBS 289 mg/dl | PPBS 380 mg/dl | S. Cr 1.1 mg/dl | Urine routine: sugar ++, ketones nil | Hb 13.7 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/76 mmHg, PR 78/min, SpO2 98% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------------+--------+-------+-------------+-------------+------------------------------------------+
+| No | Medicine                                    | Dose   | Route | Frequency   | Duration    | Instructions                             |
++----+---------------------------------------------+--------+-------+-------------+-------------+------------------------------------------+
+| 1  | Tab. Metformin                              | 500 mg | PO    | BD (1-0-1)  | Lifelong    | after food                               |
+| 2  | Tab. Vildagliptin                           | 50 mg  | PO    | BD (1-0-1)  | Till review |                                          |
+| 3  | Inj. Lantus                                 | 12 U   | SC    | HS (0-0-1)  | Till review |                                          |
+| 4  | Tab. Amoxycillin + Clavulanic acid (Clavam) | 625 mg | PO    | TDS (1-1-1) | 5 days      | PC                                       |
+| 5  | Tab. Paracetamol (Calpol)                   | 650 mg | PO    | SOS         | -           | for fever; not more than 3 doses in 24 h |
+| 6  | Tab. Losar                                  | 50 mg  | PO    | OD (1-0-0)  | Lifelong    |                                          |
++----+---------------------------------------------+--------+-------+-------------+-------------+------------------------------------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg (risk of low sugar)
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 23/05/2026 (Sat); bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. R. Venkatesh (Consultant)

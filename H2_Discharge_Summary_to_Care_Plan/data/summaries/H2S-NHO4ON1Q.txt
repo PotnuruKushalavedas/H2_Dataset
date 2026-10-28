@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Babu Murmu, 73/M  UHID: CDH4335031  IP: IP/26/759303
+DOA: 04/09/2026  DOD: 09/09/2026  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate (non-valvular)
+- Systemic hypertension
+
+H/o: 73/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 166/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 75/min at discharge.
+
+Ix: 2D Echo: LA dilated, no significant valvular disease, LVEF 58%, S. Cr 0.8 mg/dl, Hb 11.8 g/dl, TSH 1.1 mIU/L, Weight 87 kg, CrCl (Cockcroft-Gault) 101 ml/min, CHA2DS2-VASc score 2
+
+Condn at d/c: Stable, rate controlled. BP 114/70 mmHg, PR 74/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Concor 5 OD life long
+2) T. Eliquis 5 BD life long
+3) T. Telma 40 mg OD lifelong
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Review SOS if:
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Sudden weakness of face, arm or leg, or slurred speech
+- Palpitations (fast or irregular heartbeat)
+- Giddiness, fainting or loss of consciousness
+- Breathlessness / difficulty in breathing
+
+F/U:
+- Cardiology OPD on 23/09/2026 - Review with reports with ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Meenakshi Rao (Consultant)

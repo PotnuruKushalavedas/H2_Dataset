@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vandana Khan                   Age/Sex  : 71 Y / F
+UHID       : CDH7651640                     IP No.   : IP/26/665853
+DOA        : 15 Mar 2026                    DOD      : 20 Mar 2026
+Consultant : Dr. T. Raghavan, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 71/F, h/o long-term chulha smoke exposure, k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.33, pCO2 59 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 12,500/cumm | RBS 163 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 2. BP 114/78 mmHg, PR 84/min, SpO2 94% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                                 | Dose           | Route | Frequency  | Duration | Instructions                                                |
++----+------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Rotacap Tiotropium (Tiova)               | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                               |
+| 2  | Inh. Budesonide + Formoterol (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; gargle after use                                |
+| 3  | Inh. Asthalin (100 mcg)                  | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; not more than 8 puffs in 24 h |
+| 4  | Tab. Prednisolone (Wysolone)             | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                                             |
+| 5  | Tab. Azithromycin                        | 500 mg         | PO    | OD (1-0-0) | 3 days   |                                                             |
+| 6  | Tab. Pantoprazole                        | 40 mg          | PO    | OD (1-0-0) | 5 days   | 30 min before breakfast                                     |
+| 7  | Tab. Losartan (Losar)                    | 50 mg          | PO    | OD (1-0-0) | Lifelong |                                                             |
++----+------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - No exposure to biomass (chulha) smoke / dust
+  Other:
+    - Inhaler technique taught; to use with spacer
+    - Influenza and pneumococcal vaccination advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+FOLLOW-UP:
+  - Review with reports - Pulmonary Medicine (Chest) OPD on 30 Mar 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

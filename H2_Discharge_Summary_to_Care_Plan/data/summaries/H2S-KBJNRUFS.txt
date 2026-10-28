@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Divya Kamble, 62/F  UHID: CDH3768258  IP: IP/26/731009
+DOA: 06-Jun-26  DOD: 11-Jun-26  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate
+- Rheumatic heart disease - moderate mitral stenosis
+- Dyslipidaemia
+
+H/o: 62/F, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 144/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 73/min at discharge.
+
+Ix: 2D Echo: thickened MV, MVA 1.2 cm2, LA dilated, LVEF 52%, S. Cr 0.6 mg/dl, Hb 14.3 g/dl, TSH 3.6 mIU/L, Weight 55 kg, INR at discharge 1.9
+
+Condn at d/c: Stable, rate controlled. BP 124/78 mmHg, PR 85/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Dilzem 30 mg TDS till next review
+2) T. Acitrom 2 mg OD after dinner till next review (dose as per INR)
+To continue other previous medicines for dyslipidaemia as before (unchanged).
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+  - No self-adjustment of anticoagulant dose; consult before any new drug
+
+Review SOS if:
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Sudden weakness of face, arm or leg, or slurred speech
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+- Breathlessness / difficulty in breathing
+
+F/U:
+- INR test on 15-Jun-26 (Mon) at Hospital laboratory
+- Cardiology OPD on 25-Jun-26 - Review with reports with ECG, INR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

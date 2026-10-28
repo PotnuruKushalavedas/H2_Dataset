@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Pradeep Reddy                  Age/Sex  : 24 Y / M
+UHID       : CDH7471740                     IP No.   : IP/26/962546
+DOA        : 22/06/2026                     DOD      : 26/06/2026
+Consultant : Dr. Imran Qureshi, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+BRIEF HISTORY:
+  - 24/M, presented with cough x 8 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg, with 2 episodes of streaky haemoptysis.
+
+HOSPITAL COURSE:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 23/06/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+KEY INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: left upper zone infiltrates with cavity | Hb 12.1 g/dl | LFT: within normal limits | RBS 102 mg/dl | HIV: non-reactive | Weight 38 kg
+
+CONDITION AT DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 114/78 mmHg, PR 73/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------+--------+-------+------------+-------------+---------------------------------------------------------------------------------------------------+
+| No | Medicine          | Dose   | Route | Frequency  | Duration    | Instructions                                                                                      |
++----+-------------------+--------+-------+------------+-------------+---------------------------------------------------------------------------------------------------+
+| 1  | Tab. HRZE (4-FDC) | 3 tabs | PO    | OD (1-0-0) | 53 days     | on empty stomach; as per weight band; to complete IP of 8 wks; then review for continuation phase |
+| 2  | Tab. Pyridoxine   | 10 mg  | PO    | OD (1-0-0) | Till review |                                                                                                   |
++----+-------------------+--------+-------+------------+-------------+---------------------------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / soya
+    - Avoid alcohol completely
+  Other:
+    - Daily ATT without missing doses - full course to be completed
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - No smoking / no tobacco in any form
+    - Urine may turn orange-red due to TB medicine - harmless
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Generalised skin rash / itching
+  - Coughing up blood
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with LFT - TB clinic (DOTS centre) on 10/07/2026
+  - Sputum examination at end of intensive phase - TB clinic (DOTS centre) on 19/08/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Imran Qureshi (Consultant)

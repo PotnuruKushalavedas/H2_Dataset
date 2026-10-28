@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Kishore Tiwari
+Age / Sex    : 41 yrs / Male
+UHID         : CDH5343523      IP No: IP/26/164536
+Admitted on  : 18/03/2026      Discharged on: 22/03/2026
+Consultant   : Dr. Ravi Teja, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Closed fracture distal end left radius
+  * s/p ORIF with volar locking plate (19/03/2026)
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 41/M, h/o fall on outstretched hand 1 day back; pain, swelling and deformity left wrist.
+
+Course in Hospital:
+  * Limb immobilised in slab. Underwent ORIF with volar locking plate under brachial block on 19/03/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+Procedure:
+  * ORIF with volar locking plate under brachial block (19/03/2026)
+
+Investigations:
+  * Hb 11.4 g/dl; S. Cr 0.8 mg/dl; Weight 52 kg; Post-op X-ray: fracture fixed in good alignment; RBS 145 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, distal pulses felt. BP 120/80 mmHg, PR 86/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol (Crocin) 500 mg 1-1-1 after food x 5 days
+- Tab. Calcium + Vitamin D3 500 mg 1-0-0 PC x 3 months
+- Tab. Rabeprazole 20 mg 1-0-0 ½ hr before breakfast x 5 days
+- Tab. Losartan (Losar) 50 mg 1-0-0 long term (lifelong)
+To continue other previous medicines for T2DM as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Keep hand elevated above heart level; move fingers frequently
+  Wound care:
+    * Slab to be kept dry - nothing to be inserted under slab
+    * Keep wound site clean and dry
+
+Danger signs - report to Casualty immediately:
+  * Numbness, tingling, bluish colour or severe swelling of the operated hand
+  * Redness, swelling, pus or discharge from the wound
+  * Fever > 100.4 F (38 C)
+
+Follow-up:
+  * Suture removal - Orthopaedics OPD on 31/03/2026 (POD 12)
+  * Review with check X-ray - Orthopaedics OPD on 20/04/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Ravi Teja (Consultant)

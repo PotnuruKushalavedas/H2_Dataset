@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Ajay Pandey    Age: 61 years    Sex: Male
+UHID: CDH8420253    IP Number: IP/26/171747
+Date of admission: 9th July 2026    Date of discharge: 13th July 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Systemic hypertension
+  - 3. BPH
+
+HISTORY:
+  - 61/M, k/c/o T2DM x 3 yrs, stopped medicines 5 months ago, presented with polyuria, polydipsia, generalised weakness x 15 days. RBS 451 mg/dl, urine ketones negative.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.1%; FBS 259 mg/dl; PPBS 330 mg/dl; S. Cr 1.1 mg/dl; Urine routine: sugar ++, ketones nil; Hb 11.7 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 124/78 mmHg, PR 70/min, SpO2 99% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin (Glyciphage) 500 mg twice daily after food until the next visit
+2. Tablet Empagliflozin (Jardiance) 10 mg once daily in the morning after breakfast till the next review
+3. Tablet Atorvastatin (Storvas) 10 mg once daily at bedtime lifelong
+4. Tablet Paracetamol 650 mg only if needed (SOS) for fever (max 4 doses/day)
+Continue previous medications for HTN and BPH as before.
+
+PLEASE STOP:
+  - Tab. Glimepiride 2 mg (hypoglycaemia risk)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Medicine OPD on 27th July 2026. Please bring: FBS, PPBS.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. S. K. Mishra (Consultant)

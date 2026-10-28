@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Pooja Deshpande
+Age / Sex    : 31 yrs / Female
+UHID         : CDH1509182      IP No: IP/26/300673
+Admitted on  : 05.01.2026      Discharged on: 10.01.2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (right upper lobe) - CURB-65 score 1
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 31/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 3 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 16,800/cumm; CRP 60 mg/L; CXR: consolidation right upper lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 130/78 mmHg, PR 86/min, SpO2 98% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 PC x 7 days
+- Tab. Crocin 500 mg SOS for fever (max 3 doses/day)
+- Tab. Metformin 1000 mg 1-0-1 PC lifelong
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradually increase walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness or difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Medicine OPD on 17.01.2026 (Sat); bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. R. Venkatesh (Consultant)

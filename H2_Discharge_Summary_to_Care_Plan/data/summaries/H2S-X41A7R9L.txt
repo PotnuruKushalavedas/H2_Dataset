@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Jagdish Nair
+Age / Sex    : 62 yrs / Male
+UHID         : CDH4492188      IP No: IP/26/922693
+Admitted on  : 18/02/2026      Discharged on: 23/02/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Dilated cardiomyopathy, LVEF 28%
+
+Brief History:
+  * 62/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3 L; weight down from 73 kg to 70 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 5688 pg/ml; S. Cr 0.9 mg/dl; Na 139 mEq/L; K 4.0 mEq/L; 2D Echo: LVEF 28%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 77/min, SpO2 98% on RA. Dry weight 70 kg.
+
+Medications at Discharge:
+- Tab. Torsemide 20 mg 1-0-0 till next review
+- Tab. Metoprolol Succinate 12.5 mg 1-0-0 long term (lifelong)
+- Tab. Sacubitril + Valsartan 50 mg 1-0-1 long term (lifelong)
+- Tab. Spironolactone 25 mg 1-0-0 long term (lifelong)
+- Tab. Dapagliflozin 10 mg 1-0-0 lifelong
+
+- STOP Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Check weight every morning and keep a record
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing swelling of feet or legs
+  * Marked decrease in urine output
+  * Giddiness / fainting / LOC
+  * Palpitations - fast / irregular heart beat
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 05/03/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Meenakshi Rao (Consultant)

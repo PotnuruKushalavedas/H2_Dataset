@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Sachin Yadav
+Age / Sex    : 35 yrs / Male
+UHID         : CDH9756082      IP No: IP/26/934943
+Admitted on  : 17.09.2026      Discharged on: 22.09.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 35/M, k/c/o T2DM x 6 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: UTI.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 47 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.2, HCO3 11 mEq/L; Urine ketones +++; RBS at admission 397 mg/dl; HbA1c 11.0%; S. Cr 1.0 mg/dl; K 4.4 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 118/80 mmHg, PR 80/min, SpO2 96% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 18 units SC 0-0-1 (HS) till next review
+- Inj. Insulin Regular (Human) 6 units SC 1-1-1 ½ hr before meals till next review
+- Tab. Metformin 500 mg 1-0-1 PC till next review
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow-up:
+  * Get S. Creatinine and electrolytes (Na, K) done on 26.09.2026 (Hospital laboratory)
+  * Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 28.09.2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

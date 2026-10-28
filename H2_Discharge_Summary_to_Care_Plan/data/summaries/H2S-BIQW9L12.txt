@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Kalpana Fernandes    Age: 55 years    Sex: Female
+UHID: CDH4803397    IP Number: IP/26/581779
+Date of admission: 29th January 2026    Date of discharge: 4th February 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate
+  - 2. Rheumatic heart disease - moderate mitral stenosis
+
+HISTORY:
+  - 55/F, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 131/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 79/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: thickened MV, MVA 1.4 cm2, LA dilated, LVEF 52%; S. Cr 0.9 mg/dl; Hb 13.0 g/dl; TSH 2.0 mIU/L; Weight 53 kg; INR at discharge 2.0
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 130/74 mmHg, PR 73/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Bisoprolol 5 mg once daily in the morning lifelong
+2. Tablet Acenocoumarol 1 mg once daily at night after dinner until the next visit (dose as per INR)
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Get INR test done on 11th February 2026 (Central lab)
+  - Review with reports in Cardiology OPD on 25th February 2026 (Wed). Please bring: ECG, INR.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

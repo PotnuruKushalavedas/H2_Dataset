@@ -1,0 +1,67 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Arun Shetty                    Age/Sex  : 44 Y / M
+UHID       : CDH1209132                     IP No.   : IP/26/892050
+DOA        : 28/03/2026                     DOD      : 01/04/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 44/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 2.2 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 30/03/2026: 93% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (30/03/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.3 g/dl | S. Cr 0.9 mg/dl | K 3.9 mEq/L | LDL 117 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 56%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 110/80 mmHg, PR 73/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+-------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| No | Medicine                    | Dose  | Route | Frequency  | Duration    | Instructions                                                                   |
++----+-----------------------------+-------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)     | 75 mg | PO    | OD (0-1-0) | Lifelong    | after lunch                                                                    |
+| 2  | Tab. Clopidogrel (Clopilet) | 75 mg | PO    | OD (1-0-0) | 1 year      |                                                                                |
+| 3  | Tab. Atorvastatin           | 40 mg | PO    | HS (0-0-1) | Lifelong    |                                                                                |
+| 4  | Tab. Metoprolol Succinate   | 25 mg | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 5  | Tab. Ramipril               | 5 mg  | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 6  | Tab. Rabeprazole (Rablet)   | 20 mg | PO    | OD (1-0-0) | Till review | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate   | 5 mg  | SL    | SOS        | -           | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+-----------------------------+-------+-------+------------+-------------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 11/04/2026 (Sat); bring reports: ECG
+  - Fasting lipid profile on 13/05/2026 at Hospital laboratory
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

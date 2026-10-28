@@ -1,0 +1,74 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ashok Singh                    Age/Sex  : 47 Y / M
+UHID       : CDH4430652                     IP No.   : IP/26/328645
+DOA        : 22 Jul 2026                    DOD      : 27 Jul 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to RCA
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 47/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 6.7 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 24 Jul 2026: 93% stenosis of proximal RCA; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (24 Jul 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.3 g/dl | S. Cr 0.9 mg/dl | K 4.7 mEq/L | LDL 185 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 60% | HbA1c 8.4%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 130/74 mmHg, PR 74/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration | Instructions                                                |
++----+----------------------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Tab. Ecosprin                          | 75 mg  | PO    | OD (0-1-0) | Lifelong | after lunch                                                 |
+| 2  | Tab. Clopidogrel (Clopilet)            | 75 mg  | PO    | OD (1-0-0) | 1 year   |                                                             |
+| 3  | Tab. Atorvastatin (Storvas)            | 40 mg  | PO    | HS (0-0-1) | Lifelong |                                                             |
+| 4  | Tab. Seloken XL                        | 50 mg  | PO    | OD (1-0-0) | Lifelong |                                                             |
+| 5  | Tab. Cardace                           | 2.5 mg | PO    | OD (1-0-0) | Lifelong |                                                             |
+| 6  | Tab. Rabeprazole                       | 20 mg  | PO    | OD (1-0-0) | 3 months | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -        | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
+| 8  | Tab. Metformin                         | 500 mg | PO    | BD (1-0-1) | Lifelong | PC                                                          |
+| 9  | Tab. Jardiance                         | 10 mg  | PO    | OD (1-0-0) | Lifelong |                                                             |
++----+----------------------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 03 Aug 2026 (Mon); bring reports: ECG
+  - Get Lipid profile (fasting) done on 07 Sep 2026 (Mon) (Central lab)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

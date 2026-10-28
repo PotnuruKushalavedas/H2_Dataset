@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Shalini Ghosh                  Age/Sex  : 82 Y / F
+UHID       : CDH6201775                     IP No.   : IP/26/868443
+DOA        : 28 Aug 2026                    DOD      : 01 Sep 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 82/F, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 147/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 76/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 62% | S. Cr 0.9 mg/dl | Hb 12.4 g/dl | TSH 1.9 mIU/L | Weight 63 kg | CrCl (Cockcroft-Gault) 47 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 130/80 mmHg, PR 81/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+--------+-------+------------+----------+------------------+
+| No | Medicine                | Dose   | Route | Frequency  | Duration | Instructions     |
++----+-------------------------+--------+-------+------------+----------+------------------+
+| 1  | Tab. Bisoprolol         | 5 mg   | PO    | OD (1-0-0) | Lifelong |                  |
+| 2  | Tab. Apixaban (Eliquis) | 5 mg   | PO    | BD (1-0-1) | Lifelong |                  |
+| 3  | Tab. Levothyroxine      | 50 mcg | PO    | OD (1-0-0) | Lifelong | on empty stomach |
++----+-------------------------+--------+-------+------------+----------+------------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 15 Sep 2026 (Tue); bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

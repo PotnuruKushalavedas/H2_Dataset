@@ -1,0 +1,60 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Parvati Yadav    Age: 45 years    Sex: Female
+UHID: CDH5904674    IP Number: IP/26/133674
+Date of admission: 17th February 2026    Date of discharge: 26th February 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 30%
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 45/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 2.5 L; weight down from 58 kg to 55 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 9799 pg/ml; S. Cr 0.9 mg/dl; Na 137 mEq/L; K 4.3 mEq/L; 2D Echo: LVEF 30%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 85/min, SpO2 96% on RA. Dry weight 55 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Torsemide (Dytor) 10 mg once daily in the morning until the next visit
+2. Tablet Metoprolol Succinate ER 25 mg once daily in the morning lifelong
+3. Tablet Sacubitril + Valsartan (24/26 mg) 50 mg twice daily to continue lifelong
+4. Tablet Spironolactone (Aldactone) 25 mg once daily in the morning lifelong
+5. Tablet Empagliflozin 10 mg once daily in the morning to continue lifelong
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+PLEASE STOP:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 5th March 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Prakash Nair (Consultant)

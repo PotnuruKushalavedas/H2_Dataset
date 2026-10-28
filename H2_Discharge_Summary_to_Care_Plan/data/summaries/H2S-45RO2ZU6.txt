@@ -1,0 +1,59 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Subhash Thomas    Age: 34 years    Sex: Male
+UHID: CDH2664082    IP Number: IP/26/904359
+Date of admission: 27 Mar 2026    Date of discharge: 31 Mar 2026
+Under the care of: Dr. N. Chakraborty, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis with localised perforation
+  - 2. s/p Open appendicectomy (27 Mar 2026)
+
+HISTORY:
+  - 34/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency open appendicectomy under GA on 27 Mar 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+OPERATIVE PROCEDURE:
+  - Open appendicectomy under GA (27 Mar 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 18,500/cumm; CRP 128 mg/L; HPE: awaited; Hb 14.0 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 126/74 mmHg, PR 86/min, SpO2 97% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Cefuroxime 500 mg twice daily PC for 7 days
+2. Tablet Metronidazole 400 mg three times daily PC for 7 days (no alcohol during course)
+3. Tablet Paracetamol (Dolo) 650 mg three times daily PC for 5 days
+4. Tablet Aceclofenac 100 mg twice daily PC for 5 days
+5. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Soft diet x 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+    - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Care of the wound:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever > 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe / increasing abdominal pain
+  - Persistent vomiting / not able to take orally
+  - Distension of abdomen with no passage of stool or gas
+
+REVIEW:
+  - Suture removal in General Surgery OPD on 04 Apr 2026 (POD 8).
+  - Review with histopathology report in Surgery OPD on 10 Apr 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. N. Chakraborty (Consultant)

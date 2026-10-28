@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Babu Nair
+Age / Sex    : 41 yrs / Male
+UHID         : CDH6055823      IP No: IP/26/450138
+Admitted on  : 20.07.2026      Discharged on: 22.07.2026
+Consultant   : Dr. Sunita Patil, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Right inguinal hernia (direct, reducible)
+  * s/p Laparoscopic TEP mesh repair (20.07.2026)
+
+Brief History:
+  * 41/M, c/o swelling in right groin x 32 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Laparoscopic TEP mesh repair under GA on 20.07.2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Laparoscopic TEP mesh repair under GA (20.07.2026)
+
+Investigations:
+  * Hb 13.6 g/dl; RBS 122 mg/dl; S. Cr 0.8 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 118/72 mmHg, PR 68/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg 1-1-1 after food x 7 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Syp. Lactulose 15 ml 0-0-1 (HS) x 2 weeks
+
+Advice on Discharge:
+  Diet:
+    * High-fibre diet with plenty of oral fluids to avoid constipation
+  Activity:
+    * Walk around the house several times a day
+    * No heavy lifting (more than 5 kg) for 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Swelling or severe pain in the scrotum
+  * Unable to pass urine
+  * Bleeding from wound / dressing soakage
+
+Follow-up:
+  * Wound inspection - General Surgery OPD on 27.07.2026 (POD 7)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Sunita Patil (Consultant)

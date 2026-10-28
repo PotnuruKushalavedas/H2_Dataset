@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Tarun Thomas
+Age / Sex    : 55 yrs / Male
+UHID         : CDH3818908      IP No: IP/26/101387
+Admitted on  : 28.01.2026      Discharged on: 06.02.2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Dilated cardiomyopathy, LVEF 23%
+
+Brief History:
+  * 55/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 6 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 90 kg to 86 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 5311 pg/ml; S. Cr 0.9 mg/dl; Na 132 mEq/L; K 4.7 mEq/L; 2D Echo: LVEF 23%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 83/min, SpO2 97% on RA. Dry weight 86 kg.
+
+Medications at Discharge:
+- Tab. Torsemide 10 mg 1-0-0 till next review
+- Tab. Metoprolol Succinate ER 12.5 mg 1-0-0 lifelong
+- Tab. Enalapril 2.5 mg 1-0-1 lifelong
+- Tab. Spironolactone 25 mg 1-0-0 long term (lifelong)
+- Tab. Jardiance 10 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Check weight every morning and keep a record
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing pedal oedema (swelling of feet / legs)
+  * Urine output markedly reduced
+  * Giddiness / fainting / LOC
+  * Palpitations (fast or irregular heartbeat)
+
+Follow-up:
+  * Review with reports - HF clinic (Cardiology OPD) on 13.02.2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

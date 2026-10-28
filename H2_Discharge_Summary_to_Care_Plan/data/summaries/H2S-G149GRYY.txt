@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Shankar Verma                  Age/Sex  : 55 Y / M
+UHID       : CDH9368293                     IP No.   : IP/26/963266
+DOA        : 10 Jan 2026                    DOD      : 17 Jan 2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+BRIEF HISTORY:
+  - 55/M, k/c/o T2DM x 6 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 3 days. RBS at admission 439 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.4% | FBS 208 mg/dl | PPBS 276 mg/dl | S. Cr 1.1 mg/dl | Urine routine: pus cells plenty | Hb 11.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 130/76 mmHg, PR 80/min, SpO2 99% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine              | Dose    | Route | Frequency  | Duration         | Instructions |
++----+-----------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Metformin        | 1000 mg | PO    | BD (1-0-1) | Till next review | after food   |
+| 2  | Tab. Vildagliptin     | 50 mg   | PO    | BD (1-0-1) | Till review      |              |
+| 3  | Inj. Insulin Glargine | 12 U    | SC    | HS (0-0-1) | Till next review |              |
+| 4  | Tab. Cefixime         | 200 mg  | PO    | BD (1-0-1) | 7 days           | PC           |
+| 5  | Tab. Atorvastatin     | 10 mg   | PO    | HS (0-0-1) | Lifelong         |              |
++----+-----------------------+---------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 2 mg
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High fever with chills
+  - Burning or pain while passing urine
+  - Blood sugar above 300 mg/dl on two readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 27 Jan 2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

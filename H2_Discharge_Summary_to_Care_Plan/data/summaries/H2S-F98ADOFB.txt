@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Archana Patnaik                Age/Sex  : 49 Y / F
+UHID       : CDH6870926                     IP No.   : IP/26/534640
+DOA        : 23 Feb 2026                    DOD      : 01 Mar 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 29%
+
+BRIEF HISTORY:
+  - 49/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 6 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 2.5 L; weight down from 67 kg to 64 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 6401 pg/ml | S. Cr 0.6 mg/dl | Na 137 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 29%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 75/min, SpO2 98% on RA. Dry weight 64 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                   | Dose   | Route | Frequency  | Duration    | Instructions |
++----+----------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Torsemide             | 20 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol 6.25 mg    | ½ tab  | PO    | BD (½-0-½) | Lifelong    |              |
+| 3  | Tab. Enalapril (Envas)     | 2.5 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone        | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin         | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Ecosprin              | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin (Atorva) | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+----------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 11 Mar 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

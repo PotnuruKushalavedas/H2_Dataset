@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Bhavana Sharma    Age: 56 years    Sex: Female
+UHID: CDH3588171    IP Number: IP/26/960972
+Date of admission: 27 May 2026    Date of discharge: 01 Jun 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute severe asthma (exacerbation of bronchial asthma)
+
+HISTORY:
+  - 56/F, k/c/o bronchial asthma since childhood, irregular inhaler use, recently started on Tab. Propranolol for anxiety/tremors, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 157 to 316 L/min. Inhaler technique taught.
+
+RELEVANT INVESTIGATIONS:
+  - PEFR at discharge 316 L/min; CXR: no pneumothorax, no consolidation; AEC 462/cumm; TLC 7,600/cumm
+
+CONDITION AT THE TIME OF DISCHARGE: No wheeze at rest, speaking full sentences. BP 120/76 mmHg, PR 78/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Inhaler Foracort 200 1 puff twice daily until the next visit (via spacer; rinse mouth after use)
+2. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for breathlessness / wheeze (not more than 8 puffs in 24 h)
+3. Tablet Prednisolone 30 mg once daily in the morning for 5 days, then 20 mg once daily in the morning for 5 days, then 10 mg once daily in the morning for 5 days, then stop (after breakfast)
+
+PLEASE STOP:
+  - Tab. Propranolol 20 mg (can precipitate bronchospasm)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Avoid triggers - dust / smoke / cold air
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Too breathless to complete sentences
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Chest pain / heaviness / sweating
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 08 Jun 2026.
+  - Spirometry (PFT) in Pulmonary Medicine (Chest) OPD on 13 Jul 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

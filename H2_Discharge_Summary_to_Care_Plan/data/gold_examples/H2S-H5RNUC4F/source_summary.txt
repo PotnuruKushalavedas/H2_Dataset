@@ -1,0 +1,73 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vijay Bora                     Age/Sex  : 76 Y / M
+UHID       : CDH9423432                     IP No.   : IP/26/755942
+DOA        : 04/09/2026                     DOD      : 09/09/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 76/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 2.6 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 06/09/2026: 92% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (06/09/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.5 g/dl | S. Cr 0.8 mg/dl | K 4.5 mEq/L | LDL 137 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 56%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/80 mmHg, PR 72/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| No | Medicine                                  | Dose   | Route | Frequency  | Duration         | Instructions                                                                   |
++----+-------------------------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                              | 75 mg  | PO    | OD (0-1-0) | Lifelong         | after lunch                                                                    |
+| 2  | Tab. Clopilet                             | 75 mg  | PO    | OD (1-0-0) | 1 year           |                                                                                |
+| 3  | Tab. Atorvastatin (Atorva)                | 80 mg  | PO    | HS (0-0-1) | Lifelong         |                                                                                |
+| 4  | Tab. Metoprolol Succinate ER (Seloken XL) | 50 mg  | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 5  | Tab. Ramipril                             | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 6  | Tab. Pantoprazole                         | 40 mg  | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate                 | 5 mg   | SL    | SOS        | -                | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Levothyroxine (Thyronorm)            | 50 mcg | PO    | OD (1-0-0) | Lifelong         | empty stomach                                                                  |
++----+-------------------------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 19/09/2026 (Sat); bring reports: ECG
+  - Get Fasting lipid profile done on 21/10/2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

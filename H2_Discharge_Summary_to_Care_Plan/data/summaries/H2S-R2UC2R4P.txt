@@ -1,0 +1,54 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Fatima Banerjee | 75 Y/F | UHID CDH2558228 | IP IP/26/277660
+DOA - 24-08-2026 | DOD - 29-08-2026 | Consultant - Dr. Meenakshi Rao, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Ischaemic cardiomyopathy, LVEF 34%
+
+Presenting complaints & history - 75/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 6 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 49 kg to 45 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 9512 pg/ml | S. Cr 0.5 mg/dl | Na 138 mEq/L | K 4.5 mEq/L | 2D Echo: LVEF 34%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 87/min, SpO2 98% on RA. Dry weight 45 kg.
+
+ADV ON DISCHARGE -
+• Tab. Lasix 40 mg PO OD till next visit
+• Tab. Carvedilol 6.25 mg half tab PO BD lifelong
+• Tab. Ramipril (Cardace) 2.5 mg PO OD life long
+• Tab. Spironolactone (Aldactone) 25 mg PO OD lifelong
+• Tab. Empagliflozin 10 mg PO OD life long
+• Tab. Aspirin (Ecosprin) 75 mg PO OD after lunch lifelong
+• Tab. Atorva 40 mg PO HS life long
+
+• Stop Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+Instructions -
+  Diet:
+    • Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    • Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Check weight every morning and keep a record
+    • Do not take painkillers from the chemist without doctor's advice
+
+Report immediately to Casualty in case of -
+  • Weight gain of more than 2 kg in 3 days
+  • Breathlessness at rest or on lying flat
+  • Increasing pedal oedema (swelling of feet / legs)
+  • Urine output markedly reduced
+  • Giddiness / fainting / LOC
+  • Palpitations - fast / irregular heart beat
+
+Follow up -
+  • Review with reports - Heart Failure Clinic, Cardiology OPD on 05-09-2026 (Sat); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  • 2D Echo + review - Cardiology OPD on 27-11-2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

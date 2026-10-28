@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rekha Joseph                   Age/Sex  : 78 Y / F
+UHID       : CDH5195874                     IP No.   : IP/26/485299
+DOA        : 16/07/2026                     DOD      : 22/07/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 78/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 133/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 83/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 62% | S. Cr 1.5 mg/dl | Hb 13.2 g/dl | TSH 1.1 mIU/L | Weight 61 kg | INR at discharge 2.4 | CrCl (Cockcroft-Gault) 29 ml/min | CHA2DS2-VASc score 4
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 118/72 mmHg, PR 74/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+-------+-------+------------+------------------+---------------------------------------+
+| No | Medicine                     | Dose  | Route | Frequency  | Duration         | Instructions                          |
++----+------------------------------+-------+-------+------------+------------------+---------------------------------------+
+| 1  | Tab. Metoprolol Succinate ER | 50 mg | PO    | OD (1-0-0) | Lifelong         |                                       |
+| 2  | Tab. Acenocoumarol           | 1 mg  | PO    | OD (0-0-1) | Till next review | after dinner; further dose as per INR |
+| 3  | Tab. Telmisartan (Telma)     | 40 mg | PO    | OD (1-0-0) | Lifelong         |                                       |
++----+------------------------------+-------+-------+------------+------------------+---------------------------------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - INR test on 27/07/2026 at Central lab
+  - Review with reports - Cardiology OPD on 05/08/2026 (Wed); bring reports: ECG, INR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Sita Patnaik
+Age / Sex    : 59 yrs / Female
+UHID         : CDH9819456      IP No: IP/26/733561
+Admitted on  : 21.08.2026      Discharged on: 27.08.2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis left foot
+
+Brief History:
+  * 59/F, k/c/o T2DM x 10 yrs, presented with swelling, redness and pain over left foot x 5 days following a minor injury. RBS 396 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 9.4%; FBS 303 mg/dl; PPBS 377 mg/dl; S. Cr 0.5 mg/dl; Urine routine: sugar ++, ketones nil; Hb 11.5 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 120/80 mmHg, PR 66/min, SpO2 99% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 PC till next review
+- Tab. Glimepiride 1 mg 1-0-0 30 min before breakfast till next review
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 after food x 7 days
+- Tab. Atorvastatin 10 mg 0-0-1 (HS) lifelong
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+  General:
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Redness, swelling, pus or discharge from the wound
+  * Fever > 100.4 F (38 C)
+  * Sugar > 300 mg/dl on 2 readings
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+Follow-up:
+  * Review with reports - Diabetes Clinic (Medicine OPD) on 03.09.2026; bring reports: FBS, PPBS
+  * HbA1c and review - Diabetes Clinic (Medicine OPD) on 25.11.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Farah Siddiqui (Consultant)

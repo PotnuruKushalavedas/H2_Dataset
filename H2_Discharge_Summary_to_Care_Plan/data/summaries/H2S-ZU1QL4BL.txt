@@ -1,0 +1,48 @@
+CDH / General Medicine / DISCHARGE SUMMARY
+Name - Kalpana Khan | 54 Y/F | UHID CDH1606282 | IP IP/26/959048
+DOA - 12/05/2026 | DOD - 18/05/2026 | Consultant - Dr. S. K. Mishra, Medicine Unit II
+
+Diagnosis -
+  • Type 2 diabetes mellitus - uncontrolled
+  • Systemic hypertension
+  • Hypothyroidism
+
+Presenting complaints & history - 54/F, k/c/o T2DM x 6 yrs, stopped medicines 2 months ago, presented with polyuria, polydipsia, generalised weakness x 14 days. RBS 414 mg/dl, urine ketones negative.
+
+Hospital course -
+  • Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+Investigations -
+  • HbA1c 11.6% | FBS 206 mg/dl | PPBS 278 mg/dl | S. Cr 0.5 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.9 g/dl
+
+Status at discharge - Afebrile, stable. BP 110/76 mmHg, PR 70/min, SpO2 97% on RA. Sugars in target range.
+
+ADV ON DISCHARGE -
+• Tab. Metformin 1000 mg PO BD PC till review
+• Tab. Glimepiride 2 mg PO OD 30 min before breakfast till review
+• Inj. Insulin Glargine (Basalog) 12 units SC OD at 10 PM till review
+• Tab. Atorva 20 mg PO HS lifelong
+• Tab. Paracetamol (Crocin) 500 mg PO SOS for pain (max 4 doses/day)
+Continue previous medications for HTN and hypothyroidism as before.
+
+Instructions -
+  Diet:
+    • DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    • Small, frequent meals - do not skip any meal
+  Others:
+    • Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    • SMBG - FBS & PPBS twice weekly, maintain diary
+    • Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    • Carry glucose / sugar at all times
+
+Report immediately to Casualty in case of -
+  • Sugar > 300 mg/dl on 2 readings
+  • Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow up -
+  • Review with reports - Diabetes Clinic (Medicine OPD) on 25/05/2026; bring reports: FBS, PPBS
+  • Review with HbA1c - DM clinic, Medicine OPD on 10/08/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. S. K. Mishra (Consultant)

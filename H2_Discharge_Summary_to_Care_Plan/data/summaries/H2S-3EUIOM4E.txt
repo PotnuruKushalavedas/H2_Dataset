@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Lakshmi Deshpande
+Age / Sex    : 71 yrs / Female
+UHID         : CDH4920755      IP No: IP/26/679385
+Admitted on  : 05.08.2026      Discharged on: 08.08.2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+  * Dyslipidaemia
+
+Brief History:
+  * 71/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 6 days. ECG: AF with FVR (HR 153/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 92/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 58%; S. Cr 0.8 mg/dl; Hb 12.4 g/dl; TSH 3.7 mIU/L; Weight 52 kg; INR at discharge 2.3; CrCl (Cockcroft-Gault) 52 ml/min; CHA2DS2-VASc score 4
+
+Condition at Discharge: Stable, rate controlled. BP 124/76 mmHg, PR 88/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol 5 mg 1-0-0 lifelong
+- Tab. Acenocoumarol 1 mg 0-0-1 after dinner till next review (dose as per INR)
+- Tab. Amlodipine 5 mg 1-0-0 long term (lifelong)
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+Continue previous medications for dyslipidaemia as before.
+
+- STOP Tab. Aspirin 75 mg (since started on anticoagulant)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * No self-adjustment of anticoagulant dose; consult before any new drug
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness / fainting / LOC
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * PT/INR check on 17.08.2026 at Hospital laboratory
+  * Review with reports - Cardiology OPD on 29.08.2026; bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Prakash Nair (Consultant)

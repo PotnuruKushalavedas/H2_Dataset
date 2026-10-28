@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Divya D'Souza
+Age / Sex    : 32 yrs / Female
+UHID         : CDH4395195      IP No: IP/26/607885
+Admitted on  : 03.08.2026      Discharged on: 08.08.2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 32/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 17,600/cumm; CRP 175 mg/L; CXR: consolidation left lower lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 110/78 mmHg, PR 82/min, SpO2 98% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 PC x 7 days
+- Tab. Crocin 500 mg SOS for fever (max 3 doses/day)
+- Tab. Metformin 1000 mg 1-0-1 PC lifelong
+Continue previous medications for HTN as before.
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises 10 times every hour while awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+    * Stop smoking and all forms of tobacco
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 18.08.2026; bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. S. K. Mishra (Consultant)

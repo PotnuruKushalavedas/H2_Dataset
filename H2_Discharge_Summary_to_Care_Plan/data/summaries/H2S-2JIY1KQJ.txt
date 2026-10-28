@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Sunil Das
+Age / Sex    : 57 yrs / Male
+UHID         : CDH5696854      IP No: IP/26/489495
+Admitted on  : 25.07.2026      Discharged on: 03.08.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Ischaemic cardiomyopathy, LVEF 33%
+
+Brief History:
+  * 57/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 62 kg to 57 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 9273 pg/ml; S. Cr 0.8 mg/dl; Na 133 mEq/L; K 4.2 mEq/L; 2D Echo: LVEF 33%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 80/min, SpO2 98% on RA. Dry weight 57 kg.
+
+Medications at Discharge:
+- Tab. Furosemide 40 mg 1-0-0 till next review
+- Tab. Bisoprolol 2.5 mg 1-0-0 lifelong
+- Tab. Ramipril 2.5 mg 1-0-0 lifelong
+- Tab. Spironolactone 25 mg 1-0-0 lifelong
+- Tab. Empagliflozin 10 mg 1-0-0 lifelong
+- Tab. Aspirin 75 mg 0-1-0 after lunch long term (lifelong)
+- Tab. Atorvastatin 40 mg 0-0-1 (HS) long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Daily morning weight - maintain record
+    * Do not take painkillers from the chemist without doctor's advice
+
+Danger signs - report to Casualty immediately:
+  * Weight gain of more than 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing pedal oedema (swelling of feet / legs)
+  * Marked decrease in urine output
+  * Giddiness, fainting or loss of consciousness
+  * Palpitations (fast or irregular heartbeat)
+
+Follow-up:
+  * Review with reports - HF clinic (Cardiology OPD) on 13.08.2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

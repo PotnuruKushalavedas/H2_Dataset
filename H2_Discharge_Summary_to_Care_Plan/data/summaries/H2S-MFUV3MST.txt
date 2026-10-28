@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Selvam Tiwari                  Age/Sex  : 79 Y / M
+UHID       : CDH9524655                     IP No.   : IP/26/514776
+DOA        : 30 Aug 2026                    DOD      : 05 Sep 2026
+Consultant : Dr. Imran Qureshi, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+BRIEF HISTORY:
+  - 79/M, h/o long-term chulha smoke exposure, k/c/o COPD x 4 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.32, pCO2 53 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 12,500/cumm | RBS 174 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 2. BP 118/72 mmHg, PR 88/min, SpO2 91% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+| No | Medicine                                 | Dose           | Route | Frequency  | Duration | Instructions                                  |
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+| 1  | Rotacap Tiotropium                       | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                 |
+| 2  | Inh. Budesonide + Formoterol (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; gargle after use                  |
+| 3  | Inh. Salbutamol (100 mcg)                | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; max 8 puffs/day |
+| 4  | Tab. Omnacortil                          | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                               |
+| 5  | Tab. Azithromycin (Azee)                 | 500 mg         | PO    | OD (1-0-0) | 3 days   |                                               |
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other:
+    - Inhaler technique demonstrated - use with spacer
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increase in sputum quantity or change to yellow/green colour
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 19 Sep 2026 (Sat)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

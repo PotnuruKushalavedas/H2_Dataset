@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vandana Chauhan                Age/Sex  : 79 Y / F
+UHID       : CDH4677142                     IP No.   : IP/26/776796
+DOA        : 02/04/2026                     DOD      : 09/04/2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right upper lobe) - CURB-65 score 2
+  - 2. Primary open-angle glaucoma
+
+BRIEF HISTORY:
+  - 79/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 5 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 14,400/cumm | CRP 113 mg/L | CXR: consolidation right upper lobe | S. Cr 0.8 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 124/70 mmHg, PR 67/min, SpO2 98% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+------------------+--------+-------+------------+----------+-----------------------------------+
+| No | Medicine         | Dose   | Route | Frequency  | Duration | Instructions                      |
++----+------------------+--------+-------+------------+----------+-----------------------------------+
+| 1  | Tab. Cefuroxime  | 500 mg | PO    | BD (1-0-1) | 5 days   | after food                        |
+| 2  | Tab. Paracetamol | 650 mg | PO    | SOS        | -        | for fever / pain; max 3 doses/day |
++----+------------------+--------+-------+------------+----------+-----------------------------------+
+  To continue other previous medicines for glaucoma as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other:
+    - Influenza and pneumococcal vaccination advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 20/04/2026 (Mon); bring reports: CBC
+  - Repeat CXR - Chest OPD on 21/05/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Farah Siddiqui (Consultant)

@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sita Thakur                    Age/Sex  : 27 Y / F
+UHID       : CDH5668402                     IP No.   : IP/26/991896
+DOA        : 15 Jul 2026                    DOD      : 19 Jul 2026
+Consultant : Dr. Rajesh Kumar Verma, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Symptomatic cholelithiasis
+  - 2. s/p Laparoscopic cholecystectomy (16 Jul 2026)
+
+BRIEF HISTORY:
+  - 27/F, c/o recurrent right upper abdominal pain after fatty meals x 3 months. USG abdomen: multiple calculi in GB, largest 18 mm, CBD normal.
+
+HOSPITAL COURSE:
+  - Underwent Lap. cholecystectomy under GA on 16 Jul 2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+PROCEDURE(S) DONE:
+  - Laparoscopic cholecystectomy under GA (16 Jul 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.6 g/dl | LFT: within normal limits | S. Amylase 51 U/L | HPE: awaited
+
+CONDITION AT DISCHARGE: Afebrile, tolerating normal diet, port sites healthy. BP 126/72 mmHg, PR 78/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+-------------+----------+-----------------------+
+| No | Medicine                  | Dose   | Route | Frequency   | Duration | Instructions          |
++----+---------------------------+--------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Paracetamol (Calpol) | 650 mg | PO    | TDS (1-1-1) | 7 days   | after food            |
+| 2  | Tab. Aceclofenac          | 100 mg | PO    | BD (1-0-1)  | 5 days   | after food            |
+| 3  | Tab. Pantoprazole         | 40 mg  | PO    | OD (1-0-0)  | 7 days   | ½ hr before breakfast |
++----+---------------------------+--------+-------+-------------+----------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Low fat diet; avoid fried and oily food, ghee, red meat
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Can resume office work after 2 weeks
+  Wound care:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+    - Nothing (oil / haldi / powder) to be applied on wound
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting or unable to take food and fluids orally
+  - Yellow discolouration of eyes or urine
+  - Abdominal distension, not passing stools / flatus
+
+FOLLOW-UP:
+  - Removal of sutures - General Surgery OPD on 23 Jul 2026 (POD 7)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Rajesh Kumar Verma (Consultant)

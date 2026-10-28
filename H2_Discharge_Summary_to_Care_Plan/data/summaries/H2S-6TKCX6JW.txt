@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Mohammed Kulkarni    Age: 78 years    Sex: Male
+UHID: CDH7121185    IP Number: IP/26/687212
+Date of admission: 26 Apr 2026    Date of discharge: 01 May 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+
+HISTORY:
+  - 78/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 15,400/cumm; CRP 102 mg/L; CXR: consolidation left lower lobe; S. Cr 1.5 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 110/70 mmHg, PR 86/min, SpO2 96% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxycillin + Clavulanic acid 625 mg three times daily after food for 5 days
+2. Tablet Paracetamol 650 mg only if needed (SOS) for pain (max 3 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Physical activity:
+    - Deep breathing exercises - 10 breaths every hour when awake
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Flu + pneumococcal vaccine advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain, heaviness or sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+REVIEW:
+  - Review with reports in Medicine OPD on 08 May 2026 (Fri). Please bring: CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. R. Venkatesh (Consultant)

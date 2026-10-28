@@ -1,0 +1,40 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Kamala Gowda, 72/F  UHID: CDH4176479  IP: IP/26/841788
+DOA: 18/04/2026  DOD: 23/04/2026  Cons: Dr. Farah Siddiqui (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Acute pyelonephritis (UTI)
+
+H/o: 72/F, k/c/o T2DM x 7 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 3 days. RBS at admission 404 mg/dl.
+
+Course: Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+Ix: HbA1c 11.6%, FBS 258 mg/dl, PPBS 364 mg/dl, S. Cr 0.7 mg/dl, Urine routine: pus cells plenty, Hb 12.7 g/dl
+
+Condn at d/c: Afebrile, stable. BP 114/72 mmHg, PR 71/min, SpO2 99% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Metformin 500 mg BD PC till next review
+2) T. Januvia 100 mg OD till next review
+3) T. Zifi 200 BD after food x 7/7
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- High fever with chills
+- Burning micturition / pain while passing urine
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- Medicine OPD on 30/04/2026 - Review with reports with FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

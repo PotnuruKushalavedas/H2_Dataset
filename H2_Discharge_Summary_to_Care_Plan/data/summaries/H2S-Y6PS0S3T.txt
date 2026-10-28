@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Gurpreet Joshi                 Age/Sex  : 68 Y / M
+UHID       : CDH5685368                     IP No.   : IP/26/508234
+DOA        : 14/04/2026                     DOD      : 19/04/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 68/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 130/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 78/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 62% | S. Cr 1.0 mg/dl | Hb 11.8 g/dl | TSH 3.1 mIU/L | Weight 80 kg | INR at discharge 1.8 | CrCl (Cockcroft-Gault) 80 ml/min | CHA2DS2-VASc score 2
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 126/76 mmHg, PR 74/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------+-------+-------+------------+-------------+-------------------------------+
+| No | Medicine                              | Dose  | Route | Frequency  | Duration    | Instructions                  |
++----+---------------------------------------+-------+-------+------------+-------------+-------------------------------+
+| 1  | Tab. Metoprolol Succinate ER (Met XL) | 25 mg | PO    | OD (1-0-0) | Lifelong    |                               |
+| 2  | Tab. Acitrom                          | 1 mg  | PO    | OD (0-0-1) | Till review | after dinner; dose as per INR |
+| 3  | Tab. Amlodipine (Stamlo)              | 5 mg  | PO    | OD (1-0-0) | Lifelong    |                               |
++----+---------------------------------------+-------+-------+------------+-------------+-------------------------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Get PT/INR check done on 24/04/2026 (Hospital laboratory)
+  - Review with reports - Cardiology OPD on 04/05/2026 (Mon); bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

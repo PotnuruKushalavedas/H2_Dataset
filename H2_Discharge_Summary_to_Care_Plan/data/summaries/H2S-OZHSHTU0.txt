@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Imran Sharma, 29/M  UHID: CDH1727088  IP: IP/26/948989
+DOA: 05-May-26  DOD: 09-May-26  Cons: Dr. Sunita Patil (Surgery Unit I)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis
+- s/p Open appendicectomy (05-May-26)
+
+H/o: 29/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course: Emergency open appendicectomy under GA on 05-May-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure: Open appendicectomy under GA (05-May-26)
+
+Ix: TLC 17,900/cumm, CRP 134 mg/L, HPE: awaited, Hb 13.6 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 114/76 mmHg, PR 68/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Ceftum 500 BD PC x 5/7
+2) T. Metrogyl 400 mg TDS PC x 5 days (no alcohol during course)
+3) T. Calpol 650 TDS after food x 3 days
+4) T. Pan 40 OD 30 min before breakfast x 5/7
+
+Adv:
+  Diet:
+  - Soft diet x 1 week, then normal diet
+  Activity:
+  - Early ambulation - walk in the house several times a day
+  - No heavy lifting (more than 5 kg) for 6 weeks
+  - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound:
+  - Keep the wound clean and dry
+  - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Review SOS if:
+- Fever above 100.4 F (38 C)
+- Wound site redness / swelling / pus or discharge
+- Severe or increasing pain in abdomen
+- Persistent vomiting or unable to take food and fluids orally
+- Abdominal distension, not passing stools / flatus
+
+F/U:
+- Surgery OPD on 13-May-26 (Wed) - Suture removal (POD 8)
+- General Surgery OPD on 19-May-26 - Review with histopathology report
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Sunita Patil (Consultant)

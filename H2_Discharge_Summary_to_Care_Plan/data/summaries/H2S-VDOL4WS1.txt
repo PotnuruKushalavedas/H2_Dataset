@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Rohit Patnaik    Age: 60 years    Sex: Male
+UHID: CDH5637974    IP Number: IP/26/698558
+Date of admission: 03 Apr 2026    Date of discharge: 10 Apr 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. BPH
+
+HISTORY:
+  - 60/M, h/o long-term chulha smoke exposure, k/c/o COPD x 6 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.32, pCO2 58 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 13,500/cumm; RBS 137 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 2. BP 110/70 mmHg, PR 75/min, SpO2 93% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 cap once daily in the morning lifelong (with rotahaler device)
+2. Inhaler Budesonide + Formoterol (6/200 mcg) 2 puffs twice daily to continue lifelong (via spacer; gargle after use)
+3. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for wheeze or breathlessness (not more than 8 puffs in 24 h)
+4. Tablet Prednisolone 40 mg once daily in the morning for 5 days, then 30 mg once daily in the morning for 3 days, then 20 mg once daily in the morning for 3 days, then 10 mg once daily in the morning for 3 days, then stop (after breakfast)
+5. Capsule Biodoxi 100 mg twice daily PC for 5 days
+6. Tablet Pantoprazole 40 mg once daily in the morning ½ hr before breakfast for 14 days
+To continue other previous medicines for BPH as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+    - Flu + pneumococcal vaccine advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 24 Apr 2026.
+  - PFT / spirometry in Pulmonary Medicine (Chest) OPD on 22 May 2026 (Fri).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. T. Raghavan (Consultant)

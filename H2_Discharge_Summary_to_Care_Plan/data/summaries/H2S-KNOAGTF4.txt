@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Rajesh Rajput, 82/M  UHID: CDH2874414  IP: IP/26/438708
+DOA: 17-Jul-26  DOD: 24-Jul-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 25%
+- Hypothyroidism
+
+H/o: 82/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 76 kg to 71 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 6976 pg/ml, S. Cr 0.8 mg/dl, Na 133 mEq/L, K 4.0 mEq/L, 2D Echo: LVEF 25%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 80/min, SpO2 97% on RA. Dry weight 71 kg.
+
+Rx on discharge:
+1) T. Dytor 20 OD till review
+2) T. Concor 2.5 OD life long
+3) T. Cardace 2.5 OD lifelong
+4) T. Aldactone 25 mg ½ tab OD lifelong
+5) T. Jardiance 10 mg OD lifelong
+6) T. Aspirin 75 mg OD after lunch life long
+7) T. Atorva 40 HS lifelong
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Weight gain of more than 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing swelling of feet or legs
+- Urine output markedly reduced
+- Giddiness, fainting or loss of consciousness
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Heart Failure Clinic, Cardiology OPD on 31-Jul-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 22-Oct-26 (Thu) - 2D Echo + review
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

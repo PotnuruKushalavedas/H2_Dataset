@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Gurpreet Thomas, 75/M  UHID: CDH3028754  IP: IP/26/982852
+DOA: 07-Jun-26  DOD: 12-Jun-26  Cons: Dr. Imran Qureshi (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+
+H/o: 75/M, chronic smoker (28 pack-yrs), k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 1 day. Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.3, pCO2 52 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 15,300/cumm, RBS 184 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 3. BP 126/74 mmHg, PR 87/min, SpO2 91% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 rotacap OD life long (via rotahaler)
+2) MDI Budamate 200 2 puffs BD life long (with spacer; rinse mouth after use)
+3) MDI Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (max 8 puffs/day)
+4) T. Prednisolone 30 mg OD x 5/7 then 20 mg OD x 5 days then 10 mg OD x 5 days then stop (after breakfast)
+5) C. Biodoxi 100 mg BD after food x 5 days
+6) T. Razo 20 OD 30 min before breakfast x 14 days
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed-lip breathing and daily walking as tolerated
+  Others:
+  - Inhaler technique taught; to use with spacer
+  - Flu + pneumococcal vaccine advised
+  - Stop smoking and all forms of tobacco
+
+Review SOS if:
+- Breathlessness or difficulty in breathing
+- Wheeze or breathlessness not relieved by the reliever inhaler
+- Bluish lips / fingertips, drowsiness or confusion
+- Fever > 100.4 F (38 C)
+- Increase in sputum quantity or change to yellow/green colour
+
+F/U:
+- Pulmonary Medicine (Chest) OPD on 22-Jun-26 - Review with reports
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

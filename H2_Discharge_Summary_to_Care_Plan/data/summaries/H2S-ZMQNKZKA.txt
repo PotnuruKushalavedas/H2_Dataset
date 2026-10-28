@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rahul Thomas                   Age/Sex  : 44 Y / M
+UHID       : CDH1639413                     IP No.   : IP/26/730158
+DOA        : 14/04/2026                     DOD      : 18/04/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 44/M, k/c/o T2DM x 8 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: missed medicines.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 42 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.08, HCO3 9 mEq/L | Urine ketones +++ | RBS at admission 418 mg/dl | HbA1c 12.8% | S. Cr 0.9 mg/dl | K 4.1 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 118/72 mmHg, PR 71/min, SpO2 98% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------------+--------+-------+-------------+------------------+------------------------------------------------------+
+| No | Medicine                                    | Dose   | Route | Frequency   | Duration         | Instructions                                         |
++----+---------------------------------------------+--------+-------+-------------+------------------+------------------------------------------------------+
+| 1  | Inj. Insulin Glargine (Lantus)              | 20 U   | SC    | HS (0-0-1)  | Till review      |                                                      |
+| 2  | Inj. Insulin Regular (Human) (Huminsulin R) | 6 U    | SC    | TDS (1-1-1) | Till next review | 30 min before meals                                  |
+| 3  | Tab. Metformin (Glycomet)                   | 500 mg | PO    | BD (1-0-1)  | Till next review | PC                                                   |
+| 4  | Tab. Ondansetron                            | 4 mg   | PO    | SOS         | -                | for nausea / vomiting; not more than 3 doses in 24 h |
++----+---------------------------------------------+--------+-------+-------------+------------------+------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 25/04/2026 (Sat)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Anil Bhosale (Consultant)

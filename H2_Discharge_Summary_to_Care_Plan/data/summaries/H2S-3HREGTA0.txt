@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Imran Rao, 46/M  UHID: CDH4319048  IP: IP/26/637925
+DOA: 26/03/2026  DOD: 31/03/2026  Cons: Dr. R. Venkatesh (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+- Systemic hypertension
+
+H/o: 46/M, k/c/o T2DM x 15 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 13.5%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 13.5%, FBS 197 mg/dl, PPBS 263 mg/dl, S. Cr 0.7 mg/dl, Urine microalbumin 95 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 110/74 mmHg, PR 69/min, SpO2 98% on RA. Pre-meal sugars 140-186 mg/dl.
+
+Rx on discharge:
+1) Inj. Premixed Insulin 30/70 16-0-8 U SC 30 min before breakfast and dinner till next review
+2) T. Metformin 1000 mg BD PC life long
+3) T. Losar 50 mg OD lifelong
+
+STOP Tab. Amaryl 2 mg (since started on insulin)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Always carry sugar or glucose with you
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 10/04/2026 (Fri) - Review with sugar chart
+- DM clinic, Medicine OPD on 29/06/2026 (Mon) - Review with HbA1c with S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. R. Venkatesh (Consultant)

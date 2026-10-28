@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Selvam Hegde    Age: 66 years    Sex: Male
+UHID: CDH8301239    IP Number: IP/26/353603
+Date of admission: 5th June 2026    Date of discharge: 8th June 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+  - 3. Dyslipidaemia
+
+HISTORY:
+  - 66/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 150/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 74/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 58%; S. Cr 0.9 mg/dl; Hb 12.0 g/dl; TSH 0.9 mIU/L; Weight 69 kg; CrCl (Cockcroft-Gault) 78 ml/min; CHA2DS2-VASc score 2
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 118/76 mmHg, PR 91/min, SpO2 97% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Digoxin 0.25 mg once daily in the morning until the next visit
+2. Tablet Apixaban 5 mg twice daily lifelong
+3. Tablet Amlodipine 5 mg once daily in the morning lifelong
+4. Tablet Atorvastatin (Atorva) 10 mg once daily at bedtime to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 23rd June 2026 (Tue). Please bring: ECG, S. Creatinine, CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

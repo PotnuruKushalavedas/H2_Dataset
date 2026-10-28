@@ -1,0 +1,75 @@
+{
+  "summary_id": "H2S-B3AOWBQY",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Budesonide + Formoterol (Foracort 200) inhaler",
+        "dose": "1 puff",
+        "frequency": "BD",
+        "timing": "",
+        "duration": "till next review",
+        "how_to_take_plain": "Take 1 puff twice a day, until your next check-up. Use it with the spacer. Rinse your mouth with water after each use."
+      },
+      {
+        "name": "Salbutamol 100 mcg per puff inhaler",
+        "dose": "2 puffs",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 2 puffs only when you are breathless or wheezing. Do not take more than 8 puffs in a day."
+      },
+      {
+        "name": "Prednisolone",
+        "dose": "30 mg, then 20 mg, then 10 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "after breakfast",
+        "duration": "5 days, then 5 days, then 5 days (15 days in total)",
+        "how_to_take_plain": "Take 30 mg once a day for 5 days, then 20 mg once a day for 5 days, then 10 mg once a day for 5 days, then stop. Take it after breakfast."
+      }
+    ],
+    "stop_medicines": [
+      "Propranolol 20 mg"
+    ],
+    "warning_signs": [
+      "Wheezing or breathlessness that does not get better with the reliever inhaler",
+      "So breathless that you cannot speak full sentences",
+      "Lips or fingertips turning blue, or feeling drowsy or confused",
+      "Chest pain, heaviness in the chest, or sweating"
+    ],
+    "diet": [
+      "Normal home food, as much as you can manage"
+    ],
+    "activity": [
+      "Stay away from dust, smoke and cold air (they can bring on an attack)",
+      "Slowly increase your walking day by day, as much as you comfortably can"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-06-08",
+        "with_whom": "Chest (lung) OPD",
+        "purpose": "Check-up with your test reports",
+        "bring": []
+      },
+      {
+        "date": "2026-07-13",
+        "with_whom": "Chest (lung) OPD",
+        "purpose": "Breathing test (spirometry)",
+        "bring": []
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Use your inhaler with a spacer, the way you were shown"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Bhavana Sharma    Age: 56 years\nWent home from hospital on: 2026-06-01 (1 June 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had a bad asthma attack: the airways became tight and swollen, making it hard to breathe.\n\nYOUR MEDICINES (take exactly as written)\n1. Budesonide + Formoterol (Foracort 200) inhaler 1 puff\n   - Take 1 puff twice a day, until your next check-up.\n   - Use it with the spacer.\n   - Rinse your mouth with water after each use.\n   - What it is for: daily controller inhaler that keeps the airways open and calm.\n2. Salbutamol 100 mcg per puff inhaler 2 puffs\n   - Take 2 puffs only when you are breathless or wheezing.\n   - Do not take more than 8 puffs in a day.\n   - What it is for: reliever inhaler that opens the airways quickly when you are breathless.\n3. Prednisolone (30 mg, then 20 mg, then 10 mg)\n   - Take 30 mg once a day for 5 days, then 20 mg once a day for 5 days, then 10 mg once a day for 5 days, then stop. Take it after breakfast.\n   - What it is for: steroid that reduces swelling in the airways.\n\nMEDICINES TO STOP\n- STOP Propranolol 20 mg. Do not take it any more: it can make asthma worse.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Wheezing or breathlessness that does not get better with the reliever inhaler\n- So breathless that you cannot speak full sentences\n- Lips or fingertips turning blue, or feeling drowsy or confused\n- Chest pain, heaviness in the chest, or sweating\n\nFOOD\n- Normal home food, as much as you can manage\n\nACTIVITY\n- Stay away from dust, smoke and cold air (they can bring on an attack)\n- Slowly increase your walking day by day, as much as you comfortably can\n\nOTHER ADVICE\n- Use your inhaler with a spacer, the way you were shown\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-06-08 (Monday, 8 June 2026): Chest (lung) OPD. Check-up with your test reports.\n- 2026-07-13 (Monday, 13 July 2026): Chest (lung) OPD. Breathing test (spirometry).\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Bhavana Sharma    उम्र: 56 साल\nअस्पताल से छुट्टी की तारीख़: 2026-06-01 (1 जून 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको दमे (asthma) का तेज़ दौरा पड़ा था: सांस की नलियाँ सिकुड़ और सूज गई थीं, जिससे सांस लेना मुश्किल था।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Budesonide + Formoterol (Foracort 200) इनहेलर 1 पफ़\n   - दिन में 2 बार: 1 पफ़ (puff) लें; अगली जाँच (review) तक जारी रखें।\n   - स्पेसर के साथ इस्तेमाल करें।\n   - हर बार इस्तेमाल के बाद पानी से कुल्ला करें।\n   - यह किसलिए है: रोज़ लिया जाने वाला (controller) इनहेलर, जो सांस की नलियों को खुला और शांत रखता है।\n2. Salbutamol (हर पफ़ में 100 mcg) इनहेलर 2 पफ़\n   - सिर्फ़ सांस फूलने या घरघराहट होने पर: 2 पफ़ (puffs) लें।\n   - दिन में 8 से ज़्यादा पफ़ न लें।\n   - यह किसलिए है: सांस फूलने पर सांस की नलियाँ जल्दी खोलने वाला (reliever) इनहेलर।\n3. Prednisolone (30 mg, फिर 20 mg, फिर 10 mg)\n   - 5 दिन तक 30 mg दिन में 1 बार लें, फिर 5 दिन तक 20 mg दिन में 1 बार लें, फिर 5 दिन तक 10 mg दिन में 1 बार लें, फिर बंद कर दें। इसे नाश्ते के बाद लें।\n   - यह किसलिए है: सांस की नलियों की सूजन कम करने वाली स्टेरॉयड (steroid) दवा।\n\nये दवाइयाँ बंद करें\n- Propranolol 20 mg लेना बंद करें। इसे अब बिल्कुल न लें: इससे दमा (asthma) बढ़ सकता है।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- सांस खोलने वाला (reliever) इनहेलर लेने पर भी घरघराहट (सीटी जैसी आवाज़) या सांस फूलना ठीक न होना\n- सांस इतनी फूलना कि पूरा वाक्य न बोल पाएँ\n- होंठ या उंगलियों के सिरे नीले पड़ना, या सुस्ती या सोचने-समझने में गड़बड़ी होना\n- सीने में दर्द, सीने में भारीपन, या पसीना आना\n\nखाना\n- सामान्य घर का खाना खाएँ, जितना आराम से खा सकें\n\nचलना-फिरना और काम\n- धूल, धुएँ और ठंडी हवा से बचें (इनसे दमे का दौरा पड़ सकता है)\n- धीरे-धीरे रोज़ थोड़ा ज़्यादा चलें, जितना आराम से चल सकें\n\nअन्य सलाह\n- इनहेलर को स्पेसर के साथ उसी तरह इस्तेमाल करें जैसे आपको सिखाया गया\n\nअगली बार अस्पताल कब आना है\n- 2026-06-08 (सोमवार, 8 जून 2026): छाती रोग ओपीडी (Chest OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ।\n- 2026-07-13 (सोमवार, 13 जुलाई 2026): छाती रोग ओपीडी (Chest OPD)। सांस की जाँच (spirometry/PFT)।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.34
+  }
+}

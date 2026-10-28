@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Prakash Mishra                 Age/Sex  : 49 Y / M
+UHID       : CDH4607173                     IP No.   : IP/26/297310
+DOA        : 22 Jan 2026                    DOD      : 26 Jan 2026
+Consultant : Dr. Manoj Kulkarni, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Closed bimalleolar fracture left ankle
+  - 2. s/p ORIF with plating and malleolar screw (23 Jan 2026)
+  - 3. Systemic hypertension
+
+BRIEF HISTORY:
+  - 49/M, h/o twisting injury left ankle while getting down stairs; pain and swelling, unable to walk.
+
+HOSPITAL COURSE:
+  - Limb immobilised in slab. Underwent ORIF (lateral malleolus plating + medial malleolus CC screw) under SA on 23 Jan 2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - ORIF (lateral malleolus plating + medial malleolus CC screw) under SA (23 Jan 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.2 g/dl | S. Cr 0.9 mg/dl | Weight 76 kg | Post-op X-ray: fracture fixed in good alignment | RBS 143 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 124/76 mmHg, PR 66/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+-------------+----------+-------------------------+
+| No | Medicine                  | Dose   | Route | Frequency   | Duration | Instructions            |
++----+---------------------------+--------+-------+-------------+----------+-------------------------+
+| 1  | Tab. Paracetamol (Calpol) | 500 mg | PO    | TDS (1-1-1) | 5 days   | PC                      |
+| 2  | Tab. Diclofenac           | 50 mg  | PO    | BD (1-0-1)  | 5 days   | PC                      |
+| 3  | Tab. Calcium + Vitamin D3 | 500 mg | PO    | OD (1-0-0)  | 3 months | PC                      |
+| 4  | Tab. Pantoprazole         | 40 mg  | PO    | OD (1-0-0)  | 5 days   | 30 min before breakfast |
+| 5  | Tab. Amlodipine (Stamlo)  | 5 mg   | PO    | OD (1-0-0)  | Lifelong |                         |
++----+---------------------------+--------+-------+-------------+----------+-------------------------+
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - NWB operated limb (walker / crutches)
+    - Leg elevation on pillows at rest + active toe movements
+  Wound care:
+    - Slab to be kept dry - nothing to be inserted under slab
+    - Keep wound site clean and dry
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Numbness, tingling, bluish colour or severe swelling of the operated leg
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+
+FOLLOW-UP:
+  - Suture removal - Orthopaedics OPD on 04 Feb 2026 (Wed) (POD 12)
+  - Review with check X-ray - Ortho OPD on 09 Mar 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Manoj Kulkarni (Consultant)

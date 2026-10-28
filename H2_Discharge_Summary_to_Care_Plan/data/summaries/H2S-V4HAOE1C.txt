@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Joseph Patel    Age: 46 years    Sex: Male
+UHID: CDH5153086    IP Number: IP/26/129667
+Date of admission: 07 Jul 2026    Date of discharge: 15 Jul 2026
+Under the care of: Dr. Kavita Deshmukh, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+HISTORY:
+  - 46/M, presented with cough x 9 weeks, evening rise of temperature, loss of appetite and weight loss of 8 kg, with 2 episodes of streaky haemoptysis.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 08 Jul 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: right upper zone infiltrates; Hb 10.9 g/dl; LFT: within normal limits; RBS 103 mg/dl; HIV: non-reactive; Weight 58 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 126/72 mmHg, PR 80/min, SpO2 96% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Isoniazid + Rifampicin + Pyrazinamide + Ethambutol (4-FDC) 4 tabs once daily in the morning empty stomach for 49 days (as per weight band; to complete 8 weeks of intensive phase; then review for continuation phase)
+2. Tablet Pyridoxine 10 mg once daily in the morning till the next review
+
+GENERAL ADVICE:
+  Diet:
+    - High-protein nutritious diet (dal, eggs, milk, soya)
+    - Strictly no alcohol
+  Other instructions:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - Stop smoking and all forms of tobacco
+    - Orange-red urine expected with rifampicin (harmless)
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Generalised skin rash / itching
+  - Coughing up blood
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with LFT in TB clinic (DOTS centre) on 30 Jul 2026 (Thu).
+  - Sputum AFB at end of IP in DOTS centre / TB clinic on 03 Sep 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Kavita Deshmukh (Consultant)

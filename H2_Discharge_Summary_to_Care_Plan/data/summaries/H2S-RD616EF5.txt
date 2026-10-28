@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Sarita Sahu, 25/F  UHID: CDH7985171  IP: IP/26/636294
+DOA: 16/05/2026  DOD: 22/05/2026  Cons: Dr. Vivek Rathore (Surgery Unit I)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis with localised perforation
+- s/p Laparoscopic appendicectomy (16/05/2026)
+
+H/o: 25/F, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course: Emergency laparoscopic appendicectomy under GA on 16/05/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure: Laparoscopic appendicectomy under GA (16/05/2026)
+
+Ix: TLC 18,900/cumm, CRP 131 mg/L, HPE: awaited, Hb 13.7 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 118/78 mmHg, PR 88/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Ceftum 500 mg BD PC x 7/7
+2) T. Flagyl 400 mg TDS PC x 7 days (no alcohol during course)
+3) T. Dolo 650 SOS for fever or pain (max 4 doses/day)
+4) T. Rablet 20 mg OD ½ hr before breakfast x 5/7
+
+Adv:
+  Diet:
+  - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+  - Walk around the house several times a day
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound:
+  - Keep wound site clean and dry
+  - Bath allowed after 48 h - pat wound dry with clean cloth
+
+Review SOS if:
+- Fever above 100.4 F (38 C)
+- Wound site redness / swelling / pus or discharge
+- Severe / increasing abdominal pain
+- Persistent vomiting / not able to take orally
+- Abdominal distension, not passing stools / flatus
+
+F/U:
+- Surgery OPD on 25/05/2026 - Wound check (POD 9)
+- General Surgery OPD on 30/05/2026 (Sat) - Review with histopathology report
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Vivek Rathore (Consultant)

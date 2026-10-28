@@ -1,0 +1,46 @@
+CDH / General Medicine / DISCHARGE SUMMARY
+Name - Hema Sandhu | 59 Y/F | UHID CDH7970340 | IP IP/26/499892
+DOA - 22/03/2026 | DOD - 29/03/2026 | Consultant - Dr. S. K. Mishra, Medicine Unit II
+
+Diagnosis -
+  • Diabetic ketoacidosis (moderate) - resolved
+  • Type 2 diabetes mellitus (ketosis-prone)
+
+Presenting complaints & history - 59/F, k/c/o T2DM x 7 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: acute gastroenteritis.
+
+Hospital course -
+  • Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 48 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations -
+  • Admission ABG: pH 7.1, HCO3 12 mEq/L | Urine ketones +++ | RBS at admission 473 mg/dl | HbA1c 12.9% | S. Cr 1.0 mg/dl | K 4.3 mEq/L (at discharge)
+
+Status at discharge - Conscious, oriented, tolerating diet. BP 124/78 mmHg, PR 75/min, SpO2 97% on RA. Ketones negative.
+
+ADV ON DISCHARGE -
+• Inj. Insulin Glargine (Glaritus) 12 IU SC HS till review
+• Inj. Insulin Aspart (NovoRapid) 4 IU SC TDS within 15 min before meals till review
+• Tab. Metformin (Glycomet) 500 mg PO BD after food till review
+
+Instructions -
+  Diet:
+    • Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    • Small, frequent meals - do not skip any meal
+    • Adequate oral fluids - 2 to 3 litres per day
+  Others:
+    • Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    • Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    • Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    • Carry glucose / sugar at all times
+
+Report immediately to Casualty in case of -
+  • Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  • Sugar > 300 mg/dl on 2 readings
+  • Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow up -
+  • RFT + S. electrolytes on 01/04/2026 (Wed) at Central lab
+  • Review with sugar chart - DM clinic, Medicine OPD on 03/04/2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

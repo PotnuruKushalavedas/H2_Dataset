@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Jyoti Gaikwad                  Age/Sex  : 53 Y / F
+UHID       : CDH1027236                     IP No.   : IP/26/106352
+DOA        : 30 Aug 2026                    DOD      : 07 Sep 2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+BRIEF HISTORY:
+  - 53/F, h/o long-term chulha smoke exposure, k/c/o COPD x 9 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 51 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 10,300/cumm | RBS 134 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 2. BP 130/70 mmHg, PR 75/min, SpO2 92% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------+----------------+-------+------------+----------+----------------------------------------------+
+| No | Medicine                                            | Dose           | Route | Frequency  | Duration | Instructions                                 |
++----+-----------------------------------------------------+----------------+-------+------------+----------+----------------------------------------------+
+| 1  | Rotacap Tiotropium                                  | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                |
+| 2  | Inh. Budesonide + Formoterol (Budamate) (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; gargle after use                 |
+| 3  | Inh. Asthalin (100 mcg)                             | 2 puffs        | Inh   | SOS        | -        | for breathlessness / wheeze; max 8 puffs/day |
+| 4  | Tab. Prednisolone                                   | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                              |
+| 5  | Tab. Amoxycillin + Clavulanic acid                  | 625 mg         | PO    | BD (1-0-1) | 5 days   | PC                                           |
+| 6  | Tab. Rabeprazole (Rablet)                           | 20 mg          | PO    | OD (1-0-0) | 5 days   | 30 min before breakfast                      |
++----+-----------------------------------------------------+----------------+-------+------------+----------+----------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - No exposure to biomass (chulha) smoke / dust
+  Other:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increase in sputum quantity or change to yellow/green colour
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 21 Sep 2026 (Mon)
+  - Spirometry (PFT) - Pulmonary Medicine (Chest) OPD on 19 Oct 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Kavita Deshmukh (Consultant)

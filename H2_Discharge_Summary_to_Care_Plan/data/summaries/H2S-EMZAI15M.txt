@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Krishna Kumar                  Age/Sex  : 67 Y / M
+UHID       : CDH1922073                     IP No.   : IP/26/799863
+DOA        : 08 Apr 2026                    DOD      : 12 Apr 2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Systemic hypertension
+  - 4. BPH
+
+BRIEF HISTORY:
+  - 67/M, k/c/o T2DM x 8 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 421 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.4% | FBS 282 mg/dl | PPBS 346 mg/dl | S. Cr 0.8 mg/dl | Urine routine: pus cells plenty | Hb 11.6 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/70 mmHg, PR 71/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+------------------+-----------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration         | Instructions          |
++----+---------------------------+--------+-------+------------+------------------+-----------------------+
+| 1  | Tab. Metformin            | 500 mg | PO    | BD (1-0-1) | Lifelong         | PC                    |
+| 2  | Tab. Glimepiride (Amaryl) | 1 mg   | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast |
+| 3  | Tab. Cefixime             | 200 mg | PO    | BD (1-0-1) | 5 days           | after food            |
+| 4  | Tab. Atorva               | 10 mg  | PO    | HS (0-0-1) | Lifelong         |                       |
+| 5  | Tab. Losartan (Repace)    | 50 mg  | PO    | OD (1-0-0) | Lifelong         |                       |
+| 6  | Cap. Veltam               | 0.4 mg | PO    | HS (0-0-1) | Lifelong         |                       |
++----+---------------------------+--------+-------+------------+------------------+-----------------------+
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High fever with chills
+  - Burning micturition / pain while passing urine
+  - Blood sugar above 300 mg/dl on two readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 22 Apr 2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Farah Siddiqui (Consultant)

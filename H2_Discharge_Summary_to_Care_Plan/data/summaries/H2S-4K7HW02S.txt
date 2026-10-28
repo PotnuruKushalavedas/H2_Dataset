@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Radha Reddy
+Age / Sex    : 63 yrs / Female
+UHID         : CDH2925730      IP No: IP/26/693880
+Admitted on  : 23.05.2026      Discharged on: 25.05.2026
+Consultant   : Dr. N. Chakraborty, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Symptomatic cholelithiasis
+  * s/p Laparoscopic cholecystectomy (23.05.2026)
+
+Brief History:
+  * 63/F, c/o recurrent right upper abdominal pain after fatty meals x 7 months. USG abdomen: multiple calculi in GB, largest 11 mm, CBD normal.
+
+Course in Hospital:
+  * Underwent Lap. cholecystectomy under GA on 23.05.2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+Procedure:
+  * Laparoscopic cholecystectomy under GA (23.05.2026)
+
+Investigations:
+  * Hb 14.1 g/dl; LFT: within normal limits; S. Amylase 42 U/L; HPE: awaited
+
+Condition at Discharge: Afebrile, tolerating normal diet, port sites healthy. BP 130/74 mmHg, PR 88/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 500 mg 1-1-1 after food x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 7 days
+
+Advice on Discharge:
+  Diet:
+    * Low-fat diet - no fried / oily food, ghee, red meat
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Can resume office work after 2 weeks
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+    * Do not apply oil, turmeric or powder on the wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Severe / increasing abdominal pain
+  * Persistent vomiting / not able to take orally
+  * Yellowish eyes / urine (jaundice)
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 01.06.2026 (POD 9)
+  * Review with HPE report - General Surgery OPD on 08.06.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. N. Chakraborty (Consultant)

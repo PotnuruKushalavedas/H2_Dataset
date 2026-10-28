@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Mahesh Mukherjee    Age: 64 years    Sex: Male
+UHID: CDH6620290    IP Number: IP/26/296812
+Date of admission: 12 Mar 2026    Date of discharge: 17 Mar 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 64/M, chronic smoker (34 pack-yrs), k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.35, pCO2 61 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 11,300/cumm; RBS 135 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 2. BP 114/76 mmHg, PR 72/min, SpO2 91% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 rotacap once daily in the morning to continue lifelong (with rotahaler device)
+2. Inhaler Budesonide + Formoterol (6/400 mcg) 1 puff twice daily lifelong (via spacer; gargle after use)
+3. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for wheeze or breathlessness (max 8 puffs/day)
+4. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+5. Tablet Azithromycin 500 mg once daily in the morning for 3 days
+6. Tablet Razo 20 mg once daily in the morning 30 min before breakfast for 5 days
+Continue previous medications for HTN as before.
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed-lip breathing and daily walking as tolerated
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 27 Mar 2026 (Fri).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Imran Qureshi (Consultant)

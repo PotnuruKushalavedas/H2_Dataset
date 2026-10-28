@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Geeta Naidu
+Age / Sex    : 64 yrs / Female
+UHID         : CDH3171553      IP No: IP/26/806491
+Admitted on  : 01/04/2026      Discharged on: 04/04/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate
+  * Rheumatic heart disease - moderate mitral stenosis
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+  * Hypothyroidism
+
+Brief History:
+  * 64/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 147/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 72/min at discharge.
+
+Investigations:
+  * 2D Echo: thickened MV, MVA 1.2 cm2, LA dilated, LVEF 55%; S. Cr 0.7 mg/dl; Hb 13.7 g/dl; TSH 2.6 mIU/L; Weight 77 kg; INR at discharge 1.9
+
+Condition at Discharge: Stable, rate controlled. BP 130/80 mmHg, PR 90/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol (Concor) 2.5 mg 1-0-0 long term (lifelong)
+- Tab. Acenocoumarol 1 mg 0-0-1 after dinner till review (further dose as per INR)
+- Tab. Amlodipine 5 mg 1-0-0 lifelong
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+- Tab. Levothyroxine 100 mcg 1-0-0 empty stomach lifelong
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * INR test on 08/04/2026 (Wed) at Central lab
+  * Review with reports - Cardiology OPD on 18/04/2026; bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

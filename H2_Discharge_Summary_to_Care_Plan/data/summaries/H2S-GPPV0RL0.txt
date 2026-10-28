@@ -1,0 +1,59 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Sunil Iyer | 65 Y/M | UHID CDH7570684 | IP IP/26/774625
+DOA - 20-04-2026 | DOD - 25-04-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute coronary syndrome - Anterior wall STEMI
+  • CAD - SVD; s/p primary PCI with 1 DES to LAD
+  • Hypothyroidism
+
+Presenting complaints & history - 65/M, smoker, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+Hospital course -
+  • Taken up for primary PCI on 20-04-2026: CAG showed 97% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Operative notes -
+  • CAG + PCI with 1 DES to LAD (20-04-2026)
+
+Investigations -
+  • Hb 12.6 g/dl | S. Cr 0.8 mg/dl | K 4.8 mEq/L | LDL 132 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 46%
+
+Status at discharge - Chest pain free, haemodynamically stable. BP 130/72 mmHg, PR 67/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+ADV ON DISCHARGE -
+• Tab. Aspirin 75 mg PO OD after lunch life long
+• Tab. Ticagrelor (Brilinta) 90 mg PO BD x 12/12
+• Tab. Atorvastatin (Atorva) 80 mg PO HS life long
+• Tab. Met XL 25 mg PO OD life long
+• Tab. Telma 40 mg PO OD lifelong
+• Tab. Rabeprazole (Rablet) 20 mg PO OD ½ hr before breakfast till next visit
+• Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+Continue previous medications for hypothyroidism as before.
+
+Instructions -
+  Diet:
+    • Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    • Avoid lifting weight > 5 kg x 4 weeks
+    • No driving for 1 week
+  Others:
+    • Stop smoking and all forms of tobacco
+    • Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    • Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Report immediately to Casualty in case of -
+  • Chest pain not relieved after 3 SL tablets taken 5 min apart
+  • Breathlessness / difficulty in breathing
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Palpitations (fast or irregular heartbeat)
+  • Giddiness / fainting / LOC
+
+Follow up -
+  • Review with reports - Cardiology OPD on 05-05-2026; bring reports: ECG
+  • Fasting lipid profile on 06-06-2026 (Sat) at Central lab
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

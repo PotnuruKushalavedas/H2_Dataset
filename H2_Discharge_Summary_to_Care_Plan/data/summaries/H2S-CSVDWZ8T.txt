@@ -1,0 +1,51 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Rajesh Kulkarni | 66 Y/M | UHID CDH6042081 | IP IP/26/776547
+DOA - 21/08/2026 | DOD - 28/08/2026 | Consultant - Dr. Imran Qureshi, Chest Unit
+
+Diagnosis -
+  • Acute exacerbation of COPD (infective)
+  • Type 2 diabetes mellitus
+
+Presenting complaints & history - 66/M, chronic smoker (24 pack-yrs), k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+Hospital course -
+  • Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations -
+  • ABG at admission: pH 7.35, pCO2 61 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 13,300/cumm | RBS 130 mg/dl | ECG: sinus rhythm | S. Cr 0.9 mg/dl
+
+Status at discharge - Breathlessness mMRC grade 2. BP 114/70 mmHg, PR 69/min, SpO2 92% on RA.
+
+ADV ON DISCHARGE -
+• Rotacap Tiotropium 18 mcg 1 rotacap OD life long (via rotahaler)
+• Inh. Budesonide + Formoterol (Foracort) 400 1 puff BD lifelong (via spacer; gargle after use)
+• Inh. Salbutamol (Asthalin) 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+• Tab. Prednisolone (Omnacortil) 40 mg OD x 3/7, then 30 mg OD x 3/7, then 20 mg OD x 3/7, then 10 mg OD x 3/7, then stop (after breakfast)
+• Cap. Doxycycline (Biodoxi) 100 mg PO BD after food x 5 days
+• Tab. Metformin (Glycomet) 500 mg PO BD PC life long
+
+Instructions -
+  Diet:
+    • Normal diet as tolerated
+  Activity:
+    • Pursed-lip breathing and daily walking as tolerated
+  Others:
+    • Inhaler technique taught; to use with spacer
+    • Influenza and pneumococcal vaccination advised
+    • No smoking / no tobacco in any form
+    • Monitor blood sugar daily while on prednisolone course
+
+Report immediately to Casualty in case of -
+  • Breathlessness or difficulty in breathing
+  • Wheeze / breathlessness not settling with reliever inhaler
+  • Bluish lips / fingertips, drowsiness or confusion
+  • Fever above 100.4 F (38 C)
+  • Increase in sputum quantity or change to yellow/green colour
+
+Follow up -
+  • Review with reports - Chest OPD on 07/09/2026
+  • PFT / spirometry - Pulmonary Medicine (Chest) OPD on 09/10/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Imran Qureshi (Consultant)

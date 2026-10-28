@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Subhash Bhatt                  Age/Sex  : 54 Y / M
+UHID       : CDH7066797                     IP No.   : IP/26/559140
+DOA        : 14/05/2026                     DOD      : 20/05/2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+BRIEF HISTORY:
+  - 54/M, k/c/o T2DM x 8 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 407 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 12.4% | FBS 285 mg/dl | PPBS 378 mg/dl | S. Cr 0.9 mg/dl | Urine routine: pus cells plenty | Hb 14.0 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 118/80 mmHg, PR 76/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+---------+-------+------------+------------------+-----------------------------------------+
+| No | Medicine                | Dose    | Route | Frequency  | Duration         | Instructions                            |
++----+-------------------------+---------+-------+------------+------------------+-----------------------------------------+
+| 1  | Tab. Metformin          | 1000 mg | PO    | BD (1-0-1) | Till next review | PC                                      |
+| 2  | Tab. Istavel            | 100 mg  | PO    | OD (1-0-0) | Till next review |                                         |
+| 3  | Inj. Insulin Glargine   | 8 U     | SC    | OD (0-0-1) | Till review      | at 10 pm daily                          |
+| 4  | Tab. Cefixime           | 200 mg  | PO    | BD (1-0-1) | 7 days           | after food                              |
+| 5  | Tab. Paracetamol (Dolo) | 650 mg  | PO    | SOS        | -                | for pain; not more than 4 doses in 24 h |
++----+-------------------------+---------+-------+------------+------------------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning micturition / pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 28/05/2026 (Thu); bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

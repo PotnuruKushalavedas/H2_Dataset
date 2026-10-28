@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Babu Gupta
+Age / Sex    : 64 yrs / Male
+UHID         : CDH5669024      IP No: IP/26/928986
+Admitted on  : 07.09.2026      Discharged on: 13.09.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate
+  * Rheumatic heart disease - moderate mitral stenosis
+  * Systemic hypertension
+
+Brief History:
+  * 64/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 167/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 80/min at discharge.
+
+Investigations:
+  * 2D Echo: thickened MV, MVA 1.3 cm2, LA dilated, LVEF 58%; S. Cr 0.7 mg/dl; Hb 12.2 g/dl; TSH 2.3 mIU/L; Weight 87 kg; INR at discharge 1.9
+
+Condition at Discharge: Stable, rate controlled. BP 120/76 mmHg, PR 92/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate ER (Seloken XL) 50 mg 1-0-0 long term (lifelong)
+- Tab. Acenocoumarol 1 mg 0-0-1 after dinner till next review (dose as per INR)
+- Tab. Amlong 5 mg 1-0-0 long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Get INR test done on 18.09.2026 (Fri) (Hospital laboratory)
+  * Review with reports - Cardiology OPD on 05.10.2026; bring reports: ECG, INR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

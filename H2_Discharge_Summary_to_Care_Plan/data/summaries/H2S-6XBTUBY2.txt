@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Rajni Verma
+Age / Sex    : 27 yrs / Female
+UHID         : CDH4351729      IP No: IP/26/854892
+Admitted on  : 14/06/2026      Discharged on: 18/06/2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+
+Brief History:
+  * 27/F, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 3 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 166 to 358 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 358 L/min; CXR: no pneumothorax, no consolidation; AEC 620/cumm; TLC 7,600/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 120/72 mmHg, PR 70/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 till next review (with spacer; rinse mouth after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+- Tab. Prednisolone 30 mg 1-0-0 x 5 days, then 20 mg 1-0-0 x 5 days, then 10 mg 1-0-0 x 5 days, then stop (after breakfast)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid triggers - dust / smoke / cold air
+    * Gradual increase in walking as tolerated
+  General:
+    * Inhaler technique taught; to use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Unable to speak full sentences due to breathlessness
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Chest pain / heaviness / sweating
+
+Follow-up:
+  * Review with reports - Chest OPD on 25/06/2026 (Thu)
+  * Spirometry (PFT) - Pulmonary Medicine (Chest) OPD on 16/07/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. T. Raghavan (Consultant)

@@ -1,0 +1,68 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Anil Prajapati    Age: 49 years    Sex: Male
+UHID: CDH3549291    IP Number: IP/26/202206
+Date of admission: 03 Sep 2026    Date of discharge: 07 Sep 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+  - 3. Type 2 diabetes mellitus
+  - 4. Systemic hypertension
+
+HISTORY:
+  - 49/M, k/c/o T2DM, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+COURSE IN THE HOSPITAL:
+  - Taken up for primary PCI on 03 Sep 2026: CAG showed 98% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to LAD (03 Sep 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 12.1 g/dl; S. Cr 0.8 mg/dl; K 4.1 mEq/L; LDL 118 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 44%; HbA1c 7.5%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 114/76 mmHg, PR 69/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin 75 mg once daily after lunch lifelong
+2. Tablet Clopidogrel (Clopilet) 75 mg once daily in the morning for 12 months
+3. Tablet Atorvastatin 40 mg once daily at bedtime to continue lifelong
+4. Tablet Metoprolol Succinate ER (Met XL) 50 mg once daily in the morning lifelong
+5. Tablet Telmisartan (Telma) 40 mg once daily in the morning lifelong
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 3 months
+7. Tablet Isosorbide Dinitrate 5 mg SL only if needed (SOS) for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+8. Tablet Metformin 500 mg twice daily PC lifelong
+9. Tablet Empagliflozin 10 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Physical activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other instructions:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 14 Sep 2026 (Mon). Please bring: ECG.
+  - Get Fasting lipid profile done on 22 Oct 2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

@@ -1,0 +1,85 @@
+{
+  "summary_id": "H2S-MFUV3MST",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Tiotropium",
+        "dose": "18 mcg (1 capsule)",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Breathe in 1 capsule (18 mcg) once a day, in the morning, every day for life; do not stop on your own. Use it with the Rotahaler device."
+      },
+      {
+        "name": "Budesonide + Formoterol 6/200 mcg inhaler",
+        "dose": "2 puffs",
+        "frequency": "BD (1-0-1)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 2 puffs twice a day (morning and night), every day for life; do not stop on your own. Use it with the spacer. Rinse your mouth with water after each use."
+      },
+      {
+        "name": "Salbutamol 100 mcg per puff inhaler",
+        "dose": "2 puffs",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 2 puffs only when you are breathless or wheezing. Do not take more than 8 puffs in a day."
+      },
+      {
+        "name": "Prednisolone (Omnacortil)",
+        "dose": "40 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "after breakfast",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 40 mg once a day, after breakfast, for 5 days."
+      },
+      {
+        "name": "Azithromycin (Azee)",
+        "dose": "500 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "3 days",
+        "how_to_take_plain": "Take 1 tablet (500 mg) once a day, in the morning, for 3 days."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Breathlessness or trouble breathing",
+      "Wheezing or breathlessness that does not get better with the reliever inhaler",
+      "Lips or fingertips turning blue, or feeling drowsy or confused",
+      "Fever above 100.4 F (38 C)",
+      "More phlegm than usual, or phlegm turning yellow or green"
+    ],
+    "diet": [
+      "Normal home food, as much as you can manage"
+    ],
+    "activity": [
+      "Breathe out slowly through pursed lips (like whistling), and walk daily as much as you can",
+      "Stay away from chulha smoke (wood or cow-dung fire) and dust"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-09-19",
+        "with_whom": "Chest (lung) OPD",
+        "purpose": "Check-up with your test reports",
+        "bring": []
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Use your inhaler with a spacer, the way you were shown",
+      "Get the flu vaccine and the pneumonia (pneumococcal) vaccine"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Selvam Tiwari    Age: 79 years\nWent home from hospital on: 2026-09-05 (5 September 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou have COPD, a long-term lung disease that narrows the airways. It had suddenly got worse (a flare-up) because of an infection.\n\nYOUR MEDICINES (take exactly as written)\n1. Tiotropium 18 mcg (1 capsule)\n   - Breathe in 1 capsule (18 mcg) once a day, in the morning, every day for life; do not stop on your own.\n   - Use it with the Rotahaler device.\n   - What it is for: daily inhaler that keeps the airways open.\n2. Budesonide + Formoterol 6/200 mcg inhaler 2 puffs\n   - Take 2 puffs twice a day (morning and night), every day for life; do not stop on your own.\n   - Use it with the spacer.\n   - Rinse your mouth with water after each use.\n   - What it is for: daily controller inhaler that keeps the airways open and calm.\n3. Salbutamol 100 mcg per puff inhaler 2 puffs\n   - Take 2 puffs only when you are breathless or wheezing.\n   - Do not take more than 8 puffs in a day.\n   - What it is for: reliever inhaler that opens the airways quickly when you are breathless.\n4. Prednisolone (Omnacortil) 40 mg\n   - Take 40 mg once a day, after breakfast, for 5 days.\n   - What it is for: steroid that reduces swelling in the airways.\n5. Azithromycin (Azee) 500 mg\n   - Take 1 tablet (500 mg) once a day, in the morning, for 3 days.\n   - What it is for: antibiotic that kills the germs causing infection.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Breathlessness or trouble breathing\n- Wheezing or breathlessness that does not get better with the reliever inhaler\n- Lips or fingertips turning blue, or feeling drowsy or confused\n- Fever above 100.4 F (38 C)\n- More phlegm than usual, or phlegm turning yellow or green\n\nFOOD\n- Normal home food, as much as you can manage\n\nACTIVITY\n- Breathe out slowly through pursed lips (like whistling), and walk daily as much as you can\n- Stay away from chulha smoke (wood or cow-dung fire) and dust\n\nOTHER ADVICE\n- Use your inhaler with a spacer, the way you were shown\n- Get the flu vaccine and the pneumonia (pneumococcal) vaccine\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-09-19 (Saturday, 19 September 2026): Chest (lung) OPD. Check-up with your test reports.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Selvam Tiwari    उम्र: 79 साल\nअस्पताल से छुट्टी की तारीख़: 2026-09-05 (5 सितंबर 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको COPD है, फेफड़ों की पुरानी (लंबे समय तक चलने वाली) बीमारी जिसमें सांस की नलियाँ सिकुड़ जाती हैं। यह संक्रमण की वजह से अचानक बढ़ गई थी (flare-up)।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Tiotropium 18 mcg (1 कैप्सूल)\n   - दिन में 1 बार, सुबह: 1 कैप्सूल (18 mcg) की दवा सांस से अंदर खींचें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - Rotahaler डिवाइस से सांस के ज़रिए लें।\n   - यह किसलिए है: रोज़ लिया जाने वाला इनहेलर, जो सांस की नलियों को खुला रखता है।\n2. Budesonide + Formoterol 6/200 mcg इनहेलर 2 पफ़\n   - दिन में 2 बार (सुबह और रात): 2 पफ़ (puffs) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - स्पेसर के साथ इस्तेमाल करें।\n   - हर बार इस्तेमाल के बाद पानी से कुल्ला करें।\n   - यह किसलिए है: रोज़ लिया जाने वाला (controller) इनहेलर, जो सांस की नलियों को खुला और शांत रखता है।\n3. Salbutamol (हर पफ़ में 100 mcg) इनहेलर 2 पफ़\n   - सिर्फ़ सांस फूलने या घरघराहट होने पर: 2 पफ़ (puffs) लें।\n   - दिन में 8 से ज़्यादा पफ़ न लें।\n   - यह किसलिए है: सांस फूलने पर सांस की नलियाँ जल्दी खोलने वाला (reliever) इनहेलर।\n4. Prednisolone (Omnacortil) 40 mg\n   - दिन में 1 बार, नाश्ते के बाद: 40 mg लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: सांस की नलियों की सूजन कम करने वाली स्टेरॉयड (steroid) दवा।\n5. Azithromycin (Azee) 500 mg\n   - दिन में 1 बार, सुबह: 1 गोली (500 mg) लें; 3 दिन तक जारी रखें।\n   - यह किसलिए है: संक्रमण (infection) फैलाने वाले कीटाणुओं को मारने वाली एंटीबायोटिक।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- सांस फूलना या सांस लेने में तकलीफ़\n- सांस खोलने वाला (reliever) इनहेलर लेने पर भी घरघराहट (सीटी जैसी आवाज़) या सांस फूलना ठीक न होना\n- होंठ या उंगलियों के सिरे नीले पड़ना, या सुस्ती या सोचने-समझने में गड़बड़ी होना\n- 100.4 F (38 C) से ज़्यादा बुखार\n- बलगम ज़्यादा आना, या बलगम का पीला या हरा होना\n\nखाना\n- सामान्य घर का खाना खाएँ, जितना आराम से खा सकें\n\nचलना-फिरना और काम\n- होंठ सिकोड़कर (सीटी की तरह) धीरे-धीरे सांस छोड़ें, और रोज़ जितना हो सके उतना चलें\n- चूल्हे के धुएँ (लकड़ी या उपले की आग) और धूल से दूर रहें\n\nअन्य सलाह\n- इनहेलर को स्पेसर के साथ उसी तरह इस्तेमाल करें जैसे आपको सिखाया गया\n- फ़्लू का टीका और निमोनिया (pneumococcal) का टीका लगवाएँ\n\nअगली बार अस्पताल कब आना है\n- 2026-09-19 (शनिवार, 19 सितंबर 2026): छाती रोग ओपीडी (Chest OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.96
+  }
+}

@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Joseph Kulkarni, 68/M  UHID: CDH4461604  IP: IP/26/964473
+DOA: 18-Mar-26  DOD: 24-Mar-26  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate (non-valvular)
+- Systemic hypertension
+- BPH
+
+H/o: 68/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 9 days. ECG: AF with FVR (HR 144/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 86/min at discharge.
+
+Ix: 2D Echo: LA dilated, no significant valvular disease, LVEF 57%, S. Cr 0.7 mg/dl, Hb 12.2 g/dl, TSH 3.4 mIU/L, Weight 60 kg, CrCl (Cockcroft-Gault) 85 ml/min, CHA2DS2-VASc score 2
+
+Condn at d/c: Stable, rate controlled. BP 110/78 mmHg, PR 82/min, SpO2 96% on RA.
+
+Rx on discharge:
+1) T. Dilzem 30 mg TDS till review
+2) T. Eliquis 5 BD life long
+3) T. Telma 40 OD lifelong
+4) C. Veltam 0.4 mg HS life long
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Do not take painkillers from the chemist without doctor's advice
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Review SOS if:
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Sudden weakness of face / arm / leg or slurring of speech
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+- Breathlessness or difficulty in breathing
+
+F/U:
+- Cardiology OPD on 14-Apr-26 - Review with reports with ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

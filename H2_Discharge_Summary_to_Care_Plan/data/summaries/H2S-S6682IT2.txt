@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Savita Shetty
+Age / Sex    : 51 yrs / Female
+UHID         : CDH9473506      IP No: IP/26/178561
+Admitted on  : 08/03/2026      Discharged on: 11/03/2026
+Consultant   : Dr. Sunita Patil, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Symptomatic cholelithiasis
+  * s/p Laparoscopic cholecystectomy (08/03/2026)
+
+Brief History:
+  * 51/F, c/o recurrent right upper abdominal pain after fatty meals x 5 months. USG abdomen: multiple calculi in GB, largest 9 mm, CBD normal.
+
+Course in Hospital:
+  * Underwent Lap. cholecystectomy under GA on 08/03/2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+Procedure:
+  * Laparoscopic cholecystectomy under GA (08/03/2026)
+
+Investigations:
+  * Hb 14.2 g/dl; LFT: within normal limits; S. Amylase 77 U/L; HPE: awaited
+
+Condition at Discharge: Afebrile, tolerating normal diet, port sites healthy. BP 130/74 mmHg, PR 75/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg 1-1-1 PC x 7 days
+- Tab. Diclofenac 50 mg 1-0-1 PC x 3 days
+- Tab. Rabeprazole 20 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Low-fat diet - no fried / oily food, ghee, red meat
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * No heavy lifting (more than 5 kg) for 4 weeks
+    * May resume desk work after 2 weeks
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe / increasing abdominal pain
+  * Persistent vomiting or unable to take food and fluids orally
+  * Yellowish eyes / urine (jaundice)
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 16/03/2026 (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Sunita Patil (Consultant)

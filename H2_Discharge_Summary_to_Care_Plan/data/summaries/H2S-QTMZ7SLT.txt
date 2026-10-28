@@ -1,0 +1,45 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Mamta Hegde | 71 Y/F | UHID CDH8354740 | IP IP/26/834868
+DOA - 26/03/2026 | DOD - 30/03/2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 71/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 164/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 91/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 53% | S. Cr 0.6 mg/dl | Hb 13.8 g/dl | TSH 2.8 mIU/L | Weight 59 kg | CrCl (Cockcroft-Gault) 80 ml/min | CHA2DS2-VASc score 3
+
+Status at discharge - Stable, rate controlled. BP 118/74 mmHg, PR 92/min, SpO2 96% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Diltiazem 30 mg PO TDS till review
+• Tab. Apixaban (Eliquis) 5 mg PO BD life long
+• Tab. Telma 40 mg PO OD life long
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Do not take painkillers from the chemist without doctor's advice
+    • Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Report immediately to Casualty in case of -
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Sudden weakness of face, arm or leg, or slurred speech
+  • Palpitations - fast / irregular heart beat
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness / difficulty in breathing
+
+Follow up -
+  • Review with reports - Cardiology OPD on 13/04/2026 (Mon); bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

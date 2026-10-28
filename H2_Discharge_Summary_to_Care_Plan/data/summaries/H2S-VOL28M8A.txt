@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Parvati Bhatt                  Age/Sex  : 56 Y / F
+UHID       : CDH9755711                     IP No.   : IP/26/934644
+DOA        : 13/05/2026                     DOD      : 18/05/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 23%
+
+BRIEF HISTORY:
+  - 56/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 14 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 73 kg to 69 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 9528 pg/ml | S. Cr 0.8 mg/dl | Na 138 mEq/L | K 4.9 mEq/L | 2D Echo: LVEF 23%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 69/min, SpO2 99% on RA. Dry weight 69 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+---------+-------+------------+-------------+--------------+
+| No | Medicine                               | Dose    | Route | Frequency  | Duration    | Instructions |
++----+----------------------------------------+---------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide (Lasix)                | 40 mg   | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate ER           | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Empagliflozin                     | 10 mg   | PO    | OD (1-0-0) | Lifelong    |              |
++----+----------------------------------------+---------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 28/05/2026 (Thu); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

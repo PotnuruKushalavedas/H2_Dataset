@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Shabana Gaikwad                Age/Sex  : 32 Y / F
+UHID       : CDH9790189                     IP No.   : IP/26/654506
+DOA        : 13/02/2026                     DOD      : 14/02/2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G3P3L3, FTNVD on 13/02/2026
+
+BRIEF HISTORY:
+  - 32/F, G3P2L2 at 40 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 3.38 kg, APGAR 8/10, on 13/02/2026. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 11.7 g/dl | Blood group AB +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 110/76 mmHg, PR 70/min, SpO2 99% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+--------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                            |
+| 2  | Tab. Calcium + Vitamin D3 (Shelcal)        | 500 mg | PO    | BD (1-1-0) | 6 months | after food                              |
+| 3  | Tab. Paracetamol (Crocin)                  | 500 mg | PO    | SOS        | -        | for pain; not more than 3 doses in 24 h |
++----+--------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Immunisation of baby as per schedule card
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Foul-smelling vaginal discharge
+  - Fever above 100.4 F (38 C)
+  - Painful, red, hard swelling of the breast with fever
+  - Severe headache / blurred vision / epigastric pain
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 28/03/2026; bring reports: Hb
+  - Infant immunisation - 6 week dose - Immunisation clinic (Paediatrics) on 28/03/2026 (Sat)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Pooja Mehra (Consultant)

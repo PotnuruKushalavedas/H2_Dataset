@@ -1,0 +1,45 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Joseph Chauhan | 71 Y/M | UHID CDH7053692 | IP IP/26/838859
+DOA - 05/02/2026 | DOD - 09/02/2026 | Consultant - Dr. Prakash Nair, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 71/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 6 days. ECG: AF with FVR (HR 143/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 80/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 50% | S. Cr 1.5 mg/dl | Hb 11.7 g/dl | TSH 0.9 mIU/L | Weight 71 kg | CrCl (Cockcroft-Gault) 45 ml/min | CHA2DS2-VASc score 2
+
+Status at discharge - Stable, rate controlled. BP 118/72 mmHg, PR 77/min, SpO2 97% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Metoprolol Succinate ER (Seloken XL) 25 mg PO OD life long
+• Tab. Apixaban (Eliquis) 5 mg PO BD lifelong
+• Tab. Telma 40 mg PO OD lifelong
+
+Instructions -
+  Diet:
+    • Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Do not take painkillers from the chemist without doctor's advice
+    • Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Report immediately to Casualty in case of -
+  • Any bleeding - gums, urine, black or red stools, vomiting blood
+  • Sudden weakness of face, arm or leg, or slurred speech
+  • Palpitations - fast / irregular heart beat
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • Review with reports - Cardiology OPD on 02/03/2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Prakash Nair (Consultant)

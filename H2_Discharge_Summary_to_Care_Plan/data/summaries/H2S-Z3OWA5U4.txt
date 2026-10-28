@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Jagdish Prajapati    Age: 74 years    Sex: Male
+UHID: CDH2755033    IP Number: IP/26/756520
+Date of admission: 08 Feb 2026    Date of discharge: 15 Feb 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 24%
+
+HISTORY:
+  - 74/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 64 kg to 58 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 4175 pg/ml; S. Cr 1.1 mg/dl; Na 132 mEq/L; K 4.8 mEq/L; 2D Echo: LVEF 24%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 68/min, SpO2 97% on RA. Dry weight 58 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide 40 mg twice daily (morning and afternoon) till the next review
+2. Tablet Bisoprolol (Concor) 2.5 mg once daily in the morning lifelong
+3. Tablet Enalapril 2.5 mg twice daily lifelong
+4. Tablet Empagliflozin 10 mg once daily in the morning lifelong
+5. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch lifelong
+6. Tablet Atorvastatin (Atorva) 40 mg once daily at bedtime to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 23 Feb 2026 (Mon). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

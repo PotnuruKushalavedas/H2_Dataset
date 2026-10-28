@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mohammed Sharma                Age/Sex  : 45 Y / M
+UHID       : CDH2844977                     IP No.   : IP/26/895273
+DOA        : 15/08/2026                     DOD      : 21/08/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 36%
+  - 3. Type 2 diabetes mellitus
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 45/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 87 kg to 83 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 6363 pg/ml | S. Cr 1.2 mg/dl | Na 135 mEq/L | K 4.8 mEq/L | 2D Echo: LVEF 36%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 72/min, SpO2 96% on RA. Dry weight 83 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------------+--------+-------+------------+-------------+---------------+
+| No | Medicine                                        | Dose   | Route | Frequency  | Duration    | Instructions  |
++----+-------------------------------------------------+--------+-------+------------+-------------+---------------+
+| 1  | Tab. Torsemide (Dytor)                          | 10 mg  | PO    | OD (1-0-0) | Till review |               |
+| 2  | Tab. Metoprolol Succinate (Met XL)              | 25 mg  | PO    | OD (1-0-0) | Lifelong    |               |
+| 3  | Tab. Sacubitril + Valsartan (Vymada) (24/26 mg) | 50 mg  | PO    | BD (1-0-1) | Lifelong    |               |
+| 4  | Tab. Empagliflozin                              | 10 mg  | PO    | OD (1-0-0) | Lifelong    |               |
+| 5  | Tab. Metformin                                  | 500 mg | PO    | BD (1-0-1) | Lifelong    | after food    |
+| 6  | Tab. Levothyroxine (Eltroxin)                   | 25 mcg | PO    | OD (1-0-0) | Lifelong    | empty stomach |
++----+-------------------------------------------------+--------+-------+------------+-------------+---------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 28/08/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 19/11/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Meenakshi Rao (Consultant)

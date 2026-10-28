@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mukesh Kalita                  Age/Sex  : 46 Y / M
+UHID       : CDH1147110                     IP No.   : IP/26/634876
+DOA        : 30 Aug 2026                    DOD      : 06 Sep 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 25%
+  - 3. Type 2 diabetes mellitus
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 46/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 88 kg to 84 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 9021 pg/ml | S. Cr 1.1 mg/dl | Na 140 mEq/L | K 3.9 mEq/L | 2D Echo: LVEF 25%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 71/min, SpO2 97% on RA. Dry weight 84 kg.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------+--------+-------+------------+------------------+---------------+
+| No | Medicine                       | Dose   | Route | Frequency  | Duration         | Instructions  |
++----+--------------------------------+--------+-------+------------+------------------+---------------+
+| 1  | Tab. Furosemide (Lasix)        | 40 mg  | PO    | OD (1-0-0) | Till next review |               |
+| 2  | Tab. Concor                    | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |               |
+| 3  | Tab. Enalapril                 | 2.5 mg | PO    | BD (1-0-1) | Lifelong         |               |
+| 4  | Tab. Spironolactone            | 25 mg  | PO    | OD (1-0-0) | Lifelong         |               |
+| 5  | Tab. Empagliflozin (Jardiance) | 10 mg  | PO    | OD (1-0-0) | Lifelong         |               |
+| 6  | Tab. Aspirin (Ecosprin)        | 75 mg  | PO    | OD (0-1-0) | Lifelong         | after lunch   |
+| 7  | Tab. Atorva                    | 40 mg  | PO    | HS (0-0-1) | Lifelong         |               |
+| 8  | Tab. Levothyroxine (Eltroxin)  | 75 mcg | PO    | OD (1-0-0) | Lifelong         | empty stomach |
++----+--------------------------------+--------+-------+------------+------------------+---------------+
+  To continue other previous medicines for T2DM as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 16 Sep 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 05 Dec 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

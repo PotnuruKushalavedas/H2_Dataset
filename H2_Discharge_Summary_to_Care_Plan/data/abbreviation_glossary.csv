@@ -1,0 +1,258 @@
+abbreviation,expansion,plain_language,category
+FWB,Full weight bearing,can put full weight on the leg,activity
+NWB,Non-weight bearing,put no weight on the leg,activity
+PWB,Partial weight bearing,put only a little weight on the leg,activity
+ROM,Range of motion,how far a joint moves,activity
+SMBG,Self-monitoring of blood glucose,checking your own sugar at home,activity
+Adv,Advice,advice,administrative
+CDH,Chandrapuri District Hospital,the hospital,administrative
+Condn,Condition,condition,administrative
+Cons,Consultant,senior doctor in charge,administrative
+d/c,Discharge,going home from hospital,administrative
+Dept.,Department,department,administrative
+DM,Diabetes mellitus; after a doctor's name: Doctorate of Medicine (super-speciality degree),diabetes / specialist doctor's degree,administrative
+DOA,Date of admission,the day you were admitted,administrative
+DOD,Date of discharge,the day you went home,administrative
+DOTS,"Directly observed treatment, short-course (TB treatment centre)",TB treatment centre,administrative
+Dx,Diagnosis,what illness you have,administrative
+F/U,Follow-up,next check-up visit,administrative
+Gen.,General,general,administrative
+ICU,Intensive care unit,special ward for very sick patients,administrative
+IP,In-patient (number) in the header; Intensive phase (first phase of TB treatment) in TB prescriptions,admission number / first phase of TB treatment,administrative
+Ix,Investigations,tests done,administrative
+MD,Doctor of Medicine (postgraduate degree),specialist doctor's degree,administrative
+MS,"Master of Surgery (degree, after a doctor's name); Mitral stenosis (in a heart report)",surgeon's degree / narrow heart valve,administrative
+Ni-kshay,Government of India online system for TB patient notification and support,TB patient registry,administrative
+NTEP,National Tuberculosis Elimination Programme,the government TB programme,administrative
+OBG,Obstetrics and Gynaecology,pregnancy and women's health department,administrative
+OPD,Out-patient department,the clinic where you come for check-ups,administrative
+OTC,Over the counter,bought from a chemist without prescription,administrative
+PHC,Primary health centre,nearest government health centre,administrative
+Pt,Patient,patient,administrative
+Rx,Prescription / treatment,medicines prescribed,administrative
+UHID,Unique hospital identification number,your hospital ID number,administrative
+"Y/M, Y/F","Years / Male, Years / Female",age and sex,administrative
+CBD,Common bile duct,main bile tube from liver,anatomy
+GB,Gall bladder,gall bladder,anatomy
+LAD,Left anterior descending artery,a main heart blood vessel,anatomy
+LCx,Left circumflex artery,a main heart blood vessel,anatomy
+RCA,Right coronary artery,a main heart blood vessel,anatomy
+RIF,Right iliac fossa,lower right side of the belly,anatomy
+ACS,Acute coronary syndrome,heart attack or threatened heart attack,condition
+AF,Atrial fibrillation,irregular heartbeat,condition
+AWMI,Anterior wall myocardial infarction,heart attack of the front wall of the heart,condition
+BPH,Benign prostatic hyperplasia,enlarged prostate,condition
+CAD,Coronary artery disease,narrowed heart blood vessels,condition
+COPD,Chronic obstructive pulmonary disease,long-term lung disease with narrowed airways,condition
+CURB-65,"Pneumonia severity score (confusion, urea, respiratory rate, BP, age 65+)",pneumonia severity score,condition
+DKA,Diabetic ketoacidosis,dangerous acid build-up from very high sugar,condition
+DR,Diabetic retinopathy,diabetes damage to the eye,condition
+DVT,Deep vein thrombosis,blood clot in a leg vein,condition
+FVR,Fast ventricular rate,fast heartbeat,condition
+GDM,Gestational diabetes mellitus,diabetes that starts in pregnancy,condition
+HF,Heart failure,weak heart,condition
+HFrEF,Heart failure with reduced ejection fraction,weak heart that pumps poorly,condition
+HTN,Hypertension,high blood pressure,condition
+KL,"Kellgren-Lawrence (X-ray grade of knee arthritis, 0-4)",how worn the knee is on X-ray,condition
+MTB,Mycobacterium tuberculosis,the TB germ,condition
+NPDR,Non-proliferative diabetic retinopathy,early diabetes damage to the eye,condition
+NSTEMI,Non-ST-elevation myocardial infarction,heart attack (type seen on blood test and ECG),condition
+NYHA,New York Heart Association (breathlessness class I-IV),how breathless you get,condition
+OA,Osteoarthritis,wear and tear of a joint,condition
+RHD,Rheumatic heart disease,heart valve damage from rheumatic fever,condition
+STEMI,ST-elevation myocardial infarction,major heart attack,condition
+SVD,Single vessel disease,one heart blood vessel narrowed,condition
+T2DM,Type 2 diabetes mellitus,type 2 diabetes (high blood sugar),condition
+TB,Tuberculosis,TB infection,condition
+UTI,Urinary tract infection,urine infection,condition
+GLV,Green leafy vegetables,green leafy vegetables,diet
+4-FDC,"Four-drug fixed-dose combination for TB (isoniazid, rifampicin, pyrazinamide, ethambutol)",TB tablet with 4 medicines in one,dose_form
+C.,Capsule,capsule,dose_form
+cap,Capsule,capsule,dose_form
+Cap.,Capsule,capsule,dose_form
+E/D,Eye drops,eye drops,dose_form
+ER,Extended release (after a drug name); Emergency room (elsewhere),slow-release medicine / emergency department,dose_form
+FDC,Fixed-dose combination,several medicines in one tablet,dose_form
+Inh.,Inhaler,inhaler (puffer),dose_form
+Inj.,Injection,injection,dose_form
+MDI,Metered-dose inhaler,puffer inhaler,dose_form
+Oint.,Ointment,ointment (cream),dose_form
+Rotacap,Dry-powder capsule for inhalation through a Rotahaler device,capsule you breathe in using a device; do not swallow,dose_form
+SR,Sustained release,releases medicine slowly through the day,dose_form
+Syp.,Syrup,syrup (liquid medicine),dose_form
+T.,Tablet,tablet,dose_form
+tab,Tablet,tablet,dose_form
+Tab.,Tablet,tablet,dose_form
+tabs,Tablets,tablets,dose_form
+XL,Extended release,releases medicine slowly through the day,dose_form
+d,Days (e.g. x 5d),days,duration
+hrs,Hours,hours,duration
+Lifelong,To be continued for life unless the doctor stops it,every day for life; do not stop on your own,duration
+POD,Post-operative day,number of days after the operation,duration
+Till review,Continue until the next follow-up visit,keep taking until your next check-up,duration
+wks,Weeks,weeks,duration
+x,"For (duration), e.g. x 5 days",for,duration
+x n/12,For n months (e.g. x 1/12 = for 1 month; x 12/12 = 12 months),for that many months,duration
+x n/52,For n weeks (e.g. x 2/52 = for 2 weeks),for that many weeks,duration
+x n/7,For n days (e.g. x 5/7 = for 5 days),for that many days,duration
+yr,Year,year,duration
+yrs,Years,years,duration
+1-0-1,"Slot notation morning-afternoon-night (here: 1 in the morning, 0 in the afternoon, 1 at night)","the numbers show how many to take in the morning, afternoon and night",frequency
+1-1-0,"Slot notation: 1 morning, 1 afternoon, 0 night",one in the morning and one in the afternoon,frequency
+1/week,Once a week,once a week,frequency
+16-0-10 U,"Insulin slot doses: 16 units morning, none afternoon, 10 units evening/night",different insulin units at different meals,frequency
+4-hourly,Every 4 hours,every 4 hours,frequency
+BD,Bis die - twice daily,two times a day,frequency
+HS,Hora somni - at bedtime,"at bedtime, once a day",frequency
+OD,Omni die - once daily,once a day,frequency
+PRN,Pro re nata - as needed,only when needed,frequency
+q5min,Every 5 minutes,every 5 minutes,frequency
+QID,Quater in die - four times daily,four times a day,frequency
+SOS,Si opus sit - if necessary,only when needed,frequency
+STAT,Statim - immediately,at once (one dose now),frequency
+TDS,Ter die sumendum - three times daily,three times a day,frequency
+TDS-QID,Three to four times daily,three or four times a day,frequency
+½-0-½,Half tablet in the morning and half at night,half a tablet morning and night,frequency
+O2,Oxygen,oxygen,general
+? ,Query / possible,possible,history
+c/o,Complaining of,came with the problem of,history
+h/o,History of,had earlier,history
+H/o,History of,had earlier,history
+k/c/o,Known case of,already has (illness),history
+s/p,Status post (after a procedure),after the operation / procedure,history
++ve,Positive,positive,investigation
+2D Echo,Two-dimensional echocardiography,ultrasound scan of the heart,investigation
+ABG,Arterial blood gas,blood oxygen and acid test,investigation
+AEC,Absolute eosinophil count,allergy-cell count,investigation
+AFB,Acid-fast bacilli (sputum test for TB),TB germ test on phlegm,investigation
+BP,Blood pressure,blood pressure,investigation
+C/S,Culture and sensitivity,germ growth test to choose antibiotic,investigation
+CBC,Complete blood count,full blood test,investigation
+CBNAAT,Cartridge-based nucleic acid amplification test,rapid TB test on phlegm,investigation
+"CBNAAT MTB detected, Rif resistance not detected",TB germ found; it is not resistant to rifampicin (drug-sensitive TB),TB found; usual TB medicines will work,investigation
+CHA2DS2-VASc,Stroke-risk score in atrial fibrillation,stroke risk score,investigation
+Cockcroft-Gault,Formula to estimate creatinine clearance,kidney function formula,investigation
+CrCl,Creatinine clearance (kidney function),how well kidneys filter,investigation
+crepts,Crepitations (crackles heard in the lungs),crackling sounds in the chest,investigation
+CRP,C-reactive protein,blood test for infection/inflammation,investigation
+CXR,Chest X-ray,chest X-ray,investigation
+E. coli,Escherichia coli (a common urine-infection germ),a common germ,investigation
+ECG,Electrocardiogram,heart tracing,investigation
+EF,Ejection fraction,how well the heart pumps (%),investigation
+FBS,Fasting blood sugar,sugar test before eating,investigation
+Hb,Haemoglobin,blood level,investigation
+HbA1c,Glycated haemoglobin,average sugar of the last 3 months,investigation
+HBsAg,Hepatitis B surface antigen (test),hepatitis B test,investigation
+HCO3,Bicarbonate,acid-balance blood test,investigation
+HIV,Human immunodeficiency virus (test),HIV test,investigation
+HPE,Histopathological examination,biopsy test of removed tissue,investigation
+HR,Heart rate,heart rate,investigation
+INR,International normalised ratio,blood test to check how thin the blood is,investigation
+K,Potassium,potassium level in blood,investigation
+LDL,Low-density lipoprotein (bad cholesterol),bad cholesterol,investigation
+LFT,Liver function tests,liver tests,investigation
+LVEF,Left ventricular ejection fraction,how well the heart pumps (%),investigation
+mMRC,Modified Medical Research Council (breathlessness grade),how breathless you get,investigation
+MV / MVA,Mitral valve / mitral valve area,a heart valve / its opening size,investigation
+Na,Sodium,salt level in blood,investigation
+NT-proBNP,N-terminal pro B-type natriuretic peptide,blood test for heart strain,investigation
+OGTT,Oral glucose tolerance test,sugar test after drinking glucose,investigation
+pCO2,Partial pressure of carbon dioxide,carbon dioxide level in blood,investigation
+PEFR,Peak expiratory flow rate,how fast you can blow out,investigation
+PFT,Pulmonary function test (spirometry),breathing test,investigation
+pH,Acidity of blood (blood gas),how acidic the blood is,investigation
+PPBS,Post-prandial blood sugar,sugar test 2 hours after a meal,investigation
+PR,Pulse rate,heart rate,investigation
+PT/INR,Prothrombin time / INR,blood thinning test,investigation
+RA,Room air,without extra oxygen,investigation
+RBS,Random blood sugar,sugar test at any time,investigation
+RFT,Renal function tests,kidney tests,investigation
+Rif,Rifampicin (in 'Rif resistance' of the CBNAAT TB test) - not to be confused with RIF = right iliac fossa,"rifampicin, a TB medicine",investigation
+RWMA,Regional wall motion abnormality,part of heart muscle not moving well,investigation
+S. Cr,Serum creatinine,kidney blood test,investigation
+SGOT/SGPT,Liver enzymes (AST/ALT),liver tests,investigation
+SpO2,Oxygen saturation,oxygen level in blood,investigation
+ST,ST segment (part of the ECG),part of the heart tracing,investigation
+TLC,Total leucocyte count,white blood cell count,investigation
+Trop I,Troponin I,blood test for heart damage,investigation
+TSH,Thyroid-stimulating hormone,thyroid test,investigation
+USG,Ultrasonography,ultrasound scan,investigation
+V1-V5 / V4-V6 / aVF / aVL,ECG leads,parts of the heart tracing,investigation
+VDRL,Venereal Disease Research Laboratory (syphilis test),syphilis test,investigation
+Wt,Weight,body weight,investigation
+ANC,Antenatal care,check-ups during pregnancy,maternity
+APGAR,Newborn score at birth (0-10),baby's health score at birth,maternity
+FTNVD,Full-term normal vaginal delivery,normal delivery at full term,maternity
+G1P1L1 (GxPxLx),"Gravida (pregnancies) x, Para (deliveries) x, Living children x","number of pregnancies, deliveries and living children",maternity
+GxPxLx,See G1P1L1,pregnancies / deliveries / living children,maternity
+IUCD,Intra-uterine contraceptive device (copper-T),copper-T for birth control,maternity
+LSCS,Lower segment caesarean section,caesarean operation,maternity
+NVD,Normal vaginal delivery,normal delivery,maternity
+OCPs,Oral contraceptive pills,birth-control pills,maternity
+PNC,Postnatal care,check-ups after delivery,maternity
+RMLE,Right mediolateral episiotomy,"small cut made during delivery, stitched",maternity
+ATT,Anti-tubercular treatment,TB medicines,medicine
+CP,Continuation phase (of TB treatment),second phase of TB treatment,medicine
+DAPT,Dual antiplatelet therapy,two blood-thinning tablets together,medicine
+HRZE,"Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), Ethambutol (E)",the 4 TB medicines,medicine
+IFA,Iron and folic acid,iron tablet,medicine
+MgSO4,Magnesium sulphate,injection to prevent fits,medicine
+NSAID,Non-steroidal anti-inflammatory drug,painkiller like diclofenac or ibuprofen,medicine
+NSAIDs,Non-steroidal anti-inflammatory drugs,painkillers like diclofenac or ibuprofen,medicine
+OHA,Oral hypoglycaemic agents,diabetes tablets,medicine
+Pritchard regimen,Standard magnesium sulphate dosing schedule for eclampsia prevention,schedule of injections to prevent fits,medicine
+SGLT2,Sodium-glucose co-transporter 2 (inhibitor),a type of diabetes / heart medicine,medicine
+Vit,Vitamin,vitamin,medicine
+CAG,Coronary angiography,dye X-ray of heart vessels,procedure
+CC,Cannulated cancellous (screw),type of bone screw,procedure
+DES,Drug-eluting stent,small metal tube placed in the heart vessel,procedure
+GA,"General anaesthesia; Gestational age (in weeks, maternity history)",fully asleep for operation / weeks of pregnancy,procedure
+Lap.,Laparoscopic,keyhole surgery,procedure
+NIV,Non-invasive ventilation,breathing support with a mask,procedure
+ORIF,Open reduction and internal fixation,operation to fix a broken bone with plates/screws,procedure
+PCI,Percutaneous coronary intervention (angioplasty),opening a heart vessel with a balloon and stent,procedure
+periop,Perioperative (around the time of surgery),around the time of the operation,procedure
+PFN,Proximal femoral nail,metal nail to fix a broken hip bone,procedure
+Post-PCI,After angioplasty,after angioplasty,procedure
+SA,Spinal anaesthesia,injection in the back to numb the lower body,procedure
+TEP,Totally extraperitoneal (laparoscopic hernia repair),keyhole hernia repair,procedure
+TIMI,Thrombolysis in myocardial infarction (flow grade),blood flow grade in heart vessel,procedure
+TKR,Total knee replacement,knee joint replaced,procedure
+BE,Both eyes,in both eyes,route
+IM,Intramuscular,injection into a muscle,route
+Inh,Inhalation,breathe in through the mouth,route
+IV,Intravenous,into a vein (drip or injection),route
+LA,Local application (route column); Left atrium (echo report),apply on the skin / a heart chamber,route
+PO,Per os - by mouth,swallow by mouth,route
+s/c,Subcutaneous,injection just under the skin,route
+SC,Subcutaneous,injection just under the skin,route
+SL,Sublingual,keep under the tongue to dissolve,route
+LOC,Loss of consciousness,fainting / passing out,symptom
+PND,Paroxysmal nocturnal dyspnoea,waking up at night breathless,symptom
+PV,Per vaginum,from the vagina,symptom
+SOB,Shortness of breath,breathlessness,symptom
+AC,Ante cibum - before food,before food,timing
+PC,Post cibum - after food,after food,timing
+½ hr,Half an hour,half an hour,timing
+cm2,Square centimetres,area,unit
+cumm,Per cubic millimetre,unit for blood cell counts,unit
+deg,Degrees,degrees (angle of bending),unit
+g,Gram,gram,unit
+g/dl,Grams per decilitre,unit for haemoglobin,unit
+IU,International units,units,unit
+L/min,Litres per minute,unit for peak flow,unit
+lakh/cumm,"Lakh (100,000) per cubic millimetre",unit for platelet count,unit
+mcg,Microgram,microgram (a very small amount),unit
+mEq/L,Milliequivalents per litre,unit for blood salts,unit
+mg,Milligram,milligram (amount of medicine),unit
+mg/dl,Milligrams per decilitre,unit for blood sugar and other blood tests,unit
+mg/L,Milligrams per litre,unit for CRP test,unit
+mIU/L,Milli-international units per litre,unit for thyroid test,unit
+ml,Millilitre,millilitre (liquid measure),unit
+ml/min,Millilitres per minute,unit for kidney filtration,unit
+mmHg,Millimetres of mercury (BP unit),blood pressure unit,unit
+ng/ml,Nanograms per millilitre,unit for troponin test,unit
+pg/ml,Picograms per millilitre,unit for NT-proBNP test,unit
+tsp,Teaspoon (about 5 g of sugar),small spoon,unit
+U,Units (insulin),units of insulin,unit
+U/L,Units per litre,unit for liver enzymes,unit

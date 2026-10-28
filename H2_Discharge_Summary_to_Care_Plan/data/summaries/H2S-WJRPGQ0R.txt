@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Manju Yadav
+Age / Sex    : 65 yrs / Female
+UHID         : CDH3829271      IP No: IP/26/274664
+Admitted on  : 09.03.2026      Discharged on: 16.03.2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Brief History:
+  * 65/F, presented with cough x 6 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg.
+
+Course in Hospital:
+  * Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 10.03.2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations:
+  * Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: right upper zone infiltrates with cavity; Hb 11.0 g/dl; LFT: within normal limits; RBS 94 mg/dl; HIV: non-reactive; Weight 47 kg
+
+Condition at Discharge: Afebrile for 3 days, tolerating ATT. BP 120/70 mmHg, PR 87/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. HRZE (4-FDC) 3 tabs 1-0-0 on empty stomach x 50 days (weight-band dose; to complete 8 weeks of intensive phase; then review for continuation phase)
+- Tab. Pyridoxine 10 mg 1-0-0 till review
+
+Advice on Discharge:
+  Diet:
+    * High-protein nutritious diet (dal, eggs, milk, soya)
+    * Avoid alcohol completely
+  General:
+    * Daily ATT without missing doses - full course to be completed
+    * Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+    * Household contacts - TB screening at nearest PHC
+    * Orange-red urine expected with rifampicin (harmless)
+    * OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Danger signs - report to Casualty immediately:
+  * Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  * Blurring of vision or difficulty in telling colours apart
+  * Skin rash or itching all over the body
+  * Coughing up blood
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * LFT and review - DOTS centre / TB clinic on 30.03.2026 (Mon)
+  * Sputum AFB at end of IP - DOTS centre / TB clinic on 06.05.2026 (Wed)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. T. Raghavan (Consultant)

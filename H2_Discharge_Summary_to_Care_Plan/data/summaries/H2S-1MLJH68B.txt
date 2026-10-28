@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Parvati Kamble
+Age / Sex    : 63 yrs / Female
+UHID         : CDH1777949      IP No: IP/26/985306
+Admitted on  : 23.08.2026      Discharged on: 29.08.2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+  * Systemic hypertension
+
+Brief History:
+  * 63/F, k/c/o T2DM x 6 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 6 days. RBS at admission 396 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 12.3%; FBS 282 mg/dl; PPBS 348 mg/dl; S. Cr 0.6 mg/dl; Urine routine: pus cells plenty; Hb 11.0 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 126/80 mmHg, PR 84/min, SpO2 99% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Inj. Insulin Glargine 10 units SC 0-0-1 at 10 PM till next review
+- Tab. Cefixime 200 mg 1-0-1 after food x 5 days
+- Tab. Atorva 20 mg 0-0-1 (HS) lifelong
+- Tab. Dolo 650 mg SOS for pain (max 3 doses/day)
+Continue previous medications for HTN as before.
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * High fever with chills
+  * Burning or pain while passing urine
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - DM clinic, Medicine OPD on 08.09.2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Farah Siddiqui (Consultant)

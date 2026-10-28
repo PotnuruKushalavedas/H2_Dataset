@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Rajni Pawar, 49/F  UHID: CDH8348449  IP: IP/26/347771
+DOA: 05-Feb-26  DOD: 10-Feb-26  Cons: Dr. Anil Bhosale (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Acute pyelonephritis (UTI)
+- Systemic hypertension
+
+H/o: 49/F, k/c/o T2DM x 9 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 3 days. RBS at admission 438 mg/dl.
+
+Course: Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Ix: HbA1c 12.1%, FBS 209 mg/dl, PPBS 324 mg/dl, S. Cr 0.6 mg/dl, Urine routine: pus cells plenty, Hb 13.6 g/dl
+
+Condn at d/c: Afebrile, stable. BP 130/74 mmHg, PR 68/min, SpO2 97% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Metformin 1000 mg BD PC till next review
+2) T. Amaryl 2 mg OD 30 min before breakfast till next review
+3) Inj. Basalog 12 units SC OD at 10 pm daily till next review
+4) T. Zifi 200 mg BD PC x 7/7
+5) T. Losar 50 mg OD life long
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Check fasting and post-meal blood sugar at home twice a week and keep a record
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- High grade fever with chills
+- Burning or pain while passing urine
+- Sugar > 300 mg/dl on 2 readings
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+F/U:
+- DM clinic, Medicine OPD on 20-Feb-26 - Review with reports with FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

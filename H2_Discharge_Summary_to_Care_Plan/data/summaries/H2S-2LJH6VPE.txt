@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Pradeep Hembram
+Age / Sex    : 85 yrs / Male
+UHID         : CDH6900003      IP No: IP/26/527650
+Admitted on  : 10/06/2026      Discharged on: 16/06/2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+  * BPH
+
+Brief History:
+  * 85/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 137/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 75/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 62%; S. Cr 0.9 mg/dl; Hb 14.1 g/dl; TSH 2.9 mIU/L; Weight 79 kg; CrCl (Cockcroft-Gault) 67 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 120/70 mmHg, PR 74/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Diltiazem 30 mg 1-1-1 till next review
+- Tab. Apixaban 5 mg 1-0-1 lifelong
+- Tab. Telmisartan 40 mg 1-0-0 long term (lifelong)
+- Cap. Tamsulosin 0.4 mg 0-0-1 (HS) long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 07/07/2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

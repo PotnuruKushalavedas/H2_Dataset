@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Mamta Rajput
+Age / Sex    : 67 yrs / Female
+UHID         : CDH1854276      IP No: IP/26/872694
+Admitted on  : 19/05/2026      Discharged on: 25/05/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+  * Hypothyroidism
+
+Brief History:
+  * 67/F, k/c/o T2DM x 5 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 5 days. RBS at admission 479 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 9.9%; FBS 245 mg/dl; PPBS 365 mg/dl; S. Cr 0.9 mg/dl; Urine routine: pus cells plenty; Hb 13.5 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 130/70 mmHg, PR 74/min, SpO2 96% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 after food till review
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Tab. Cefixime 200 mg 1-0-1 PC x 5 days
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Paracetamol 650 mg SOS for fever (max 3 doses/day)
+- Tab. Levothyroxine 25 mcg 1-0-0 on empty stomach lifelong
+
+- STOP Tab. Glimepiride 2 mg (risk of low sugar)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * High fever with chills
+  * Burning or pain while passing urine
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with reports - DM clinic, Medicine OPD on 04/06/2026; bring reports: FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Farah Siddiqui (Consultant)

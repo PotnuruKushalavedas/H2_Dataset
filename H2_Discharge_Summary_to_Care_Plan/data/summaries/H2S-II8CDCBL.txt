@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Rupa Singh
+Age / Sex    : 22 yrs / Female
+UHID         : CDH2728697      IP No: IP/26/759352
+Admitted on  : 26.04.2026      Discharged on: 01.05.2026
+Consultant   : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+  * Hypothyroidism
+
+Brief History:
+  * 22/F, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 155 to 321 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 321 L/min; CXR: no pneumothorax, no consolidation; AEC 426/cumm; TLC 11,600/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 130/74 mmHg, PR 88/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (Foracort) 200 2 puffs 1-0-1 till review (via spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (max 8 puffs/day)
+- Tab. Prednisolone (Wysolone) 40 mg 1-0-0 after breakfast x 5 days
+- Tab. Levothyroxine 75 mcg 1-0-0 empty stomach long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid dust, smoke and cold air (asthma triggers)
+    * Gradual increase in walking as tolerated
+  General:
+    * Inhaler technique demonstrated - use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Too breathless to complete sentences
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Chest pain, heaviness or sweating
+
+Follow-up:
+  * Review with reports - Chest OPD on 08.05.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Kavita Deshmukh (Consultant)

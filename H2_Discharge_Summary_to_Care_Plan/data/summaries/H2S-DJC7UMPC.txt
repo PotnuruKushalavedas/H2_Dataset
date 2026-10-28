@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Geeta Iyer
+Age / Sex    : 80 yrs / Female
+UHID         : CDH3455561      IP No: IP/26/279868
+Admitted on  : 28/06/2026      Discharged on: 05/07/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (right middle lobe) - CURB-65 score 1
+  * Systemic hypertension
+  * Hypothyroidism
+
+Brief History:
+  * 80/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 16,200/cumm; CRP 75 mg/L; CXR: consolidation right middle lobe; S. Cr 0.8 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 114/78 mmHg, PR 72/min, SpO2 99% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 7 days
+- Tab. Paracetamol 650 mg SOS for fever (not more than 3 doses in 24 h)
+- Tab. Losar 50 mg 1-0-0 lifelong
+Continue previous medications for hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradually increase walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 13/07/2026 (Mon); bring reports: CBC
+  * Repeat chest X-ray - Pulmonary Medicine (Chest) OPD on 17/08/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Farah Siddiqui (Consultant)

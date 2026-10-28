@@ -1,0 +1,47 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Renu Deshpande, 26/F  UHID: CDH1727131  IP: IP/26/375672
+DOA: 12-May-26  DOD: 20-May-26  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+- Hypothyroidism
+
+H/o: 26/F, presented with cough x 4 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg, with 2 episodes of streaky haemoptysis.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 13-May-26; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: right upper zone infiltrates with cavity, Hb 12.4 g/dl, LFT: within normal limits, RBS 140 mg/dl, HIV: non-reactive, Weight 49 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 130/74 mmHg, PR 83/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Forecox 3 tablets OD on empty stomach x 49 days (weight-band dose; to complete IP of 8 wks; then review for continuation phase)
+2) T. Pyridoxine (Vit B6) 10 mg OD till next review
+3) T. Calpol 650 SOS for fever (not more than 3 doses in 24 h)
+4) T. Thyronorm 100 OD on empty stomach life long
+
+Adv:
+  Diet:
+  - High-protein nutritious diet (dal, eggs, milk, soya)
+  - Avoid alcohol completely
+  Others:
+  - Daily ATT without missing doses - full course to be completed
+  - Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+  - Household contacts - TB screening at nearest PHC
+  - Orange-red urine expected with rifampicin (harmless)
+  - OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Review SOS if:
+- Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+- Blurred vision / difficulty in distinguishing colours
+- Skin rash or itching all over the body
+- Coughing up blood
+- Breathlessness / difficulty in breathing
+
+F/U:
+- DOTS centre / TB clinic on 04-Jun-26 - Review with LFT
+- TB clinic (DOTS centre) on 09-Jul-26 - Sputum examination at end of intensive phase
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Kavita Deshmukh (Consultant)

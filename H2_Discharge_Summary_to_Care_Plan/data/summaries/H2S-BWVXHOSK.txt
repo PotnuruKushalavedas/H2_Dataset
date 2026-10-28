@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Mohammed Das    Age: 59 years    Sex: Male
+UHID: CDH9844686    IP Number: IP/26/728626
+Date of admission: 06 Aug 2026    Date of discharge: 10 Aug 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+HISTORY:
+  - 59/M, k/c/o T2DM x 10 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.5%) with weight loss and fatigue. No ketosis.
+
+COURSE IN THE HOSPITAL:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.5%; FBS 258 mg/dl; PPBS 363 mg/dl; S. Cr 1.2 mg/dl; Urine microalbumin 128 mg/g; Fundus: mild NPDR
+
+CONDITION AT THE TIME OF DISCHARGE: Stable. BP 118/72 mmHg, PR 71/min, SpO2 98% on RA. Pre-meal sugars 132-180 mg/dl.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 12 units SC once daily at bedtime till the next review
+2. Tablet Metformin (Glyciphage) 500 mg twice daily after food to continue lifelong
+3. Tablet Sitagliptin 100 mg once daily in the morning till the next review
+
+PLEASE STOP:
+  - Tab. Glimepiride 2 mg (hypoglycaemia risk)
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Carry glucose / sugar at all times
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+REVIEW:
+  - Review with sugar chart in Diabetes Clinic (Medicine OPD) on 17 Aug 2026 (Mon).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. S. K. Mishra (Consultant)

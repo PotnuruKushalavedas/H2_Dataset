@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Usha Banerjee, 42/F  UHID: CDH2056170  IP: IP/26/633567
+DOA: 14-Aug-26  DOD: 18-Aug-26  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+- Hypothyroidism
+
+H/o: 42/F, presented with cough x 9 weeks, evening rise of temperature, loss of appetite and weight loss of 5 kg, with 2 episodes of streaky haemoptysis.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 15-Aug-26; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: left upper zone infiltrates, Hb 10.7 g/dl, LFT: within normal limits, RBS 134 mg/dl, HIV: non-reactive, Weight 40 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 120/76 mmHg, PR 74/min, SpO2 97% on RA.
+
+Rx on discharge:
+1) T. Forecox 3 tabs OD empty stomach x 53 days (weight-band dose; to complete IP of 8 wks; review for CP thereafter)
+2) T. Pyridoxine (Vit B6) 10 mg OD till next review
+3) T. Thyronorm 50 OD on empty stomach life long
+
+Adv:
+  Diet:
+  - High protein diet - dal / eggs / milk / soya
+  - Strictly no alcohol
+  Others:
+  - Daily ATT without missing doses - full course to be completed
+  - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+  - Household contacts - TB screening at nearest PHC
+  - Orange-red urine expected with rifampicin (harmless)
+  - OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Review SOS if:
+- Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+- Blurring of vision or difficulty in telling colours apart
+- Skin rash or itching all over the body
+- Coughing up blood
+- Breathlessness or difficulty in breathing
+
+F/U:
+- DOTS centre / TB clinic on 01-Sep-26 - Review with LFT
+- TB clinic (DOTS centre) on 12-Oct-26 - Sputum AFB at end of IP
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Kavita Deshmukh (Consultant)

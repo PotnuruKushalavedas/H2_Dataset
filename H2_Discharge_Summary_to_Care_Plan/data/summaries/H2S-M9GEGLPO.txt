@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Poonam Sandhu
+Age / Sex    : 46 yrs / Female
+UHID         : CDH2435663      IP No: IP/26/459437
+Admitted on  : 21/01/2026      Discharged on: 25/01/2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Acute appendicitis with localised perforation
+  * s/p Laparoscopic appendicectomy (21/01/2026)
+
+Brief History:
+  * 46/F, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency laparoscopic appendicectomy under GA on 21/01/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Laparoscopic appendicectomy under GA (21/01/2026)
+
+Investigations:
+  * TLC 14,500/cumm; CRP 43 mg/L; HPE: awaited; Hb 14.4 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 114/72 mmHg, PR 72/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 after food x 7 days
+- Tab. Paracetamol (Dolo) 650 mg 1-1-1 PC x 5 days
+- Tab. Ibuprofen 400 mg 1-1-1 PC x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe / increasing abdominal pain
+  * Persistent vomiting or unable to take food and fluids orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Wound check - General Surgery OPD on 29/01/2026 (POD 8)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Vivek Rathore (Consultant)

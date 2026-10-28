@@ -1,0 +1,53 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Subhash Ghosh                  Age/Sex  : 43 Y / M
+UHID       : CDH4201781                     IP No.   : IP/26/945397
+DOA        : 25/04/2026                     DOD      : 30/04/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+
+BRIEF HISTORY:
+  - 43/M, k/c/o T2DM x 3 yrs, stopped medicines 6 months ago, presented with polyuria, polydipsia, generalised weakness x 15 days. RBS 490 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 12.6% | FBS 198 mg/dl | PPBS 311 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 13.3 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 130/72 mmHg, PR 69/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------+--------+-------+------------+-------------+-----------------------+
+| No | Medicine              | Dose   | Route | Frequency  | Duration    | Instructions          |
++----+-----------------------+--------+-------+------------+-------------+-----------------------+
+| 1  | Tab. Metformin        | 500 mg | PO    | BD (1-0-1) | Till review | after food            |
+| 2  | Tab. Glimepiride      | 1 mg   | PO    | OD (1-0-0) | Till review | ½ hr before breakfast |
+| 3  | Inj. Insulin Glargine | 14 IU  | SC    | OD (0-0-1) | Till review | at 10 PM              |
++----+-----------------------+--------+-------+------------+-------------+-----------------------+
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Blood sugar above 300 mg/dl on two readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 11/05/2026 (Mon); bring reports: FBS, PPBS
+  - Review with HbA1c - Diabetes Clinic (Medicine OPD) on 29/07/2026 (Wed)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. R. Venkatesh (Consultant)

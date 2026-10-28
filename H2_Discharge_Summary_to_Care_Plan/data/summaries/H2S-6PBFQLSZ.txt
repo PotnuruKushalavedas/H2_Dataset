@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Hema Jadhav    Age: 29 years    Sex: Female
+UHID: CDH1065010    IP Number: IP/26/416221
+Date of admission: 14th April 2026    Date of discharge: 19th April 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+HISTORY:
+  - 29/F, k/c/o T2DM x 1 yr on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: missed medicines.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 34 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.21, HCO3 7 mEq/L; Urine ketones +++; RBS at admission 249 mg/dl; HbA1c 13.0%; S. Cr 0.6 mg/dl; K 4.2 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 114/72 mmHg, PR 84/min, SpO2 97% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 12 U SC once daily at night at 10 PM till the next review
+2. Injection Insulin Aspart (NovoRapid) 4 U before breakfast, 4 U before lunch, 4 U before dinner SC 0-15 min before meals until the next visit
+
+PLEASE STOP:
+  - Tab. Dapagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+REVIEW:
+  - Get RFT + S. electrolytes done on 23rd April 2026 (Central lab)
+  - Review with SMBG chart in DM clinic, Medicine OPD on 27th April 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

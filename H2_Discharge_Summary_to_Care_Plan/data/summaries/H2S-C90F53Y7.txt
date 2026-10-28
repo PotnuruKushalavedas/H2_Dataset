@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Kishore Chauhan
+Age / Sex    : 67 yrs / Male
+UHID         : CDH3123356      IP No: IP/26/484707
+Admitted on  : 27/04/2026      Discharged on: 30/04/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate
+  * Rheumatic heart disease - moderate mitral stenosis
+  * Systemic hypertension
+
+Brief History:
+  * 67/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 153/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 84/min at discharge.
+
+Investigations:
+  * 2D Echo: thickened MV, MVA 1.4 cm2, LA dilated, LVEF 51%; S. Cr 1.0 mg/dl; Hb 14.5 g/dl; TSH 1.4 mIU/L; Weight 56 kg; INR at discharge 2.1
+
+Condition at Discharge: Stable, rate controlled. BP 114/70 mmHg, PR 85/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol 2.5 mg 1-0-0 long term (lifelong)
+- Tab. Acenocoumarol (Acitrom) 1 mg 0-0-1 after dinner till review (further dose as per INR)
+- Tab. Telmisartan 40 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * No self-adjustment of anticoagulant dose; consult before any new drug
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness / fainting / LOC
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * PT/INR check on 04/05/2026 at Hospital laboratory
+  * Review with reports - Cardiology OPD on 21/05/2026; bring reports: ECG, INR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,54 @@
+CDH / General Surgery / DISCHARGE SUMMARY
+Name - Harpreet Gill | 38 Y/M | UHID CDH5411281 | IP IP/26/780906
+DOA - 20-01-2026 | DOD - 24-01-2026 | Consultant - Dr. Rajesh Kumar Verma, Surgery Unit II
+
+Diagnosis -
+  • Acute appendicitis
+  • s/p Laparoscopic appendicectomy (20-01-2026)
+  • Hypothyroidism
+
+Presenting complaints & history - 38/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Hospital course -
+  • Emergency laparoscopic appendicectomy under GA on 20-01-2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+Operative notes -
+  • Laparoscopic appendicectomy under GA (20-01-2026)
+
+Investigations -
+  • TLC 18,500/cumm | CRP 109 mg/L | HPE: awaited | Hb 11.8 g/dl
+
+Status at discharge - Afebrile, wound healthy, tolerating diet. BP 126/74 mmHg, PR 81/min, SpO2 97% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Cefuroxime (Ceftum) 500 mg PO BD after food x 5/7
+• Tab. Metronidazole (Flagyl) 400 mg PO TDS PC x 5/7 (no alcohol during course)
+• Tab. Paracetamol (Calpol) 500 mg PO SOS for pain (max 4 doses/day)
+• Tab. Pantoprazole (Pan) 40 mg PO OD 30 min before breakfast x 5/7
+• Tab. Levothyroxine 75 mcg PO OD empty stomach life long
+
+Instructions -
+  Diet:
+    • Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    • Early ambulation - walk in the house several times a day
+    • Avoid lifting weight > 5 kg x 4 weeks
+    • Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    • Keep wound site clean and dry
+    • Bath allowed after 48 h - pat wound dry with clean cloth
+
+Report immediately to Casualty in case of -
+  • Fever > 100.4 F (38 C)
+  • Redness, swelling, pus or discharge from the wound
+  • Severe / increasing abdominal pain
+  • Persistent vomiting / not able to take orally
+  • Distension of abdomen with no passage of stool or gas
+
+Follow up -
+  • Wound inspection - Surgery OPD on 28-01-2026 (POD 8)
+  • Review with HPE report - Surgery OPD on 03-02-2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Rajesh Kumar Verma (Consultant)

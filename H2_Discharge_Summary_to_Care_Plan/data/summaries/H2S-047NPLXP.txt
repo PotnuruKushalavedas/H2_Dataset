@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Lissy Dhillon
+Age / Sex    : 52 yrs / Female
+UHID         : CDH6253077      IP No: IP/26/438999
+Admitted on  : 08/05/2026      Discharged on: 14/05/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 52/F, k/c/o T2DM x 6 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 34 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.19, HCO3 12 mEq/L; Urine ketones +++; RBS at admission 526 mg/dl; HbA1c 12.0%; S. Cr 0.5 mg/dl; K 4.1 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 120/78 mmHg, PR 73/min, SpO2 98% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 12 U SC 0-0-1 at 10 PM till next review
+- Inj. Insulin Aspart 4 U SC 1-1-1 0-15 min before meals till next review
+- Tab. Metformin 500 mg 1-0-1 PC till review
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow-up:
+  * Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 21/05/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Farah Siddiqui (Consultant)

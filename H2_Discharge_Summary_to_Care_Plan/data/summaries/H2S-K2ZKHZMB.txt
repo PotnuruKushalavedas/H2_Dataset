@@ -1,0 +1,46 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Biju Shetty
+Age / Sex    : 74 yrs / Male
+UHID         : CDH9857391      IP No: IP/26/465221
+Admitted on  : 23/07/2026      Discharged on: 30/07/2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+
+Brief History:
+  * 74/M, k/c/o T2DM x 5 yrs, stopped medicines 4 months ago, presented with polyuria, polydipsia, generalised weakness x 20 days. RBS 513 mg/dl, urine ketones negative.
+
+Course in Hospital:
+  * Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+Investigations:
+  * HbA1c 11.9%; FBS 229 mg/dl; PPBS 324 mg/dl; S. Cr 1.1 mg/dl; Urine routine: sugar ++, ketones nil; Hb 14.3 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 114/70 mmHg, PR 71/min, SpO2 97% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 PC till review
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Tab. Paracetamol 650 mg SOS for fever (max 4 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Sugar > 300 mg/dl on 2 readings
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 06/08/2026 (Thu); bring reports: FBS, PPBS
+  * HbA1c and review - Diabetes Clinic (Medicine OPD) on 28/10/2026 (Wed)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

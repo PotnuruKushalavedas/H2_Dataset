@@ -1,0 +1,67 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Murugan Hegde                  Age/Sex  : 78 Y / M
+UHID       : CDH9672092                     IP No.   : IP/26/452715
+DOA        : 07 Sep 2026                    DOD      : 12 Sep 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 78/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 7.2 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 08 Sep 2026: 94% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (08 Sep 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.8 g/dl | S. Cr 1.4 mg/dl | K 3.9 mEq/L | LDL 120 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 41%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/72 mmHg, PR 67/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| No | Medicine                               | Dose  | Route | Frequency  | Duration         | Instructions                                                |
++----+----------------------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin                           | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                 |
+| 2  | Tab. Ticagrelor                        | 90 mg | PO    | BD (1-0-1) | 12 months        |                                                             |
+| 3  | Tab. Storvas                           | 40 mg | PO    | HS (0-0-1) | Lifelong         |                                                             |
+| 4  | Tab. Seloken XL                        | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 5  | Tab. Telmisartan                       | 40 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 6  | Tab. Rabeprazole (Razo)                | 20 mg | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg  | SL    | SOS        | -                | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+----------------------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 19 Sep 2026; bring reports: ECG
+  - Lipid profile (fasting) on 27 Oct 2026 at Central lab
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

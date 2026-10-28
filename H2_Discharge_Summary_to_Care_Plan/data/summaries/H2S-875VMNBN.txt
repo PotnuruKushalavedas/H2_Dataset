@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Parvati Shaikh    Age: 50 years    Sex: Female
+UHID: CDH2359310    IP Number: IP/26/179226
+Date of admission: 16 Aug 2026    Date of discharge: 20 Aug 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+HISTORY:
+  - 50/F, k/c/o T2DM x 15 yrs, presented with swelling, redness and pain over left foot x 6 days following a minor injury. RBS 398 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 10.6%; FBS 215 mg/dl; PPBS 290 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 14.3 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 130/76 mmHg, PR 70/min, SpO2 98% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 1000 mg twice daily after food to continue lifelong
+2. Tablet Empagliflozin 10 mg once daily in the morning after breakfast until the next visit
+3. Tablet Amoxycillin + Clavulanic acid 625 mg three times daily PC for 7 days
+4. Tablet Atorvastatin 10 mg once daily at bedtime lifelong
+5. Tablet Paracetamol 650 mg only if needed (SOS) for pain (max 3 doses/day)
+
+PLEASE STOP:
+  - Tab. Glimepiride 1 mg
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Gen. Medicine OPD on 31 Aug 2026 (Mon). Please bring: FBS, PPBS.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. R. Venkatesh (Consultant)

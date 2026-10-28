@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Harpreet Patnaik               Age/Sex  : 55 Y / M
+UHID       : CDH6838899                     IP No.   : IP/26/203523
+DOA        : 18 Mar 2026                    DOD      : 25 Mar 2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 55/M, k/c/o T2DM x 4 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: acute gastroenteritis.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 33 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.15, HCO3 14 mEq/L | Urine ketones +++ | RBS at admission 234 mg/dl | HbA1c 13.2% | S. Cr 0.9 mg/dl | K 4.5 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 124/72 mmHg, PR 66/min, SpO2 96% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------+-------------+-------+------------+-------------+----------------------------+
+| No | Medicine              | Dose        | Route | Frequency  | Duration    | Instructions               |
++----+-----------------------+-------------+-------+------------+-------------+----------------------------+
+| 1  | Inj. Insulin Glargine | 12 units    | SC    | OD (0-0-1) | Till review | at 10 pm daily             |
+| 2  | Inj. Insulin Aspart   | 4-4-4 units | SC    | TDS        | Till review | within 15 min before meals |
++----+-----------------------+-------------+-------+------------+-------------+----------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Empagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Review with sugar chart - DM clinic, Medicine OPD on 01 Apr 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

@@ -1,0 +1,49 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Vikram Nair | 56 Y/M | UHID CDH2549543 | IP IP/26/767702
+DOA - 08-01-2026 | DOD - 13-01-2026 | Consultant - Dr. T. Raghavan, Chest Unit
+
+Diagnosis -
+  • Acute exacerbation of COPD (infective)
+
+Presenting complaints & history - 56/M, chronic smoker (33 pack-yrs), k/c/o COPD x 9 yrs, presented with increased breathlessness, cough with purulent sputum x 7 days.
+
+Hospital course -
+  • Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations -
+  • ABG at admission: pH 7.36, pCO2 53 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 12,100/cumm | RBS 178 mg/dl | ECG: sinus rhythm
+
+Status at discharge - Breathlessness mMRC grade 2. BP 120/76 mmHg, PR 83/min, SpO2 94% on RA.
+
+ADV ON DISCHARGE -
+• Rotacap Tiotropium (Tiova) 18 mcg 1 rotacap OD lifelong (via rotahaler)
+• Inh. Budesonide + Formoterol (Foracort) 400 1 puff BD lifelong (with spacer; rinse mouth after use)
+• Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (max 8 puffs/day)
+• Tab. Omnacortil 40 mg PO OD after breakfast x 5 days
+• Tab. Amoxicillin-Clavulanate (Clavam) 625 mg PO BD PC x 5/7
+• Tab. Pantocid 40 mg PO OD 30 min before breakfast x 5 days
+
+Instructions -
+  Diet:
+    • Normal diet as tolerated
+  Activity:
+    • Pursed lip breathing + daily walk as tolerated
+  Others:
+    • Inhaler technique demonstrated - use with spacer
+    • Influenza and pneumococcal vaccination advised
+    • No smoking / no tobacco in any form
+
+Report immediately to Casualty in case of -
+  • Breathlessness or difficulty in breathing
+  • Wheeze / breathlessness not settling with reliever inhaler
+  • Bluish lips or fingertips, drowsiness or confusion
+  • Fever above 100.4 F (38 C)
+  • Increased sputum / sputum turning yellow or green
+
+Follow up -
+  • Review with reports - Pulmonary Medicine (Chest) OPD on 23-01-2026 (Fri)
+  • PFT / spirometry - Pulmonary Medicine (Chest) OPD on 24-02-2026 (Tue)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. T. Raghavan (Consultant)

@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Hema Reddy                     Age/Sex  : 45 Y / F
+UHID       : CDH9893270                     IP No.   : IP/26/682328
+DOA        : 31/08/2026                     DOD      : 03/09/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 45/F, k/c/o T2DM x 8 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 13.2%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 13.2% | FBS 225 mg/dl | PPBS 334 mg/dl | S. Cr 0.8 mg/dl | Urine microalbumin 124 mg/g | Fundus: no DR
+
+CONDITION AT DISCHARGE: Stable. BP 130/80 mmHg, PR 85/min, SpO2 99% on RA. Pre-meal sugars 162-187 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine                        | Dose     | Route | Frequency  | Duration    | Instructions |
++----+---------------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Inj. Insulin Glargine (Basalog) | 10 units | SC    | HS (0-0-1) | Till review |              |
+| 2  | Tab. Metformin                  | 1000 mg  | PO    | BD (1-0-1) | Lifelong    | after food   |
+| 3  | Tab. Sitagliptin                | 100 mg   | PO    | OD (1-0-0) | Till review |              |
+| 4  | Tab. Atorvastatin (Atorva)      | 10 mg    | PO    | HS (0-0-1) | Lifelong    |              |
++----+---------------------------------+----------+-------+------------+-------------+--------------+
+  To continue other previous medicines for HTN as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 2 mg (risk of low sugar)
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Always carry sugar or glucose with you
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 14/09/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

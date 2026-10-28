@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Rohit Meena, 21/M  UHID: CDH9966750  IP: IP/26/499573
+DOA: 02/03/2026  DOD: 04/03/2026  Cons: Dr. Rajesh Kumar Verma (Surgery Unit I)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis
+- s/p Open appendicectomy (02/03/2026)
+- Hypothyroidism
+
+H/o: 21/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course: Emergency open appendicectomy under GA on 02/03/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure: Open appendicectomy under GA (02/03/2026)
+
+Ix: TLC 15,900/cumm, CRP 137 mg/L, HPE: awaited, Hb 13.1 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 126/78 mmHg, PR 80/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Augmentin 625 TDS PC x 5/7
+2) T. Calpol 650 mg TDS PC x 7/7
+3) T. Hifenac 100 mg BD PC x 5 days
+4) T. Pantocid 40 mg OD ½ hr before breakfast x 5 days
+5) T. Levothyroxine 100 mcg OD on empty stomach life long
+
+Adv:
+  Diet:
+  - Soft diet x 1 week, then normal diet
+  Activity:
+  - Walk around the house several times a day
+  - Avoid lifting weight > 5 kg x 6 weeks
+  - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound:
+  - Keep wound site clean and dry
+  - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Review SOS if:
+- Fever > 100.4 F (38 C)
+- Redness, swelling, pus or discharge from the wound
+- Severe or increasing pain in abdomen
+- Persistent vomiting / not able to take orally
+- Distension of abdomen with no passage of stool or gas
+
+F/U:
+- Surgery OPD on 10/03/2026 - Removal of sutures (POD 8)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Rajesh Kumar Verma (Consultant)

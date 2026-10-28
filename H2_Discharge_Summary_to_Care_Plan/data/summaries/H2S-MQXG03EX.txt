@@ -1,0 +1,70 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Deepak Tiwari                  Age/Sex  : 40 Y / M
+UHID       : CDH6412899                     IP No.   : IP/26/566016
+DOA        : 07/06/2026                     DOD      : 13/06/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 40/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 4.7 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 08/06/2026: 91% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (08/06/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.9 g/dl | S. Cr 1.1 mg/dl | K 4.3 mEq/L | LDL 169 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 56% | HbA1c 9.7%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 110/72 mmHg, PR 68/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+-----------+--------------------------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration  | Instructions                                                                   |
++----+----------------------------------------+--------+-------+------------+-----------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                           | 75 mg  | PO    | OD (0-1-0) | Lifelong  | after lunch                                                                    |
+| 2  | Tab. Ticagrelor (Axcer)                | 90 mg  | PO    | BD (1-0-1) | 12 months |                                                                                |
+| 3  | Tab. Atorvastatin                      | 80 mg  | PO    | HS (0-0-1) | Lifelong  |                                                                                |
+| 4  | Tab. Bisoprolol (Concor)               | 5 mg   | PO    | OD (1-0-0) | Lifelong  |                                                                                |
+| 5  | Tab. Ramipril (Cardace)                | 2.5 mg | PO    | OD (1-0-0) | Lifelong  |                                                                                |
+| 6  | Tab. Pantoprazole                      | 40 mg  | PO    | OD (1-0-0) | 3 months  | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -         | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Metformin                         | 500 mg | PO    | BD (1-0-1) | Lifelong  | PC                                                                             |
++----+----------------------------------------+--------+-------+------------+-----------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 23/06/2026; bring reports: ECG
+  - Get Fasting lipid profile done on 28/07/2026 (Hospital laboratory)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

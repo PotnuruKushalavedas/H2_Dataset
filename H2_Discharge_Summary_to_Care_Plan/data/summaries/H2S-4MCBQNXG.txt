@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Nirmala Gill
+Age / Sex    : 68 yrs / Female
+UHID         : CDH7728726      IP No: IP/26/398499
+Admitted on  : 16.02.2026      Discharged on: 24.02.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Ischaemic cardiomyopathy, LVEF 36%
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 68/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 6 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 76 kg to 70 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 3009 pg/ml; S. Cr 0.8 mg/dl; Na 140 mEq/L; K 3.8 mEq/L; 2D Echo: LVEF 36%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 81/min, SpO2 98% on RA. Dry weight 70 kg.
+
+Medications at Discharge:
+- Tab. Dytor 20 mg 1-0-0 till review
+- Tab. Bisoprolol (Concor) 2.5 mg 1-0-0 long term (lifelong)
+- Tab. Sacubitril + Valsartan (24/26 mg) 50 mg 1-0-1 long term (lifelong)
+- Tab. Spironolactone 25 mg 1-0-0 lifelong
+- Tab. Dapagliflozin 10 mg 1-0-0 long term (lifelong)
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Atorvastatin 40 mg 0-0-1 (HS) lifelong
+- Tab. Metformin 1000 mg 1-0-1 PC long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Daily morning weight - maintain record
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest or on lying flat
+  * Increasing swelling of feet or legs
+  * Marked decrease in urine output
+  * Giddiness / fainting / LOC
+  * Palpitations - fast / irregular heart beat
+
+Follow-up:
+  * Review with reports - HF clinic (Cardiology OPD) on 03.03.2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

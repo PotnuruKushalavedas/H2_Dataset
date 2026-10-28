@@ -1,0 +1,60 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Lakshman Naidu    Age: 67 years    Sex: Male
+UHID: CDH4572580    IP Number: IP/26/256437
+Date of admission: 21st April 2026    Date of discharge: 29th April 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 35%
+  - 3. BPH
+
+HISTORY:
+  - 67/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 69 kg to 66 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 4197 pg/ml; S. Cr 0.8 mg/dl; Na 140 mEq/L; K 4.7 mEq/L; 2D Echo: LVEF 35%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 83/min, SpO2 96% on RA. Dry weight 66 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Frusemide 40 mg twice daily (morning and afternoon) until the next visit
+2. Tablet Cardivas 6.25 mg half tablet twice daily to continue lifelong
+3. Tablet Sacubitril + Valsartan (Vymada) 50 mg twice daily to continue lifelong
+4. Tablet Spironolactone 25 mg half tablet once daily to continue lifelong
+5. Tablet Jardiance 10 mg once daily in the morning lifelong
+6. Tablet Aspirin 75 mg once daily after lunch lifelong
+7. Tablet Atorvastatin (Storvas) 40 mg once daily at bedtime lifelong
+To continue other previous medicines for BPH as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 6th May 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - 2D Echo + review in Cardiology OPD on 28th July 2026 (Tue).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

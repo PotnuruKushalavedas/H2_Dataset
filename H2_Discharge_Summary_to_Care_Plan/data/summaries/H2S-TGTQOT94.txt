@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Rahul Deshpande    Age: 65 years    Sex: Male
+UHID: CDH9256644    IP Number: IP/26/179463
+Date of admission: 15 Jul 2026    Date of discharge: 22 Jul 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+HISTORY:
+  - 65/M, chronic smoker (39 pack-yrs), k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 1 day. Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 48 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 14,500/cumm; RBS 174 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 2. BP 124/76 mmHg, PR 85/min, SpO2 94% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium (Tiova) 18 mcg 1 rotacap once daily in the morning to continue lifelong (via rotahaler)
+2. Inhaler Budesonide + Formoterol (6/400 mcg) 1 puff twice daily to continue lifelong (via spacer; gargle after use)
+3. Inhaler Salbutamol (Asthalin) 2 puffs only if needed (SOS) for breathlessness / wheeze (max 8 puffs/day)
+4. Tablet Prednisolone 30 mg once daily in the morning for 5 days, then 20 mg once daily in the morning for 5 days, then 10 mg once daily in the morning for 5 days, then stop (after breakfast)
+5. Capsule Doxycycline (Biodoxi) 100 mg twice daily PC for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed-lip breathing and daily walking as tolerated
+  Other instructions:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - Stop smoking and all forms of tobacco
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Chest OPD on 01 Aug 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

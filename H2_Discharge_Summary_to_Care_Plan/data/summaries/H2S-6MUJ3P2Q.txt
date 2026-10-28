@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Manju Pillai
+Age / Sex    : 37 yrs / Female
+UHID         : CDH1697701      IP No: IP/26/500959
+Admitted on  : 06/02/2026      Discharged on: 11/02/2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+
+Brief History:
+  * 37/F, k/c/o T2DM x 9 yrs, stopped medicines 2 months ago, presented with polyuria, polydipsia, generalised weakness x 17 days. RBS 456 mg/dl, urine ketones negative.
+
+Course in Hospital:
+  * Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+Investigations:
+  * HbA1c 12.1%; FBS 320 mg/dl; PPBS 379 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 12.6 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 124/78 mmHg, PR 79/min, SpO2 97% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food lifelong
+- Tab. Glimepiride 1 mg 1-0-0 ½ hr before breakfast till next review
+- Inj. Insulin Glargine 10 U SC 0-0-1 at 10 pm daily till review
+- Tab. Paracetamol 650 mg SOS for fever (not more than 4 doses in 24 h)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 25/02/2026; bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. S. K. Mishra (Consultant)

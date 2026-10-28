@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Meena Gaikwad                  Age/Sex  : 80 Y / F
+UHID       : CDH1427436                     IP No.   : IP/26/511588
+DOA        : 02/08/2026                     DOD      : 06/08/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Type 2 diabetes mellitus
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 80/F, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 151/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 90/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 61% | S. Cr 0.8 mg/dl | Hb 13.7 g/dl | TSH 2.3 mIU/L | Weight 56 kg | INR at discharge 2.3 | CrCl (Cockcroft-Gault) 49 ml/min | CHA2DS2-VASc score 4
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 120/76 mmHg, PR 78/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+-------+-------+------------+-------------+-------------------------------+
+| No | Medicine                  | Dose  | Route | Frequency  | Duration    | Instructions                  |
++----+---------------------------+-------+-------+------------+-------------+-------------------------------+
+| 1  | Tab. Metoprolol Succinate | 50 mg | PO    | OD (1-0-0) | Lifelong    |                               |
+| 2  | Tab. Acenocoumarol        | 2 mg  | PO    | OD (0-0-1) | Till review | after dinner; dose as per INR |
++----+---------------------------+-------+-------+------------+-------------+-------------------------------+
+  Continue previous medications for T2DM and hypothyroidism as before.
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Do not take painkillers from the chemist without doctor's advice
+    - No self-adjustment of anticoagulant dose; consult before any new drug
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - Get INR test done on 11/08/2026 (Central lab)
+  - Review with reports - Cardiology OPD on 21/08/2026; bring reports: ECG, INR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Meenakshi Rao (Consultant)

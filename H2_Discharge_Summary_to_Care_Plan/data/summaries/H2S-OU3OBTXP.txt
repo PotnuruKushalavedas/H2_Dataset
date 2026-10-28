@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Sita Das    Age: 41 years    Sex: Female
+UHID: CDH9780236    IP Number: IP/26/880783
+Date of admission: 5th February 2026    Date of discharge: 12th February 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+HISTORY:
+  - 41/F, k/c/o T2DM x 12 yrs, presented with swelling, redness and pain over left foot x 4 days following a minor injury. RBS 367 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 12.3%; FBS 215 mg/dl; PPBS 329 mg/dl; S. Cr 0.5 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.5 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 130/70 mmHg, PR 83/min, SpO2 97% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 1000 mg twice daily after food to continue lifelong
+2. Tablet Amaryl 1 mg once daily in the morning ½ hr before breakfast till the next review
+3. Tablet Amoxicillin-Clavulanate 625 mg three times daily after food for 7 days
+4. Tablet Atorvastatin 10 mg once daily at bedtime lifelong
+5. Tablet Paracetamol 650 mg only if needed (SOS) for pain (max 3 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+REVIEW:
+  - Review with reports in Medicine OPD on 26th February 2026. Please bring: FBS, PPBS.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. R. Venkatesh (Consultant)

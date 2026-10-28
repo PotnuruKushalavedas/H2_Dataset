@@ -1,0 +1,49 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Anil Hegde | 45 Y/M | UHID CDH8466149 | IP IP/26/326878
+DOA - 15-06-2026 | DOD - 21-06-2026 | Consultant - Dr. T. Raghavan, Chest Unit
+
+Diagnosis -
+  • Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+  • Hypothyroidism
+
+Presenting complaints & history - 45/M, presented with cough x 10 weeks, evening rise of temperature, loss of appetite and weight loss of 9 kg.
+
+Hospital course -
+  • Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 16-06-2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations -
+  • Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: right upper zone infiltrates with cavity | Hb 10.0 g/dl | LFT: within normal limits | RBS 108 mg/dl | HIV: non-reactive | Weight 71 kg
+
+Status at discharge - Afebrile for 3 days, tolerating ATT. BP 114/70 mmHg, PR 78/min, SpO2 97% on RA.
+
+ADV ON DISCHARGE -
+• Tab. HRZE (4-FDC) 5 tabs PO OD empty stomach x 51 days (weight-band dose; to complete IP of 8 wks; review for CP thereafter)
+• Tab. Pyridoxine 10 mg PO OD till review
+• Tab. Crocin 650 mg PO SOS for fever (max 3 doses/day)
+• Tab. Levothyroxine 75 mcg PO OD on empty stomach life long
+
+Instructions -
+  Diet:
+    • High protein diet - dal / eggs / milk / soya
+    • Avoid alcohol completely
+  Others:
+    • Take TB medicines daily without missing a dose; complete the full course
+    • Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+    • Household contacts - TB screening at nearest PHC
+    • Stop smoking and all forms of tobacco
+    • Urine may turn orange-red due to TB medicine - harmless
+
+Report immediately to Casualty in case of -
+  • Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  • Blurring of vision or difficulty in telling colours apart
+  • Skin rash or itching all over the body
+  • Coughing up blood
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • LFT and review - TB clinic (DOTS centre) on 06-07-2026
+  • Sputum AFB at end of IP - DOTS centre / TB clinic on 12-08-2026 (Wed)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. T. Raghavan (Consultant)

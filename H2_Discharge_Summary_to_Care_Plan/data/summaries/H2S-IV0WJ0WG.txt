@@ -1,0 +1,58 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Amit Dhillon | 56 Y/M | UHID CDH4160009 | IP IP/26/818992
+DOA - 01-06-2026 | DOD - 05-06-2026 | Consultant - Dr. Meenakshi Rao, Cardiology Unit
+
+Diagnosis -
+  • Acute coronary syndrome - NSTEMI
+  • CAD - SVD; s/p PCI with 1 DES to LAD
+
+Presenting complaints & history - 56/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 4.0 ng/ml (raised).
+
+Hospital course -
+  • Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 02-06-2026: 86% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+Operative notes -
+  • CAG + PCI with 1 DES to LAD (02-06-2026)
+
+Investigations -
+  • Hb 13.5 g/dl | S. Cr 1.0 mg/dl | K 4.5 mEq/L | LDL 129 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 54%
+
+Status at discharge - Chest pain free, haemodynamically stable. BP 124/74 mmHg, PR 88/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+ADV ON DISCHARGE -
+• Tab. Aspirin (Ecosprin) 75 mg PO OD after lunch lifelong
+• Tab. Ticagrelor (Axcer) 90 mg PO BD x 1 yr
+• Tab. Rosuvastatin 40 mg PO HS life long
+• Tab. Seloken XL 50 mg PO OD lifelong
+• Tab. Pantoprazole 40 mg PO OD 30 min before breakfast till review
+• Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+• Stop Tab. Clopidogrel 75 mg (switched to Ticagrelor)
+
+Instructions -
+  Diet:
+    • Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    • Avoid lifting weight > 5 kg x 4 weeks
+    • Avoid driving x 1 week
+  Others:
+    • Stop smoking and all forms of tobacco
+    • Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    • Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Report immediately to Casualty in case of -
+  • Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  • Breathlessness or difficulty in breathing
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Palpitations - fast / irregular heart beat
+  • Giddiness / fainting / LOC
+
+Follow up -
+  • Review with reports - Cardiology OPD on 15-06-2026; bring reports: ECG
+  • Lipid profile (fasting) on 17-07-2026 at Hospital laboratory
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

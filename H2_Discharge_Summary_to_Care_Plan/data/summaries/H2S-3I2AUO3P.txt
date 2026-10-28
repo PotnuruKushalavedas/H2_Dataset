@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Parvati Shetty                 Age/Sex  : 61 Y / F
+UHID       : CDH4121841                     IP No.   : IP/26/404715
+DOA        : 14/06/2026                     DOD      : 20/06/2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 61/F, h/o long-term chulha smoke exposure, k/c/o COPD x 6 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 2 days. Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.35, pCO2 60 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 13,100/cumm | RBS 175 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 3. BP 114/72 mmHg, PR 79/min, SpO2 94% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+| No | Medicine                                 | Dose           | Route | Frequency  | Duration | Instructions                                  |
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+| 1  | Rotacap Tiotropium (Tiova)               | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                 |
+| 2  | Inh. Budesonide + Formoterol (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; gargle after use                  |
+| 3  | Inh. Salbutamol (100 mcg)                | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; max 8 puffs/day |
+| 4  | Tab. Prednisolone                        | 40 mg          | PO    | OD (1-0-0) | 3 days   | after breakfast                               |
+|    |   then                                   | 30 mg          |       | OD         | 3 days   |                                               |
+|    |   then                                   | 20 mg          |       | OD         | 3 days   |                                               |
+|    |   then                                   | 10 mg          |       | OD         | 3 days   | then stop                                     |
+| 5  | Cap. Doxycycline (Biodoxi)               | 100 mg         | PO    | BD (1-0-1) | 5 days   | PC                                            |
+| 6  | Tab. Pantoprazole                        | 40 mg          | PO    | OD (1-0-0) | 14 days  | ½ hr before breakfast                         |
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other:
+    - Inhaler technique demonstrated - use with spacer
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+FOLLOW-UP:
+  - Review with reports - Pulmonary Medicine (Chest) OPD on 04/07/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Kavita Deshmukh (Consultant)

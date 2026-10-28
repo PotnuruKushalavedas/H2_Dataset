@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Harpreet Kulkarni              Age/Sex  : 74 Y / M
+UHID       : CDH7981128                     IP No.   : IP/26/530193
+DOA        : 22/01/2026                     DOD      : 27/01/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 27%
+
+BRIEF HISTORY:
+  - 74/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 67 kg to 61 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 7404 pg/ml | S. Cr 1.2 mg/dl | Na 135 mEq/L | K 4.8 mEq/L | 2D Echo: LVEF 27%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 66/min, SpO2 98% on RA. Dry weight 61 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine                     | Dose     | Route | Frequency  | Duration    | Instructions |
++----+------------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Tab. Torsemide (Dytor)       | 20 mg    | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol              | 3.125 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 3  | Tab. Enalapril (Envas)       | 2.5 mg   | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Dapagliflozin (Forxiga) | 10 mg    | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Aspirin                 | 75 mg    | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 6  | Tab. Atorvastatin (Storvas)  | 40 mg    | PO    | HS (0-0-1) | Lifelong    |              |
++----+------------------------------+----------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 03/02/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 27/04/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

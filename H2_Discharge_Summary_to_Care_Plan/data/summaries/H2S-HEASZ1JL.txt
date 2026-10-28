@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Mamta Naidu
+Age / Sex    : 69 yrs / Female
+UHID         : CDH5696172      IP No: IP/26/168345
+Admitted on  : 23/07/2026      Discharged on: 30/07/2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+  * Systemic hypertension
+  * Hypothyroidism
+
+Brief History:
+  * 69/F, k/c/o T2DM x 8 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 5 days. RBS at admission 422 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 13.1%; FBS 202 mg/dl; PPBS 313 mg/dl; S. Cr 0.7 mg/dl; Urine routine: pus cells plenty; Hb 13.1 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 126/74 mmHg, PR 72/min, SpO2 98% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 after food lifelong
+- Tab. Glimepiride 1 mg 1-0-0 30 min before breakfast till next review
+- Inj. Insulin Glargine 8 U SC 0-0-1 at 10 PM till review
+- Tab. Cefixime 200 mg 1-0-1 PC x 5 days
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Telmisartan 40 mg 1-0-0 long term (lifelong)
+- Tab. Levothyroxine 100 mcg 1-0-0 empty stomach lifelong
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+  General:
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * High grade fever with chills
+  * Burning micturition / pain while passing urine
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - DM clinic, Medicine OPD on 13/08/2026 (Thu); bring reports: FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

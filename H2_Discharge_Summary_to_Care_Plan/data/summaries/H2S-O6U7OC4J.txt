@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Krishna Lal    Age: 37 years    Sex: Male
+UHID: CDH4908288    IP Number: IP/26/296640
+Date of admission: 31 Jul 2026    Date of discharge: 04 Aug 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute severe asthma (exacerbation of bronchial asthma)
+
+HISTORY:
+  - 37/M, k/c/o bronchial asthma since childhood, irregular inhaler use, recently started on Tab. Propranolol for anxiety/tremors, presented with breathlessness and wheeze x 1 day, unable to complete sentences.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 139 to 380 L/min. Inhaler technique taught.
+
+RELEVANT INVESTIGATIONS:
+  - PEFR at discharge 380 L/min; CXR: no pneumothorax, no consolidation; AEC 559/cumm; TLC 10,600/cumm
+
+CONDITION AT THE TIME OF DISCHARGE: No wheeze at rest, speaking full sentences. BP 118/80 mmHg, PR 77/min, SpO2 97% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Inhaler Budesonide + Formoterol (6/200 mcg) 2 puffs twice daily till the next review (via spacer; gargle after use)
+2. Inhaler Salbutamol (Asthalin) 2 puffs only if needed (SOS) for breathlessness / wheeze (not more than 8 puffs in 24 h)
+3. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+
+PLEASE STOP:
+  - Tab. Propranolol 10 mg (can precipitate bronchospasm)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Avoid dust, smoke and cold air (asthma triggers)
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Too breathless to complete sentences
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Chest pain, heaviness or sweating
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 18 Aug 2026.
+  - PFT / spirometry in Chest OPD on 15 Sep 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Imran Qureshi (Consultant)

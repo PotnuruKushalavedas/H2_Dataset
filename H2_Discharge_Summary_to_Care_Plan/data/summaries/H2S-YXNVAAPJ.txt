@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Rekha Verma, 21/F  UHID: CDH3498152  IP: IP/26/168557
+DOA: 17/07/2026  DOD: 22/07/2026  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+H/o: 21/F, presented with cough x 7 weeks, evening rise of temperature, loss of appetite and weight loss of 5 kg, with 2 episodes of streaky haemoptysis.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 18/07/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: bilateral upper zone infiltrates with cavity, Hb 11.7 g/dl, LFT: within normal limits, RBS 98 mg/dl, HIV: non-reactive, Weight 40 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 130/76 mmHg, PR 83/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Forecox 3 tabs OD on empty stomach x 52 days (weight-band dose; to complete IP of 8 wks; review for CP thereafter)
+2) T. Pyridoxine 10 mg OD till review
+
+Adv:
+  Diet:
+  - High-protein nutritious diet (dal, eggs, milk, soya)
+  - Avoid alcohol completely
+  Others:
+  - Take TB medicines daily without missing a dose; complete the full course
+  - Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+  - Household contacts - TB screening at nearest PHC
+  - Urine may turn orange-red due to TB medicine - harmless
+  - OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Review SOS if:
+- Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+- Blurred vision / difficulty in distinguishing colours
+- Skin rash or itching all over the body
+- Coughing up blood
+- Breathlessness or difficulty in breathing
+
+F/U:
+- TB clinic (DOTS centre) on 05/08/2026 (Wed) - LFT and review
+- DOTS centre / TB clinic on 14/09/2026 - Sputum AFB at end of IP
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. T. Raghavan (Consultant)

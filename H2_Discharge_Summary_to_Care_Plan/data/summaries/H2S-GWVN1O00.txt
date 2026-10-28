@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Vandana Gill
+Age / Sex    : 49 yrs / Female
+UHID         : CDH1317362      IP No: IP/26/452805
+Admitted on  : 08/08/2026      Discharged on: 13/08/2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Brief History:
+  * 49/F, presented with cough x 5 weeks, evening rise of temperature, loss of appetite and weight loss of 9 kg, with 2 episodes of streaky haemoptysis.
+
+Course in Hospital:
+  * Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 09/08/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations:
+  * Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: left upper zone infiltrates with cavity; Hb 11.9 g/dl; LFT: within normal limits; RBS 114 mg/dl; HIV: non-reactive; Weight 56 kg
+
+Condition at Discharge: Afebrile for 3 days, tolerating ATT. BP 110/78 mmHg, PR 88/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. 4-FDC (HRZE) 4 tablets 1-0-0 on empty stomach x 52 days (as per weight band; to complete IP of 8 wks; then review for continuation phase)
+- Tab. Pyridoxine (Vit B6) 10 mg 1-0-0 till review
+
+Advice on Discharge:
+  Diet:
+    * High protein diet - dal / eggs / milk / soya
+    * Avoid alcohol completely
+  General:
+    * Daily ATT without missing doses - full course to be completed
+    * Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    * Family members to be screened for TB at the nearest health centre
+    * Urine may turn orange-red due to TB medicine - harmless
+    * OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Danger signs - report to Casualty immediately:
+  * Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  * Blurring of vision or difficulty in telling colours apart
+  * Skin rash or itching all over the body
+  * Haemoptysis (coughing out blood)
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with LFT - DOTS centre / TB clinic on 27/08/2026 (Thu)
+  * Sputum examination at end of intensive phase - DOTS centre / TB clinic on 05/10/2026 (Mon)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

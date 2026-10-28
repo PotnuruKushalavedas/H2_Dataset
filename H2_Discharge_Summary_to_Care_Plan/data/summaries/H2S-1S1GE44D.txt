@@ -1,0 +1,63 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Nirmala Siddiqui
+Age / Sex    : 55 yrs / Female
+UHID         : CDH1743829      IP No: IP/26/556156
+Admitted on  : 16/02/2026      Discharged on: 21/02/2026
+Consultant   : Dr. Ravi Teja, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Primary osteoarthritis left knee (KL grade 4)
+  * s/p Left TKR (17/02/2026)
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 55/F, c/o pain left knee x 6 yrs, difficulty in walking and climbing stairs, not relieved by conservative management.
+
+Course in Hospital:
+  * Underwent Left cemented TKR under spinal-epidural anaesthesia on 17/02/2026. Received Inj. Cefazolin periop. Mobilised with walker on POD 1; knee flexion 81 deg at discharge. Thromboprophylaxis started.
+
+Procedure:
+  * Left cemented total knee replacement (17/02/2026)
+
+Investigations:
+  * Hb (post-op) 12.0 g/dl; S. Cr 0.7 mg/dl; Weight 81 kg; Check X-ray: implant in good position; RBS 120 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, walking with walker. BP 118/80 mmHg, PR 76/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Rivaroxaban 10 mg 1-0-0 x 10 days
+- Tab. Calpol 650 mg 1-1-1 PC x 2 weeks
+- Cap. Tramadol (Contramal) 50 mg SOS for severe pain (max 2 doses/day)
+- Tab. Rabeprazole 20 mg 1-0-0 ½ hr before breakfast x 2 weeks
+- Tab. Calcium carbonate + Vit D3 500 mg 1-1-0 PC x 3 months
+- Sachet Vitamin D3 (Cholecalciferol) (Calcirol) 60000 IU once a week x 8 weeks (on the same day each week; with milk)
+To continue other previous medicines for T2DM as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Knee ROM + quadriceps exercises as taught by physio, 3-4 times/day
+    * Mobilise with walker - FWB as tolerated
+    * No squatting / cross-legged sitting; western toilet only
+  Wound care:
+    * Keep the wound clean and dry
+    * Do not remove the dressing; it will be changed at review
+  General:
+    * Ice pack over the knee for 15-20 min, 3-4 times a day
+
+Danger signs - report to Casualty immediately:
+  * Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Removal of skin staples + wound inspection - Ortho OPD on 03/03/2026 (POD 14); bring reports: X-ray
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Ravi Teja (Consultant)

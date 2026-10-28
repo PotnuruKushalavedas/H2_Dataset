@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Manju Joshi                    Age/Sex  : 78 Y / F
+UHID       : CDH2425272                     IP No.   : IP/26/486952
+DOA        : 08/08/2026                     DOD      : 17/08/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 31%
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 78/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 57 kg to 53 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 4775 pg/ml | S. Cr 1.0 mg/dl | Na 134 mEq/L | K 4.2 mEq/L | 2D Echo: LVEF 31%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 79/min, SpO2 97% on RA. Dry weight 53 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+---------+-------+------------+-------------+---------------+
+| No | Medicine                           | Dose    | Route | Frequency  | Duration    | Instructions  |
++----+------------------------------------+---------+-------+------------+-------------+---------------+
+| 1  | Tab. Furosemide                    | 40 mg   | PO    | OD (1-0-0) | Till review |               |
+| 2  | Tab. Metoprolol Succinate (Met XL) | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |               |
+| 3  | Tab. Ramipril (Cardace)            | 2.5 mg  | PO    | OD (1-0-0) | Lifelong    |               |
+| 4  | Tab. Spironolactone                | 25 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 5  | Tab. Jardiance                     | 10 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 6  | Tab. Aspirin                       | 75 mg   | PO    | OD (0-1-0) | Lifelong    | after lunch   |
+| 7  | Tab. Atorvastatin (Storvas)        | 40 mg   | PO    | HS (0-0-1) | Lifelong    |               |
+| 8  | Tab. Levothyroxine                 | 25 mcg  | PO    | OD (1-0-0) | Lifelong    | empty stomach |
++----+------------------------------------+---------+-------+------------+-------------+---------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 27/08/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Prakash Nair (Consultant)

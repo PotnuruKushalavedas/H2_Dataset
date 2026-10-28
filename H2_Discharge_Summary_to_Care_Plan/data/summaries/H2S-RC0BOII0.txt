@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Harpreet Qureshi
+Age / Sex    : 60 yrs / Male
+UHID         : CDH5433903      IP No: IP/26/606983
+Admitted on  : 08/01/2026      Discharged on: 12/01/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  * BPH
+  * Primary open-angle glaucoma
+
+Brief History:
+  * 60/M, k/c/o T2DM x 19 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.2%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 10.2%; FBS 256 mg/dl; PPBS 341 mg/dl; S. Cr 0.7 mg/dl; Urine microalbumin 104 mg/g; Fundus: mild NPDR
+
+Condition at Discharge: Stable. BP 110/80 mmHg, PR 87/min, SpO2 96% on RA. Pre-meal sugars 131-177 mg/dl.
+
+Medications at Discharge:
+- Inj. Human Premix Insulin 30/70 16-0-8 U SC 30 min before breakfast and dinner till next review
+- Tab. Metformin 500 mg 1-0-1 after food long term (lifelong)
+- Tab. Atorvastatin 10 mg 0-0-1 (HS) long term (lifelong)
+- Cap. Tamsulosin 0.4 mg 0-0-1 (HS) long term (lifelong)
+To continue other previous medicines for glaucoma as before (unchanged).
+
+- STOP Tab. Glimepiride 2 mg (now on insulin)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Always carry sugar or glucose with you
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with SMBG chart - DM clinic, Medicine OPD on 19/01/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Farah Siddiqui (Consultant)

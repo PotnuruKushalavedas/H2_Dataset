@@ -1,0 +1,47 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Selvam Fernandes, 37/M  UHID: CDH2035653  IP: IP/26/590110
+DOA: 31/01/2026  DOD: 05/02/2026  Cons: Dr. S. K. Mishra (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Community-acquired pneumonia (right lower lobe) - CURB-65 score 1
+- Systemic hypertension
+- Type 2 diabetes mellitus
+
+H/o: 37/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 7 days.
+
+Course: Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Ix: TLC 18,600/cumm, CRP 151 mg/L, CXR: consolidation right lower lobe, S. Cr 0.7 mg/dl, Blood C/S: no growth
+
+Condn at d/c: Afebrile, comfortable. BP 130/70 mmHg, PR 88/min, SpO2 98% on RA. Chest: crepts reducing.
+
+Rx on discharge:
+1) T. Clavam 625 BD PC x 7 days
+2) T. Calpol 500 mg SOS for fever or pain (not more than 3 doses in 24 h)
+3) T. Losar 50 mg OD lifelong
+4) T. Metformin 1000 mg BD PC life long
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  - Oral fluids 2-3 L/day
+  Activity:
+  - Deep breathing exercises - 10 breaths every hour when awake
+  - Gradual increase in walking as tolerated
+  Others:
+  - Flu + pneumococcal vaccine advised
+  - No smoking / no tobacco in any form
+
+Review SOS if:
+- Fever recurring, or persisting for more than 3 days after discharge
+- Breathlessness / difficulty in breathing
+- Chest pain, heaviness or sweating
+- Bluish lips or fingertips, drowsiness or confusion
+- Coughing up blood
+
+F/U:
+- Medicine OPD on 16/02/2026 - Review with reports with CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Dinesh Fernandes               Age/Sex  : 71 Y / M
+UHID       : CDH2136343                     IP No.   : IP/26/368657
+DOA        : 06/01/2026                     DOD      : 15/01/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 22%
+
+BRIEF HISTORY:
+  - 71/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 72 kg to 67 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 8361 pg/ml | S. Cr 1.3 mg/dl | Na 132 mEq/L | K 3.9 mEq/L | 2D Echo: LVEF 22%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 68/min, SpO2 97% on RA. Dry weight 67 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine                        | Dose     | Route | Frequency  | Duration    | Instructions |
++----+---------------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide                 | 40 mg    | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol (Cardivas)      | 3.125 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 3  | Tab. Ramipril                   | 2.5 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Spironolactone (Aldactone) | 25 mg    | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin              | 10 mg    | PO    | OD (1-0-0) | Lifelong    |              |
++----+---------------------------------+----------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 27/01/2026 (Tue); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Rani Khan, 30/F  UHID: CDH7990602  IP: IP/26/582362
+DOA: 05/02/2026  DOD: 10/02/2026  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute severe asthma (exacerbation of bronchial asthma)
+
+H/o: 30/F, k/c/o bronchial asthma since childhood, irregular inhaler use, recently started on Tab. Propranolol for anxiety/tremors, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 161 to 334 L/min. Inhaler technique taught.
+
+Ix: PEFR at discharge 334 L/min, CXR: no pneumothorax, no consolidation, AEC 485/cumm, TLC 7,200/cumm
+
+Condn at d/c: No wheeze at rest, speaking full sentences. BP 130/80 mmHg, PR 68/min, SpO2 97% on RA.
+
+Rx on discharge:
+1) MDI Foracort 200 1 puff BD till next review (with spacer; rinse mouth after use)
+2) MDI Asthalin 2 puffs SOS for breathlessness / wheeze (max 8 puffs/day)
+3) T. Wysolone 40 mg OD after breakfast x 5 days
+4) T. Montair 10 mg HS till next review
+
+STOP Tab. Ciplar 20 mg (can precipitate bronchospasm)
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Avoid triggers - dust / smoke / cold air
+  - Gradual increase in walking as tolerated
+  Others:
+  - Inhaler technique taught; to use with spacer
+
+Review SOS if:
+- Wheeze or breathlessness not relieved by the reliever inhaler
+- Too breathless to complete sentences
+- Bluish lips / fingertips, drowsiness or confusion
+- Chest pain, heaviness or sweating
+
+F/U:
+- Pulmonary Medicine (Chest) OPD on 24/02/2026 - Review with reports
+- Chest OPD on 24/03/2026 - PFT / spirometry
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Suresh Chauhan                 Age/Sex  : 48 Y / M
+UHID       : CDH2831236                     IP No.   : IP/26/398352
+DOA        : 02/05/2026                     DOD      : 07/05/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Systemic hypertension
+
+BRIEF HISTORY:
+  - 48/M, k/c/o T2DM x 4 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 41 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.18, HCO3 8 mEq/L | Urine ketones +++ | RBS at admission 275 mg/dl | HbA1c 10.8% | S. Cr 0.7 mg/dl | K 4.2 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 114/78 mmHg, PR 77/min, SpO2 96% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------+------+-------+-------------+------------------+-----------------------------------------+
+| No | Medicine              | Dose | Route | Frequency   | Duration         | Instructions                            |
++----+-----------------------+------+-------+-------------+------------------+-----------------------------------------+
+| 1  | Inj. Insulin Glargine | 12 U | SC    | OD (0-0-1)  | Till next review | at 10 pm daily                          |
+| 2  | Inj. Insulin Aspart   | 4 U  | SC    | TDS (1-1-1) | Till next review | 0-15 min before meals                   |
+| 3  | Tab. Ondem            | 4 mg | PO    | SOS         | -                | for nausea or vomiting; max 3 doses/day |
+| 4  | Tab. Amlodipine       | 5 mg | PO    | OD (1-0-0)  | Lifelong         |                                         |
++----+-----------------------+------+-------+-------------+------------------+-----------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Dapagliflozin 10 mg (risk of ketoacidosis - do not restart)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - S. Creatinine and electrolytes (Na, K) on 11/05/2026 (Mon) at Hospital laboratory
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 14/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Anil Bhosale (Consultant)

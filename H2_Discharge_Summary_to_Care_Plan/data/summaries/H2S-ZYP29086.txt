@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Lakshmi Siddiqui
+Age / Sex    : 75 yrs / Female
+UHID         : CDH4274241      IP No: IP/26/345626
+Admitted on  : 28.08.2026      Discharged on: 01.09.2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  * Systemic hypertension
+  * Primary open-angle glaucoma
+
+Brief History:
+  * 75/F, k/c/o T2DM x 12 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.4%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 10.4%; FBS 229 mg/dl; PPBS 266 mg/dl; S. Cr 0.6 mg/dl; Urine microalbumin 27 mg/g; Fundus: no DR
+
+Condition at Discharge: Stable. BP 110/74 mmHg, PR 77/min, SpO2 96% on RA. Pre-meal sugars 158-184 mg/dl.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 10 units SC 0-0-1 (HS) till review
+- Tab. Metformin 1000 mg 1-0-1 PC lifelong
+- Tab. Sitagliptin 100 mg 1-0-0 till review
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) lifelong
+- E/D Timolol 0.5% 1 drop 1-0-1 lifelong (BE)
+Continue previous medications for HTN as before.
+
+- STOP Tab. Glimepiride 2 mg (hypoglycaemia risk)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Always carry sugar or glucose with you
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with sugar chart - DM clinic, Medicine OPD on 08.09.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Farah Siddiqui (Consultant)

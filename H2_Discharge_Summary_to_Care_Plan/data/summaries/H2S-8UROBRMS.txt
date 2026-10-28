@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Sangeeta Shah, 59/F  UHID: CDH8795880  IP: IP/26/175365
+DOA: 03-Mar-26  DOD: 09-Mar-26  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 31%
+
+H/o: 59/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 75 kg to 71 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 6845 pg/ml, S. Cr 0.9 mg/dl, Na 137 mEq/L, K 4.8 mEq/L, 2D Echo: LVEF 31%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 77/min, SpO2 99% on RA. Dry weight 71 kg.
+
+Rx on discharge:
+1) T. Lasix 40 OD till review
+2) T. Met XL 25 OD life long
+3) T. Cardace 2.5 OD life long
+4) T. Empagliflozin 10 mg OD life long
+5) T. Aspirin 75 mg OD after lunch life long
+6) T. Storvas 40 mg HS lifelong
+
+STOP Tab. Voveran 50 mg (NSAID - avoid in heart disease)
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Marked decrease in urine output
+- Giddiness / fainting / LOC
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- HF clinic (Cardiology OPD) on 16-Mar-26 (Mon) - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 08-Jun-26 - Repeat 2D Echo and review
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Bhaskar Rao
+Age / Sex    : 47 yrs / Male
+UHID         : CDH3143137      IP No: IP/26/510331
+Admitted on  : 05.02.2026      Discharged on: 08.02.2026
+Consultant   : Dr. Rajesh Kumar Verma, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Right inguinal hernia (indirect, reducible)
+  * s/p Laparoscopic TEP mesh repair (05.02.2026)
+
+Brief History:
+  * 47/M, c/o swelling in right groin x 23 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Laparoscopic TEP mesh repair under GA on 05.02.2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Laparoscopic TEP mesh repair under GA (05.02.2026)
+
+Investigations:
+  * Hb 13.2 g/dl; RBS 96 mg/dl; S. Cr 1.2 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 130/78 mmHg, PR 67/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Crocin 650 mg SOS for pain (max 4 doses/day)
+- Tab. Aceclofenac 100 mg 1-0-1 after food x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Syp. Lactulose 15 ml 0-0-1 (HS) x 2 weeks
+
+Advice on Discharge:
+  Diet:
+    * High-fibre diet with plenty of oral fluids to avoid constipation
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * No heavy lifting (more than 5 kg) for 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Scrotal swelling / severe scrotal pain
+  * Unable to pass urine
+  * Bleeding from wound / dressing soakage
+
+Follow-up:
+  * Wound inspection - Surgery OPD on 13.02.2026 (Fri) (POD 8)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Rajesh Kumar Verma (Consultant)

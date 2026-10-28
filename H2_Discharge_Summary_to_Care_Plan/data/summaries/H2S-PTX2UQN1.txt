@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Nasreen Thomas    Age: 47 years    Sex: Female
+UHID: CDH9266067    IP Number: IP/26/845128
+Date of admission: 8th February 2026    Date of discharge: 13th February 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+
+HISTORY:
+  - 47/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 16,400/cumm; CRP 172 mg/L; CXR: consolidation left lower lobe; S. Cr 0.6 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 114/72 mmHg, PR 87/min, SpO2 98% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin-Clavulanate (Clavam) 625 mg three times daily after food for 7 days
+2. Tablet Paracetamol (Crocin) 650 mg only if needed (SOS) for pain (not more than 3 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Physical activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Flu + pneumococcal vaccine advised
+    - No smoking / no tobacco in any form
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain, heaviness or sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+REVIEW:
+  - Review with reports in Medicine OPD on 20th February 2026 (Fri). Please bring: CBC.
+  - Repeat CXR in Pulmonary Medicine (Chest) OPD on 27th March 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

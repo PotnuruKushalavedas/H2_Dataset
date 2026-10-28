@@ -1,0 +1,60 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Raju Sahu
+Age / Sex    : 61 yrs / Male
+UHID         : CDH3195334      IP No: IP/26/927303
+Admitted on  : 19.08.2026      Discharged on: 23.08.2026
+Consultant   : Dr. A. Sengupta, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Intertrochanteric fracture left femur
+  * s/p Closed reduction and PFN fixation (20.08.2026)
+
+Brief History:
+  * 61/M, h/o trivial fall at home; unable to bear weight on left lower limb since then.
+
+Course in Hospital:
+  * Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 20.08.2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+Procedure:
+  * Closed reduction and internal fixation with PFN under SA (20.08.2026)
+
+Investigations:
+  * Hb 10.5 g/dl; S. Cr 0.7 mg/dl; Weight 67 kg; Post-op X-ray: fracture fixed in good alignment; RBS 116 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, distal pulses felt. BP 114/74 mmHg, PR 75/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Inj. Enoxaparin 40 mg SC 1-0-0 x 28 days (SC over abdomen)
+- Tab. Paracetamol 650 mg 1-1-1 after food x 2 weeks
+- Cap. Tramadol (Contramal) 50 mg SOS for severe pain only (not more than 2 doses in 24 h)
+- Tab. Calcium carbonate + Vit D3 (Shelcal) 500 mg 1-1-0 PC x 3 months
+- Sachet Calcirol 60000 IU once a week x 8 weeks (on the same day each week; with a glass of milk)
+- Syp. Lactulose 15 ml 0-0-1 (HS) x 2 weeks
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 2 weeks
+
+Advice on Discharge:
+  Diet:
+    * High protein diet - dal / eggs / milk / paneer - for healing
+  Activity:
+    * Walk with walker; partial (toe-touch) weight bearing on operated leg
+  Wound care:
+    * Keep wound site clean and dry
+  General:
+    * Fall prevention - night light, remove loose rugs, use support while walking
+
+Danger signs - report to Casualty immediately:
+  * Calf pain / leg swelling - ? DVT (clot in leg vein)
+  * Redness, swelling, pus or discharge from the wound
+  * Fever above 100.4 F (38 C)
+  * Breathlessness or difficulty in breathing
+  * Operated leg - numbness / tingling / bluish discolouration / severe swelling
+
+Follow-up:
+  * Removal of sutures - Orthopaedics OPD on 01.09.2026 (POD 12)
+  * Check X-ray and review - Ortho OPD on 05.10.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. A. Sengupta (Consultant)

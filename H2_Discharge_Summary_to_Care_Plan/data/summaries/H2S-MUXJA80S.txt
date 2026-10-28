@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Mukesh Naidu, 56/M  UHID: CDH6335339  IP: IP/26/513603
+DOA: 16/08/2026  DOD: 22/08/2026  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - Inferior wall STEMI
+- CAD - SVD; s/p primary PCI with 1 DES to RCA
+- Type 2 diabetes mellitus
+
+H/o: 56/M, k/c/o T2DM, smoker, presented with retrosternal chest pain with sweating x 3 hrs. ECG: ST elevation in II, III, aVF.
+
+Course: Taken up for primary PCI on 16/08/2026: CAG showed 95% thrombotic occlusion of mid RCA; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Procedure: CAG + PCI with 1 DES to RCA (16/08/2026)
+
+Ix: Hb 12.5 g/dl, S. Cr 1.2 mg/dl, K 4.2 mEq/L, LDL 175 mg/dl, 2D Echo: RWMA in RCA territory, LVEF 47%, HbA1c 7.4%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 120/80 mmHg, PR 71/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 mg OD after lunch lifelong
+2) T. Clopidogrel 75 mg OD x 12 months
+3) T. Storvas 40 HS lifelong
+4) T. Met XL 25 OD lifelong
+5) T. Telma 40 OD life long
+6) T. Pan 40 OD ½ hr before breakfast till review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8) T. Glycomet 500 BD PC lifelong
+9) T. Jardiance 10 mg OD life long
+
+Adv:
+  Diet:
+  - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Activity:
+  - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness or difficulty in breathing
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+
+F/U:
+- Cardiology OPD on 01/09/2026 - Review with reports with ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

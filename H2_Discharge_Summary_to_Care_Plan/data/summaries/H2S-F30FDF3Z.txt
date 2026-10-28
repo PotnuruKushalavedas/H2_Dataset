@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Poonam Ghosh
+Age / Sex    : 30 yrs / Female
+UHID         : CDH5150824      IP No: IP/26/617921
+Admitted on  : 09/04/2026      Discharged on: 14/04/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+
+Brief History:
+  * 30/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 6 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 19,400/cumm; CRP 169 mg/L; CXR: consolidation left lower lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 130/80 mmHg, PR 74/min, SpO2 97% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 7 days
+- Tab. Paracetamol (Dolo) 650 mg SOS for fever / pain (not more than 3 doses in 24 h)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+    * No smoking / no tobacco in any form
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness or difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Medicine OPD on 24/04/2026 (Fri); bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Anil Bhosale (Consultant)

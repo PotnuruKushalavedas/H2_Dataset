@@ -1,0 +1,59 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Vikram Chauhan, 49/M  UHID: CDH1644086  IP: IP/26/426007
+DOA: 11-Jan-26  DOD: 17-Jan-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+- Type 2 diabetes mellitus
+- Hypothyroidism
+
+H/o: 49/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 6.2 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 13-Jan-26: 90% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (13-Jan-26)
+
+Ix: Hb 12.2 g/dl, S. Cr 0.9 mg/dl, K 4.7 mEq/L, LDL 155 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 47%, HbA1c 7.9%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 114/70 mmHg, PR 79/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 OD after lunch life long
+2) T. Clopilet 75 mg OD x 1 yr
+3) T. Rosuvas 20 HS lifelong
+4) T. Concor 2.5 mg OD lifelong
+5) T. Telma 40 OD lifelong
+6) T. Pan 40 OD 30 min before breakfast x 3 months
+7) T. Sorbitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+8) T. Glycomet 500 BD PC life long
+9) T. Empagliflozin 10 mg OD lifelong
+Continue previous medications for hypothyroidism as before.
+
+Adv:
+  Diet:
+  - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - No smoking / no tobacco in any form
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness / difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations (fast or irregular heartbeat)
+- Giddiness, fainting or loss of consciousness
+
+F/U:
+- Cardiology OPD on 27-Jan-26 (Tue) - Review with reports with ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

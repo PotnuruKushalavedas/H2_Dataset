@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Abdul Lal, 47/M  UHID: CDH7418769  IP: IP/26/251170
+DOA: 01-Aug-26  DOD: 04-Aug-26  Cons: Dr. Vivek Rathore (Surgery Unit II)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis
+- s/p Open appendicectomy (01-Aug-26)
+
+H/o: 47/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course: Emergency open appendicectomy under GA on 01-Aug-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure: Open appendicectomy under GA (01-Aug-26)
+
+Ix: TLC 14,100/cumm, CRP 82 mg/L, HPE: awaited, Hb 14.9 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 130/72 mmHg, PR 78/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Ceftum 500 mg BD after food x 5/7
+2) T. Flagyl 400 TDS after food x 5/7 (avoid alcohol)
+3) T. Paracetamol 650 mg TDS after food x 5/7
+4) T. Voveran 50 mg BD PC x 3/7
+5) T. Razo 20 mg OD ½ hr before breakfast x 5 days
+
+Adv:
+  Diet:
+  - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+  - Early ambulation - walk in the house several times a day
+  - Avoid lifting weight > 5 kg x 6 weeks
+  - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound:
+  - Keep the wound clean and dry
+  - Bath allowed after 48 h - pat wound dry with clean cloth
+
+Review SOS if:
+- Fever above 100.4 F (38 C)
+- Wound site redness / swelling / pus or discharge
+- Severe or increasing pain in abdomen
+- Persistent vomiting or unable to take food and fluids orally
+- Abdominal distension, not passing stools / flatus
+
+F/U:
+- General Surgery OPD on 08-Aug-26 (Sat) - Suture removal (POD 7)
+- Surgery OPD on 17-Aug-26 - Review with histopathology report
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Vivek Rathore (Consultant)

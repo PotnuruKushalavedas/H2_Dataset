@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Neha Pandey    Age: 68 years    Sex: Female
+UHID: CDH9360685    IP Number: IP/26/794782
+Date of admission: 02 Sep 2026    Date of discharge: 09 Sep 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis right foot
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+HISTORY:
+  - 68/F, k/c/o T2DM x 11 yrs, presented with swelling, redness and pain over right foot x 7 days following a minor injury. RBS 358 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 9.4%; FBS 302 mg/dl; PPBS 381 mg/dl; S. Cr 0.9 mg/dl; Urine routine: sugar ++, ketones nil; Hb 12.0 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 110/80 mmHg, PR 67/min, SpO2 96% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 500 mg twice daily PC until the next visit
+2. Tablet Vildagliptin (Jalra) 50 mg twice daily until the next visit
+3. Tablet Amoxycillin + Clavulanic acid 625 mg three times daily PC for 7 days
+4. Tablet Paracetamol 650 mg only if needed (SOS) for fever or pain (max 4 doses/day)
+5. Tablet Stamlo 5 mg once daily in the morning to continue lifelong
+6. Tablet Thyronorm 75 mcg once daily in the morning empty stomach lifelong
+
+PLEASE STOP:
+  - Tab. Glimepiride 1 mg (risk of low sugar)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Medicine OPD on 23 Sep 2026 (Wed). Please bring: FBS, PPBS.
+  - Review with HbA1c in DM clinic, Medicine OPD on 08 Dec 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Raju Iyer    Age: 59 years    Sex: Male
+UHID: CDH6794059    IP Number: IP/26/236231
+Date of admission: 07 Jan 2026    Date of discharge: 15 Jan 2026
+Under the care of: Dr. Kavita Deshmukh, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 59/M, chronic smoker (21 pack-yrs), k/c/o COPD x 7 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 2 days. Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.3, pCO2 61 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 10,100/cumm; RBS 140 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 2. BP 126/76 mmHg, PR 76/min, SpO2 93% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium (Tiova) 18 mcg 1 rotacap once daily in the morning lifelong (with rotahaler device)
+2. Inhaler Budesonide + Formoterol (Budamate) 200 2 puffs twice daily lifelong (with spacer; rinse mouth after use)
+3. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for breathlessness / wheeze (not more than 8 puffs in 24 h)
+4. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+5. Tablet Azithromycin (Azithral) 500 mg once daily in the morning for 3 days
+6. Tablet Pantoprazole (Pan) 40 mg once daily in the morning 30 min before breakfast for 5 days
+Continue previous medications for HTN as before.
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed lip breathing + daily walk as tolerated
+  Other instructions:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Chest OPD on 27 Jan 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Kavita Deshmukh (Consultant)

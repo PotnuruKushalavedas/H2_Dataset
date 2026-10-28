@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Shankar Thomas
+Age / Sex    : 65 yrs / Male
+UHID         : CDH6821835      IP No: IP/26/290102
+Admitted on  : 24/01/2026      Discharged on: 01/02/2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Ischaemic cardiomyopathy, LVEF 29%
+
+Brief History:
+  * 65/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 87 kg to 82 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 6098 pg/ml; S. Cr 0.7 mg/dl; Na 139 mEq/L; K 4.3 mEq/L; 2D Echo: LVEF 29%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 66/min, SpO2 99% on RA. Dry weight 82 kg.
+
+Medications at Discharge:
+- Tab. Torsemide 20 mg 1-0-0 till review
+- Tab. Bisoprolol 2.5 mg 1-0-0 lifelong
+- Tab. Sacubitril + Valsartan (24/26 mg) 50 mg 1-0-1 lifelong
+- Tab. Aldactone 25 mg 1-0-0 long term (lifelong)
+- Tab. Jardiance 10 mg 1-0-0 lifelong
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Atorvastatin 40 mg 0-0-1 (HS) lifelong
+
+- STOP Tab. Dilzem 30 mg (contraindicated in HFrEF)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+    * Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Daily morning weight - maintain record
+    * Do not take painkillers from the chemist without doctor's advice
+
+Danger signs - report to Casualty immediately:
+  * Weight gain of more than 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing pedal oedema (swelling of feet / legs)
+  * Marked decrease in urine output
+  * Giddiness / fainting / LOC
+  * Palpitations - fast / irregular heart beat
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 11/02/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Prakash Nair (Consultant)

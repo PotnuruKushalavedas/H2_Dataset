@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Prakash Kushwaha
+Age / Sex    : 70 yrs / Male
+UHID         : CDH7364441      IP No: IP/26/559741
+Admitted on  : 19.07.2026      Discharged on: 24.07.2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute exacerbation of COPD (infective)
+  * BPH
+
+Brief History:
+  * 70/M, h/o long-term chulha smoke exposure, k/c/o COPD x 6 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations:
+  * ABG at admission: pH 7.32, pCO2 61 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 14,100/cumm; RBS 169 mg/dl; ECG: sinus rhythm
+
+Condition at Discharge: Breathlessness mMRC grade 3. BP 110/72 mmHg, PR 85/min, SpO2 91% on RA.
+
+Medications at Discharge:
+- Rotacap Tiotropium (Tiova) 18 mcg 1 rotacap 1-0-0 lifelong (via rotahaler)
+- Inh. Budesonide + Formoterol (6/400 mcg) 1 puff 1-0-1 lifelong (via spacer; rinse mouth after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+- Tab. Prednisolone 40 mg 1-0-0 x 3 days, then 30 mg 1-0-0 x 3 days, then 20 mg 1-0-0 x 3 days, then 10 mg 1-0-0 x 3 days, then stop (after breakfast)
+- Tab. Azithromycin 500 mg 1-0-0 x 3 days
+- Tab. Rabeprazole 20 mg 1-0-0 30 min before breakfast x 14 days
+- Cap. Veltam 0.4 mg 0-0-1 (HS) long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Pursed-lip breathing and daily walking as tolerated
+    * Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  General:
+    * Inhaler technique demonstrated - use with spacer
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Breathlessness / difficulty in breathing
+  * Wheeze / breathlessness not settling with reliever inhaler
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Fever > 100.4 F (38 C)
+  * Increased sputum / sputum turning yellow or green
+
+Follow-up:
+  * Review with reports - Chest OPD on 07.08.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

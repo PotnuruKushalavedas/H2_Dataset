@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Dinesh Mukherjee               Age/Sex  : 54 Y / M
+UHID       : CDH8849074                     IP No.   : IP/26/596459
+DOA        : 20/05/2026                     DOD      : 24/05/2026
+Consultant : Dr. Vivek Rathore, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Left inguinal hernia (direct, reducible)
+  - 2. s/p Laparoscopic TEP mesh repair (21/05/2026)
+
+BRIEF HISTORY:
+  - 54/M, c/o swelling in left groin x 25 months, increasing on coughing/straining, reducible.
+
+HOSPITAL COURSE:
+  - Underwent Laparoscopic TEP mesh repair under GA on 21/05/2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+PROCEDURE(S) DONE:
+  - Laparoscopic TEP mesh repair under GA (21/05/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.0 g/dl | RBS 111 mg/dl | S. Cr 0.8 mg/dl | ECG: normal sinus rhythm
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, passing urine and stools. BP 120/76 mmHg, PR 77/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+----------+--------------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration | Instructions                                     |
++----+---------------------------+--------+-------+------------+----------+--------------------------------------------------+
+| 1  | Tab. Paracetamol          | 650 mg | PO    | SOS        | -        | for fever or pain; not more than 4 doses in 24 h |
+| 2  | Tab. Rabeprazole (Rablet) | 20 mg  | PO    | OD (1-0-0) | 5 days   | ½ hr before breakfast                            |
+| 3  | Syp. Lactulose (Duphalac) | 15 ml  | PO    | HS (0-0-1) | 7 days   |                                                  |
++----+---------------------------+--------+-------+------------+----------+--------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High-fibre diet with plenty of oral fluids to avoid constipation
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - No heavy lifting (more than 5 kg) for 6 weeks
+    - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    - Keep wound site clean and dry
+    - Nothing (oil / haldi / powder) to be applied on wound
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Scrotal swelling / severe scrotal pain
+  - Inability to pass urine
+  - Bleeding from wound / dressing soakage
+
+FOLLOW-UP:
+  - Wound check - Surgery OPD on 29/05/2026 (Fri) (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Vivek Rathore (Consultant)

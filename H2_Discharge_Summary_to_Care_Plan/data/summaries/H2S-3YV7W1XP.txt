@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Savita Tiwari                  Age/Sex  : 74 Y / F
+UHID       : CDH5139542                     IP No.   : IP/26/780274
+DOA        : 02/06/2026                     DOD      : 08/06/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 74/F, k/c/o T2DM x 7 yrs, stopped medicines 4 months ago, presented with polyuria, polydipsia, generalised weakness x 15 days. RBS 437 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.8% | FBS 224 mg/dl | PPBS 302 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 11.8 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 118/72 mmHg, PR 86/min, SpO2 98% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+------------------+------------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration         | Instructions     |
++----+-----------------------------+--------+-------+------------+------------------+------------------+
+| 1  | Tab. Metformin (Glyciphage) | 500 mg | PO    | BD (1-0-1) | Till next review | after food       |
+| 2  | Tab. Vildagliptin           | 50 mg  | PO    | BD (1-0-1) | Till review      |                  |
+| 3  | Tab. Storvas                | 20 mg  | PO    | HS (0-0-1) | Lifelong         |                  |
+| 4  | Tab. Levothyroxine          | 50 mcg | PO    | OD (1-0-0) | Lifelong         | on empty stomach |
++----+-----------------------------+--------+-------+------------+------------------+------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 2 mg
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 18/06/2026; bring reports: FBS, PPBS
+  - HbA1c and review - DM clinic, Medicine OPD on 31/08/2026 (Mon)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

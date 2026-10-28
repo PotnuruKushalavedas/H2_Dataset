@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Manju Gowda                    Age/Sex  : 50 Y / F
+UHID       : CDH7067892                     IP No.   : IP/26/174312
+DOA        : 11/05/2026                     DOD      : 16/05/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 50/F, k/c/o T2DM x 6 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 401 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.9% | FBS 280 mg/dl | PPBS 374 mg/dl | S. Cr 0.5 mg/dl | Urine routine: pus cells plenty | Hb 14.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 120/72 mmHg, PR 71/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+------------------+---------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration         | Instructions  |
++----+---------------------------+--------+-------+------------+------------------+---------------+
+| 1  | Tab. Metformin (Glycomet) | 500 mg | PO    | BD (1-0-1) | Till next review | PC            |
+| 2  | Tab. Sitagliptin          | 100 mg | PO    | OD (1-0-0) | Till next review |               |
+| 3  | Tab. Cefixime             | 200 mg | PO    | BD (1-0-1) | 5 days           | PC            |
+| 4  | Tab. Storvas              | 20 mg  | PO    | HS (0-0-1) | Lifelong         |               |
+| 5  | Tab. Levothyroxine        | 25 mcg | PO    | OD (1-0-0) | Lifelong         | empty stomach |
++----+---------------------------+--------+-------+------------+------------------+---------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High fever with chills
+  - Burning micturition / pain while passing urine
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - DM clinic, Medicine OPD on 26/05/2026; bring reports: FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,47 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Pradeep Gill | 33 Y/M | UHID CDH8758825 | IP IP/26/546977
+DOA - 16/07/2026 | DOD - 21/07/2026 | Consultant - Dr. Kavita Deshmukh, Chest Unit
+
+Diagnosis -
+  • Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Presenting complaints & history - 33/M, presented with cough x 8 weeks, evening rise of temperature, loss of appetite and weight loss of 8 kg.
+
+Hospital course -
+  • Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 17/07/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations -
+  • Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: left upper zone infiltrates | Hb 12.3 g/dl | LFT: within normal limits | RBS 98 mg/dl | HIV: non-reactive | Weight 48 kg
+
+Status at discharge - Afebrile for 3 days, tolerating ATT. BP 130/80 mmHg, PR 75/min, SpO2 99% on RA.
+
+ADV ON DISCHARGE -
+• Tab. 4-FDC (HRZE) 3 tablets PO OD on empty stomach x 52 days (weight-band dose; to complete IP of 8 wks; then review for continuation phase)
+• Tab. Pyridoxine 10 mg PO OD till review
+• Tab. Paracetamol 650 mg PO SOS for fever (max 3 doses/day)
+
+Instructions -
+  Diet:
+    • High-protein nutritious diet (dal, eggs, milk, soya)
+    • Strictly no alcohol
+  Others:
+    • Daily ATT without missing doses - full course to be completed
+    • Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    • Household contacts - TB screening at nearest PHC
+    • Stop smoking and all forms of tobacco
+    • Orange-red urine expected with rifampicin (harmless)
+
+Report immediately to Casualty in case of -
+  • Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  • Blurred vision / difficulty in distinguishing colours
+  • Generalised skin rash / itching
+  • Haemoptysis (coughing out blood)
+  • Breathlessness / difficulty in breathing
+
+Follow up -
+  • LFT and review - TB clinic (DOTS centre) on 05/08/2026 (Wed)
+  • Sputum AFB at end of IP - DOTS centre / TB clinic on 12/09/2026 (Sat)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Kavita Deshmukh (Consultant)

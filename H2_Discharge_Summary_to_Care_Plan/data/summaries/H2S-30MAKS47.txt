@@ -1,0 +1,65 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Manoj Menon                    Age/Sex  : 59 Y / M
+UHID       : CDH1239126                     IP No.   : IP/26/167709
+DOA        : 21/08/2026                     DOD      : 25/08/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 59/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 9.5 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 22/08/2026: 93% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (22/08/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.6 g/dl | S. Cr 1.0 mg/dl | K 4.7 mEq/L | LDL 112 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 55%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 110/76 mmHg, PR 70/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+-----------+-------------------------------------------------------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration  | Instructions                                                |
++----+-----------------------------+--------+-------+------------+-----------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)     | 75 mg  | PO    | OD (0-1-0) | Lifelong  | after lunch                                                 |
+| 2  | Tab. Clopidogrel (Clopitab) | 75 mg  | PO    | OD (1-0-0) | 12 months |                                                             |
+| 3  | Tab. Atorva                 | 40 mg  | PO    | HS (0-0-1) | Lifelong  |                                                             |
+| 4  | Tab. Bisoprolol             | 2.5 mg | PO    | OD (1-0-0) | Lifelong  |                                                             |
+| 5  | Tab. Pantoprazole           | 40 mg  | PO    | OD (1-0-0) | 3 months  | ½ hr before breakfast                                       |
+| 6  | Tab. Sorbitrate             | 5 mg   | SL    | SOS        | -         | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+-----------------------------+--------+-------+------------+-----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 01/09/2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

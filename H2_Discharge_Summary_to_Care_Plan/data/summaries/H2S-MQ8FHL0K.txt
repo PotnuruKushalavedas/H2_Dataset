@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Revathi Gowda
+Age / Sex    : 49 yrs / Female
+UHID         : CDH1575885      IP No: IP/26/221026
+Admitted on  : 10.04.2026      Discharged on: 12.04.2026
+Consultant   : Dr. Sunita Patil, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Open appendicectomy (10.04.2026)
+  * Hypothyroidism
+
+Brief History:
+  * 49/F, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 10.04.2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Open appendicectomy under GA (10.04.2026)
+
+Investigations:
+  * TLC 17,500/cumm; CRP 125 mg/L; HPE: awaited; Hb 13.4 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 118/80 mmHg, PR 82/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 PC x 5 days
+- Tab. Paracetamol 500 mg SOS for fever (max 3 doses/day)
+- Tab. Diclofenac 50 mg 1-0-1 PC x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Tab. Levothyroxine 75 mcg 1-0-0 empty stomach long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting or unable to take food and fluids orally
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Suture removal - General Surgery OPD on 17.04.2026 (POD 7)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Sunita Patil (Consultant)

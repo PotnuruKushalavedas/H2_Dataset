@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Babu Iyer    Age: 70 years    Sex: Male
+UHID: CDH6977599    IP Number: IP/26/190957
+Date of admission: 24th January 2026    Date of discharge: 28th January 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 70/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 145/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 81/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 57%; S. Cr 1.2 mg/dl; Hb 13.7 g/dl; TSH 1.9 mIU/L; Weight 76 kg; CrCl (Cockcroft-Gault) 61 ml/min; CHA2DS2-VASc score 2
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 120/70 mmHg, PR 83/min, SpO2 96% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate (Met XL) 50 mg once daily in the morning lifelong
+2. Capsule Dabigatran 150 mg twice daily lifelong
+3. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+
+PLEASE STOP:
+  - Tab. Aspirin 75 mg (now on anticoagulant)
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 18th February 2026 (Wed). Please bring: ECG, S. Creatinine, CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

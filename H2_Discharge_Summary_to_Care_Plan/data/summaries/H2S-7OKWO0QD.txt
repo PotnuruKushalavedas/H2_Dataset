@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Sachin Yadav
+Age / Sex    : 77 yrs / Male
+UHID         : CDH1584124      IP No: IP/26/970800
+Admitted on  : 23.01.2026      Discharged on: 01.02.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Ischaemic cardiomyopathy, LVEF 35%
+
+Brief History:
+  * 77/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 84 kg to 80 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 3931 pg/ml; S. Cr 0.9 mg/dl; Na 135 mEq/L; K 4.7 mEq/L; 2D Echo: LVEF 35%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 80/min, SpO2 96% on RA. Dry weight 80 kg.
+
+Medications at Discharge:
+- Tab. Torsemide 20 mg 1-0-0 till next review
+- Tab. Metoprolol Succinate 25 mg 1-0-0 lifelong
+- Tab. Ramipril 2.5 mg 1-0-0 long term (lifelong)
+- Tab. Spironolactone 25 mg 1-0-0 lifelong
+- Tab. Dapagliflozin 10 mg 1-0-0 lifelong
+- Tab. Aspirin 75 mg 0-1-0 after lunch long term (lifelong)
+- Tab. Atorvastatin 40 mg 0-0-1 (HS) lifelong
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+    * Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Check weight every morning and keep a record
+    * Do not take painkillers from the chemist without doctor's advice
+
+Danger signs - report to Casualty immediately:
+  * Weight gain of more than 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing swelling of feet or legs
+  * Marked decrease in urine output
+  * Giddiness, fainting or loss of consciousness
+  * Palpitations - fast / irregular heart beat
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 09.02.2026 (Mon); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  * 2D Echo + review - Cardiology OPD on 02.05.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

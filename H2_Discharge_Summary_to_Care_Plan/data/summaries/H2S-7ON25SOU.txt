@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Hemant Gill, 56/M  UHID: CDH8866569  IP: IP/26/388831
+DOA: 22-Jul-26  DOD: 30-Jul-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 29%
+
+H/o: 56/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5 L; weight down from 68 kg to 63 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 4776 pg/ml, S. Cr 1.1 mg/dl, Na 140 mEq/L, K 4.4 mEq/L, 2D Echo: LVEF 29%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 85/min, SpO2 98% on RA. Dry weight 63 kg.
+
+Rx on discharge:
+1) T. Lasix 40 mg BD till review
+2) T. Cardivas 6.25 mg half tab BD life long
+3) T. Vymada 50 mg BD lifelong
+4) T. Aldactone 25 OD lifelong
+5) T. Forxiga 10 mg OD lifelong
+6) T. Aspirin 75 mg OD after lunch life long
+7) T. Storvas 40 HS life long
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Urine output markedly reduced
+- Giddiness, fainting or loss of consciousness
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Cardiology OPD on 06-Aug-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

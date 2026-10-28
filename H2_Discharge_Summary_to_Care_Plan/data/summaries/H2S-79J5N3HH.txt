@@ -1,0 +1,48 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Kishore Chauhan, 76/M  UHID: CDH9412394  IP: IP/26/562513
+DOA: 01-Feb-26  DOD: 09-Feb-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 29%
+
+H/o: 76/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 9 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6 L; weight down from 59 kg to 53 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 4811 pg/ml, S. Cr 1.3 mg/dl, Na 134 mEq/L, K 4.8 mEq/L, 2D Echo: LVEF 29%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 76/min, SpO2 96% on RA. Dry weight 53 kg.
+
+Rx on discharge:
+1) T. Furosemide 40 mg BD till next review
+2) T. Met XL 12.5 mg OD life long
+3) T. Vymada 50 mg BD lifelong
+4) T. Forxiga 10 mg OD life long
+5) T. Ecosprin 75 OD after lunch life long
+6) T. Atorvastatin 40 mg HS life long
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Urine output markedly reduced
+- Giddiness / fainting / LOC
+- Palpitations (fast or irregular heartbeat)
+
+F/U:
+- Cardiology OPD on 16-Feb-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

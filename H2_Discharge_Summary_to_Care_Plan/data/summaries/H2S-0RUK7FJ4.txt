@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Manoj Deshpande                Age/Sex  : 39 Y / M
+UHID       : CDH9004667                     IP No.   : IP/26/566687
+DOA        : 20 Jan 2026                    DOD      : 25 Jan 2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 39/M, k/c/o T2DM x 9 yrs, presented with swelling, redness and pain over left foot x 7 days following a minor injury. RBS 371 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.4% | FBS 274 mg/dl | PPBS 348 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 11.8 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/74 mmHg, PR 77/min, SpO2 99% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+---------+-------+-------------+-------------+---------------+
+| No | Medicine                     | Dose    | Route | Frequency   | Duration    | Instructions  |
++----+------------------------------+---------+-------+-------------+-------------+---------------+
+| 1  | Tab. Metformin (Glyciphage)  | 500 mg  | PO    | BD (1-0-1)  | Till review | PC            |
+| 2  | Tab. Sitagliptin             | 100 mg  | PO    | OD (1-0-0)  | Till review |               |
+| 3  | Tab. Amoxicillin-Clavulanate | 625 mg  | PO    | TDS (1-1-1) | 7 days      | after food    |
+| 4  | Tab. Telmisartan (Telma)     | 40 mg   | PO    | OD (1-0-0)  | Lifelong    |               |
+| 5  | Tab. Thyronorm               | 100 mcg | PO    | OD (1-0-0)  | Lifelong    | empty stomach |
++----+------------------------------+---------+-------+-------------+-------------+---------------+
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 09 Feb 2026; bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

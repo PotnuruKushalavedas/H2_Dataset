@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Yusuf Kushwaha                 Age/Sex  : 63 Y / M
+UHID       : CDH8147144                     IP No.   : IP/26/654136
+DOA        : 28/07/2026                     DOD      : 03/08/2026
+Consultant : Dr. T. Raghavan, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. BPH
+
+BRIEF HISTORY:
+  - 63/M, chronic smoker (44 pack-yrs), k/c/o COPD x 6 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.3, pCO2 48 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 15,100/cumm | RBS 190 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 2. BP 114/74 mmHg, PR 78/min, SpO2 93% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                                 | Dose           | Route | Frequency  | Duration | Instructions                                                |
++----+------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Rotacap Tiotropium                       | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | with rotahaler device                                       |
+| 2  | Inh. Budesonide + Formoterol (6/400 mcg) | 1 puff         | Inh   | BD (1-0-1) | Lifelong | with spacer; gargle after use                               |
+| 3  | Inh. Salbutamol (Asthalin) (100 mcg)     | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; not more than 8 puffs in 24 h |
+| 4  | Tab. Prednisolone (Omnacortil)           | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                                             |
+| 5  | Tab. Azithromycin                        | 500 mg         | PO    | OD (1-0-0) | 3 days   |                                                             |
+| 6  | Cap. Tamsulosin                          | 0.4 mg         | PO    | HS (0-0-1) | Lifelong |                                                             |
++----+------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed lip breathing + daily walk as tolerated
+  Other:
+    - Inhaler technique taught; to use with spacer
+    - Flu + pneumococcal vaccine advised
+    - Stop smoking and all forms of tobacco
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increase in sputum quantity or change to yellow/green colour
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 17/08/2026
+  - Spirometry (PFT) - Chest OPD on 07/09/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. T. Raghavan (Consultant)

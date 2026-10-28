@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Gurpreet Kalita    Age: 61 years    Sex: Female
+UHID: CDH2783462    IP Number: IP/26/540831
+Date of admission: 7th March 2026    Date of discharge: 12th March 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+HISTORY:
+  - 61/F, k/c/o T2DM x 6 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 5 days. RBS at admission 373 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.5%; FBS 248 mg/dl; PPBS 344 mg/dl; S. Cr 0.6 mg/dl; Urine routine: pus cells plenty; Hb 13.1 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 120/78 mmHg, PR 87/min, SpO2 96% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 500 mg twice daily PC until the next visit
+2. Tablet Glimepiride 1 mg once daily in the morning 30 min before breakfast till the next review
+3. Tablet Cefixime 200 mg twice daily PC for 7 days
+4. Tablet Atorvastatin (Storvas) 10 mg once daily at bedtime to continue lifelong
+5. Tablet Paracetamol 650 mg only if needed (SOS) for fever / pain (not more than 3 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - High fever with chills
+  - Burning or pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+REVIEW:
+  - Review with reports in Medicine OPD on 26th March 2026 (Thu). Please bring: FBS, PPBS, Urine routine.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Farah Siddiqui (Consultant)

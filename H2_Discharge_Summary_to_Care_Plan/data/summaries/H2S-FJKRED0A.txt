@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Gurpreet Sandhu                Age/Sex  : 78 Y / M
+UHID       : CDH2134758                     IP No.   : IP/26/124458
+DOA        : 01/08/2026                     DOD      : 07/08/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+  - 3. BPH
+  - 4. Dyslipidaemia
+
+BRIEF HISTORY:
+  - 78/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 133/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 72/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 62% | S. Cr 1.6 mg/dl | Hb 12.0 g/dl | TSH 1.8 mIU/L | Weight 58 kg | CrCl (Cockcroft-Gault) 31 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 124/72 mmHg, PR 89/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+------------+----------+--------------+
+| No | Medicine                                  | Dose   | Route | Frequency  | Duration | Instructions |
++----+-------------------------------------------+--------+-------+------------+----------+--------------+
+| 1  | Tab. Metoprolol Succinate ER (Seloken XL) | 50 mg  | PO    | OD (1-0-0) | Lifelong |              |
+| 2  | Tab. Eliquis                              | 2.5 mg | PO    | BD (1-0-1) | Lifelong |              |
+| 3  | Tab. Amlodipine                           | 5 mg   | PO    | OD (1-0-0) | Lifelong |              |
+| 4  | Cap. Tamsulosin                           | 0.4 mg | PO    | HS (0-0-1) | Lifelong |              |
++----+-------------------------------------------+--------+-------+------------+----------+--------------+
+  To continue other previous medicines for dyslipidaemia as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 22/08/2026 (Sat); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

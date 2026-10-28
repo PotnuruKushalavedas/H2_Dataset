@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Sunil Kulkarni    Age: 36 years    Sex: Male
+UHID: CDH3730677    IP Number: IP/26/292447
+Date of admission: 10th July 2026    Date of discharge: 16th July 2026
+Under the care of: Dr. Vivek Rathore, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis with localised perforation
+  - 2. s/p Laparoscopic appendicectomy (10th July 2026)
+
+HISTORY:
+  - 36/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency laparoscopic appendicectomy under GA on 10th July 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 2.
+
+OPERATIVE PROCEDURE:
+  - Laparoscopic appendicectomy under GA (10th July 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 16,500/cumm; CRP 102 mg/L; HPE: awaited; Hb 11.8 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 110/78 mmHg, PR 88/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin-Clavulanate (Augmentin) 625 mg three times daily after food for 7 days
+2. Tablet Paracetamol (Crocin) 650 mg three times daily PC for 5 days
+3. Tablet Pantoprazole 40 mg once daily in the morning ½ hr before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Soft diet x 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Care of the wound:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting / not able to take orally
+  - Abdominal distension, not passing stools / flatus
+
+REVIEW:
+  - Wound inspection in General Surgery OPD on 18th July 2026 (POD 8).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Vivek Rathore (Consultant)

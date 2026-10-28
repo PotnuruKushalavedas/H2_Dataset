@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Suresh Joshi                   Age/Sex  : 29 Y / M
+UHID       : CDH4021092                     IP No.   : IP/26/490897
+DOA        : 09 Apr 2026                    DOD      : 15 Apr 2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 29/M, k/c/o T2DM x 4 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: acute gastroenteritis.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 24 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.11, HCO3 11 mEq/L | Urine ketones +++ | RBS at admission 425 mg/dl | HbA1c 13.0% | S. Cr 1.1 mg/dl | K 3.8 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 130/76 mmHg, PR 86/min, SpO2 96% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+-------+-------+-------------+-------------+-----------------------+
+| No | Medicine                        | Dose  | Route | Frequency   | Duration    | Instructions          |
++----+---------------------------------+-------+-------+-------------+-------------+-----------------------+
+| 1  | Inj. Insulin Glargine           | 12 IU | SC    | OD (0-0-1)  | Till review | at 10 pm daily        |
+| 2  | Inj. Insulin Aspart (NovoRapid) | 4 IU  | SC    | TDS (1-1-1) | Till review | 0-15 min before meals |
++----+---------------------------------+-------+-------+-------------+-------------+-----------------------+
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - RFT + S. electrolytes on 20 Apr 2026 at Central lab
+  - Review with sugar chart - DM clinic, Medicine OPD on 22 Apr 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Saroj Nair                     Age/Sex  : 35 Y / F
+UHID       : CDH3706022                     IP No.   : IP/26/810859
+DOA        : 11/02/2026                     DOD      : 15/02/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 35/F, k/c/o T2DM x 1 yr on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 31 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.17, HCO3 7 mEq/L | Urine ketones +++ | RBS at admission 249 mg/dl | HbA1c 13.8% | S. Cr 0.6 mg/dl | K 4.6 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 130/78 mmHg, PR 77/min, SpO2 99% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------------+---------+-------+-------------+-------------+----------------------------------------+
+| No | Medicine                                    | Dose    | Route | Frequency   | Duration    | Instructions                           |
++----+---------------------------------------------+---------+-------+-------------+-------------+----------------------------------------+
+| 1  | Inj. Insulin Glargine (Basalog)             | 14 U    | SC    | HS (0-0-1)  | Till review |                                        |
+| 2  | Inj. Insulin Regular (Human) (Huminsulin R) | 4 U     | SC    | TDS (1-1-1) | Till review | ½ hr before meals                      |
+| 3  | Tab. Metformin                              | 500 mg  | PO    | BD (1-0-1)  | Till review | PC                                     |
+| 4  | Tab. Ondansetron                            | 4 mg    | PO    | SOS         | -           | for nausea / vomiting; max 3 doses/day |
+| 5  | Tab. Levothyroxine (Eltroxin)               | 100 mcg | PO    | OD (1-0-0)  | Lifelong    | empty stomach                          |
++----+---------------------------------------------+---------+-------+-------------+-------------+----------------------------------------+
+  To continue other previous medicines for HTN as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Empagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+FOLLOW-UP:
+  - Get S. Creatinine and electrolytes (Na, K) done on 18/02/2026 (Wed) (Hospital laboratory)
+  - Review with sugar chart - DM clinic, Medicine OPD on 23/02/2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

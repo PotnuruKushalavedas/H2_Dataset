@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Thomas Nair, 56/M  UHID: CDH7583019  IP: IP/26/180043
+DOA: 26/03/2026  DOD: 02/04/2026  Cons: Dr. Anil Bhosale (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 56/M, k/c/o T2DM x 6 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: UTI.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 39 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.24, HCO3 14 mEq/L, Urine ketones +++, RBS at admission 518 mg/dl, HbA1c 12.6%, S. Cr 0.8 mg/dl, K 4.2 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 124/78 mmHg, PR 69/min, SpO2 97% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Insulin Glargine 20 units SC OD at 10 PM till review
+2) Inj. Huminsulin R 6 units SC TDS 30 min before meals till next review
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  - Oral fluids 2-3 L/day
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+- Vomiting / pain abdomen / rapid breathing / drowsiness
+
+F/U:
+- Get RFT + S. electrolytes done on 06/04/2026 (Mon) (Hospital laboratory)
+- Diabetes Clinic (Medicine OPD) on 07/04/2026 - Review with SMBG chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Lakshmi Jadhav                 Age/Sex  : 35 Y / F
+UHID       : CDH9039414                     IP No.   : IP/26/465601
+DOA        : 03/01/2026                     DOD      : 10/01/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Systemic hypertension
+
+BRIEF HISTORY:
+  - 35/F, k/c/o T2DM x 7 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 5 days. RBS at admission 363 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.4% | FBS 318 mg/dl | PPBS 429 mg/dl | S. Cr 0.6 mg/dl | Urine routine: pus cells plenty | Hb 11.9 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 120/74 mmHg, PR 82/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+------------------+-----------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration         | Instructions                            |
++----+---------------------------+--------+-------+------------+------------------+-----------------------------------------+
+| 1  | Tab. Metformin            | 500 mg | PO    | BD (1-0-1) | Till review      | PC                                      |
+| 2  | Tab. Amaryl               | 1 mg   | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                   |
+| 3  | Tab. Cefixime             | 200 mg | PO    | BD (1-0-1) | 5 days           | PC                                      |
+| 4  | Tab. Paracetamol (Calpol) | 650 mg | PO    | SOS        | -                | for pain; not more than 3 doses in 24 h |
+| 5  | Tab. Losartan             | 50 mg  | PO    | OD (1-0-0) | Lifelong         |                                         |
++----+---------------------------+--------+-------+------------+------------------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High fever with chills
+  - Burning micturition / pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 17/01/2026 (Sat); bring reports: FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. R. Venkatesh (Consultant)

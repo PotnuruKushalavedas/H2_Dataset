@@ -1,0 +1,51 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Deepa Jat | 62 Y/F | UHID CDH7058704 | IP IP/26/718698
+DOA - 20-08-2026 | DOD - 29-08-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Dilated cardiomyopathy, LVEF 28%
+
+Presenting complaints & history - 62/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 59 kg to 54 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 5897 pg/ml | S. Cr 0.6 mg/dl | Na 139 mEq/L | K 4.4 mEq/L | 2D Echo: LVEF 28%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 77/min, SpO2 97% on RA. Dry weight 54 kg.
+
+ADV ON DISCHARGE -
+• Tab. Frusemide 40 mg PO OD till review
+• Tab. Cardivas 3.125 mg PO BD life long
+• Tab. Enalapril 2.5 mg PO BD life long
+• Tab. Spironolactone (Aldactone) 25 mg PO OD lifelong
+• Tab. Empagliflozin (Jardiance) 10 mg PO OD life long
+
+• Stop Tab. Voveran 50 mg (not safe with heart disease)
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+    • Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Check weight every morning and keep a record
+    • Avoid OTC painkillers (NSAIDs) without medical advice
+
+Report immediately to Casualty in case of -
+  • Wt gain > 2 kg in 3 days
+  • Breathlessness at rest or on lying flat
+  • Increasing swelling of feet or legs
+  • Urine output markedly reduced
+  • Giddiness / fainting / LOC
+  • Palpitations - fast / irregular heart beat
+
+Follow up -
+  • Review with reports - Cardiology OPD on 08-09-2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

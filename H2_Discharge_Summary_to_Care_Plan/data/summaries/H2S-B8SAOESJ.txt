@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Shabana Sandhu    Age: 46 years    Sex: Female
+UHID: CDH8256359    IP Number: IP/26/305351
+Date of admission: 09 Apr 2026    Date of discharge: 13 Apr 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+  - 2. Type 2 diabetes mellitus
+
+HISTORY:
+  - 46/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 15,400/cumm; CRP 155 mg/L; CXR: consolidation left lower lobe; S. Cr 0.5 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 120/76 mmHg, PR 85/min, SpO2 99% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxycillin + Clavulanic acid (Augmentin) 625 mg twice daily after food for 7 days
+2. Tablet Paracetamol 650 mg only if needed (SOS) for fever (max 4 doses/day)
+3. Tablet Metformin 1000 mg twice daily after food to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Physical activity:
+    - Deep breathing exercises - 10 breaths every hour when awake
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Coughing up blood
+
+REVIEW:
+  - Review with reports in Medicine OPD on 23 Apr 2026. Please bring: CBC.
+  - Repeat CXR in Chest OPD on 25 May 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

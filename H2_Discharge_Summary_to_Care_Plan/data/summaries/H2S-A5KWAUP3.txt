@@ -1,0 +1,63 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Jagdish Fernandes
+Age / Sex    : 77 yrs / Male
+UHID         : CDH3133718      IP No: IP/26/925984
+Admitted on  : 21.03.2026      Discharged on: 25.03.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - Anterior wall STEMI
+  * CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+Brief History:
+  * 77/M, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+Course in Hospital:
+  * Taken up for primary PCI on 22.03.2026: CAG showed 95% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Procedure:
+  * CAG + PCI with 1 DES to LAD (22.03.2026)
+
+Investigations:
+  * Hb 14.3 g/dl; S. Cr 1.7 mg/dl; K 4.5 mEq/L; LDL 168 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 58%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 114/76 mmHg, PR 72/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Aspirin 75 mg 0-1-0 after lunch long term (lifelong)
+- Tab. Ticagrelor 90 mg 1-0-1 x 12 months
+- Tab. Rosuvastatin 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Metoprolol Succinate 50 mg 1-0-0 lifelong
+- Tab. Pantoprazole (Pantocid) 40 mg 1-0-0 30 min before breakfast till next review
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+
+- STOP Tab. Clopidogrel 75 mg (replaced by Ticagrelor)
+
+Advice on Discharge:
+  Diet:
+    * Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * No driving for 1 week
+  General:
+    * Stop smoking and all forms of tobacco
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    * Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Danger signs - report to Casualty immediately:
+  * Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  * Breathlessness / difficulty in breathing
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 01.04.2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

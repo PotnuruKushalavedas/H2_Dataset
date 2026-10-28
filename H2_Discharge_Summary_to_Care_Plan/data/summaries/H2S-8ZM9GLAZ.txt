@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Hemant Khan    Age: 27 years    Sex: Male
+UHID: CDH4190972    IP Number: IP/26/756438
+Date of admission: 19th June 2026    Date of discharge: 26th June 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 27/M, k/c/o T2DM x 4 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 43 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.15, HCO3 8 mEq/L; Urine ketones +++; RBS at admission 244 mg/dl; HbA1c 11.6%; S. Cr 1.0 mg/dl; K 4.6 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 114/78 mmHg, PR 75/min, SpO2 99% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 16 U SC once daily at night at 10 pm daily till the next review
+2. Injection Human Regular Insulin (Huminsulin R) 6 U before breakfast, 4 U before lunch, 6 U before dinner SC ½ hr before meals till the next review
+3. Tablet Metformin 500 mg twice daily PC until the next visit
+4. Tablet Levothyroxine (Eltroxin) 75 mcg once daily in the morning empty stomach lifelong
+
+PLEASE STOP:
+  - Tab. Empagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Oral fluids 2-3 L/day
+  Other instructions:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+REVIEW:
+  - Review with SMBG chart in Diabetes Clinic (Medicine OPD) on 1st July 2026 (Wed).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Farah Siddiqui (Consultant)

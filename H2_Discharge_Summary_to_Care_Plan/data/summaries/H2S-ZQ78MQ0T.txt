@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Gurpreet Shetty
+Age / Sex    : 69 yrs / Female
+UHID         : CDH8055226      IP No: IP/26/458606
+Admitted on  : 26.01.2026      Discharged on: 31.01.2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+Brief History:
+  * 69/F, k/c/o T2DM x 12 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.8%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 11.8%; FBS 181 mg/dl; PPBS 276 mg/dl; S. Cr 0.7 mg/dl; Urine microalbumin 58 mg/g; Fundus: mild NPDR
+
+Condition at Discharge: Stable. BP 124/78 mmHg, PR 68/min, SpO2 97% on RA. Pre-meal sugars 165-177 mg/dl.
+
+Medications at Discharge:
+- Inj. Premixed Insulin 30/70 18-0-8 U SC 30 min before breakfast and dinner till review
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) lifelong
+
+- STOP Tab. Glimepiride 1 mg (now on insulin)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Carry glucose / sugar at all times
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Sugar > 300 mg/dl on 2 readings
+
+Follow-up:
+  * Review with sugar chart - DM clinic, Medicine OPD on 07.02.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

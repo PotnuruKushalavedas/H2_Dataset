@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Deepak Meena, 44/M  UHID: CDH5605848  IP: IP/26/538903
+DOA: 09/02/2026  DOD: 16/02/2026  Cons: Dr. R. Venkatesh (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Cellulitis left foot
+
+H/o: 44/M, k/c/o T2DM x 13 yrs, presented with swelling, redness and pain over left foot x 8 days following a minor injury. RBS 367 mg/dl.
+
+Course: Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Ix: HbA1c 12.4%, FBS 292 mg/dl, PPBS 405 mg/dl, S. Cr 1.0 mg/dl, Urine routine: sugar ++, ketones nil, Hb 11.1 g/dl
+
+Condn at d/c: Afebrile, stable. BP 114/72 mmHg, PR 76/min, SpO2 97% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD after food till review
+2) T. Amaryl 2 OD 30 min before breakfast till review
+3) Inj. Basalog 10 units SC OD at 10 pm daily till review
+4) T. Augmentin 625 TDS after food x 5 days
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Redness, swelling, pus or discharge from the wound
+- Fever above 100.4 F (38 C)
+- Blood sugar above 300 mg/dl on two readings
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 02/03/2026 - Review with reports with FBS, PPBS
+- DM clinic, Medicine OPD on 11/05/2026 - Review with HbA1c
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

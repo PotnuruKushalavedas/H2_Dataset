@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Fatima Gupta                   Age/Sex  : 53 Y / F
+UHID       : CDH1241970                     IP No.   : IP/26/407343
+DOA        : 24 Feb 2026                    DOD      : 04 Mar 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 38%
+
+BRIEF HISTORY:
+  - 53/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 80 kg to 75 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 2790 pg/ml | S. Cr 1.0 mg/dl | Na 138 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 38%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 76/min, SpO2 98% on RA. Dry weight 75 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine               | Dose     | Route | Frequency  | Duration    | Instructions |
++----+------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Tab. Frusemide (Lasix) | 40 mg    | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol        | 3.125 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 3  | Tab. Ramipril          | 2.5 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Aldactone         | 25 mg    | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin     | 10 mg    | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Aspirin           | 75 mg    | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin      | 40 mg    | PO    | HS (0-0-1) | Lifelong    |              |
++----+------------------------+----------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Voveran 50 mg (not safe with heart disease)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 14 Mar 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

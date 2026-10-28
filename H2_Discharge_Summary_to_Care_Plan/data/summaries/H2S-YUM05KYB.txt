@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Vijay Pillai    Age: 73 years    Sex: Male
+UHID: CDH8224951    IP Number: IP/26/720449
+Date of admission: 21 Mar 2026    Date of discharge: 29 Mar 2026
+Under the care of: Dr. Kavita Deshmukh, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+HISTORY:
+  - 73/M, chronic smoker (34 pack-yrs), k/c/o COPD x 3 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.33, pCO2 50 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 13,500/cumm; RBS 181 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 3. BP 120/74 mmHg, PR 71/min, SpO2 92% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium (Tiova) 18 mcg 1 rotacap once daily in the morning to continue lifelong (via rotahaler)
+2. Inhaler Budesonide + Formoterol (6/400 mcg) 1 puff twice daily lifelong (with spacer; rinse mouth after use)
+3. Inhaler Asthalin 2 puffs only if needed (SOS) for wheeze or breathlessness (max 8 puffs/day)
+4. Tablet Prednisolone (Wysolone) 40 mg once daily in the morning after breakfast for 5 days
+5. Tablet Amoxicillin-Clavulanate 625 mg twice daily after food for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed lip breathing + daily walk as tolerated
+  Other instructions:
+    - Inhaler technique demonstrated - use with spacer
+    - Flu + pneumococcal vaccine advised
+    - Stop smoking and all forms of tobacco
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Chest OPD on 13 Apr 2026.
+  - PFT / spirometry in Chest OPD on 04 May 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Kavita Deshmukh (Consultant)

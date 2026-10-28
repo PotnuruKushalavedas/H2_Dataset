@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Hemant Tiwari    Age: 57 years    Sex: Male
+UHID: CDH1020356    IP Number: IP/26/914199
+Date of admission: 05 Mar 2026    Date of discharge: 10 Mar 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 57/M, k/c/o T2DM x 9 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.6%) with weight loss and fatigue. No ketosis.
+
+COURSE IN THE HOSPITAL:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 10.6%; FBS 258 mg/dl; PPBS 336 mg/dl; S. Cr 0.9 mg/dl; Urine microalbumin 103 mg/g; Fundus: no DR
+
+CONDITION AT THE TIME OF DISCHARGE: Stable. BP 120/76 mmHg, PR 86/min, SpO2 96% on RA. Pre-meal sugars 147-179 mg/dl.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Human Premix Insulin 30/70 14 U before breakfast, 6 U before dinner SC ½ hr before breakfast & dinner till the next review
+2. Tablet Metformin 500 mg twice daily PC to continue lifelong
+3. Tablet Amlodipine 5 mg once daily in the morning to continue lifelong
+
+PLEASE STOP:
+  - Tab. Amaryl 2 mg (since started on insulin)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Carry glucose / sugar at all times
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+REVIEW:
+  - Review with SMBG chart in DM clinic, Medicine OPD on 20 Mar 2026.
+  - HbA1c and review in DM clinic, Medicine OPD on 02 Jun 2026 (Tue). Please bring: S. Creatinine.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

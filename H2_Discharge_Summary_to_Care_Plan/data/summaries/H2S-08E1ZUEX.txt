@@ -1,0 +1,45 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Jyoti Yadav | 66 Y/F | UHID CDH3244301 | IP IP/26/605223
+DOA - 30-04-2026 | DOD - 03-05-2026 | Consultant - Dr. Meenakshi Rao, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 66/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 147/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 74/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 54% | S. Cr 0.6 mg/dl | Hb 13.3 g/dl | TSH 3.9 mIU/L | Weight 60 kg | CrCl (Cockcroft-Gault) 87 ml/min | CHA2DS2-VASc score 3
+
+Status at discharge - Stable, rate controlled. BP 110/78 mmHg, PR 84/min, SpO2 98% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Digoxin 0.25 mg PO OD till review
+• Tab. Apixaban 5 mg PO BD life long
+• Tab. Telma 40 mg PO OD lifelong
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Do not take painkillers from the chemist without doctor's advice
+    • Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Report immediately to Casualty in case of -
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Sudden weakness of face / arm / leg or slurring of speech
+  • Palpitations - fast / irregular heart beat
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • Review with reports - Cardiology OPD on 18-05-2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

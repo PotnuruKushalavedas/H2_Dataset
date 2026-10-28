@@ -1,0 +1,48 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Savita Kulkarni, 51/F  UHID: CDH4115704  IP: IP/26/744665
+DOA: 11-Apr-26  DOD: 17-Apr-26  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+- Systemic hypertension
+
+H/o: 51/F, h/o long-term chulha smoke exposure, k/c/o COPD x 10 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 2 days. Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.31, pCO2 51 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 15,300/cumm, RBS 126 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 3. BP 114/78 mmHg, PR 78/min, SpO2 92% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 cap OD life long (via rotahaler)
+2) MDI Foracort 200 2 puffs BD life long (with spacer; rinse mouth after use)
+3) MDI Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (not more than 8 puffs in 24 h)
+4) T. Wysolone 40 mg OD after breakfast x 5/7
+5) C. Biodoxi 100 mg BD after food x 5/7
+6) T. Pan 40 OD 30 min before breakfast x 5/7
+7) T. Repace 50 mg OD lifelong
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed-lip breathing and daily walking as tolerated
+  - No exposure to biomass (chulha) smoke / dust
+  Others:
+  - Inhaler technique taught; to use with spacer
+  - Flu + pneumococcal vaccine advised
+
+Review SOS if:
+- Breathlessness or difficulty in breathing
+- Wheeze / breathlessness not settling with reliever inhaler
+- Bluish lips / fingertips, drowsiness or confusion
+- Fever above 100.4 F (38 C)
+- Increased sputum / sputum turning yellow or green
+
+F/U:
+- Pulmonary Medicine (Chest) OPD on 27-Apr-26 - Review with reports
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Kavita Deshmukh (Consultant)

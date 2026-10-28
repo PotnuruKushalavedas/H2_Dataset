@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Poonam Mishra
+Age / Sex    : 73 yrs / Female
+UHID         : CDH1680392      IP No: IP/26/735581
+Admitted on  : 06/07/2026      Discharged on: 13/07/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+  * Primary open-angle glaucoma
+
+Brief History:
+  * 73/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 18,200/cumm; CRP 174 mg/L; CXR: consolidation left lower lobe; S. Cr 1.5 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 118/70 mmHg, PR 82/min, SpO2 98% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 PC x 5 days
+- Tab. Dolo 650 mg SOS for pain (max 4 doses/day)
+- E/D Timolol 0.5% 1 drop 1-0-1 lifelong (both eyes)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises 10 times every hour while awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 23/07/2026 (Thu); bring reports: CBC
+  * Repeat chest X-ray - Chest OPD on 24/08/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Farah Siddiqui (Consultant)

@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Usha Nair, 45/F  UHID: CDH1773314  IP: IP/26/893751
+DOA: 07/02/2026  DOD: 12/02/2026  Cons: Dr. Anil Bhosale (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+H/o: 45/F, k/c/o T2DM x 15 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.2%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 11.2%, FBS 236 mg/dl, PPBS 349 mg/dl, S. Cr 0.6 mg/dl, Urine microalbumin 67 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 124/72 mmHg, PR 83/min, SpO2 99% on RA. Pre-meal sugars 133-190 mg/dl.
+
+Rx on discharge:
+1) Inj. Lantus 14 U SC OD at 10 PM till next review
+2) T. Glycomet 500 BD after food life long
+3) T. Januvia 100 mg OD till next review
+4) T. Storvas 10 HS life long
+
+STOP Tab. Amaryl 2 mg (hypoglycaemia risk)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Always carry sugar or glucose with you
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 23/02/2026 - Review with SMBG chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Anil Bhosale (Consultant)

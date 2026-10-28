@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Farhan Patel
+Age / Sex    : 46 yrs / Male
+UHID         : CDH2040984      IP No: IP/26/917323
+Admitted on  : 29/08/2026      Discharged on: 30/08/2026
+Consultant   : Dr. Sunita Patil, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Left inguinal hernia (direct, reducible)
+  * s/p Lichtenstein tension-free mesh hernioplasty (29/08/2026)
+  * Systemic hypertension
+
+Brief History:
+  * 46/M, c/o swelling in left groin x 24 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Lichtenstein tension-free mesh hernioplasty under SA on 29/08/2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Lichtenstein tension-free mesh hernioplasty under SA (29/08/2026)
+
+Investigations:
+  * Hb 13.0 g/dl; RBS 96 mg/dl; S. Cr 1.1 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 126/70 mmHg, PR 82/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg 1-1-1 after food x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Syp. Lactulose 15 ml 0-0-1 (HS) x 7 days
+To continue other previous medicines for HTN as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * High fibre diet + plenty of fluids (avoid constipation)
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep the wound clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Scrotal swelling / severe scrotal pain
+  * Inability to pass urine
+  * Bleeding from wound / dressing soakage
+
+Follow-up:
+  * Removal of sutures - General Surgery OPD on 07/09/2026 (POD 9)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Sunita Patil (Consultant)

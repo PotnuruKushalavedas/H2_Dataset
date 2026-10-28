@@ -1,0 +1,73 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mahesh Das                     Age/Sex  : 50 Y / M
+UHID       : CDH5269614                     IP No.   : IP/26/186795
+DOA        : 21/03/2026                     DOD      : 25/03/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 50/M, presented with retrosternal chest pain with sweating x 6 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 22/03/2026: CAG showed 97% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (22/03/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.4 g/dl | S. Cr 1.1 mg/dl | K 4.0 mEq/L | LDL 160 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 39%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 126/76 mmHg, PR 74/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| No | Medicine                       | Dose   | Route | Frequency  | Duration    | Instructions                                                                   |
++----+--------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)        | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch                                                                    |
+| 2  | Tab. Ticagrelor (Brilinta)     | 90 mg  | PO    | BD (1-0-1) | 12 months   |                                                                                |
+| 3  | Tab. Atorvastatin (Storvas)    | 80 mg  | PO    | HS (0-0-1) | Lifelong    |                                                                                |
+| 4  | Tab. Metoprolol Succinate      | 50 mg  | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 5  | Tab. Telmisartan (Telma)       | 40 mg  | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 6  | Tab. Pantoprazole (Pantocid)   | 40 mg  | PO    | OD (1-0-0) | Till review | 30 min before breakfast                                                        |
+| 7  | Tab. Isosorbide Dinitrate      | 5 mg   | SL    | SOS        | -           | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Aldactone                 | 25 mg  | PO    | OD (1-0-0) | Till review |                                                                                |
+| 9  | Tab. Forxiga                   | 10 mg  | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 10 | Tab. Levothyroxine (Thyronorm) | 75 mcg | PO    | OD (1-0-0) | Lifelong    | on empty stomach                                                               |
++----+--------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Clopidogrel 75 mg (switched to Ticagrelor)
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 04/04/2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

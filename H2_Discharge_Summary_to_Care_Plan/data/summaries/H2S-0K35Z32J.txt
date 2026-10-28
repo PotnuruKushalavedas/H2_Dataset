@@ -1,0 +1,49 @@
+CDH / General Medicine / DISCHARGE SUMMARY
+Name - Sneha Meena | 26 Y/F | UHID CDH2174087 | IP IP/26/444291
+DOA - 05/06/2026 | DOD - 11/06/2026 | Consultant - Dr. S. K. Mishra, Medicine Unit II
+
+Diagnosis -
+  • Diabetic ketoacidosis (moderate) - resolved
+  • Type 2 diabetes mellitus (ketosis-prone)
+  • Hypothyroidism
+
+Presenting complaints & history - 26/F, k/c/o T2DM x 5 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: missed medicines.
+
+Hospital course -
+  • Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 44 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations -
+  • Admission ABG: pH 7.13, HCO3 10 mEq/L | Urine ketones +++ | RBS at admission 511 mg/dl | HbA1c 10.6% | S. Cr 0.6 mg/dl | K 4.0 mEq/L (at discharge)
+
+Status at discharge - Conscious, oriented, tolerating diet. BP 126/70 mmHg, PR 70/min, SpO2 98% on RA. Ketones negative.
+
+ADV ON DISCHARGE -
+• Inj. Basalog 10 IU SC OD at 10 PM till review
+• Inj. Insulin Regular (Human) (Huminsulin R) 4 IU SC TDS 30 min before meals till review
+• Tab. Glyciphage 500 mg PO BD PC till next visit
+• Tab. Ondansetron (Ondem) 4 mg PO SOS for nausea or vomiting (max 3 doses/day)
+• Tab. Eltroxin 50 mcg PO OD on empty stomach lifelong
+
+Instructions -
+  Diet:
+    • Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    • Small, frequent meals - do not skip any meal
+    • Adequate oral fluids - 2 to 3 litres per day
+  Others:
+    • SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    • Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    • Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    • Carry glucose / sugar at all times
+
+Report immediately to Casualty in case of -
+  • Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  • Blood sugar above 300 mg/dl on two readings
+  • Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow up -
+  • S. Creatinine and electrolytes (Na, K) on 15/06/2026 at Central lab
+  • Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 18/06/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. S. K. Mishra (Consultant)

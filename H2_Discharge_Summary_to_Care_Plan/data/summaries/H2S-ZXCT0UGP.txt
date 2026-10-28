@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Anil Prajapati                 Age/Sex  : 74 Y / M
+UHID       : CDH8750541                     IP No.   : IP/26/934979
+DOA        : 20 Feb 2026                    DOD      : 25 Feb 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 25%
+
+BRIEF HISTORY:
+  - 74/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 73 kg to 68 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 9739 pg/ml | S. Cr 0.6 mg/dl | Na 139 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 25%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 76/min, SpO2 97% on RA. Dry weight 68 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------+---------+-------+------------+-------------+--------------+
+| No | Medicine                              | Dose    | Route | Frequency  | Duration    | Instructions |
++----+---------------------------------------+---------+-------+------------+-------------+--------------+
+| 1  | Tab. Frusemide                        | 40 mg   | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate             | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Enalapril                        | 2.5 mg  | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone (Aldactone) 25 mg | ½ tab   | PO    | OD (½-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin (Jardiance)        | 10 mg   | PO    | OD (1-0-0) | Lifelong    |              |
++----+---------------------------------------+---------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 05 Mar 2026 (Thu); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 26 May 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

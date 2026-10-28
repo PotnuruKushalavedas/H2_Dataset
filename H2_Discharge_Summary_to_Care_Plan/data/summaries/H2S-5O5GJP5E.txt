@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Abdul Murmu, 70/M  UHID: CDH1874110  IP: IP/26/525565
+DOA: 21-Aug-26  DOD: 29-Aug-26  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+
+H/o: 70/M, chronic smoker (45 pack-yrs), k/c/o COPD x 5 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.32, pCO2 56 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 14,300/cumm, RBS 177 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 2. BP 124/70 mmHg, PR 86/min, SpO2 94% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 rotacap OD life long (via rotahaler)
+2) MDI Foracort 200 2 puffs BD life long (via spacer; rinse mouth after use)
+3) MDI Asthalin 100 mcg 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+4) T. Prednisolone 40 mg OD after breakfast x 5/7
+5) T. Azee 500 mg OD x 3/7
+6) T. Pan 40 OD 30 min before breakfast x 5 days
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed lip breathing + daily walk as tolerated
+  Others:
+  - Inhaler technique demonstrated - use with spacer
+  - Flu + pneumococcal vaccine advised
+  - No smoking / no tobacco in any form
+
+Review SOS if:
+- Breathlessness or difficulty in breathing
+- Wheeze / breathlessness not settling with reliever inhaler
+- Bluish lips or fingertips, drowsiness or confusion
+- Fever above 100.4 F (38 C)
+- Increased sputum / sputum turning yellow or green
+
+F/U:
+- Chest OPD on 12-Sep-26 - Review with reports
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Kavita Deshmukh (Consultant)

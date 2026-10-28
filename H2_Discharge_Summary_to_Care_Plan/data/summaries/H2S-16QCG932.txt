@@ -1,0 +1,52 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Jagdish D'Souza                Age/Sex  : 73 Y / M
+UHID       : CDH8107984                     IP No.   : IP/26/952198
+DOA        : 06 Jul 2026                    DOD      : 13 Jul 2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+
+BRIEF HISTORY:
+  - 73/M, k/c/o T2DM x 6 yrs, stopped medicines 5 months ago, presented with polyuria, polydipsia, generalised weakness x 17 days. RBS 465 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 12.5% | FBS 308 mg/dl | PPBS 381 mg/dl | S. Cr 0.6 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.1 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/76 mmHg, PR 68/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+------------------+------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration         | Instructions                             |
++----+---------------------------+--------+-------+------------+------------------+------------------------------------------+
+| 1  | Tab. Metformin (Glycomet) | 500 mg | PO    | BD (1-0-1) | Lifelong         | PC                                       |
+| 2  | Tab. Vildagliptin         | 50 mg  | PO    | BD (1-0-1) | Till next review |                                          |
+| 3  | Tab. Paracetamol          | 650 mg | PO    | SOS        | -                | for fever; not more than 3 doses in 24 h |
++----+---------------------------+--------+-------+------------+------------------+------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 2 mg
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 27 Jul 2026; bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

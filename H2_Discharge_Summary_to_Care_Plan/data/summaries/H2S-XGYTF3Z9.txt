@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sneha Mukherjee                Age/Sex  : 76 Y / F
+UHID       : CDH5091007                     IP No.   : IP/26/122224
+DOA        : 31 May 2026                    DOD      : 04 Jun 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+  - 3. Hypothyroidism
+  - 4. Dyslipidaemia
+
+BRIEF HISTORY:
+  - 76/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 151/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 90/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 58% | S. Cr 0.9 mg/dl | Hb 13.2 g/dl | TSH 1.4 mIU/L | Weight 67 kg | CrCl (Cockcroft-Gault) 56 ml/min | CHA2DS2-VASc score 4
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 110/70 mmHg, PR 90/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+-------+-------+-------------+-------------+--------------+
+| No | Medicine                | Dose  | Route | Frequency   | Duration    | Instructions |
++----+-------------------------+-------+-------+-------------+-------------+--------------+
+| 1  | Tab. Diltiazem          | 30 mg | PO    | TDS (1-1-1) | Till review |              |
+| 2  | Tab. Apixaban (Eliquis) | 5 mg  | PO    | BD (1-0-1)  | Lifelong    |              |
+| 3  | Tab. Telmisartan        | 40 mg | PO    | OD (1-0-0)  | Lifelong    |              |
++----+-------------------------+-------+-------+-------------+-------------+--------------+
+  To continue other previous medicines for hypothyroidism and dyslipidaemia as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 18 Jun 2026 (Thu); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

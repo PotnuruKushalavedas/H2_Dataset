@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bindu Kamble                   Age/Sex  : 41 Y / F
+UHID       : CDH1706507                     IP No.   : IP/26/814231
+DOA        : 02/02/2026                     DOD      : 07/02/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 41/F, k/c/o T2DM x 1 yr on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 43 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.13, HCO3 12 mEq/L | Urine ketones +++ | RBS at admission 261 mg/dl | HbA1c 11.5% | S. Cr 0.9 mg/dl | K 4.1 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 126/78 mmHg, PR 72/min, SpO2 99% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+---------+-------+-------------+------------------+----------------------------------------+
+| No | Medicine                     | Dose    | Route | Frequency   | Duration         | Instructions                           |
++----+------------------------------+---------+-------+-------------+------------------+----------------------------------------+
+| 1  | Inj. Insulin Glargine        | 16 U    | SC    | OD (0-0-1)  | Till review      | at 10 pm daily                         |
+| 2  | Inj. Insulin Regular (Human) | 6 U     | SC    | TDS (1-1-1) | Till review      | ½ hr before meals                      |
+| 3  | Tab. Metformin               | 500 mg  | PO    | BD (1-0-1)  | Till next review | after food                             |
+| 4  | Tab. Ondem                   | 4 mg    | PO    | SOS         | -                | for nausea / vomiting; max 3 doses/day |
+| 5  | Tab. Levothyroxine           | 100 mcg | PO    | OD (1-0-0)  | Lifelong         | on empty stomach                       |
++----+------------------------------+---------+-------+-------------+------------------+----------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Empagliflozin 10 mg (risk of ketoacidosis - do not restart)
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+    - Oral fluids 2-3 L/day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+FOLLOW-UP:
+  - Review with sugar chart - DM clinic, Medicine OPD on 12/02/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. R. Venkatesh (Consultant)

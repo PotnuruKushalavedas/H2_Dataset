@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ravi Rao                       Age/Sex  : 60 Y / M
+UHID       : CDH1821153                     IP No.   : IP/26/659731
+DOA        : 13/07/2026                     DOD      : 18/07/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 35%
+
+BRIEF HISTORY:
+  - 60/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 67 kg to 61 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 2836 pg/ml | S. Cr 0.7 mg/dl | Na 135 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 35%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 84/min, SpO2 97% on RA. Dry weight 61 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                        | Dose   | Route | Frequency  | Duration    | Instructions |
++----+---------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide                 | 40 mg  | PO    | BD (1-1-0) | Till review |              |
+| 2  | Tab. Bisoprolol                 | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Ramipril                   | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Spironolactone (Aldactone) | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin (Jardiance)  | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Aspirin                    | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin               | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+---------------------------------+--------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 25/07/2026 (Sat); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 16/10/2026 (Fri)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

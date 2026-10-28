@@ -1,0 +1,49 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ramesh Khan                    Age/Sex  : 51 Y / M
+UHID       : CDH3337611                     IP No.   : IP/26/797461
+DOA        : 11/09/2026                     DOD      : 18/09/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+
+BRIEF HISTORY:
+  - 51/M, k/c/o T2DM x 8 yrs, stopped medicines 6 months ago, presented with polyuria, polydipsia, generalised weakness x 19 days. RBS 419 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.1% | FBS 250 mg/dl | PPBS 338 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 13.4 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 120/80 mmHg, PR 88/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine         | Dose   | Route | Frequency  | Duration    | Instructions |
++----+------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Metformin   | 500 mg | PO    | BD (1-0-1) | Lifelong    | after food   |
+| 2  | Tab. Sitagliptin | 100 mg | PO    | OD (1-0-0) | Till review |              |
++----+------------------+--------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - DM clinic, Medicine OPD on 03/10/2026; bring reports: FBS, PPBS
+  - Review with HbA1c - DM clinic, Medicine OPD on 11/12/2026 (Fri)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

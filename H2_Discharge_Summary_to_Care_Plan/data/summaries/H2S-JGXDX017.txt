@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Priya Bora
+Age / Sex    : 56 yrs / Female
+UHID         : CDH7586341      IP No: IP/26/752053
+Admitted on  : 26/03/2026      Discharged on: 03/04/2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute exacerbation of COPD (infective)
+
+Brief History:
+  * 56/F, h/o long-term chulha smoke exposure, k/c/o COPD x 5 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations:
+  * ABG at admission: pH 7.31, pCO2 49 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 12,100/cumm; RBS 173 mg/dl; ECG: sinus rhythm
+
+Condition at Discharge: Breathlessness mMRC grade 2. BP 130/76 mmHg, PR 73/min, SpO2 94% on RA.
+
+Medications at Discharge:
+- Rotacap Tiotropium 18 mcg 1 rotacap 1-0-0 lifelong (via rotahaler)
+- Inh. Budesonide + Formoterol (6/400 mcg) 1 puff 1-0-1 long term (lifelong) (with spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (max 8 puffs/day)
+- Tab. Prednisolone 40 mg 1-0-0 after breakfast x 5 days
+- Tab. Augmentin 625 mg 1-0-1 after food x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Pursed lip breathing + daily walk as tolerated
+    * No exposure to biomass (chulha) smoke / dust
+  General:
+    * Inhaler technique demonstrated - use with spacer
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Breathlessness or difficulty in breathing
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Fever above 100.4 F (38 C)
+  * Increased sputum / sputum turning yellow or green
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 13/04/2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. T. Raghavan (Consultant)

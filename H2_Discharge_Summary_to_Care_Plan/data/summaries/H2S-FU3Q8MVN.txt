@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Arjun Thakur                   Age/Sex  : 78 Y / M
+UHID       : CDH7953122                     IP No.   : IP/26/927676
+DOA        : 01 Apr 2026                    DOD      : 05 Apr 2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+
+BRIEF HISTORY:
+  - 78/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 4 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 13,200/cumm | CRP 100 mg/L | CXR: consolidation left lower lobe | S. Cr 0.7 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 118/80 mmHg, PR 66/min, SpO2 97% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------+--------+-------+------------+----------+---------------------------+
+| No | Medicine                              | Dose   | Route | Frequency  | Duration | Instructions              |
++----+---------------------------------------+--------+-------+------------+----------+---------------------------+
+| 1  | Tab. Amoxicillin-Clavulanate (Clavam) | 625 mg | PO    | BD (1-0-1) | 5 days   | after food                |
+| 2  | Tab. Paracetamol                      | 650 mg | PO    | SOS        | -        | for pain; max 4 doses/day |
++----+---------------------------------------+--------+-------+------------+----------+---------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other:
+    - Influenza and pneumococcal vaccination advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain, heaviness or sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 13 Apr 2026; bring reports: CBC
+  - Repeat chest X-ray - Chest OPD on 18 May 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. R. Venkatesh (Consultant)

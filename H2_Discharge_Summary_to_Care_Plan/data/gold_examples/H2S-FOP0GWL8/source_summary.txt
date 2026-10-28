@@ -1,0 +1,60 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Rekha Gaikwad    Age: 50 years    Sex: Female
+UHID: CDH4029211    IP Number: IP/26/264816
+Date of admission: 04 Feb 2026    Date of discharge: 09 Feb 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 22%
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 50/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5 L; weight down from 54 kg to 49 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 6201 pg/ml; S. Cr 0.8 mg/dl; Na 133 mEq/L; K 3.8 mEq/L; 2D Echo: LVEF 22%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 77/min, SpO2 98% on RA. Dry weight 49 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Dytor 10 mg once daily in the morning until the next visit
+2. Tablet Carvedilol 6.25 mg half tablet twice daily to continue lifelong
+3. Tablet Sacubitril + Valsartan (24/26 mg) 50 mg twice daily lifelong
+4. Tablet Spironolactone 25 mg once daily in the morning to continue lifelong
+5. Tablet Empagliflozin 10 mg once daily in the morning to continue lifelong
+6. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch to continue lifelong
+7. Tablet Atorvastatin (Atorva) 40 mg once daily at bedtime to continue lifelong
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Heart Failure Clinic, Cardiology OPD on 16 Feb 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - Repeat 2D Echo and review in Cardiology OPD on 11 May 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

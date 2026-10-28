@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nasreen Kamble                 Age/Sex  : 67 Y / F
+UHID       : CDH6307797                     IP No.   : IP/26/781536
+DOA        : 06 Jul 2026                    DOD      : 12 Jul 2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+BRIEF HISTORY:
+  - 67/F, k/c/o T2DM x 15 yrs, presented with swelling, redness and pain over left foot x 8 days following a minor injury. RBS 394 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.5% | FBS 255 mg/dl | PPBS 303 mg/dl | S. Cr 0.6 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.6 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 120/78 mmHg, PR 73/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+--------+-------+-------------+------------------+-----------------------+
+| No | Medicine                     | Dose   | Route | Frequency   | Duration         | Instructions          |
++----+------------------------------+--------+-------+-------------+------------------+-----------------------+
+| 1  | Tab. Metformin (Glycomet)    | 500 mg | PO    | BD (1-0-1)  | Till next review | after food            |
+| 2  | Tab. Glimepiride             | 1 mg   | PO    | OD (1-0-0)  | Till review      | ½ hr before breakfast |
+| 3  | Tab. Amoxicillin-Clavulanate | 625 mg | PO    | TDS (1-1-1) | 5 days           | PC                    |
+| 4  | Tab. Atorvastatin            | 10 mg  | PO    | HS (0-0-1)  | Lifelong         |                       |
++----+------------------------------+--------+-------+-------------+------------------+-----------------------+
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Diabetes Clinic (Medicine OPD) on 20 Jul 2026 (Mon); bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

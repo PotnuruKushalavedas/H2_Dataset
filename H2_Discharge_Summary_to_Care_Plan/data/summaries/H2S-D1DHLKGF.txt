@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Fatima Gaikwad, 52/F  UHID: CDH8871519  IP: IP/26/581980
+DOA: 20/07/2026  DOD: 27/07/2026  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+
+H/o: 52/F, h/o long-term chulha smoke exposure, k/c/o COPD x 5 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.35, pCO2 61 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 13,500/cumm, RBS 156 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 2. BP 130/80 mmHg, PR 72/min, SpO2 91% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 rotacap OD lifelong (via rotahaler)
+2) MDI Budesonide + Formoterol (6/200 mcg) 2 puffs BD lifelong (via spacer; rinse mouth after use)
+3) MDI Asthalin 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+4) T. Omnacortil 40 mg OD x 3/7 then 30 mg OD x 3 days then 20 mg OD x 3 days then 10 mg OD x 3 days then stop (after breakfast)
+5) C. Biodoxi 100 mg BD after food x 5/7
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed lip breathing + daily walk as tolerated
+  - No exposure to biomass (chulha) smoke / dust
+  Others:
+  - Inhaler technique taught; to use with spacer
+  - Flu + pneumococcal vaccine advised
+
+Review SOS if:
+- Breathlessness or difficulty in breathing
+- Wheeze or breathlessness not relieved by the reliever inhaler
+- Bluish lips or fingertips, drowsiness or confusion
+- Fever above 100.4 F (38 C)
+- Increase in sputum quantity or change to yellow/green colour
+
+F/U:
+- Chest OPD on 06/08/2026 (Thu) - Review with reports
+- Chest OPD on 07/09/2026 - PFT / spirometry
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

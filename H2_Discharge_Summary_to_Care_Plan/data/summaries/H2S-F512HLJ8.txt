@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Anil Fernandes
+Age / Sex    : 47 yrs / Male
+UHID         : CDH7099862      IP No: IP/26/777215
+Admitted on  : 02/06/2026      Discharged on: 04/06/2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Left inguinal hernia (direct, reducible)
+  * s/p Lichtenstein tension-free mesh hernioplasty (02/06/2026)
+
+Brief History:
+  * 47/M, c/o swelling in left groin x 26 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Lichtenstein tension-free mesh hernioplasty under SA on 02/06/2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Lichtenstein tension-free mesh hernioplasty under SA (02/06/2026)
+
+Investigations:
+  * Hb 12.5 g/dl; RBS 102 mg/dl; S. Cr 1.1 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 126/70 mmHg, PR 80/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 500 mg 1-1-1 after food x 3 days
+- Tab. Ibuprofen 400 mg 1-1-1 after food x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * High-fibre diet with plenty of oral fluids to avoid constipation
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Swelling or severe pain in the scrotum
+  * Inability to pass urine
+  * Bleeding from wound / dressing soakage
+
+Follow-up:
+  * Suture removal - Surgery OPD on 12/06/2026 (POD 10)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Vivek Rathore (Consultant)

@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Salim Joseph
+Age / Sex    : 67 yrs / Male
+UHID         : CDH3739852      IP No: IP/26/547817
+Admitted on  : 23/02/2026      Discharged on: 03/03/2026
+Consultant   : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute exacerbation of COPD (infective)
+
+Brief History:
+  * 67/M, chronic smoker (22 pack-yrs), k/c/o COPD x 11 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations:
+  * ABG at admission: pH 7.32, pCO2 57 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 14,300/cumm; RBS 143 mg/dl; ECG: sinus rhythm
+
+Condition at Discharge: Breathlessness mMRC grade 2. BP 130/72 mmHg, PR 74/min, SpO2 92% on RA.
+
+Medications at Discharge:
+- Rotacap Tiotropium 18 mcg 1 cap 1-0-0 long term (lifelong) (with rotahaler device)
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 lifelong (via spacer; rinse mouth after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (not more than 8 puffs in 24 h)
+- Tab. Prednisolone 40 mg 1-0-0 x 5 days, then 30 mg 1-0-0 x 3 days, then 20 mg 1-0-0 x 3 days, then 10 mg 1-0-0 x 3 days, then stop (after breakfast)
+- Cap. Doxycycline 100 mg 1-0-1 after food x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Pursed-lip breathing and daily walking as tolerated
+  General:
+    * Inhaler technique demonstrated - use with spacer
+    * Flu + pneumococcal vaccine advised
+    * Stop smoking and all forms of tobacco
+
+Danger signs - report to Casualty immediately:
+  * Breathlessness / difficulty in breathing
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Fever > 100.4 F (38 C)
+  * Increase in sputum quantity or change to yellow/green colour
+
+Follow-up:
+  * Review with reports - Chest OPD on 13/03/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Kavita Deshmukh (Consultant)

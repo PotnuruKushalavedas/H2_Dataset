@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Shankar Krishnan
+Age / Sex    : 53 yrs / Male
+UHID         : CDH6769812      IP No: IP/26/265513
+Admitted on  : 24.06.2026      Discharged on: 28.06.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 53/M, k/c/o T2DM x 6 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: missed medicines.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 47 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.19, HCO3 12 mEq/L; Urine ketones +++; RBS at admission 496 mg/dl; HbA1c 13.2%; S. Cr 0.8 mg/dl; K 4.2 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 114/80 mmHg, PR 86/min, SpO2 98% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 16 IU SC 0-0-1 (HS) till next review
+- Inj. Insulin Regular (Human) 6 IU SC 1-1-1 ½ hr before meals till review
+- Tab. Metformin 500 mg 1-0-1 PC till review
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+    * Oral fluids 2-3 L/day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Sugar > 300 mg/dl on 2 readings
+  * Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow-up:
+  * Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 06.07.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

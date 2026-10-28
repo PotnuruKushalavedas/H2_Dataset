@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Mahesh Thomas    Age: 62 years    Sex: Male
+UHID: CDH6773915    IP Number: IP/26/506694
+Date of admission: 05 Feb 2026    Date of discharge: 10 Feb 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis right foot
+
+HISTORY:
+  - 62/M, k/c/o T2DM x 15 yrs, presented with swelling, redness and pain over right foot x 5 days following a minor injury. RBS 377 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.3%; FBS 290 mg/dl; PPBS 356 mg/dl; S. Cr 1.0 mg/dl; Urine routine: sugar ++, ketones nil; Hb 14.4 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 118/74 mmHg, PR 80/min, SpO2 98% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 1000 mg twice daily after food lifelong
+2. Tablet Glimepiride 2 mg once daily in the morning ½ hr before breakfast until the next visit
+3. Tablet Amoxicillin-Clavulanate 625 mg three times daily PC for 5 days
+4. Tablet Atorvastatin 10 mg once daily at bedtime lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Carry glucose / sugar at all times
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+REVIEW:
+  - Review with reports in DM clinic, Medicine OPD on 17 Feb 2026. Please bring: FBS, PPBS.
+  - HbA1c and review in Diabetes Clinic (Medicine OPD) on 11 May 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. R. Venkatesh (Consultant)

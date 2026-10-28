@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Shankar Fernandes    Age: 79 years    Sex: Male
+UHID: CDH9354944    IP Number: IP/26/296268
+Date of admission: 02 Aug 2026    Date of discharge: 11 Aug 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 28%
+
+HISTORY:
+  - 79/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 79 kg to 75 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 4872 pg/ml; S. Cr 0.9 mg/dl; Na 140 mEq/L; K 4.5 mEq/L; 2D Echo: LVEF 28%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 74/min, SpO2 98% on RA. Dry weight 75 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide (Lasix) 40 mg once daily in the morning till the next review
+2. Tablet Carvedilol 3.125 mg twice daily to continue lifelong
+3. Tablet Ramipril (Cardace) 2.5 mg once daily in the morning to continue lifelong
+4. Tablet Spironolactone (Aldactone) 25 mg half tablet once daily to continue lifelong
+5. Tablet Dapagliflozin 10 mg once daily in the morning to continue lifelong
+6. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch lifelong
+7. Tablet Atorvastatin (Atorva) 40 mg once daily at bedtime to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 21 Aug 2026 (Fri). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

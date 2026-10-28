@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Manoj Shetty    Age: 82 years    Sex: Male
+UHID: CDH6759101    IP Number: IP/26/631799
+Date of admission: 24 Feb 2026    Date of discharge: 01 Mar 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. BPH
+
+HISTORY:
+  - 82/M, chronic smoker (21 pack-yrs), k/c/o COPD x 7 yrs, presented with increased breathlessness, cough with purulent sputum x 7 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 1 day. Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.35, pCO2 54 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 14,300/cumm; RBS 155 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 3. BP 120/76 mmHg, PR 69/min, SpO2 92% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium (Tiova) 18 mcg 1 rotacap once daily in the morning to continue lifelong (with rotahaler device)
+2. Inhaler Budesonide + Formoterol (6/200 mcg) 2 puffs twice daily lifelong (with spacer; rinse mouth after use)
+3. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for wheeze or breathlessness (not more than 8 puffs in 24 h)
+4. Tablet Prednisolone (Wysolone) 40 mg once daily in the morning for 3 days, then 30 mg once daily in the morning for 3 days, then 20 mg once daily in the morning for 3 days, then 10 mg once daily in the morning for 3 days, then stop (after breakfast)
+5. Tablet Azithromycin 500 mg once daily in the morning for 3 days
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 14 days
+To continue other previous medicines for BPH as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed-lip breathing and daily walking as tolerated
+  Other instructions:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 11 Mar 2026 (Wed).
+  - PFT / spirometry in Chest OPD on 13 Apr 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

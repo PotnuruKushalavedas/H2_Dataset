@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Savita Maurya    Age: 58 years    Sex: Female
+UHID: CDH9956793    IP Number: IP/26/231126
+Date of admission: 15 Jan 2026    Date of discharge: 21 Jan 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 32%
+
+HISTORY:
+  - 58/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 68 kg to 64 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 9227 pg/ml; S. Cr 0.8 mg/dl; Na 133 mEq/L; K 4.1 mEq/L; 2D Echo: LVEF 32%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 78/min, SpO2 96% on RA. Dry weight 64 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide 40 mg once daily in the morning until the next visit
+2. Tablet Carvedilol (Cardivas) 6.25 mg half tablet twice daily to continue lifelong
+3. Tablet Ramipril 2.5 mg once daily in the morning lifelong
+4. Tablet Spironolactone 25 mg once daily in the morning lifelong
+5. Tablet Empagliflozin 10 mg once daily in the morning lifelong
+
+PLEASE STOP:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 28 Jan 2026 (Wed). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

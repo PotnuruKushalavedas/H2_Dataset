@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rukhsana Verma                 Age/Sex  : 61 Y / F
+UHID       : CDH8671160                     IP No.   : IP/26/783001
+DOA        : 12 May 2026                    DOD      : 20 May 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 37%
+
+BRIEF HISTORY:
+  - 61/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 47 kg to 44 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 4910 pg/ml | S. Cr 1.0 mg/dl | Na 134 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 37%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 70/min, SpO2 99% on RA. Dry weight 44 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine                               | Dose    | Route | Frequency  | Duration         | Instructions |
++----+----------------------------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Torsemide                         | 10 mg   | PO    | OD (1-0-0) | Till next review |              |
+| 2  | Tab. Metoprolol Succinate ER           | 12.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong         |              |
+| 4  | Tab. Spironolactone (Aldactone) 25 mg  | ½ tab   | PO    | OD (½-0-0) | Lifelong         |              |
+| 5  | Tab. Empagliflozin (Jardiance)         | 10 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 6  | Tab. Ecosprin                          | 75 mg   | PO    | OD (0-1-0) | Lifelong         | after lunch  |
+| 7  | Tab. Atorvastatin (Storvas)            | 40 mg   | PO    | HS (0-0-1) | Lifelong         |              |
++----+----------------------------------------+---------+-------+------------+------------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 30 May 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Prakash Nair (Consultant)

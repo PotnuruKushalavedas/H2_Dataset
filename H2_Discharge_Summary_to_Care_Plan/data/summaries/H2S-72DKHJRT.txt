@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Joseph Pawar                   Age/Sex  : 24 Y / M
+UHID       : CDH5116800                     IP No.   : IP/26/887731
+DOA        : 15/08/2026                     DOD      : 18/08/2026
+Consultant : Dr. N. Chakraborty, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute appendicitis
+  - 2. s/p Open appendicectomy (15/08/2026)
+
+BRIEF HISTORY:
+  - 24/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+HOSPITAL COURSE:
+  - Emergency open appendicectomy under GA on 15/08/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+PROCEDURE(S) DONE:
+  - Open appendicectomy under GA (15/08/2026)
+
+KEY INVESTIGATIONS:
+  - TLC 16,500/cumm | CRP 132 mg/L | HPE: awaited | Hb 14.9 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 120/76 mmHg, PR 68/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+-------------+----------+-----------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency   | Duration | Instructions                      |
++----+---------------------------+--------+-------+-------------+----------+-----------------------------------+
+| 1  | Tab. Cefuroxime           | 500 mg | PO    | BD (1-0-1)  | 5 days   | after food                        |
+| 2  | Tab. Flagyl               | 400 mg | PO    | TDS (1-1-1) | 5 days   | after food; avoid alcohol         |
+| 3  | Tab. Paracetamol (Calpol) | 500 mg | PO    | SOS         | -        | for fever / pain; max 4 doses/day |
+| 4  | Tab. Rabeprazole          | 20 mg  | PO    | OD (1-0-0)  | 5 days   | 30 min before breakfast           |
++----+---------------------------+--------+-------+-------------+----------+-----------------------------------+
+
+ADVICE:
+  Diet:
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+    - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    - Keep the wound clean and dry
+    - Bath allowed after 48 h - pat wound dry with clean cloth
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever > 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting / not able to take orally
+  - Abdominal distension, not passing stools / flatus
+
+FOLLOW-UP:
+  - Removal of sutures - General Surgery OPD on 22/08/2026 (POD 7)
+  - Review with HPE report - Surgery OPD on 29/08/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. N. Chakraborty (Consultant)

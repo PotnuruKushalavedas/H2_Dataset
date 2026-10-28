@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bhavana Deshpande              Age/Sex  : 24 Y / F
+UHID       : CDH5556919                     IP No.   : IP/26/702949
+DOA        : 19 Jun 2026                    DOD      : 22 Jun 2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Emergency LSCS for breech presentation in labour on 19 Jun 2026
+
+BRIEF HISTORY:
+  - 24/F, G2 at 38 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 19 Jun 2026 for breech presentation in labour. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby boy, 3.2 kg, APGAR 9/10. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (19 Jun 2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 11.7 g/dl | Blood group A +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 126/76 mmHg, PR 77/min, SpO2 98% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+| No | Medicine                                   | Dose   | Route | Frequency   | Duration | Instructions          |
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Amoxycillin + Clavulanic acid         | 625 mg | PO    | BD (1-0-1)  | 5 days   | after food            |
+| 2  | Tab. Paracetamol                           | 650 mg | PO    | TDS (1-1-1) | 5 days   | PC                    |
+| 3  | Tab. Pantoprazole (Pantocid)               | 40 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast |
+| 4  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner          |
+| 5  | Tab. Shelcal                               | 500 mg | PO    | BD (1-1-0)  | 6 months | PC                    |
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+  Wound care:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Baby's immunisation as per the card given
+    - Contraception to be discussed at postnatal visit; spacing of at least 2 years advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever > 100.4 F (38 C)
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Painful, red, hard swelling of the breast with fever
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Removal of sutures - Obstetrics & Gynaecology OPD on 27 Jun 2026 (Sat) (POD 8)
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 31 Jul 2026; bring reports: Hb
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Pooja Mehra (Consultant)

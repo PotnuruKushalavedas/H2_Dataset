@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ajay Sharma                    Age/Sex  : 74 Y / M
+UHID       : CDH8852778                     IP No.   : IP/26/833116
+DOA        : 22 Mar 2026                    DOD      : 25 Mar 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 74/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 170/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 88/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 51% | S. Cr 1.3 mg/dl | Hb 14.3 g/dl | TSH 1.1 mIU/L | Weight 86 kg | CrCl (Cockcroft-Gault) 60 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 126/78 mmHg, PR 86/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+----------+--------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration | Instructions |
++----+-----------------------------+--------+-------+------------+----------+--------------+
+| 1  | Tab. Bisoprolol (Concor)    | 5 mg   | PO    | OD (1-0-0) | Lifelong |              |
+| 2  | Tab. Apixaban               | 5 mg   | PO    | BD (1-0-1) | Lifelong |              |
+| 3  | Tab. Telma                  | 40 mg  | PO    | OD (1-0-0) | Lifelong |              |
+| 4  | Tab. Metformin (Glyciphage) | 500 mg | PO    | BD (1-0-1) | Lifelong | PC           |
++----+-----------------------------+--------+-------+------------+----------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 15 Apr 2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

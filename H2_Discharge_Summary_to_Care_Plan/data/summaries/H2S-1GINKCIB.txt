@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Ayesha Qureshi, 47/F  UHID: CDH9228851  IP: IP/26/489726
+DOA: 23-Mar-26  DOD: 28-Mar-26  Cons: Dr. R. Venkatesh (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Community-acquired pneumonia (right upper lobe) - CURB-65 score 1
+- Hypothyroidism
+
+H/o: 47/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+Course: Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Ix: TLC 19,400/cumm, CRP 136 mg/L, CXR: consolidation right upper lobe, S. Cr 0.6 mg/dl, Blood C/S: no growth
+
+Condn at d/c: Afebrile, comfortable. BP 118/78 mmHg, PR 76/min, SpO2 97% on RA. Chest: crepts reducing.
+
+Rx on discharge:
+1) T. Augmentin 625 mg BD PC x 5 days
+2) T. Dolo 650 mg SOS for fever or pain (not more than 4 doses in 24 h)
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+  - Deep breathing exercises - 10 breaths every hour when awake
+  - Gradually increase walking as tolerated
+  Others:
+  - Flu + pneumococcal vaccine advised
+
+Review SOS if:
+- Fever recurring, or persisting for more than 3 days after discharge
+- Breathlessness / difficulty in breathing
+- Chest pain, heaviness or sweating
+- Bluish lips / fingertips, drowsiness or confusion
+- Coughing up blood
+
+F/U:
+- Chest OPD on 07-Apr-26 - Review with reports with CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

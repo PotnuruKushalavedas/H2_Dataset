@@ -1,0 +1,47 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Tarun Krishnan, 53/M  UHID: CDH9280018  IP: IP/26/895906
+DOA: 10-Jul-26  DOD: 15-Jul-26  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+
+H/o: 53/M, chronic smoker (43 pack-yrs), k/c/o COPD x 5 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 2 days. Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.33, pCO2 57 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 15,100/cumm, RBS 123 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 2. BP 120/80 mmHg, PR 69/min, SpO2 93% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 cap OD lifelong (via rotahaler)
+2) MDI Foracort 400 1 puff BD lifelong (via spacer; gargle after use)
+3) MDI Asthalin 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+4) T. Omnacortil 40 mg OD x 5/7 then 30 mg OD x 3 days then 20 mg OD x 3/7 then 10 mg OD x 3/7 then stop (after breakfast)
+5) C. Biodoxi 100 mg BD after food x 5 days
+6) T. Pan 40 mg OD ½ hr before breakfast x 14 days
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed lip breathing + daily walk as tolerated
+  Others:
+  - Inhaler technique taught; to use with spacer
+  - Flu + pneumococcal vaccine advised
+  - No smoking / no tobacco in any form
+
+Review SOS if:
+- Breathlessness / difficulty in breathing
+- Wheeze / breathlessness not settling with reliever inhaler
+- Bluish lips or fingertips, drowsiness or confusion
+- Fever above 100.4 F (38 C)
+- Increase in sputum quantity or change to yellow/green colour
+
+F/U:
+- Pulmonary Medicine (Chest) OPD on 29-Jul-26 - Review with reports
+- Pulmonary Medicine (Chest) OPD on 19-Aug-26 - Spirometry (PFT)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

@@ -1,0 +1,66 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Arun Menon
+Age / Sex    : 58 yrs / Male
+UHID         : CDH5087877      IP No: IP/26/299530
+Admitted on  : 03.04.2026      Discharged on: 07.04.2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - NSTEMI
+  * CAD - SVD; s/p PCI with 1 DES to LAD
+
+Brief History:
+  * 58/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 2.2 ng/ml (raised).
+
+Course in Hospital:
+  * Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 04.04.2026: 87% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure:
+  * CAG + PCI with 1 DES to LAD (04.04.2026)
+
+Investigations:
+  * Hb 14.2 g/dl; S. Cr 0.8 mg/dl; K 4.7 mEq/L; LDL 122 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 39%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 124/72 mmHg, PR 66/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Ecosprin 75 mg 0-1-0 after lunch lifelong
+- Tab. Prasugrel 10 mg 1-0-0 x 12 months
+- Tab. Rosuvastatin 20 mg 0-0-1 (HS) lifelong
+- Tab. Metoprolol Succinate 25 mg 1-0-0 long term (lifelong)
+- Tab. Ramipril 2.5 mg 1-0-0 long term (lifelong)
+- Tab. Rablet 20 mg 1-0-0 30 min before breakfast x 3 months
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+- Tab. Aldactone 25 mg 1-0-0 till next review
+- Tab. Forxiga 10 mg 1-0-0 lifelong
+
+- STOP Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+Advice on Discharge:
+  Diet:
+    * Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * No driving for 1 week
+  General:
+    * No smoking / no tobacco in any form
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    * Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Danger signs - report to Casualty immediately:
+  * Chest pain not relieved after 3 SL tablets taken 5 min apart
+  * Breathlessness or difficulty in breathing
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 17.04.2026 (Fri); bring reports: ECG, S. Creatinine, S. Electrolytes
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

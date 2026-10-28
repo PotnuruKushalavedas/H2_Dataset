@@ -1,0 +1,64 @@
+{
+  "summary_id": "H2S-LKX6CK54",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Cefuroxime",
+        "dose": "500 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day, after food, for 5 days."
+      },
+      {
+        "name": "Paracetamol",
+        "dose": "500 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 1 tablet (500 mg) only when you have pain. Do not take more than 4 doses in a day."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Fever that comes back, or lasts more than 3 days after going home",
+      "Breathlessness or trouble breathing",
+      "Chest pain, heaviness in the chest, or sweating",
+      "Lips or fingertips turning blue, or feeling drowsy or confused",
+      "Coughing up blood"
+    ],
+    "diet": [
+      "Normal home food, as much as you can manage",
+      "Drink 2 to 3 litres of fluids a day"
+    ],
+    "activity": [
+      "Do deep-breathing exercises 10 times every hour while you are awake",
+      "Slowly increase your walking day by day, as much as you comfortably can"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-04-13",
+        "with_whom": "Medicine OPD",
+        "purpose": "Check-up with your test reports. Bring with you: your CBC (blood count) report",
+        "bring": [
+          "your CBC (blood count) report"
+        ]
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Get the flu vaccine and the pneumonia (pneumococcal) vaccine",
+      "Do not smoke, and do not use tobacco in any form"
+    ],
+    "continue_previous_medications": true
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Deepak Gupta    Age: 33 years\nWent home from hospital on: 2026-04-02 (2 April 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had pneumonia, an infection in the upper part of the right lung. It was treated with antibiotics.\n\nYOUR MEDICINES (take exactly as written)\n1. Cefuroxime 500 mg\n   - Take 1 tablet (500 mg) twice a day, after food, for 5 days.\n   - What it is for: antibiotic that kills the germs causing infection.\n2. Paracetamol 500 mg\n   - Take 1 tablet (500 mg) only when you have pain.\n   - Do not take more than 4 doses in a day.\n   - What it is for: relieves pain and fever.\n* Keep taking your earlier medicines for diabetes exactly as before (they are not listed here).\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Fever that comes back, or lasts more than 3 days after going home\n- Breathlessness or trouble breathing\n- Chest pain, heaviness in the chest, or sweating\n- Lips or fingertips turning blue, or feeling drowsy or confused\n- Coughing up blood\n\nFOOD\n- Normal home food, as much as you can manage\n- Drink 2 to 3 litres of fluids a day\n\nACTIVITY\n- Do deep-breathing exercises 10 times every hour while you are awake\n- Slowly increase your walking day by day, as much as you comfortably can\n\nOTHER ADVICE\n- Get the flu vaccine and the pneumonia (pneumococcal) vaccine\n- Do not smoke, and do not use tobacco in any form\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-04-13 (Monday, 13 April 2026): Medicine OPD. Check-up with your test reports. Bring with you: your CBC (blood count) report.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Deepak Gupta    उम्र: 33 साल\nअस्पताल से छुट्टी की तारीख़: 2026-04-02 (2 अप्रैल 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको निमोनिया था, यानी दाएँ फेफड़े के ऊपरी हिस्से में संक्रमण। इसका इलाज एंटीबायोटिक से हुआ।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Cefuroxime 500 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (500 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: संक्रमण (infection) फैलाने वाले कीटाणुओं को मारने वाली एंटीबायोटिक।\n2. Paracetamol 500 mg\n   - सिर्फ़ दर्द होने पर: 1 गोली (500 mg) लें।\n   - दिन भर में 4 बार से ज़्यादा न लें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n* डायबिटीज़ की अपनी पुरानी दवाइयाँ पहले की तरह ही लेना जारी रखें (वे यहाँ नहीं लिखी हैं)।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- घर जाने के बाद बुखार फिर से आना, या 3 दिन से ज़्यादा बना रहना\n- सांस फूलना या सांस लेने में तकलीफ़\n- सीने में दर्द, सीने में भारीपन, या पसीना आना\n- होंठ या उंगलियों के सिरे नीले पड़ना, या सुस्ती या सोचने-समझने में गड़बड़ी होना\n- खांसी में खून आना\n\nखाना\n- सामान्य घर का खाना खाएँ, जितना आराम से खा सकें\n- दिन में 2 से 3 लीटर पानी/पेय पिएँ\n\nचलना-फिरना और काम\n- जागते समय हर घंटे 10 बार गहरी सांस लेने की कसरत करें\n- धीरे-धीरे रोज़ थोड़ा ज़्यादा चलें, जितना आराम से चल सकें\n\nअन्य सलाह\n- फ़्लू का टीका और निमोनिया (pneumococcal) का टीका लगवाएँ\n- बीड़ी-सिगरेट न पिएँ, और किसी भी रूप में तंबाकू न लें\n\nअगली बार अस्पताल कब आना है\n- 2026-04-13 (सोमवार, 13 अप्रैल 2026): मेडिसिन ओपीडी (Medicine OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ। साथ लाएँ: CBC (खून की पूरी जाँच) की रिपोर्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 6.43
+  }
+}

@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Pradeep Reddy                  Age/Sex  : 75 Y / M
+UHID       : CDH4438002                     IP No.   : IP/26/286482
+DOA        : 20/03/2026                     DOD      : 27/03/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right lower lobe) - CURB-65 score 1
+
+BRIEF HISTORY:
+  - 75/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 14,800/cumm | CRP 140 mg/L | CXR: consolidation right lower lobe | S. Cr 1.1 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 114/80 mmHg, PR 80/min, SpO2 98% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+------------------+--------+-------+------------+----------+-------------------------------------------------+
+| No | Medicine         | Dose   | Route | Frequency  | Duration | Instructions                                    |
++----+------------------+--------+-------+------------+----------+-------------------------------------------------+
+| 1  | Tab. Cefuroxime  | 500 mg | PO    | BD (1-0-1) | 5 days   | after food                                      |
+| 2  | Tab. Paracetamol | 500 mg | PO    | SOS        | -        | for fever / pain; not more than 3 doses in 24 h |
++----+------------------+--------+-------+------------+----------+-------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other:
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Coughing up blood
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 06/04/2026; bring reports: CBC
+  - Repeat CXR - Pulmonary Medicine (Chest) OPD on 08/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

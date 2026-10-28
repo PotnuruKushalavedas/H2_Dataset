@@ -1,0 +1,61 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Komal Iyer
+Age / Sex    : 68 yrs / Female
+UHID         : CDH2591824      IP No: IP/26/809941
+Admitted on  : 19/09/2026      Discharged on: 25/09/2026
+Consultant   : Dr. Ravi Teja, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Primary osteoarthritis right knee (KL grade 4)
+  * s/p Right TKR (20/09/2026)
+
+Brief History:
+  * 68/F, c/o pain right knee x 5 yrs, difficulty in walking and climbing stairs, not relieved by conservative management.
+
+Course in Hospital:
+  * Underwent Right cemented TKR under spinal-epidural anaesthesia on 20/09/2026. Received Inj. Cefazolin periop. Mobilised with walker on POD 1; knee flexion 95 deg at discharge. Thromboprophylaxis started.
+
+Procedure:
+  * Right cemented total knee replacement (20/09/2026)
+
+Investigations:
+  * Hb (post-op) 10.7 g/dl; S. Cr 0.8 mg/dl; Weight 78 kg; Check X-ray: implant in good position; RBS 101 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, walking with walker. BP 126/74 mmHg, PR 81/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Rivaroxaban 10 mg 1-0-0 x 9 days
+- Tab. Paracetamol 650 mg 1-1-1 PC x 2 weeks
+- Cap. Tramadol (Contramal) 50 mg SOS for severe pain only (max 2 doses/day)
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 2 weeks
+- Tab. Calcium carbonate + Vit D3 500 mg 1-1-0 after food x 3 months
+- Sachet Cholecalciferol (Vit D3) 60000 IU once a week x 8 weeks (on the same day each week; with a glass of milk)
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Knee ROM + quadriceps exercises as taught by physio, 3-4 times/day
+    * Mobilise with walker - FWB as tolerated
+    * Avoid squatting and sitting cross-legged; use western toilet
+  Wound care:
+    * Keep the wound clean and dry
+    * Do not remove the dressing; it will be changed at review
+  General:
+    * Ice pack over the knee for 15-20 min, 3-4 times a day
+
+Danger signs - report to Casualty immediately:
+  * Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Removal of skin staples + wound inspection - Ortho OPD on 05/10/2026 (POD 15); bring reports: X-ray
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Ravi Teja (Consultant)

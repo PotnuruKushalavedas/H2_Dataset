@@ -1,0 +1,52 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Vijay Rao | 79 Y/M | UHID CDH9283201 | IP IP/26/207069
+DOA - 16/05/2026 | DOD - 21/05/2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Ischaemic cardiomyopathy, LVEF 36%
+  • Type 2 diabetes mellitus
+
+Presenting complaints & history - 79/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 61 kg to 58 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 6360 pg/ml | S. Cr 1.6 mg/dl | Na 138 mEq/L | K 4.9 mEq/L | 2D Echo: LVEF 36%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 84/min, SpO2 98% on RA. Dry weight 58 kg.
+
+ADV ON DISCHARGE -
+• Tab. Lasix 40 mg PO OD till next visit
+• Tab. Metoprolol Succinate ER 25 mg PO OD lifelong
+• Tab. Ramipril (Cardace) 2.5 mg PO OD life long
+• Tab. Empagliflozin (Jardiance) 10 mg PO OD lifelong
+• Tab. Aspirin (Ecosprin) 75 mg PO OD after lunch life long
+• Tab. Atorvastatin 40 mg PO HS lifelong
+To continue other previous medicines for T2DM as before (unchanged).
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+    • Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Check weight every morning and keep a record
+    • Do not take painkillers from the chemist without doctor's advice
+
+Report immediately to Casualty in case of -
+  • Wt gain > 2 kg in 3 days
+  • Breathlessness at rest or on lying flat
+  • Increasing swelling of feet or legs
+  • Urine output markedly reduced
+  • Giddiness, fainting or loss of consciousness
+  • Palpitations (fast or irregular heartbeat)
+
+Follow up -
+  • Review with reports - Heart Failure Clinic, Cardiology OPD on 28/05/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

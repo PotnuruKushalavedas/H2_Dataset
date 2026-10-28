@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Tarun Ansari                   Age/Sex  : 60 Y / M
+UHID       : CDH7841345                     IP No.   : IP/26/449163
+DOA        : 24/08/2026                     DOD      : 31/08/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 25%
+
+BRIEF HISTORY:
+  - 60/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 65 kg to 59 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 4354 pg/ml | S. Cr 1.1 mg/dl | Na 140 mEq/L | K 4.6 mEq/L | 2D Echo: LVEF 25%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 75/min, SpO2 98% on RA. Dry weight 59 kg.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------+----------+-------+------------+------------------+--------------+
+| No | Medicine                       | Dose     | Route | Frequency  | Duration         | Instructions |
++----+--------------------------------+----------+-------+------------+------------------+--------------+
+| 1  | Tab. Frusemide (Lasix)         | 40 mg    | PO    | BD (1-1-0) | Till next review |              |
+| 2  | Tab. Carvedilol                | 3.125 mg | PO    | BD (1-0-1) | Lifelong         |              |
+| 3  | Tab. Enalapril                 | 2.5 mg   | PO    | BD (1-0-1) | Lifelong         |              |
+| 4  | Tab. Spironolactone            | 25 mg    | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Empagliflozin (Jardiance) | 10 mg    | PO    | OD (1-0-0) | Lifelong         |              |
++----+--------------------------------+----------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 07/09/2026 (Mon); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Prakash Nair (Consultant)

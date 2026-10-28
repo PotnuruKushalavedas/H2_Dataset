@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Rohit Joshi, 42/M  UHID: CDH3492230  IP: IP/26/419942
+DOA: 12/06/2026  DOD: 19/06/2026  Cons: Dr. Anil Bhosale (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 42/M, k/c/o T2DM x 8 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: missed medicines.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 26 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.15, HCO3 12 mEq/L, Urine ketones +++, RBS at admission 336 mg/dl, HbA1c 13.9%, S. Cr 0.7 mg/dl, K 4.5 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 126/74 mmHg, PR 70/min, SpO2 96% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Basalog 16 U SC OD at 10 PM till review
+2) Inj. NovoRapid 6 U SC TDS 0-15 min before meals till next review
+3) T. Emeset 4 SOS for nausea or vomiting (not more than 3 doses in 24 h)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  - Adequate oral fluids - 2 to 3 litres per day
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+- Vomiting, pain in abdomen, fast breathing or drowsiness
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 24/06/2026 - Review with sugar chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

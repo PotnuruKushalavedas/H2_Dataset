@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Manoj Joshi                    Age/Sex  : 60 Y / M
+UHID       : CDH9656011                     IP No.   : IP/26/736635
+DOA        : 09/04/2026                     DOD      : 15/04/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 60/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 5.5 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 11/04/2026: 84% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (11/04/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.9 g/dl | S. Cr 0.9 mg/dl | K 4.3 mEq/L | LDL 144 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 43%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 114/74 mmHg, PR 73/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| No | Medicine                     | Dose  | Route | Frequency  | Duration         | Instructions                                                                   |
++----+------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)      | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                                    |
+| 2  | Tab. Clopidogrel             | 75 mg | PO    | OD (1-0-0) | 12 months        |                                                                                |
+| 3  | Tab. Rozavel                 | 20 mg | PO    | HS (0-0-1) | Lifelong         |                                                                                |
+| 4  | Tab. Metoprolol Succinate ER | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 5  | Tab. Ramipril                | 5 mg  | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 6  | Tab. Rabeprazole             | 20 mg | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate    | 5 mg  | SL    | SOS        | -                | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 22/04/2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

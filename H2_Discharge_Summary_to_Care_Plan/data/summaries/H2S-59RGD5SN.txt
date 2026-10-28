@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Nasreen Gowda, 70/F  UHID: CDH2432747  IP: IP/26/296223
+DOA: 25-Aug-26  DOD: 01-Sep-26  Cons: Dr. R. Venkatesh (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Acute pyelonephritis (UTI)
+
+H/o: 70/F, k/c/o T2DM x 7 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 373 mg/dl.
+
+Course: Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Ix: HbA1c 11.7%, FBS 312 mg/dl, PPBS 406 mg/dl, S. Cr 0.6 mg/dl, Urine routine: pus cells plenty, Hb 11.9 g/dl
+
+Condn at d/c: Afebrile, stable. BP 114/80 mmHg, PR 82/min, SpO2 97% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Metformin 500 mg BD PC lifelong
+2) T. Januvia 100 mg OD till next review
+3) Inj. Glaritus 8 units SC OD at 10 PM till next review
+4) T. Cefixime 200 mg BD PC x 5 days
+5) T. Calpol 500 SOS for fever / pain (max 4 doses/day)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  Others:
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+  - Always carry sugar or glucose with you
+
+Review SOS if:
+- High grade fever with chills
+- Burning micturition / pain while passing urine
+- Sugar > 300 mg/dl on 2 readings
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+F/U:
+- DM clinic, Medicine OPD on 08-Sep-26 - Review with reports with FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. R. Venkatesh (Consultant)

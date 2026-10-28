@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Hemant Mishra
+Age / Sex    : 73 yrs / Male
+UHID         : CDH6241354      IP No: IP/26/484190
+Admitted on  : 10/05/2026      Discharged on: 15/05/2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+Brief History:
+  * 73/M, k/c/o T2DM x 20 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.1%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 11.1%; FBS 211 mg/dl; PPBS 301 mg/dl; S. Cr 0.9 mg/dl; Urine microalbumin 117 mg/g; Fundus: no DR
+
+Condition at Discharge: Stable. BP 120/78 mmHg, PR 82/min, SpO2 97% on RA. Pre-meal sugars 122-188 mg/dl.
+
+Medications at Discharge:
+- Inj. Human Premix Insulin 30/70 (Human Mixtard 30) 22-0-10 units SC 30 min before breakfast and dinner till review
+- Tab. Metformin 1000 mg 1-0-1 PC lifelong
+- Tab. Atorvastatin 10 mg 0-0-1 (HS) long term (lifelong)
+
+- STOP Tab. Glimepiride 1 mg (now on insulin)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Carry glucose / sugar at all times
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Sugar > 300 mg/dl on 2 readings
+
+Follow-up:
+  * Review with sugar chart - DM clinic, Medicine OPD on 22/05/2026
+  * HbA1c and review - Diabetes Clinic (Medicine OPD) on 07/08/2026; bring reports: S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

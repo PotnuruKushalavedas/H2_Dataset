@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Venkatesh Chauhan
+Age / Sex    : 40 yrs / Male
+UHID         : CDH2561411      IP No: IP/26/271955
+Admitted on  : 13.01.2026      Discharged on: 19.01.2026
+Consultant   : Dr. Ravi Teja, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Closed fracture distal end left radius
+  * s/p ORIF with volar locking plate (15.01.2026)
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 40/M, h/o fall on outstretched hand 2 days back; pain, swelling and deformity left wrist.
+
+Course in Hospital:
+  * Limb immobilised in slab. Underwent ORIF with volar locking plate under brachial block on 15.01.2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+Procedure:
+  * ORIF with volar locking plate under brachial block (15.01.2026)
+
+Investigations:
+  * Hb 10.9 g/dl; S. Cr 0.9 mg/dl; Weight 82 kg; Post-op X-ray: fracture fixed in good alignment; RBS 126 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, distal pulses felt. BP 130/78 mmHg, PR 83/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg 1-1-1 after food x 5 days
+- Tab. Calcium carbonate + Vit D3 500 mg 1-0-0 after food x 3 months
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 5 days
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Keep hand elevated above heart level; move fingers frequently
+  Wound care:
+    * Slab to be kept dry - nothing to be inserted under slab
+    * Keep wound site clean and dry
+
+Danger signs - report to Casualty immediately:
+  * Operated hand - numbness / tingling / bluish discolouration / severe swelling
+  * Redness, swelling, pus or discharge from the wound
+  * Fever > 100.4 F (38 C)
+
+Follow-up:
+  * Suture removal - Ortho OPD on 27.01.2026 (POD 12)
+  * Review with check X-ray - Ortho OPD on 02.03.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Ravi Teja (Consultant)

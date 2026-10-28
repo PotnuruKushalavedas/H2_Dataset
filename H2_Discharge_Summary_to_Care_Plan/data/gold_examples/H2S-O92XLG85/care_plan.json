@@ -1,0 +1,107 @@
+{
+  "summary_id": "H2S-O92XLG85",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Enoxaparin (Clexane)",
+        "dose": "40 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "28 days",
+        "how_to_take_plain": "Inject 40 mg under the skin once a day, for 28 days. Inject under the skin of the belly."
+      },
+      {
+        "name": "Paracetamol",
+        "dose": "650 mg",
+        "frequency": "TDS",
+        "timing": "after food",
+        "duration": "2 weeks",
+        "how_to_take_plain": "Take 1 tablet (650 mg) three times a day, after food, for 2 weeks."
+      },
+      {
+        "name": "Tramadol (Contramal)",
+        "dose": "50 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 1 capsule (50 mg) only when the pain is severe. Do not take more than 2 doses in a day."
+      },
+      {
+        "name": "Calcium + Vitamin D3 (Shelcal)",
+        "dose": "500 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "3 months",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day, after food, for 3 months."
+      },
+      {
+        "name": "Cholecalciferol (Vitamin D3) (Calcirol)",
+        "dose": "60,000 IU",
+        "frequency": "once weekly",
+        "timing": "",
+        "duration": "8 weeks",
+        "how_to_take_plain": "Take 1 sachet (60,000 IU) once a week, for 8 weeks. Take it on the same day every week. Take it with a glass of milk."
+      },
+      {
+        "name": "Lactulose (Duphalac)",
+        "dose": "15 ml",
+        "frequency": "HS",
+        "timing": "",
+        "duration": "2 weeks",
+        "how_to_take_plain": "Take 15 ml once a day, at bedtime, for 2 weeks."
+      },
+      {
+        "name": "Pantoprazole (Pantocid)",
+        "dose": "40 mg",
+        "frequency": "OD",
+        "timing": "half an hour before breakfast",
+        "duration": "2 weeks",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, half an hour before breakfast, for 2 weeks."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Pain in the calf (back of the lower leg), or swelling of the leg (could be a blood clot in a leg vein)",
+      "Wound becomes red or swollen, or pus or fluid comes out of it",
+      "Fever above 100.4 F (38 C)",
+      "Breathlessness or trouble breathing",
+      "The operated leg or foot becomes numb, tingly, bluish, or very swollen"
+    ],
+    "diet": [
+      "Eat protein-rich food (dal, eggs, milk, paneer) to help healing"
+    ],
+    "activity": [
+      "Walk with a walker; only touch the operated leg lightly on the ground (partial weight)"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-02-26",
+        "with_whom": "Orthopaedics (bone) OPD",
+        "purpose": "Removal of stitches",
+        "bring": []
+      },
+      {
+        "date": "2026-03-16",
+        "with_whom": "Orthopaedics (bone) OPD",
+        "purpose": "Check-up with a new X-ray",
+        "bring": []
+      }
+    ],
+    "wound_care": [
+      "Keep the wound clean and dry"
+    ],
+    "other_advice": [
+      "Prevent falls: keep a night light on, remove loose mats, and use support while walking"
+    ],
+    "continue_previous_medications": true
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Dinesh Khan    Age: 72 years\nWent home from hospital on: 2026-02-15 (15 February 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou broke the top of the left thigh bone near the hip. It was fixed with a metal nail (PFN).\n\nYOUR MEDICINES (take exactly as written)\n1. Enoxaparin (Clexane) 40 mg\n   - Inject 40 mg under the skin once a day, for 28 days.\n   - Inject under the skin of the belly.\n   - What it is for: injection that prevents blood clots in the legs.\n2. Paracetamol 650 mg\n   - Take 1 tablet (650 mg) three times a day, after food, for 2 weeks.\n   - What it is for: relieves pain and fever.\n3. Tramadol (Contramal) 50 mg\n   - Take 1 capsule (50 mg) only when the pain is severe.\n   - Do not take more than 2 doses in a day.\n   - What it is for: strong painkiller, only if the pain is severe.\n4. Calcium + Vitamin D3 (Shelcal) 500 mg\n   - Take 1 tablet (500 mg) twice a day, after food, for 3 months.\n   - What it is for: calcium for strong bones.\n5. Cholecalciferol (Vitamin D3) (Calcirol) 60,000 IU\n   - Take 1 sachet (60,000 IU) once a week, for 8 weeks.\n   - Take it on the same day every week.\n   - Take it with a glass of milk.\n   - What it is for: vitamin D for strong bones.\n6. Lactulose (Duphalac) 15 ml\n   - Take 15 ml once a day, at bedtime, for 2 weeks.\n   - What it is for: softens stools and prevents constipation.\n7. Pantoprazole (Pantocid) 40 mg\n   - Take 1 tablet (40 mg) once a day, half an hour before breakfast, for 2 weeks.\n   - What it is for: reduces stomach acid and protects the stomach.\n* Keep taking your earlier medicines for eye pressure (glaucoma) exactly as before (they are not listed here).\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Pain in the calf (back of the lower leg), or swelling of the leg (could be a blood clot in a leg vein)\n- Wound becomes red or swollen, or pus or fluid comes out of it\n- Fever above 100.4 F (38 C)\n- Breathlessness or trouble breathing\n- The operated leg or foot becomes numb, tingly, bluish, or very swollen\n\nFOOD\n- Eat protein-rich food (dal, eggs, milk, paneer) to help healing\n\nACTIVITY\n- Walk with a walker; only touch the operated leg lightly on the ground (partial weight)\n\nWOUND CARE\n- Keep the wound clean and dry\n\nOTHER ADVICE\n- Prevent falls: keep a night light on, remove loose mats, and use support while walking\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-02-26 (Thursday, 26 February 2026): Orthopaedics (bone) OPD. Removal of stitches.\n- 2026-03-16 (Monday, 16 March 2026): Orthopaedics (bone) OPD. Check-up with a new X-ray.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Dinesh Khan    उम्र: 72 साल\nअस्पताल से छुट्टी की तारीख़: 2026-02-15 (15 फ़रवरी 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपकी बाईं जांघ की हड्डी कूल्हे के पास टूट गई थी। इसे धातु की कील (PFN) से जोड़ा गया।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Enoxaparin (Clexane) 40 mg\n   - दिन में 1 बार: 40 mg का इंजेक्शन त्वचा के नीचे लगाएँ; 28 दिन तक जारी रखें।\n   - पेट की त्वचा के नीचे इंजेक्शन लगाएँ।\n   - यह किसलिए है: पैरों की नसों में खून का थक्का बनने से रोकने वाला इंजेक्शन।\n2. Paracetamol 650 mg\n   - दिन में 3 बार, खाने के बाद: 1 गोली (650 mg) लें; 2 हफ़्ते तक जारी रखें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n3. Tramadol (Contramal) 50 mg\n   - सिर्फ़ तेज़ दर्द होने पर: 1 कैप्सूल (50 mg) लें।\n   - दिन भर में 2 बार से ज़्यादा न लें।\n   - यह किसलिए है: तेज़ असर वाली दर्द की दवा; सिर्फ़ तेज़ दर्द होने पर।\n4. Calcium + Vitamin D3 (Shelcal) 500 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (500 mg) लें; 3 महीने तक जारी रखें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए कैल्शियम।\n5. Cholecalciferol (Vitamin D3) (Calcirol) 60,000 IU\n   - हफ़्ते में 1 बार: 1 पाउच (60,000 IU) लें; 8 हफ़्ते तक जारी रखें।\n   - हर हफ़्ते एक ही दिन लें।\n   - एक गिलास दूध के साथ लें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए विटामिन D।\n6. Lactulose (Duphalac) 15 ml\n   - दिन में 1 बार, रात को सोते समय: 15 ml लें; 2 हफ़्ते तक जारी रखें।\n   - यह किसलिए है: मल (stool) को नरम करने और कब्ज़ रोकने के लिए।\n7. Pantoprazole (Pantocid) 40 mg\n   - दिन में 1 बार, नाश्ते से आधा घंटा पहले: 1 गोली (40 mg) लें; 2 हफ़्ते तक जारी रखें।\n   - यह किसलिए है: पेट का एसिड कम करने और पेट की रक्षा के लिए।\n* आँख के दबाव (glaucoma) की अपनी पुरानी दवाइयाँ पहले की तरह ही लेना जारी रखें (वे यहाँ नहीं लिखी हैं)।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- पिंडली में दर्द, या टांग में सूजन (पैर की नस में खून का थक्का हो सकता है)\n- घाव में लाली या सूजन, या घाव से मवाद/पानी निकलना\n- 100.4 F (38 C) से ज़्यादा बुखार\n- सांस फूलना या सांस लेने में तकलीफ़\n- ऑपरेशन वाले पैर में सुन्नपन, झनझनाहट, नीलापन या बहुत ज़्यादा सूजन\n\nखाना\n- जल्दी ठीक होने के लिए प्रोटीन वाला खाना (दाल, अंडे, दूध, पनीर) खाएँ\n\nचलना-फिरना और काम\n- वॉकर के सहारे चलें; ऑपरेशन वाले पैर को ज़मीन पर सिर्फ़ हल्का-सा टिकाएँ (थोड़ा ही वज़न डालें)\n\nघाव की देखभाल\n- घाव को साफ़ और सूखा रखें\n\nअन्य सलाह\n- गिरने से बचें: रात में हल्की रोशनी रखें, ढीली दरियाँ हटा दें, और चलते समय सहारा लें\n\nअगली बार अस्पताल कब आना है\n- 2026-02-26 (गुरुवार, 26 फ़रवरी 2026): हड्डी रोग ओपीडी (Orthopaedics OPD)। टांके निकलवाने के लिए।\n- 2026-03-16 (सोमवार, 16 मार्च 2026): हड्डी रोग ओपीडी (Orthopaedics OPD)। नया X-ray करवाकर डॉक्टर को दिखाएँ।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 4.96
+  }
+}

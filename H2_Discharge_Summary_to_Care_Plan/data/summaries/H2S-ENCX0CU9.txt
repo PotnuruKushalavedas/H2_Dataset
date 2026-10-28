@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Mamta Shaikh
+Age / Sex    : 59 yrs / Female
+UHID         : CDH5345209      IP No: IP/26/318143
+Admitted on  : 18/05/2026      Discharged on: 21/05/2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+
+Brief History:
+  * 59/F, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 180 to 373 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 373 L/min; CXR: no pneumothorax, no consolidation; AEC 440/cumm; TLC 8,600/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 110/78 mmHg, PR 84/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 long term (lifelong) (via spacer; rinse mouth after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+- Tab. Prednisolone 40 mg 1-0-0 after breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid dust, smoke and cold air (asthma triggers)
+    * Gradually increase walking as tolerated
+  General:
+    * Inhaler technique demonstrated - use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Unable to speak full sentences due to breathlessness
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Chest pain, heaviness or sweating
+
+Follow-up:
+  * Review with reports - Chest OPD on 28/05/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. T. Raghavan (Consultant)

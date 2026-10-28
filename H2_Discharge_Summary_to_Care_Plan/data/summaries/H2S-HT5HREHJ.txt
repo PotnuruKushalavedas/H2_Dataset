@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Ajay Ghosh    Age: 75 years    Sex: Male
+UHID: CDH7760656    IP Number: IP/26/671573
+Date of admission: 21st June 2026    Date of discharge: 26th June 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 75/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 6 days. ECG: AF with FVR (HR 158/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 92/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 61%; S. Cr 0.7 mg/dl; Hb 13.3 g/dl; TSH 3.1 mIU/L; Weight 64 kg; CrCl (Cockcroft-Gault) 82 ml/min; CHA2DS2-VASc score 3
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 118/72 mmHg, PR 75/min, SpO2 96% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Diltiazem 30 mg three times daily till the next review
+2. Tablet Apixaban 5 mg twice daily lifelong
+3. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 10th July 2026 (Fri). Please bring: ECG, S. Creatinine, CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

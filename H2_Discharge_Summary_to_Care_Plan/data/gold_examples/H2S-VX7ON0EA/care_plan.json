@@ -1,0 +1,82 @@
+{
+  "summary_id": "H2S-VX7ON0EA",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Iron + Folic Acid (IFA)",
+        "dose": "1 tablet",
+        "frequency": "OD (0-0-1)",
+        "timing": "after dinner",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet once a day, after dinner, for 6 months."
+      },
+      {
+        "name": "Calcium + Vitamin D3",
+        "dose": "500 mg",
+        "frequency": "BD (1-1-0)",
+        "timing": "after food",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 6 months."
+      },
+      {
+        "name": "Paracetamol",
+        "dose": "650 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 1 tablet (650 mg) only when you have pain. Do not take more than 3 doses in a day."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots",
+      "Bad-smelling discharge from the vagina",
+      "Fever above 100.4 F (38 C)",
+      "Painful, red, hard swelling in the breast with fever",
+      "Severe headache, blurred vision, or pain in the upper belly",
+      "Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby",
+      "Baby not feeding well, very sleepy, has fever, or skin turning yellow"
+    ],
+    "diet": [
+      "Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids"
+    ],
+    "activity": [
+      "Do pelvic-floor (Kegel) exercises every day",
+      "Take enough rest; do only light housework for 6 weeks"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-07-10",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report",
+        "bring": [
+          "your Hb (haemoglobin) report"
+        ]
+      },
+      {
+        "date": "2026-07-10",
+        "with_whom": "Baby vaccination clinic (Paediatrics)",
+        "purpose": "Baby's 6-week vaccines",
+        "bring": []
+      }
+    ],
+    "wound_care": [
+      "Wash the private area with clean water after using the toilet; change pads every 4 to 6 hours"
+    ],
+    "other_advice": [
+      "Feed the baby only breast milk, nothing else, for 6 months",
+      "Get the baby's vaccines on the dates written on the vaccination card",
+      "Talk about family planning at your after-delivery check-up; keep a gap of at least 2 years before the next baby"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Ayesha Gowda    Age: 34 years\nWent home from hospital on: 2026-05-30 (30 May 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had a normal vaginal delivery. You and your baby are well.\n\nYOUR MEDICINES (take exactly as written)\n1. Iron + Folic Acid (IFA) 1 tablet\n   - Take 1 tablet once a day, after dinner, for 6 months.\n   - What it is for: iron tablet that builds up blood (haemoglobin).\n2. Calcium + Vitamin D3 500 mg\n   - Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 6 months.\n   - What it is for: calcium for strong bones.\n3. Paracetamol 650 mg\n   - Take 1 tablet (650 mg) only when you have pain.\n   - Do not take more than 3 doses in a day.\n   - What it is for: relieves pain and fever.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots\n- Bad-smelling discharge from the vagina\n- Fever above 100.4 F (38 C)\n- Painful, red, hard swelling in the breast with fever\n- Severe headache, blurred vision, or pain in the upper belly\n- Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby\n- Baby not feeding well, very sleepy, has fever, or skin turning yellow\n\nFOOD\n- Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids\n\nACTIVITY\n- Do pelvic-floor (Kegel) exercises every day\n- Take enough rest; do only light housework for 6 weeks\n\nWOUND CARE\n- Wash the private area with clean water after using the toilet; change pads every 4 to 6 hours\n\nOTHER ADVICE\n- Feed the baby only breast milk, nothing else, for 6 months\n- Get the baby's vaccines on the dates written on the vaccination card\n- Talk about family planning at your after-delivery check-up; keep a gap of at least 2 years before the next baby\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-07-10 (Friday, 10 July 2026): Obstetrics & Gynaecology (women's) OPD. Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report.\n- 2026-07-10 (Friday, 10 July 2026): Baby vaccination clinic (Paediatrics). Baby's 6-week vaccines.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Ayesha Gowda    उम्र: 34 साल\nअस्पताल से छुट्टी की तारीख़: 2026-05-30 (30 मई 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपकी सामान्य (नॉर्मल) डिलीवरी हुई है। आप और आपका बच्चा दोनों ठीक हैं।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Iron + Folic Acid (IFA) 1 गोली\n   - दिन में 1 बार, रात के खाने के बाद: 1 गोली लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: खून (हीमोग्लोबिन) बढ़ाने वाली आयरन की गोली।\n2. Calcium + Vitamin D3 500 mg\n   - दिन में 2 बार (सुबह और दोपहर), खाने के बाद: 1 गोली (500 mg) लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए कैल्शियम।\n3. Paracetamol 650 mg\n   - सिर्फ़ दर्द होने पर: 1 गोली (650 mg) लें।\n   - दिन भर में 3 बार से ज़्यादा न लें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- योनि से बहुत ज़्यादा खून आना (1 घंटे में 1 से ज़्यादा पैड भीग जाना) या थक्के निकलना\n- योनि से बदबूदार स्राव (पानी) आना\n- 100.4 F (38 C) से ज़्यादा बुखार\n- बुखार के साथ स्तन में दर्द, लाली और सख़्त सूजन\n- तेज़ सिरदर्द, धुंधला दिखना, या पेट के ऊपरी हिस्से में दर्द\n- ज़्यादातर समय उदासी या निराशा रहना, नींद न आना, या खुद को या बच्चे को नुकसान पहुँचाने के विचार आना\n- बच्चा ठीक से दूध न पिए, बहुत सुस्त रहे, बुखार हो, या त्वचा पीली पड़े\n\nखाना\n- पौष्टिक खाना खाएँ और रोज़ 1 बार ज़्यादा (अलग से) खाना लें: हरी पत्तेदार सब्ज़ियाँ, दूध और दाल; खूब पानी/तरल पिएँ\n\nचलना-फिरना और काम\n- रोज़ पेशाब रोकने वाली मांसपेशियों की (Kegel) कसरत करें\n- पूरा आराम करें; 6 हफ़्ते तक सिर्फ़ हल्का घरेलू काम करें\n\nघाव की देखभाल\n- पेशाब या शौच (टॉयलेट) के बाद गुप्तांग को साफ़ पानी से धोएँ; हर 4 से 6 घंटे में पैड बदलें\n\nअन्य सलाह\n- 6 महीने तक बच्चे को सिर्फ़ माँ का दूध दें, और कुछ नहीं\n- बच्चे के टीके टीकाकरण कार्ड पर लिखी तारीख़ों पर लगवाएँ\n- प्रसव के बाद की जाँच में परिवार नियोजन पर बात करें; अगले बच्चे से पहले कम से कम 2 साल का अंतर रखें\n\nअगली बार अस्पताल कब आना है\n- 2026-07-10 (शुक्रवार, 10 जुलाई 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। प्रसव के 6 हफ़्ते बाद की जाँच। साथ लाएँ: Hb (हीमोग्लोबिन) की रिपोर्ट।\n- 2026-07-10 (शुक्रवार, 10 जुलाई 2026): बच्चों का टीकाकरण क्लिनिक (Paediatrics)। बच्चे के 6 हफ़्ते वाले टीके।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 6.71
+  }
+}

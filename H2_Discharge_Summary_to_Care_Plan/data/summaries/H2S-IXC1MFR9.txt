@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Selvam Krishnan                Age/Sex  : 59 Y / M
+UHID       : CDH9456898                     IP No.   : IP/26/726995
+DOA        : 31/07/2026                     DOD      : 05/08/2026
+Consultant : Dr. T. Raghavan, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 59/M, h/o long-term chulha smoke exposure, k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 62 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 11,300/cumm | RBS 125 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 3. BP 118/70 mmHg, PR 88/min, SpO2 93% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                                            | Dose           | Route | Frequency  | Duration | Instructions                                                |
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Rotacap Tiotropium (Tiova)                          | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                               |
+| 2  | Inh. Budesonide + Formoterol (Budamate) (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | with spacer; rinse mouth after use                          |
+| 3  | Inh. Salbutamol (Asthalin) (100 mcg)                | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; not more than 8 puffs in 24 h |
+| 4  | Tab. Prednisolone (Wysolone)                        | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                                             |
+| 5  | Cap. Doxycycline (Biodoxi)                          | 100 mg         | PO    | BD (1-0-1) | 5 days   | after food                                                  |
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+  To continue other previous medicines for HTN as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed-lip breathing and daily walking as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other:
+    - Inhaler technique taught; to use with spacer
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increase in sputum quantity or change to yellow/green colour
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 19/08/2026
+  - Spirometry (PFT) - Pulmonary Medicine (Chest) OPD on 09/09/2026 (Wed)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

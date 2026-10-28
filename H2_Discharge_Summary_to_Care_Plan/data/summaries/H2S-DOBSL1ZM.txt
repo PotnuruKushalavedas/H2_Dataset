@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rekha Mukherjee                Age/Sex  : 47 Y / F
+UHID       : CDH6976910                     IP No.   : IP/26/342361
+DOA        : 30/08/2026                     DOD      : 05/09/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 23%
+
+BRIEF HISTORY:
+  - 47/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6 L; weight down from 77 kg to 71 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 2783 pg/ml | S. Cr 0.8 mg/dl | Na 136 mEq/L | K 4.1 mEq/L | 2D Echo: LVEF 23%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 86/min, SpO2 98% on RA. Dry weight 71 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine                              | Dose    | Route | Frequency  | Duration         | Instructions |
++----+---------------------------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Frusemide                        | 40 mg   | PO    | OD (1-0-0) | Till next review |              |
+| 2  | Tab. Metoprolol Succinate ER (Met XL) | 12.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 3  | Tab. Vymada (24/26 mg)                | 50 mg   | PO    | BD (1-0-1) | Lifelong         |              |
+| 4  | Tab. Spironolactone (Aldactone)       | 25 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Empagliflozin                    | 10 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 6  | Tab. Aspirin                          | 75 mg   | PO    | OD (0-1-0) | Lifelong         | after lunch  |
+| 7  | Tab. Atorvastatin                     | 40 mg   | PO    | HS (0-0-1) | Lifelong         |              |
++----+---------------------------------------+---------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 12/09/2026 (Sat); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Prakash Nair (Consultant)

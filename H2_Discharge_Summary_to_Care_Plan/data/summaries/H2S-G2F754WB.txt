@@ -1,0 +1,63 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Ashok Gaikwad
+Age / Sex    : 57 yrs / Male
+UHID         : CDH7558221      IP No: IP/26/989348
+Admitted on  : 20/07/2026      Discharged on: 25/07/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - NSTEMI
+  * CAD - SVD; s/p PCI with 1 DES to LAD
+
+Brief History:
+  * 57/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 4.1 ng/ml (raised).
+
+Course in Hospital:
+  * Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 21/07/2026: 93% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure:
+  * CAG + PCI with 1 DES to LAD (21/07/2026)
+
+Investigations:
+  * Hb 12.0 g/dl; S. Cr 0.6 mg/dl; K 4.2 mEq/L; LDL 125 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 43%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 114/72 mmHg, PR 80/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Ticagrelor 90 mg 1-0-1 x 1 year
+- Tab. Rosuvastatin 40 mg 0-0-1 (HS) lifelong
+- Tab. Metoprolol Succinate 25 mg 1-0-0 lifelong
+- Tab. Telmisartan 40 mg 1-0-0 lifelong
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 3 months
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+Advice on Discharge:
+  Diet:
+    * Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * No driving for 1 week
+  General:
+    * Stop smoking and all forms of tobacco
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    * For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Danger signs - report to Casualty immediately:
+  * Chest pain not relieved after 3 SL tablets taken 5 min apart
+  * Breathlessness / difficulty in breathing
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 04/08/2026; bring reports: ECG
+  * Get Lipid profile (fasting) done on 08/09/2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

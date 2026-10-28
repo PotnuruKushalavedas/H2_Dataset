@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Sanjay Shetty
+Age / Sex    : 33 yrs / Male
+UHID         : CDH2443437      IP No: IP/26/616938
+Admitted on  : 14/02/2026      Discharged on: 18/02/2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Acute appendicitis with localised perforation
+  * s/p Laparoscopic appendicectomy (14/02/2026)
+
+Brief History:
+  * 33/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency laparoscopic appendicectomy under GA on 14/02/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure:
+  * Laparoscopic appendicectomy under GA (14/02/2026)
+
+Investigations:
+  * TLC 16,500/cumm; CRP 106 mg/L; HPE: awaited; Hb 12.3 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 124/74 mmHg, PR 84/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 after food x 7 days
+- Tab. Paracetamol 500 mg SOS for pain (not more than 3 doses in 24 h)
+- Tab. Aceclofenac 100 mg 1-0-1 PC x 5 days
+- Tab. Rabeprazole 20 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting / not able to take orally
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Wound inspection - General Surgery OPD on 21/02/2026 (POD 7)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Vivek Rathore (Consultant)

@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Pradeep Shah
+Age / Sex    : 57 yrs / Male
+UHID         : CDH7880704      IP No: IP/26/822998
+Admitted on  : 10/01/2026      Discharged on: 14/01/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 57/M, k/c/o T2DM x 3 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: UTI.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 43 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.17, HCO3 14 mEq/L; Urine ketones +++; RBS at admission 513 mg/dl; HbA1c 13.7%; S. Cr 0.7 mg/dl; K 4.4 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 114/78 mmHg, PR 69/min, SpO2 96% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 18 U SC 0-0-1 at 10 pm daily till next review
+- Inj. Insulin Aspart (NovoRapid) 6 U SC 1-1-1 within 15 min before meals till next review
+- Tab. Metformin 500 mg 1-0-1 after food till next review
+- Tab. Ondansetron 4 mg SOS for nausea / vomiting (max 3 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Sugar > 300 mg/dl on 2 readings
+  * Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow-up:
+  * S. Creatinine and electrolytes (Na, K) on 19/01/2026 at Hospital laboratory
+  * Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 21/01/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Farah Siddiqui (Consultant)

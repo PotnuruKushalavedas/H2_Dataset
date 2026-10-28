@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Sneha Dhillon
+Age / Sex    : 20 yrs / Female
+UHID         : CDH6092160      IP No: IP/26/819752
+Admitted on  : 21/08/2026      Discharged on: 25/08/2026
+Consultant   : Dr. Rajesh Kumar Verma, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Open appendicectomy (21/08/2026)
+
+Brief History:
+  * 20/F, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 9. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 21/08/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Open appendicectomy under GA (21/08/2026)
+
+Investigations:
+  * TLC 17,100/cumm; CRP 81 mg/L; HPE: awaited; Hb 13.3 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 118/80 mmHg, PR 84/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Ceftum 500 mg 1-0-1 after food x 5 days
+- Tab. Metronidazole 400 mg 1-1-1 after food x 5 days (no alcohol during course)
+- Tab. Paracetamol (Calpol) 500 mg 1-1-1 PC x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * No heavy lifting (more than 5 kg) for 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting or unable to take food and fluids orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 31/08/2026 (POD 10)
+  * Review with histopathology report - Surgery OPD on 04/09/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Rajesh Kumar Verma (Consultant)

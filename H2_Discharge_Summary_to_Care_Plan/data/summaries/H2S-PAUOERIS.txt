@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sanjay Patel                   Age/Sex  : 36 Y / M
+UHID       : CDH4023081                     IP No.   : IP/26/947681
+DOA        : 20/02/2026                     DOD      : 26/02/2026
+Consultant : Dr. Rajesh Kumar Verma, MS (General Surgery) Unit     : Surgery Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute appendicitis with localised perforation
+  - 2. s/p Open appendicectomy (20/02/2026)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 36/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+HOSPITAL COURSE:
+  - Emergency open appendicectomy under GA on 20/02/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+PROCEDURE(S) DONE:
+  - Open appendicectomy under GA (20/02/2026)
+
+KEY INVESTIGATIONS:
+  - TLC 14,500/cumm | CRP 88 mg/L | HPE: awaited | Hb 12.0 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 130/70 mmHg, PR 85/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+---------+-------+-------------+----------+-----------------------+
+| No | Medicine                           | Dose    | Route | Frequency   | Duration | Instructions          |
++----+------------------------------------+---------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Amoxicillin + Clavulanic acid | 625 mg  | PO    | TDS (1-1-1) | 7 days   | after food            |
+| 2  | Tab. Paracetamol                   | 650 mg  | PO    | TDS (1-1-1) | 5 days   | after food            |
+| 3  | Tab. Pantoprazole                  | 40 mg   | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast |
+| 4  | Tab. Levothyroxine (Thyronorm)     | 100 mcg | PO    | OD (1-0-0)  | Lifelong | empty stomach         |
++----+------------------------------------+---------+-------+-------------+----------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+    - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Redness, swelling, pus or discharge from the wound
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting or unable to take food and fluids orally
+  - Distension of abdomen with no passage of stool or gas
+
+FOLLOW-UP:
+  - Suture removal - General Surgery OPD on 28/02/2026 (POD 8)
+  - Review with HPE report - General Surgery OPD on 06/03/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Rajesh Kumar Verma (Consultant)

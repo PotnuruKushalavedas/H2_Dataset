@@ -1,0 +1,65 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Deepak Bhatt    Age: 42 years    Sex: Male
+UHID: CDH2326430    IP Number: IP/26/110455
+Date of admission: 17 Aug 2026    Date of discharge: 21 Aug 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+HISTORY:
+  - 42/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 7.8 ng/ml (raised).
+
+COURSE IN THE HOSPITAL:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 18 Aug 2026: 82% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to LAD (18 Aug 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 14.3 g/dl; S. Cr 1.1 mg/dl; K 4.3 mEq/L; LDL 151 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 42%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 124/80 mmHg, PR 79/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch to continue lifelong
+2. Tablet Ticagrelor (Axcer) 90 mg twice daily for 12 months
+3. Tablet Rosuvastatin (Rozavel) 40 mg once daily at bedtime to continue lifelong
+4. Tablet Metoprolol Succinate ER 50 mg once daily in the morning to continue lifelong
+5. Tablet Ramipril 2.5 mg once daily in the morning lifelong
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast until the next visit
+7. Tablet Isosorbide Dinitrate 5 mg SL only if needed (SOS) for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+PLEASE STOP:
+  - Tab. Clopidogrel 75 mg (replaced by Ticagrelor)
+
+GENERAL ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other instructions:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 31 Aug 2026 (Mon). Please bring: ECG.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

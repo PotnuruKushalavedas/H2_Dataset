@@ -1,0 +1,69 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rahul Kalita                   Age/Sex  : 78 Y / M
+UHID       : CDH2511507                     IP No.   : IP/26/331310
+DOA        : 14 Sep 2026                    DOD      : 18 Sep 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 78/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 7.6 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 15 Sep 2026: 87% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (15 Sep 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.0 g/dl | S. Cr 1.6 mg/dl | K 4.2 mEq/L | LDL 135 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 58%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 126/70 mmHg, PR 70/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| No | Medicine                  | Dose  | Route | Frequency  | Duration         | Instructions                                                                   |
++----+---------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)   | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                                    |
+| 2  | Tab. Clopilet             | 75 mg | PO    | OD (1-0-0) | 1 year           |                                                                                |
+| 3  | Tab. Rosuvastatin         | 20 mg | PO    | HS (0-0-1) | Lifelong         |                                                                                |
+| 4  | Tab. Metoprolol Succinate | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 5  | Tab. Telmisartan (Telma)  | 40 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 6  | Tab. Pantoprazole         | 40 mg | PO    | OD (1-0-0) | Till next review | 30 min before breakfast                                                        |
+| 7  | Tab. Isosorbide Dinitrate | 5 mg  | SL    | SOS        | -                | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+---------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 25 Sep 2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

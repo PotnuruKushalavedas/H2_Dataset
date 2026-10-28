@@ -1,0 +1,53 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nasreen Pandey                 Age/Sex  : 73 Y / F
+UHID       : CDH6973578                     IP No.   : IP/26/711390
+DOA        : 06/04/2026                     DOD      : 11/04/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+
+BRIEF HISTORY:
+  - 73/F, k/c/o T2DM x 10 yrs, stopped medicines 3 months ago, presented with polyuria, polydipsia, generalised weakness x 11 days. RBS 423 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.6% | FBS 297 mg/dl | PPBS 365 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 14.4 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/70 mmHg, PR 84/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine                   | Dose    | Route | Frequency  | Duration         | Instructions |
++----+----------------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Metformin             | 1000 mg | PO    | BD (1-0-1) | Lifelong         | PC           |
+| 2  | Tab. Sitagliptin (Istavel) | 100 mg  | PO    | OD (1-0-0) | Till next review |              |
+| 3  | Inj. Insulin Glargine      | 12 U    | SC    | HS (0-0-1) | Till review      |              |
++----+----------------------------+---------+-------+------------+------------------+--------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Blood sugar above 300 mg/dl on two readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 21/04/2026 (Tue); bring reports: FBS, PPBS
+  - HbA1c and review - DM clinic, Medicine OPD on 10/07/2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Revathi Gaikwad                Age/Sex  : 65 Y / F
+UHID       : CDH9892509                     IP No.   : IP/26/392422
+DOA        : 12 Apr 2026                    DOD      : 16 Apr 2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+BRIEF HISTORY:
+  - 65/F, k/c/o T2DM x 11 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 401 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 13.3% | FBS 240 mg/dl | PPBS 299 mg/dl | S. Cr 0.9 mg/dl | Urine routine: pus cells plenty | Hb 11.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 126/76 mmHg, PR 70/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+----------+-------+------------+------------------+--------------+
+| No | Medicine                   | Dose     | Route | Frequency  | Duration         | Instructions |
++----+----------------------------+----------+-------+------------+------------------+--------------+
+| 1  | Tab. Metformin             | 1000 mg  | PO    | BD (1-0-1) | Lifelong         | after food   |
+| 2  | Tab. Sitagliptin (Istavel) | 100 mg   | PO    | OD (1-0-0) | Till next review |              |
+| 3  | Inj. Insulin Glargine      | 10 units | SC    | HS (0-0-1) | Till review      |              |
+| 4  | Tab. Cefixime (Zifi)       | 200 mg   | PO    | BD (1-0-1) | 7 days           | after food   |
++----+----------------------------+----------+-------+------------+------------------+--------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning micturition / pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - DM clinic, Medicine OPD on 23 Apr 2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

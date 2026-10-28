@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Asha Bhatt
+Age / Sex    : 68 yrs / Female
+UHID         : CDH2005953      IP No: IP/26/153597
+Admitted on  : 08/08/2026      Discharged on: 14/08/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+
+Brief History:
+  * 68/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 9 days. ECG: AF with FVR (HR 163/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 79/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 54%; S. Cr 0.9 mg/dl; Hb 13.2 g/dl; TSH 1.2 mIU/L; Weight 54 kg; CrCl (Cockcroft-Gault) 51 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 118/70 mmHg, PR 78/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Diltiazem (Dilzem) 30 mg 1-1-1 till next review
+- Tab. Rivaroxaban 20 mg 0-0-1 with dinner long term (lifelong)
+- Tab. Telmisartan 40 mg 1-0-0 long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 28/08/2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

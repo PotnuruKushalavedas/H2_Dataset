@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rahul Menon                    Age/Sex  : 29 Y / M
+UHID       : CDH3116002                     IP No.   : IP/26/694643
+DOA        : 09/04/2026                     DOD      : 14/04/2026
+Consultant : Dr. A. Sengupta, MS (Orthopaedics) Unit     : Ortho Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Closed bimalleolar fracture right ankle
+  - 2. s/p ORIF with plating and malleolar screw (11/04/2026)
+
+BRIEF HISTORY:
+  - 29/M, h/o twisting injury right ankle while getting down stairs; pain and swelling, unable to walk.
+
+HOSPITAL COURSE:
+  - Limb immobilised in slab. Underwent ORIF (lateral malleolus plating + medial malleolus CC screw) under SA on 11/04/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - ORIF (lateral malleolus plating + medial malleolus CC screw) under SA (11/04/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.1 g/dl | S. Cr 1.0 mg/dl | Weight 75 kg | Post-op X-ray: fracture fixed in good alignment | RBS 119 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 114/70 mmHg, PR 68/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+-------------+----------+-------------------------+
+| No | Medicine                  | Dose   | Route | Frequency   | Duration | Instructions            |
++----+---------------------------+--------+-------+-------------+----------+-------------------------+
+| 1  | Tab. Paracetamol (Calpol) | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food              |
+| 2  | Tab. Shelcal              | 500 mg | PO    | OD (1-0-0)  | 3 months | PC                      |
+| 3  | Tab. Pantoprazole (Pan)   | 40 mg  | PO    | OD (1-0-0)  | 5 days   | 30 min before breakfast |
++----+---------------------------+--------+-------+-------------+----------+-------------------------+
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - NWB operated limb (walker / crutches)
+    - Leg elevation on pillows at rest + active toe movements
+  Wound care:
+    - Slab to be kept dry - nothing to be inserted under slab
+    - Keep wound site clean and dry
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Operated leg - numbness / tingling / bluish discolouration / severe swelling
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+
+FOLLOW-UP:
+  - Removal of sutures - Ortho OPD on 23/04/2026 (POD 12)
+  - Review with check X-ray - Orthopaedics OPD on 12/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. A. Sengupta (Consultant)

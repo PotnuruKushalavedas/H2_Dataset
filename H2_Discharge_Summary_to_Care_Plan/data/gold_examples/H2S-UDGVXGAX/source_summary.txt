@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Meena Das                      Age/Sex  : 27 Y / F
+UHID       : CDH7593482                     IP No.   : IP/26/524719
+DOA        : 30 Jan 2026                    DOD      : 03 Feb 2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G3P3L3, Pre-eclampsia with severe features at 38 wks
+  - 2. Delivered by induced vaginal delivery (NVD) on 30 Jan 2026
+
+BRIEF HISTORY:
+  - 27/F, G3, on low-dose aspirin from 12 wks, presented with headache and BP 164/110 mmHg, urine albumin ++.
+
+HOSPITAL COURSE:
+  - Received Inj. Magnesium sulphate (Pritchard regimen) and oral antihypertensives. Labour induced; delivered vaginally on 30 Jan 2026: live baby boy, 3.56 kg, APGAR 7/9. MgSO4 continued for 24 hrs postpartum. BP settled to 138/90 mmHg on oral treatment. No fits.
+
+KEY INVESTIGATIONS:
+  - Platelets 1.9 lakh/cumm | SGOT/SGPT 38/26 U/L | S. Cr 0.6 mg/dl | Urine albumin + | Hb 10.6 g/dl
+
+CONDITION AT DISCHARGE: Asymptomatic. BP 132/84 mmHg, PR 77/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+------------+------------------+------------------------------------------+
+| No | Medicine                                  | Dose   | Route | Frequency  | Duration         | Instructions                             |
++----+-------------------------------------------+--------+-------+------------+------------------+------------------------------------------+
+| 1  | Tab. Nifedipine SR (Nicardia Retard)      | 10 mg  | PO    | BD (1-0-1) | Till next review |                                          |
+| 2  | Tab. Crocin                               | 500 mg | PO    | SOS        | -                | for fever; not more than 4 doses in 24 h |
+| 3  | Tab. Iron + Folic acid (IFA)              | 1 tab  | PO    | OD (0-0-1) | 6 months         | after dinner                             |
+| 4  | Tab. Calcium carbonate + Vit D3 (Shelcal) | 500 mg | PO    | BD (1-1-0) | 6 months         | PC                                       |
++----+-------------------------------------------+--------+-------+------------+------------------+------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (antenatal aspirin - not needed after delivery)
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Adequate rest; light household work only for 6 weeks
+  Other:
+    - Home BP monitoring BD - keep chart
+    - Exclusive breastfeeding for 6 months
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Severe headache / blurred vision / epigastric pain
+  - Fits (convulsions)
+  - BP 150/100 mmHg or higher on home check
+  - Breathlessness or difficulty in breathing
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Review with BP chart - Obstetrics & Gynaecology OPD on 10 Feb 2026
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 13 Mar 2026; bring reports: Hb, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Lakshmi Iyer (Consultant)

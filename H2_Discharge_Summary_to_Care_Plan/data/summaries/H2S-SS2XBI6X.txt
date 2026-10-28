@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Sunita Gowda
+Age / Sex    : 58 yrs / Female
+UHID         : CDH9178801      IP No: IP/26/888028
+Admitted on  : 20/06/2026      Discharged on: 24/06/2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+  * Hypothyroidism
+
+Brief History:
+  * 58/F, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 143 to 330 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 330 L/min; CXR: no pneumothorax, no consolidation; AEC 467/cumm; TLC 7,600/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 120/80 mmHg, PR 82/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 long term (lifelong) (via spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+- Tab. Prednisolone 40 mg 1-0-0 after breakfast x 5 days
+Continue previous medications for hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid dust, smoke and cold air (asthma triggers)
+  General:
+    * Inhaler technique taught; to use with spacer
+    * Stop smoking and all forms of tobacco
+
+Danger signs - report to Casualty immediately:
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Unable to speak full sentences due to breathlessness
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Chest pain / heaviness / sweating
+
+Follow-up:
+  * Review with reports - Chest OPD on 08/07/2026
+  * PFT / spirometry - Pulmonary Medicine (Chest) OPD on 22/07/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. T. Raghavan (Consultant)

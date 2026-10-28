@@ -1,0 +1,65 @@
+Chandrapuri District Hospital
+Dept. of Obstetrics & Gynaecology - Discharge Summary
+
+Patient name : Simran Ghosh
+Age / Sex    : 24 yrs / Female
+UHID         : CDH7964003      IP No: IP/26/535601
+Admitted on  : 19.07.2026      Discharged on: 23.07.2026
+Consultant   : Dr. Nirmala Joshi, MS (OBG) (OBG Unit II)
+
+Final Diagnosis:
+  * G1P1L1, Emergency LSCS for fetal distress on 19.07.2026
+
+Brief History:
+  * 24/F, Primigravida at 40 wks GA, admitted in labour.
+
+Course in Hospital:
+  * Emergency LSCS under SA on 19.07.2026 for fetal distress. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby boy, 3.03 kg, APGAR 7/9. Post-op period uneventful; breastfeeding established.
+
+Procedure:
+  * Emergency LSCS under SA (19.07.2026)
+
+Investigations:
+  * Hb (post-op) 9.0 g/dl; Blood group B +ve; HIV/HBsAg/VDRL: non-reactive
+
+Condition at Discharge: Afebrile, wound healthy, uterus well contracted. BP 124/70 mmHg, PR 83/min, SpO2 96% on RA. Baby: healthy.
+
+Medications at Discharge:
+- Tab. Cefixime 200 mg 1-0-1 after food x 5 days
+- Tab. Paracetamol 650 mg 1-1-1 after food x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 5 days
+- Tab. Iron + Folic acid (IFA) 1 tab 0-0-1 after dinner x 6 months
+- Tab. Calcium carbonate + Vit D3 500 mg 1-1-0 PC x 6 months
+- Syp. Lactulose 15 ml 0-0-1 (HS) x 7 days
+
+Advice on Discharge:
+  Diet:
+    * Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+  Wound care:
+    * Keep wound site clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+  General:
+    * Exclusive breastfeeding for 6 months
+    * Baby's immunisation as per the card given
+    * Family planning counselling at PNC visit - spacing >= 2 years
+
+Danger signs - report to Casualty immediately:
+  * Wound site redness / swelling / pus or discharge
+  * Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  * Fever > 100.4 F (38 C)
+  * Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  * Severe headache / blurred vision / epigastric pain
+  * Painful, red, hard swelling of the breast with fever
+  * Baby not feeding well, very sleepy, has fever, or yellow skin
+  * Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+Follow-up:
+  * Wound check - Obstetrics & Gynaecology OPD on 27.07.2026 (POD 8)
+  * PNC visit at 6 weeks - Obstetrics & Gynaecology OPD on 31.08.2026; bring reports: Hb
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Nirmala Joshi (Consultant)

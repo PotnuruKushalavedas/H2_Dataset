@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Yusuf Thakur
+Age / Sex    : 57 yrs / Male
+UHID         : CDH3225517      IP No: IP/26/173089
+Admitted on  : 27/01/2026      Discharged on: 31/01/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+  * Systemic hypertension
+
+Brief History:
+  * 57/M, k/c/o T2DM x 6 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: UTI.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 47 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.15, HCO3 10 mEq/L; Urine ketones +++; RBS at admission 280 mg/dl; HbA1c 11.3%; S. Cr 0.8 mg/dl; K 4.4 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 130/80 mmHg, PR 74/min, SpO2 99% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 12 units SC 0-0-1 (HS) till review
+- Inj. Insulin Regular (Human) 4 units SC 1-1-1 ½ hr before meals till next review
+- Tab. Metformin 500 mg 1-0-1 PC till next review
+- Tab. Amlodipine 5 mg 1-0-0 lifelong
+
+- STOP Tab. Empagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow-up:
+  * Get RFT + S. electrolytes done on 03/02/2026 (Central lab)
+  * Review with SMBG chart - DM clinic, Medicine OPD on 05/02/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Farah Siddiqui (Consultant)

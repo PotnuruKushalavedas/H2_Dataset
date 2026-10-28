@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Thomas Jadhav
+Age / Sex    : 41 yrs / Male
+UHID         : CDH6990074      IP No: IP/26/729687
+Admitted on  : 06.04.2026      Discharged on: 09.04.2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Open appendicectomy (06.04.2026)
+
+Brief History:
+  * 41/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 06.04.2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Open appendicectomy under GA (06.04.2026)
+
+Investigations:
+  * TLC 15,900/cumm; CRP 106 mg/L; HPE: awaited; Hb 12.0 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 120/70 mmHg, PR 81/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 after food x 5 days
+- Tab. Metronidazole (Flagyl) 400 mg 1-1-1 after food x 5 days (no alcohol during course)
+- Tab. Paracetamol 650 mg SOS for pain (max 3 doses/day)
+- Tab. Diclofenac 50 mg 1-0-1 after food x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting or unable to take food and fluids orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 13.04.2026 (Mon) (POD 7)
+  * Review with HPE report - General Surgery OPD on 20.04.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Vivek Rathore (Consultant)

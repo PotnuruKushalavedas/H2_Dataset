@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Kishore Pawar
+Age / Sex    : 67 yrs / Male
+UHID         : CDH9279479      IP No: IP/26/298161
+Admitted on  : 28/03/2026      Discharged on: 31/03/2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 67/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 151/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 85/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 56%; S. Cr 0.7 mg/dl; Hb 12.8 g/dl; TSH 3.5 mIU/L; Weight 85 kg; CrCl (Cockcroft-Gault) 123 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 124/72 mmHg, PR 86/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate ER 25 mg 1-0-0 lifelong
+- Cap. Pradaxa 150 mg 1-0-1 lifelong
+- Tab. Amlodipine 5 mg 1-0-0 lifelong
+To continue other previous medicines for T2DM as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 15/04/2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Prakash Nair (Consultant)

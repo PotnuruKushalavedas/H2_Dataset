@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Babu Qureshi    Age: 77 years    Sex: Male
+UHID: CDH3183733    IP Number: IP/26/181663
+Date of admission: 09 Jul 2026    Date of discharge: 17 Jul 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 31%
+
+HISTORY:
+  - 77/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 68 kg to 64 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 2827 pg/ml; S. Cr 0.9 mg/dl; Na 136 mEq/L; K 3.9 mEq/L; 2D Echo: LVEF 31%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 74/min, SpO2 99% on RA. Dry weight 64 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide 40 mg twice daily (morning and afternoon) till the next review
+2. Tablet Metoprolol Succinate ER 12.5 mg once daily in the morning to continue lifelong
+3. Tablet Ramipril 2.5 mg once daily in the morning to continue lifelong
+4. Tablet Spironolactone (Aldactone) 25 mg once daily in the morning to continue lifelong
+5. Tablet Empagliflozin 10 mg once daily in the morning lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 24 Jul 2026 (Fri). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - 2D Echo + review in Cardiology OPD on 15 Oct 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Prakash Nair (Consultant)

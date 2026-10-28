@@ -1,0 +1,112 @@
+{
+  "summary_id": "H2S-FOP0GWL8",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Torsemide (Dytor)",
+        "dose": "10 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "till next review",
+        "how_to_take_plain": "Take 1 tablet (10 mg) once a day, in the morning, until your next check-up."
+      },
+      {
+        "name": "Carvedilol",
+        "dose": "½ tablet of 6.25 mg (3.125 mg)",
+        "frequency": "BD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take half (½) a tablet of 6.25 mg, that is 3.125 mg, twice a day, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Sacubitril + Valsartan (24/26 mg)",
+        "dose": "50 mg",
+        "frequency": "BD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (50 mg) twice a day, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Spironolactone",
+        "dose": "25 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (25 mg) once a day, in the morning, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Empagliflozin",
+        "dose": "10 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (10 mg) once a day, in the morning, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Aspirin (Ecosprin)",
+        "dose": "75 mg",
+        "frequency": "OD",
+        "timing": "after lunch",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (75 mg) once a day, after lunch, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Atorvastatin (Atorva)",
+        "dose": "40 mg",
+        "frequency": "HS",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, at bedtime, every day for life; do not stop on your own."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Weight goes up by more than 2 kg in 3 days",
+      "Breathless while resting or when lying flat",
+      "Swelling of the feet or legs getting worse",
+      "Passing much less urine than usual",
+      "Dizziness, fainting or passing out",
+      "Heart racing or beating unevenly"
+    ],
+    "diet": [
+      "Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen",
+      "Drink no more than 1.5 litres of fluid a day in total (count water, tea, milk and dal)"
+    ],
+    "activity": [
+      "Slowly increase your walking day by day, as much as you comfortably can"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-02-16",
+        "with_whom": "Heart Failure Clinic (Cardiology OPD)",
+        "purpose": "Check-up with your test reports. Bring with you: your creatinine (kidney test) report, your electrolytes (blood salts) report, your weight chart",
+        "bring": [
+          "your creatinine (kidney test) report",
+          "your electrolytes (blood salts) report",
+          "your weight chart"
+        ]
+      },
+      {
+        "date": "2026-05-11",
+        "with_whom": "Cardiology (heart) OPD",
+        "purpose": "Repeat heart scan (2D Echo) and check-up",
+        "bring": []
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Weigh yourself every morning and write it down",
+      "Do not buy and take painkillers from a chemist without asking a doctor"
+    ],
+    "continue_previous_medications": true
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Rekha Gaikwad    Age: 50 years\nWent home from hospital on: 2026-02-09 (9 February 2026)\n\nWHY YOU WERE IN HOSPITAL\nYour heart is weak and does not pump well (heart failure). Extra water collected in your lungs and legs and was removed in hospital.\n\nYOUR MEDICINES (take exactly as written)\n1. Torsemide (Dytor) 10 mg\n   - Take 1 tablet (10 mg) once a day, in the morning, until your next check-up.\n   - What it is for: removes extra water from the body by making you pass more urine.\n2. Carvedilol ½ tablet of 6.25 mg (3.125 mg)\n   - Take half (½) a tablet of 6.25 mg, that is 3.125 mg, twice a day, every day for life; do not stop on your own.\n   - What it is for: slows the heart rate and helps a weak heart.\n3. Sacubitril + Valsartan (24/26 mg) 50 mg\n   - Take 1 tablet (50 mg) twice a day, every day for life; do not stop on your own.\n   - What it is for: helps a weak heart pump better and lowers blood pressure.\n4. Spironolactone 25 mg\n   - Take 1 tablet (25 mg) once a day, in the morning, every day for life; do not stop on your own.\n   - What it is for: helps a weak heart and removes extra water.\n5. Empagliflozin 10 mg\n   - Take 1 tablet (10 mg) once a day, in the morning, every day for life; do not stop on your own.\n   - What it is for: helps the heart and kidneys.\n6. Aspirin (Ecosprin) 75 mg\n   - Take 1 tablet (75 mg) once a day, after lunch, every day for life; do not stop on your own.\n   - What it is for: thins the blood to prevent clots.\n7. Atorvastatin (Atorva) 40 mg\n   - Take 1 tablet (40 mg) once a day, at bedtime, every day for life; do not stop on your own.\n   - What it is for: lowers cholesterol and protects the heart and blood vessels.\n* Keep taking your earlier medicines for thyroid exactly as before (they are not listed here).\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Weight goes up by more than 2 kg in 3 days\n- Breathless while resting or when lying flat\n- Swelling of the feet or legs getting worse\n- Passing much less urine than usual\n- Dizziness, fainting or passing out\n- Heart racing or beating unevenly\n\nFOOD\n- Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen\n- Drink no more than 1.5 litres of fluid a day in total (count water, tea, milk and dal)\n\nACTIVITY\n- Slowly increase your walking day by day, as much as you comfortably can\n\nOTHER ADVICE\n- Weigh yourself every morning and write it down\n- Do not buy and take painkillers from a chemist without asking a doctor\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-02-16 (Monday, 16 February 2026): Heart Failure Clinic (Cardiology OPD). Check-up with your test reports. Bring with you: your creatinine (kidney test) report, your electrolytes (blood salts) report, your weight chart.\n- 2026-05-11 (Monday, 11 May 2026): Cardiology (heart) OPD. Repeat heart scan (2D Echo) and check-up.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Rekha Gaikwad    उम्र: 50 साल\nअस्पताल से छुट्टी की तारीख़: 2026-02-09 (9 फ़रवरी 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपका दिल कमज़ोर है और ठीक से खून पंप नहीं करता (हार्ट फ़ेल्योर)। फेफड़ों और पैरों में जमा फ़ालतू पानी अस्पताल में निकाला गया।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Torsemide (Dytor) 10 mg\n   - दिन में 1 बार, सुबह: 1 गोली (10 mg) लें; अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: ज़्यादा पेशाब के ज़रिए शरीर से फ़ालतू पानी निकालने के लिए।\n2. Carvedilol 6.25 mg की ½ गोली (3.125 mg)\n   - दिन में 2 बार: 6.25 mg की आधी (½) गोली लें, यानी 3.125 mg; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: दिल की धड़कन धीमी रखने और कमज़ोर दिल की मदद के लिए।\n3. Sacubitril + Valsartan (24/26 mg) 50 mg\n   - दिन में 2 बार: 1 गोली (50 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: कमज़ोर दिल को बेहतर पंप करने में मदद करने और ब्लड प्रेशर कम करने के लिए।\n4. Spironolactone 25 mg\n   - दिन में 1 बार, सुबह: 1 गोली (25 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: कमज़ोर दिल की मदद करने और शरीर से फ़ालतू पानी निकालने के लिए।\n5. Empagliflozin 10 mg\n   - दिन में 1 बार, सुबह: 1 गोली (10 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: दिल और गुर्दों (kidney) की मदद के लिए।\n6. Aspirin (Ecosprin) 75 mg\n   - दिन में 1 बार, दोपहर के खाने के बाद: 1 गोली (75 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: खून को पतला रखकर थक्का (clot) बनने से रोकने के लिए।\n7. Atorvastatin (Atorva) 40 mg\n   - दिन में 1 बार, रात को सोते समय: 1 गोली (40 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: कोलेस्ट्रॉल कम करने और दिल व नसों की रक्षा के लिए।\n* थायरॉइड की अपनी पुरानी दवाइयाँ पहले की तरह ही लेना जारी रखें (वे यहाँ नहीं लिखी हैं)।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- 3 दिन में वज़न 2 kg से ज़्यादा बढ़ जाना\n- आराम करते समय या सीधा लेटने पर सांस फूलना\n- पैरों या टांगों की सूजन बढ़ना\n- पेशाब सामान्य से बहुत कम आना\n- चक्कर आना, बेहोश होना या होश खो देना\n- दिल की धड़कन बहुत तेज़ या अनियमित (कभी तेज़, कभी रुक-रुक कर) होना\n\nखाना\n- कम नमक वाला खाना: दिन में 5 g से कम नमक; अचार, पापड़ और नमकीन न खाएँ\n- दिन भर में कुल 1.5 लीटर से ज़्यादा पानी/पेय न पिएँ (पानी, चाय, दूध और दाल सब गिनें)\n\nचलना-फिरना और काम\n- धीरे-धीरे रोज़ थोड़ा ज़्यादा चलें, जितना आराम से चल सकें\n\nअन्य सलाह\n- रोज़ सुबह अपना वज़न तौलें और लिखकर रखें\n- डॉक्टर से पूछे बिना केमिस्ट से दर्द की दवा लेकर न खाएँ\n\nअगली बार अस्पताल कब आना है\n- 2026-02-16 (सोमवार, 16 फ़रवरी 2026): हार्ट फ़ेल्योर क्लिनिक (Cardiology OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ। साथ लाएँ: क्रिएटिनिन (गुर्दे की जाँच) की रिपोर्ट, इलेक्ट्रोलाइट्स (खून में नमक) की रिपोर्ट, अपना वज़न चार्ट।\n- 2026-05-11 (सोमवार, 11 मई 2026): दिल के रोग की ओपीडी (Cardiology OPD)। दोबारा दिल की जाँच (2D Echo) करवाएँ और डॉक्टर को दिखाएँ।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.14
+  }
+}

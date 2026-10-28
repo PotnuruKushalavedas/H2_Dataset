@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Satish Siddiqui
+Age / Sex    : 59 yrs / Male
+UHID         : CDH8708712      IP No: IP/26/159870
+Admitted on  : 01.03.2026      Discharged on: 06.03.2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute exacerbation of COPD (infective)
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 59/M, chronic smoker (30 pack-yrs), k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Investigations:
+  * ABG at admission: pH 7.34, pCO2 48 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 14,300/cumm; RBS 143 mg/dl; ECG: sinus rhythm; S. Cr 0.7 mg/dl
+
+Condition at Discharge: Breathlessness mMRC grade 2. BP 124/72 mmHg, PR 74/min, SpO2 92% on RA.
+
+Medications at Discharge:
+- Rotacap Tiotropium 18 mcg 1 cap 1-0-0 long term (lifelong) (via rotahaler)
+- Inh. Budesonide + Formoterol (6/200 mcg) 2 puffs 1-0-1 lifelong (via spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+- Tab. Prednisolone 40 mg 1-0-0 after breakfast x 5 days
+- Tab. Amoxicillin + Clavulanic acid 625 mg 1-0-1 PC x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Tab. Metformin 1000 mg 1-0-1 after food lifelong
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Pursed lip breathing + daily walk as tolerated
+  General:
+    * Inhaler technique taught; to use with spacer
+    * Flu + pneumococcal vaccine advised
+    * Stop smoking and all forms of tobacco
+    * Monitor blood sugar daily while on prednisolone course
+
+Danger signs - report to Casualty immediately:
+  * Breathlessness / difficulty in breathing
+  * Wheeze / breathlessness not settling with reliever inhaler
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Fever > 100.4 F (38 C)
+  * Increase in sputum quantity or change to yellow/green colour
+
+Follow-up:
+  * Review with reports - Chest OPD on 16.03.2026
+  * PFT / spirometry - Pulmonary Medicine (Chest) OPD on 10.04.2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. T. Raghavan (Consultant)

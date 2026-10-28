@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Nasreen Naidu    Age: 72 years    Sex: Female
+UHID: CDH1575810    IP Number: IP/26/277559
+Date of admission: 15 Aug 2026    Date of discharge: 21 Aug 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 72/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 154/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 84/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 56%; S. Cr 0.7 mg/dl; Hb 12.3 g/dl; TSH 3.7 mIU/L; Weight 49 kg; CrCl (Cockcroft-Gault) 56 ml/min; CHA2DS2-VASc score 3
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 130/74 mmHg, PR 87/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Concor 5 mg once daily in the morning to continue lifelong
+2. Tablet Rivaroxaban (Xarelto) 20 mg once daily at night with evening meal to continue lifelong
+3. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+
+PLEASE STOP:
+  - Tab. Aspirin 75 mg (since started on anticoagulant)
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 05 Sep 2026. Please bring: ECG, S. Creatinine, CBC.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

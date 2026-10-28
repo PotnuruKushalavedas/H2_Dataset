@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Priya Kushwaha
+Age / Sex    : 80 yrs / Female
+UHID         : CDH1792352      IP No: IP/26/404626
+Admitted on  : 20/03/2026      Discharged on: 25/03/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+
+Brief History:
+  * 80/F, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 159/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 80/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 51%; S. Cr 0.6 mg/dl; Hb 14.0 g/dl; TSH 3.5 mIU/L; Weight 48 kg; CrCl (Cockcroft-Gault) 56 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 110/76 mmHg, PR 84/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate ER 50 mg 1-0-0 long term (lifelong)
+- Tab. Rivaroxaban 20 mg 0-0-1 with evening meal long term (lifelong)
+
+- STOP Tab. Aspirin 75 mg (now on anticoagulant)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 09/04/2026 (Thu); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

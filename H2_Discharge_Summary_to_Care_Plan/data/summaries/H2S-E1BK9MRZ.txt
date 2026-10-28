@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Selvam Maurya    Age: 79 years    Sex: Male
+UHID: CDH1782092    IP Number: IP/26/411596
+Date of admission: 20th May 2026    Date of discharge: 26th May 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 38%
+
+HISTORY:
+  - 79/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 14 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 72 kg to 68 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 2746 pg/ml; S. Cr 1.6 mg/dl; Na 135 mEq/L; K 4.2 mEq/L; 2D Echo: LVEF 38%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 72/min, SpO2 98% on RA. Dry weight 68 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Frusemide 40 mg once daily in the morning till the next review
+2. Tablet Metoprolol Succinate ER (Met XL) 12.5 mg once daily in the morning lifelong
+3. Tablet Ramipril (Cardace) 2.5 mg once daily in the morning lifelong
+4. Tablet Spironolactone (Aldactone) 25 mg once daily in the morning lifelong
+5. Tablet Empagliflozin 10 mg once daily in the morning lifelong
+
+PLEASE STOP:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Heart Failure Clinic, Cardiology OPD on 5th June 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

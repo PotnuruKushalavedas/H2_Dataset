@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Lakshmi Shaikh
+Age / Sex    : 62 yrs / Female
+UHID         : CDH7139931      IP No: IP/26/994933
+Admitted on  : 25/03/2026      Discharged on: 01/04/2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Dilated cardiomyopathy, LVEF 29%
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 62/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5 L; weight down from 56 kg to 51 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 3728 pg/ml; S. Cr 0.5 mg/dl; Na 140 mEq/L; K 4.2 mEq/L; 2D Echo: LVEF 29%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 81/min, SpO2 96% on RA. Dry weight 51 kg.
+
+Medications at Discharge:
+- Tab. Torsemide 10 mg 1-0-0 till review
+- Tab. Bisoprolol 2.5 mg 1-0-0 lifelong
+- Tab. Sacubitril + Valsartan 50 mg 1-0-1 lifelong
+- Tab. Spironolactone 25 mg 1-0-0 long term (lifelong)
+- Tab. Empagliflozin 10 mg 1-0-0 long term (lifelong)
+- Tab. Metformin 1000 mg 1-0-1 PC lifelong
+
+- STOP Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Daily morning weight - maintain record
+    * Do not take painkillers from the chemist without doctor's advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest or on lying flat
+  * Increasing swelling of feet or legs
+  * Urine output markedly reduced
+  * Giddiness, fainting or loss of consciousness
+  * Palpitations - fast / irregular heart beat
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 08/04/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

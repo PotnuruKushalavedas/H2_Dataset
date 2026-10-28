@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Amit Lal    Age: 45 years    Sex: Male
+UHID: CDH5325666    IP Number: IP/26/329563
+Date of admission: 22 Apr 2026    Date of discharge: 29 Apr 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Hypothyroidism
+
+HISTORY:
+  - 45/M, k/c/o T2DM x 10 yrs, stopped medicines 3 months ago, presented with polyuria, polydipsia, generalised weakness x 12 days. RBS 450 mg/dl, urine ketones negative.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 9.8%; FBS 304 mg/dl; PPBS 423 mg/dl; S. Cr 1.0 mg/dl; Urine routine: sugar ++, ketones nil; Hb 14.2 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 120/74 mmHg, PR 84/min, SpO2 99% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Glycomet 500 mg twice daily PC until the next visit
+2. Tablet Vildagliptin 50 mg twice daily till the next review
+3. Tablet Atorvastatin 10 mg once daily at bedtime lifelong
+4. Tablet Paracetamol (Crocin) 650 mg only if needed (SOS) for fever / pain (not more than 3 doses in 24 h)
+5. Tablet Thyronorm 75 mcg once daily in the morning on empty stomach to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Blood sugar above 300 mg/dl on two readings
+
+REVIEW:
+  - Review with reports in DM clinic, Medicine OPD on 06 May 2026 (Wed). Please bring: FBS, PPBS.
+  - HbA1c and review in Diabetes Clinic (Medicine OPD) on 28 Jul 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

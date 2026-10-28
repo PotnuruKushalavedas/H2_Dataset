@@ -1,0 +1,98 @@
+{
+  "summary_id": "H2S-1D8HSN7F",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Enoxaparin",
+        "dose": "40 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "11 days",
+        "how_to_take_plain": "Inject 40 mg under the skin once a day, in the morning, for 11 days. Inject under the skin of the belly."
+      },
+      {
+        "name": "Paracetamol",
+        "dose": "650 mg",
+        "frequency": "TDS (1-1-1)",
+        "timing": "after food",
+        "duration": "2 weeks",
+        "how_to_take_plain": "Take 1 tablet (650 mg) three times a day (morning, afternoon and night), after food, for 2 weeks."
+      },
+      {
+        "name": "Tramadol",
+        "dose": "50 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 1 capsule (50 mg) only when the pain is severe. Do not take more than 2 doses in a day."
+      },
+      {
+        "name": "Pantoprazole (Pantocid)",
+        "dose": "40 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "half an hour before breakfast",
+        "duration": "2 weeks",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, half an hour before breakfast, for 2 weeks."
+      },
+      {
+        "name": "Calcium + Vitamin D3",
+        "dose": "500 mg",
+        "frequency": "BD (1-1-0)",
+        "timing": "after food",
+        "duration": "3 months",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 3 months."
+      },
+      {
+        "name": "Cholecalciferol (Vitamin D3)",
+        "dose": "60,000 IU",
+        "frequency": "once weekly",
+        "timing": "",
+        "duration": "8 weeks",
+        "how_to_take_plain": "Take 1 sachet (60,000 IU) once a week, for 8 weeks. Take it on the same day every week. Take it with a glass of milk."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Pain in the calf (back of the lower leg), or swelling of the leg (could be a blood clot in a leg vein)",
+      "Wound becomes red or swollen, or pus or fluid comes out of it",
+      "Fever above 100.4 F (38 C)",
+      "Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood",
+      "Breathlessness or trouble breathing"
+    ],
+    "diet": [
+      "Eat protein-rich food (dal, eggs, milk, paneer) to help healing"
+    ],
+    "activity": [
+      "Do the knee bending-and-straightening and thigh-muscle exercises the physiotherapist taught you, 3 to 4 times a day",
+      "Walk with a walker; you may put as much weight on the leg as is comfortable",
+      "Do not squat or sit cross-legged; use a western (sitting) toilet"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-06-12",
+        "with_whom": "Orthopaedics (bone) OPD",
+        "purpose": "Removal of skin clips (staples) and wound check. Bring with you: your X-ray",
+        "bring": [
+          "your X-ray"
+        ]
+      }
+    ],
+    "wound_care": [
+      "Keep the wound clean and dry",
+      "Do not open the dressing; it will be changed at your check-up"
+    ],
+    "other_advice": [
+      "Put an ice pack on the knee for 15 to 20 minutes, 3 to 4 times a day"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Ashok Bora    Age: 68 years\nWent home from hospital on: 2026-06-01 (1 June 2026)\n\nWHY YOU WERE IN HOSPITAL\nYour left knee joint was badly worn out (osteoarthritis). It was replaced with an artificial joint (total knee replacement).\n\nYOUR MEDICINES (take exactly as written)\n1. Enoxaparin 40 mg\n   - Inject 40 mg under the skin once a day, in the morning, for 11 days.\n   - Inject under the skin of the belly.\n   - What it is for: injection that prevents blood clots in the legs.\n2. Paracetamol 650 mg\n   - Take 1 tablet (650 mg) three times a day (morning, afternoon and night), after food, for 2 weeks.\n   - What it is for: relieves pain and fever.\n3. Tramadol 50 mg\n   - Take 1 capsule (50 mg) only when the pain is severe.\n   - Do not take more than 2 doses in a day.\n   - What it is for: strong painkiller, only if the pain is severe.\n4. Pantoprazole (Pantocid) 40 mg\n   - Take 1 tablet (40 mg) once a day, half an hour before breakfast, for 2 weeks.\n   - What it is for: reduces stomach acid and protects the stomach.\n5. Calcium + Vitamin D3 500 mg\n   - Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 3 months.\n   - What it is for: calcium for strong bones.\n6. Cholecalciferol (Vitamin D3) 60,000 IU\n   - Take 1 sachet (60,000 IU) once a week, for 8 weeks.\n   - Take it on the same day every week.\n   - Take it with a glass of milk.\n   - What it is for: vitamin D for strong bones.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Pain in the calf (back of the lower leg), or swelling of the leg (could be a blood clot in a leg vein)\n- Wound becomes red or swollen, or pus or fluid comes out of it\n- Fever above 100.4 F (38 C)\n- Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood\n- Breathlessness or trouble breathing\n\nFOOD\n- Eat protein-rich food (dal, eggs, milk, paneer) to help healing\n\nACTIVITY\n- Do the knee bending-and-straightening and thigh-muscle exercises the physiotherapist taught you, 3 to 4 times a day\n- Walk with a walker; you may put as much weight on the leg as is comfortable\n- Do not squat or sit cross-legged; use a western (sitting) toilet\n\nWOUND CARE\n- Keep the wound clean and dry\n- Do not open the dressing; it will be changed at your check-up\n\nOTHER ADVICE\n- Put an ice pack on the knee for 15 to 20 minutes, 3 to 4 times a day\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-06-12 (Friday, 12 June 2026): Orthopaedics (bone) OPD. Removal of skin clips (staples) and wound check. Bring with you: your X-ray.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Ashok Bora    उम्र: 68 साल\nअस्पताल से छुट्टी की तारीख़: 2026-06-01 (1 जून 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपका बायाँ घुटना बहुत घिस गया था (osteoarthritis)। इसे नकली (कृत्रिम) जोड़ से बदला गया (total knee replacement)।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Enoxaparin 40 mg\n   - दिन में 1 बार, सुबह: 40 mg का इंजेक्शन त्वचा के नीचे लगाएँ; 11 दिन तक जारी रखें।\n   - पेट की त्वचा के नीचे इंजेक्शन लगाएँ।\n   - यह किसलिए है: पैरों की नसों में खून का थक्का बनने से रोकने वाला इंजेक्शन।\n2. Paracetamol 650 mg\n   - दिन में 3 बार (सुबह, दोपहर और रात), खाने के बाद: 1 गोली (650 mg) लें; 2 हफ़्ते तक जारी रखें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n3. Tramadol 50 mg\n   - सिर्फ़ तेज़ दर्द होने पर: 1 कैप्सूल (50 mg) लें।\n   - दिन भर में 2 बार से ज़्यादा न लें।\n   - यह किसलिए है: तेज़ असर वाली दर्द की दवा; सिर्फ़ तेज़ दर्द होने पर।\n4. Pantoprazole (Pantocid) 40 mg\n   - दिन में 1 बार, नाश्ते से आधा घंटा पहले: 1 गोली (40 mg) लें; 2 हफ़्ते तक जारी रखें।\n   - यह किसलिए है: पेट का एसिड कम करने और पेट की रक्षा के लिए।\n5. Calcium + Vitamin D3 500 mg\n   - दिन में 2 बार (सुबह और दोपहर), खाने के बाद: 1 गोली (500 mg) लें; 3 महीने तक जारी रखें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए कैल्शियम।\n6. Cholecalciferol (Vitamin D3) 60,000 IU\n   - हफ़्ते में 1 बार: 1 पाउच (60,000 IU) लें; 8 हफ़्ते तक जारी रखें।\n   - हर हफ़्ते एक ही दिन लें।\n   - एक गिलास दूध के साथ लें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए विटामिन D।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- पिंडली में दर्द, या टांग में सूजन (पैर की नस में खून का थक्का हो सकता है)\n- घाव में लाली या सूजन, या घाव से मवाद/पानी निकलना\n- 100.4 F (38 C) से ज़्यादा बुखार\n- कहीं से भी खून आना: मसूड़ों से, पेशाब में, काला या लाल मल (पाखाना), या खून की उल्टी\n- सांस फूलना या सांस लेने में तकलीफ़\n\nखाना\n- जल्दी ठीक होने के लिए प्रोटीन वाला खाना (दाल, अंडे, दूध, पनीर) खाएँ\n\nचलना-फिरना और काम\n- फ़िज़ियोथेरेपिस्ट ने घुटना मोड़ने-सीधा करने और जांघ की मांसपेशियों की जो कसरत सिखाई है, वह दिन में 3 से 4 बार करें\n- वॉकर के सहारे चलें; पैर पर उतना वज़न डालना ठीक है जितना आराम से सहा जा सके\n- उकड़ूँ न बैठें और पालथी मारकर न बैठें; वेस्टर्न (बैठने वाला) टॉयलेट इस्तेमाल करें\n\nघाव की देखभाल\n- घाव को साफ़ और सूखा रखें\n- पट्टी न खोलें; इसे जाँच के समय बदला जाएगा\n\nअन्य सलाह\n- घुटने पर दिन में 3 से 4 बार, 15 से 20 मिनट के लिए बर्फ़ की सिकाई करें\n\nअगली बार अस्पताल कब आना है\n- 2026-06-12 (शुक्रवार, 12 जून 2026): हड्डी रोग ओपीडी (Orthopaedics OPD)। स्टेपल (क्लिप) निकलवाने और घाव की जाँच के लिए। साथ लाएँ: X-ray।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.09
+  }
+}

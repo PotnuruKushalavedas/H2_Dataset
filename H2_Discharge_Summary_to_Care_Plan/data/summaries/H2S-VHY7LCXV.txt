@@ -1,0 +1,47 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Priya Reddy, 61/F  UHID: CDH3899869  IP: IP/26/526573
+DOA: 11-Aug-26  DOD: 16-Aug-26  Cons: Dr. R. Venkatesh (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Acute pyelonephritis (UTI)
+- Systemic hypertension
+- Hypothyroidism
+
+H/o: 61/F, k/c/o T2DM x 8 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 5 days. RBS at admission 390 mg/dl.
+
+Course: Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Ix: HbA1c 10.0%, FBS 250 mg/dl, PPBS 316 mg/dl, S. Cr 0.8 mg/dl, Urine routine: pus cells plenty, Hb 12.9 g/dl
+
+Condn at d/c: Afebrile, stable. BP 130/70 mmHg, PR 72/min, SpO2 97% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD PC till next review
+2) T. Amaryl 1 OD ½ hr before breakfast till review
+3) T. Cefixime 200 mg BD after food x 7/7
+4) T. Storvas 10 HS life long
+5) T. Eltroxin 100 mcg OD empty stomach life long
+Continue previous medications for HTN as before.
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- High fever with chills
+- Burning or pain while passing urine
+- Blood sugar above 300 mg/dl on two readings
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+F/U:
+- DM clinic, Medicine OPD on 26-Aug-26 - Review with reports with FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

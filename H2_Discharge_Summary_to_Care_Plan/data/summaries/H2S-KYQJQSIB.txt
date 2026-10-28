@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Arjun Thakur                   Age/Sex  : 51 Y / M
+UHID       : CDH8361487                     IP No.   : IP/26/872088
+DOA        : 25 Apr 2026                    DOD      : 01 May 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 51/M, presented with retrosternal chest pain with sweating x 6 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 26 Apr 2026: CAG showed 97% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (26 Apr 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.7 g/dl | S. Cr 0.8 mg/dl | K 4.7 mEq/L | LDL 155 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 44%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/78 mmHg, PR 73/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| No | Medicine                     | Dose  | Route | Frequency  | Duration         | Instructions                                                                   |
++----+------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                 | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                                    |
+| 2  | Tab. Clopitab                | 75 mg | PO    | OD (1-0-0) | 12 months        |                                                                                |
+| 3  | Tab. Rosuvastatin            | 20 mg | PO    | HS (0-0-1) | Lifelong         |                                                                                |
+| 4  | Tab. Metoprolol Succinate ER | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 5  | Tab. Ramipril (Cardace)      | 5 mg  | PO    | OD (1-0-0) | Lifelong         |                                                                                |
+| 6  | Tab. Rablet                  | 20 mg | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate    | 5 mg  | SL    | SOS        | -                | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+------------------------------+-------+-------+------------+------------------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness / difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 08 May 2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

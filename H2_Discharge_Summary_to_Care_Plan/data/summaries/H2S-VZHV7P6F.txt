@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Bhaskar Murmu
+Age / Sex    : 40 yrs / Male
+UHID         : CDH9960987      IP No: IP/26/270492
+Admitted on  : 06.06.2026      Discharged on: 12.06.2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Brief History:
+  * 40/M, presented with cough x 9 weeks, evening rise of temperature, loss of appetite and weight loss of 8 kg, with 2 episodes of streaky haemoptysis.
+
+Course in Hospital:
+  * Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 07.06.2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations:
+  * Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: bilateral upper zone infiltrates with cavity; Hb 12.0 g/dl; LFT: within normal limits; RBS 137 mg/dl; HIV: non-reactive; Weight 53 kg
+
+Condition at Discharge: Afebrile for 3 days, tolerating ATT. BP 126/72 mmHg, PR 67/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. 4-FDC (HRZE) (Forecox) 4 tabs 1-0-0 empty stomach x 51 days (weight-band dose; to complete 8 weeks of intensive phase; review for CP thereafter)
+- Tab. Pyridoxine 10 mg 1-0-0 till next review
+
+Advice on Discharge:
+  Diet:
+    * High-protein nutritious diet (dal, eggs, milk, soya)
+    * Strictly no alcohol
+  General:
+    * Take TB medicines daily without missing a dose; complete the full course
+    * Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    * Family members to be screened for TB at the nearest health centre
+    * Stop smoking and all forms of tobacco
+    * Orange-red urine expected with rifampicin (harmless)
+
+Danger signs - report to Casualty immediately:
+  * Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  * Blurring of vision or difficulty in telling colours apart
+  * Skin rash or itching all over the body
+  * Haemoptysis (coughing out blood)
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with LFT - DOTS centre / TB clinic on 26.06.2026
+  * Sputum examination at end of intensive phase - TB clinic (DOTS centre) on 03.08.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. T. Raghavan (Consultant)

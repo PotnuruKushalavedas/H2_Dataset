@@ -1,0 +1,49 @@
+CDH / General Medicine / DISCHARGE SUMMARY
+Name - Krishna Banerjee | 34 Y/M | UHID CDH9344060 | IP IP/26/879673
+DOA - 28-07-2026 | DOD - 01-08-2026 | Consultant - Dr. Anil Bhosale, Medicine Unit III
+
+Diagnosis -
+  • Diabetic ketoacidosis (moderate) - resolved
+  • Type 2 diabetes mellitus (ketosis-prone)
+  • Systemic hypertension
+  • Hypothyroidism
+
+Presenting complaints & history - 34/M, k/c/o T2DM x 7 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+Hospital course -
+  • Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 41 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations -
+  • Admission ABG: pH 7.14, HCO3 13 mEq/L | Urine ketones +++ | RBS at admission 465 mg/dl | HbA1c 11.6% | S. Cr 0.6 mg/dl | K 4.3 mEq/L (at discharge)
+
+Status at discharge - Conscious, oriented, tolerating diet. BP 110/78 mmHg, PR 77/min, SpO2 99% on RA. Ketones negative.
+
+ADV ON DISCHARGE -
+• Inj. Insulin Glargine (Lantus) 16 units SC HS till next visit
+• Inj. Actrapid 6 units SC TDS 30 min before meals till review
+• Tab. Metformin 500 mg PO BD PC till review
+• Tab. Stamlo 5 mg PO OD lifelong
+• Tab. Levothyroxine 75 mcg PO OD empty stomach lifelong
+
+Instructions -
+  Diet:
+    • Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    • Small frequent meals; do not skip meals
+    • Adequate oral fluids - 2 to 3 litres per day
+  Others:
+    • Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    • Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    • Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    • Carry glucose / sugar at all times
+
+Report immediately to Casualty in case of -
+  • Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  • Blood sugar above 300 mg/dl on two readings
+  • Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow up -
+  • Review with SMBG chart - DM clinic, Medicine OPD on 06-08-2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Anil Bhosale (Consultant)

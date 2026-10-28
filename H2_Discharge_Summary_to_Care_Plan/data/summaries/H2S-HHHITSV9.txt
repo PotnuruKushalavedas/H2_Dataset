@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Subhash Gupta
+Age / Sex    : 85 yrs / Male
+UHID         : CDH1530966      IP No: IP/26/825208
+Admitted on  : 08.07.2026      Discharged on: 13.07.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+
+Brief History:
+  * 85/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 159/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 89/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 60%; S. Cr 0.9 mg/dl; Hb 14.1 g/dl; TSH 3.7 mIU/L; Weight 87 kg; CrCl (Cockcroft-Gault) 73 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 110/78 mmHg, PR 79/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol 5 mg 1-0-0 long term (lifelong)
+- Tab. Apixaban 5 mg 1-0-1 lifelong
+- Tab. Telmisartan 40 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 27.07.2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

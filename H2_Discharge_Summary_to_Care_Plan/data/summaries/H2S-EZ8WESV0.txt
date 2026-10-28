@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Renu Tiwari
+Age / Sex    : 67 yrs / Female
+UHID         : CDH4924019      IP No: IP/26/739057
+Admitted on  : 05/09/2026      Discharged on: 13/09/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Ischaemic cardiomyopathy, LVEF 27%
+
+Brief History:
+  * 67/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 50 kg to 44 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 7425 pg/ml; S. Cr 0.8 mg/dl; Na 135 mEq/L; K 4.2 mEq/L; 2D Echo: LVEF 27%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 84/min, SpO2 96% on RA. Dry weight 44 kg.
+
+Medications at Discharge:
+- Tab. Furosemide 40 mg 1-0-0 till review
+- Tab. Metoprolol Succinate 25 mg 1-0-0 lifelong
+- Tab. Enalapril 2.5 mg 1-0-1 lifelong
+- Tab. Spironolactone (Aldactone) 25 mg 1-0-0 long term (lifelong)
+- Tab. Jardiance 10 mg 1-0-0 lifelong
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Atorvastatin 40 mg 0-0-1 (HS) long term (lifelong)
+
+- STOP Tab. Diclofenac 50 mg (not safe with heart disease)
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Daily morning weight - maintain record
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing swelling of feet or legs
+  * Marked decrease in urine output
+  * Giddiness, fainting or loss of consciousness
+  * Palpitations - fast / irregular heart beat
+
+Follow-up:
+  * Review with reports - Heart Failure Clinic, Cardiology OPD on 21/09/2026 (Mon); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

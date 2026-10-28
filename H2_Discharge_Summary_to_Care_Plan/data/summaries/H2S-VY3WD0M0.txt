@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Sneha Gupta, 43/F  UHID: CDH1341603  IP: IP/26/621084
+DOA: 25-Apr-26  DOD: 27-Apr-26  Cons: Dr. Rajesh Kumar Verma (Surgery Unit II)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis
+- s/p Laparoscopic appendicectomy (25-Apr-26)
+- Hypothyroidism
+
+H/o: 43/F, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course: Emergency laparoscopic appendicectomy under GA on 25-Apr-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure: Laparoscopic appendicectomy under GA (25-Apr-26)
+
+Ix: TLC 17,500/cumm, CRP 45 mg/L, HPE: awaited, Hb 12.6 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 114/72 mmHg, PR 88/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Clavam 625 TDS after food x 5/7
+2) T. Calpol 500 mg SOS for fever / pain (max 3 doses/day)
+3) T. Pantocid 40 mg OD ½ hr before breakfast x 5 days
+4) T. Eltroxin 100 mcg OD empty stomach life long
+
+Adv:
+  Diet:
+  - Soft diet x 1 week, then normal diet
+  Activity:
+  - Early ambulation - walk in the house several times a day
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound:
+  - Keep the wound clean and dry
+  - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Review SOS if:
+- Fever > 100.4 F (38 C)
+- Redness, swelling, pus or discharge from the wound
+- Severe or increasing pain in abdomen
+- Persistent vomiting / not able to take orally
+- Distension of abdomen with no passage of stool or gas
+
+F/U:
+- General Surgery OPD on 05-May-26 - Wound inspection (POD 10)
+- Surgery OPD on 09-May-26 - Review with histopathology report
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Rajesh Kumar Verma (Consultant)

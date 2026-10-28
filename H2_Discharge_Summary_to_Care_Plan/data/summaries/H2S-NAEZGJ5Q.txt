@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Subhash Prajapati, 54/M  UHID: CDH4060252  IP: IP/26/334591
+DOA: 23-Jun-26  DOD: 02-Jul-26  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Dilated cardiomyopathy, LVEF 30%
+- Hypothyroidism
+
+H/o: 54/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 60 kg to 56 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 5184 pg/ml, S. Cr 0.8 mg/dl, Na 132 mEq/L, K 4.8 mEq/L, 2D Echo: LVEF 30%, global hypokinesia, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 83/min, SpO2 97% on RA. Dry weight 56 kg.
+
+Rx on discharge:
+1) T. Lasix 40 mg OD till review
+2) T. Bisoprolol 2.5 mg OD lifelong
+3) T. Vymada 50 BD lifelong
+4) T. Jardiance 10 mg OD lifelong
+5) T. Eltroxin 50 mcg OD on empty stomach life long
+
+STOP Tab. Dilzem 30 mg (contraindicated in HFrEF)
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing swelling of feet or legs
+- Urine output markedly reduced
+- Giddiness / fainting / LOC
+- Palpitations (fast or irregular heartbeat)
+
+F/U:
+- Cardiology OPD on 09-Jul-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Saroj Kulkarni, 65/F  UHID: CDH5155167  IP: IP/26/890838
+DOA: 15-Apr-26  DOD: 19-Apr-26  Cons: Dr. Farah Siddiqui (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+- Primary open-angle glaucoma
+
+H/o: 65/F, k/c/o T2DM x 11 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.9%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 10.9%, FBS 279 mg/dl, PPBS 269 mg/dl, S. Cr 0.8 mg/dl, Urine microalbumin 28 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 114/80 mmHg, PR 75/min, SpO2 98% on RA. Pre-meal sugars 166-187 mg/dl.
+
+Rx on discharge:
+1) Inj. Human Mixtard 30 12-0-6 IU SC 30 min before breakfast and dinner till review
+2) T. Metformin 1000 mg BD after food lifelong
+3) T. Storvas 20 mg HS lifelong
+To continue other previous medicines for glaucoma as before (unchanged).
+
+STOP Tab. Amaryl 1 mg (now on insulin)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Always carry sugar or glucose with you
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 27-Apr-26 (Mon) - Review with sugar chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

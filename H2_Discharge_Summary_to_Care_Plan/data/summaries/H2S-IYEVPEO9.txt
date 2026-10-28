@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rajni Thomas                   Age/Sex  : 30 Y / F
+UHID       : CDH4751904                     IP No.   : IP/26/304500
+DOA        : 29/06/2026                     DOD      : 30/06/2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, FTNVD on 29/06/2026
+
+BRIEF HISTORY:
+  - 30/F, G2P1L1 at 40 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 3.11 kg, APGAR 9/10, on 29/06/2026. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 11.9 g/dl | Blood group O +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 124/70 mmHg, PR 68/min, SpO2 97% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+--------+-------+------------+----------+---------------------------+
+| No | Medicine                            | Dose   | Route | Frequency  | Duration | Instructions              |
++----+-------------------------------------+--------+-------+------------+----------+---------------------------+
+| 1  | Tab. Iron + Folic acid (IFA)        | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner              |
+| 2  | Tab. Calcium + Vitamin D3 (Shelcal) | 500 mg | PO    | BD (1-1-0) | 6 months | PC                        |
+| 3  | Tab. Paracetamol                    | 650 mg | PO    | SOS        | -        | for pain; max 3 doses/day |
++----+-------------------------------------+--------+-------+------------+----------+---------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Immunisation of baby as per schedule card
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Foul-smelling vaginal discharge
+  - Fever > 100.4 F (38 C)
+  - Painful, red, hard swelling of the breast with fever
+  - Severe headache / blurred vision / epigastric pain
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+
+FOLLOW-UP:
+  - PNC visit at 6 weeks - Obstetrics & Gynaecology OPD on 11/08/2026 (Tue); bring reports: Hb
+  - Baby's 6-week vaccines - Immunisation clinic (Paediatrics) on 11/08/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Nirmala Joshi (Consultant)

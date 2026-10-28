@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Abdul Gupta, 60/M  UHID: CDH3148794  IP: IP/26/312444
+DOA: 05/04/2026  DOD: 08/04/2026  Cons: Dr. Imran Qureshi (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute severe asthma (exacerbation of bronchial asthma)
+- Hypothyroidism
+
+H/o: 60/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 3 days, unable to complete sentences.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 174 to 367 L/min. Inhaler technique taught.
+
+Ix: PEFR at discharge 367 L/min, CXR: no pneumothorax, no consolidation, AEC 472/cumm, TLC 10,600/cumm
+
+Condn at d/c: No wheeze at rest, speaking full sentences. BP 114/74 mmHg, PR 69/min, SpO2 96% on RA.
+
+Rx on discharge:
+1) MDI Budamate 200 2 puffs BD life long (with spacer; gargle after use)
+2) MDI Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+3) T. Prednisolone 30 mg OD x 5 days then 20 mg OD x 5/7 then 10 mg OD x 5/7 then stop (after breakfast)
+4) T. Montair 10 HS x 1 month
+5) T. Levothyroxine 50 mcg OD on empty stomach lifelong
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Avoid triggers - dust / smoke / cold air
+  Others:
+  - Inhaler technique demonstrated - use with spacer
+  - Stop smoking and all forms of tobacco
+
+Review SOS if:
+- Wheeze or breathlessness not relieved by the reliever inhaler
+- Unable to speak full sentences due to breathlessness
+- Bluish lips or fingertips, drowsiness or confusion
+- Chest pain / heaviness / sweating
+
+F/U:
+- Chest OPD on 15/04/2026 - Review with reports
+- Chest OPD on 06/05/2026 - PFT / spirometry
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Imran Qureshi (Consultant)

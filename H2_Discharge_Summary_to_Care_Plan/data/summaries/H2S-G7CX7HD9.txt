@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Seema Rathore
+Age / Sex    : 38 yrs / Female
+UHID         : CDH2824236      IP No: IP/26/571186
+Admitted on  : 07.05.2026      Discharged on: 14.05.2026
+Consultant   : Dr. Imran Qureshi, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Brief History:
+  * 38/F, presented with cough x 8 weeks, evening rise of temperature, loss of appetite and weight loss of 4 kg.
+
+Course in Hospital:
+  * Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 08.05.2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations:
+  * Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: left upper zone infiltrates with cavity; Hb 11.0 g/dl; LFT: within normal limits; RBS 96 mg/dl; HIV: non-reactive; Weight 38 kg
+
+Condition at Discharge: Afebrile for 3 days, tolerating ATT. BP 110/80 mmHg, PR 84/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. 4-FDC (HRZE) 3 tablets 1-0-0 empty stomach x 50 days (weight-band dose; to complete 8 weeks of intensive phase; review for CP thereafter)
+- Tab. Pyridoxine 10 mg 1-0-0 till review
+- Tab. Paracetamol 500 mg SOS for fever (not more than 4 doses in 24 h)
+
+Advice on Discharge:
+  Diet:
+    * High protein diet - dal / eggs / milk / soya
+    * Avoid alcohol completely
+  General:
+    * Daily ATT without missing doses - full course to be completed
+    * Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    * Household contacts - TB screening at nearest PHC
+    * Urine may turn orange-red due to TB medicine - harmless
+    * Rifampicin reduces the effect of contraceptive pills - use condom / IUCD for contraception
+
+Danger signs - report to Casualty immediately:
+  * Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  * Blurred vision / difficulty in distinguishing colours
+  * Skin rash or itching all over the body
+  * Haemoptysis (coughing out blood)
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with LFT - DOTS centre / TB clinic on 29.05.2026 (Fri)
+  * Sputum examination at end of intensive phase - DOTS centre / TB clinic on 04.07.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Imran Qureshi (Consultant)

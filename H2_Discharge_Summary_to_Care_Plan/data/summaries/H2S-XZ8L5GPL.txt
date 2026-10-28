@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Deepak Rao                     Age/Sex  : 46 Y / M
+UHID       : CDH5260359                     IP No.   : IP/26/685611
+DOA        : 27 Jun 2026                    DOD      : 03 Jul 2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+BRIEF HISTORY:
+  - 46/M, presented with cough x 6 weeks, evening rise of temperature, loss of appetite and weight loss of 6 kg, with 2 episodes of streaky haemoptysis.
+
+HOSPITAL COURSE:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 28 Jun 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+KEY INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: left upper zone infiltrates with cavity | Hb 11.7 g/dl | LFT: within normal limits | RBS 127 mg/dl | HIV: non-reactive | Weight 60 kg
+
+CONDITION AT DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 126/80 mmHg, PR 83/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration         | Instructions                                                                         |
++----+---------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------------+
+| 1  | Tab. HRZE (4-FDC)         | 4 tabs | PO    | OD (1-0-0) | 51 days          | empty stomach; as per weight band; to complete IP of 8 wks; review for CP thereafter |
+| 2  | Tab. Pyridoxine (Vit B6)  | 10 mg  | PO    | OD (1-0-0) | Till next review |                                                                                      |
+| 3  | Tab. Paracetamol (Calpol) | 650 mg | PO    | SOS        | -                | for pain; max 3 doses/day                                                            |
++----+---------------------------+--------+-------+------------+------------------+--------------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / soya
+    - Avoid alcohol completely
+  Other:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Family members to be screened for TB at the nearest health centre
+    - No smoking / no tobacco in any form
+    - Orange-red urine expected with rifampicin (harmless)
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Generalised skin rash / itching
+  - Haemoptysis (coughing out blood)
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - Review with LFT - TB clinic (DOTS centre) on 17 Jul 2026
+  - Sputum AFB at end of IP - DOTS centre / TB clinic on 24 Aug 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Kavita Deshmukh (Consultant)

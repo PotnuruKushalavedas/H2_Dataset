@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vikram Gaikwad                 Age/Sex  : 25 Y / M
+UHID       : CDH2255217                     IP No.   : IP/26/146987
+DOA        : 04/09/2026                     DOD      : 08/09/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 25/M, k/c/o T2DM x 2 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: acute gastroenteritis.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 43 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.14, HCO3 10 mEq/L | Urine ketones +++ | RBS at admission 476 mg/dl | HbA1c 13.7% | S. Cr 0.8 mg/dl | K 4.4 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 130/74 mmHg, PR 82/min, SpO2 99% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+---------+-------+------------+------------------+-----------------------------------------+
+| No | Medicine                    | Dose    | Route | Frequency  | Duration         | Instructions                            |
++----+-----------------------------+---------+-------+------------+------------------+-----------------------------------------+
+| 1  | Inj. Insulin Glargine       | 12 U    | SC    | HS (0-0-1) | Till next review |                                         |
+| 2  | Inj. NovoRapid              | 4-4-4 U | SC    | TDS        | Till next review | within 15 min before meals              |
+| 3  | Tab. Metformin (Glyciphage) | 500 mg  | PO    | BD (1-0-1) | Till review      | PC                                      |
+| 4  | Tab. Ondem                  | 4 mg    | PO    | SOS        | -                | for nausea or vomiting; max 3 doses/day |
++----+-----------------------------+---------+-------+------------+------------------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 15/09/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

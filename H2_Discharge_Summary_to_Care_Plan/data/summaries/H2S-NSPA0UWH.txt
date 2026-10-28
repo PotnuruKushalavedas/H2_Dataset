@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Deepak Deshpande               Age/Sex  : 79 Y / M
+UHID       : CDH8740974                     IP No.   : IP/26/987351
+DOA        : 30/05/2026                     DOD      : 06/06/2026
+Consultant : Dr. Imran Qureshi, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+BRIEF HISTORY:
+  - 79/M, h/o long-term chulha smoke exposure, k/c/o COPD x 4 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.33, pCO2 58 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 12,500/cumm | RBS 127 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 2. BP 124/70 mmHg, PR 86/min, SpO2 92% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                                            | Dose           | Route | Frequency  | Duration | Instructions                                                |
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Rotacap Tiotropium (Tiova)                          | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                               |
+| 2  | Inh. Budesonide + Formoterol (Foracort) (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | with spacer; gargle after use                               |
+| 3  | Inh. Asthalin (100 mcg)                             | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; not more than 8 puffs in 24 h |
+| 4  | Tab. Prednisolone                                   | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                                             |
+|    |   then                                              | 30 mg          |       | OD         | 3 days   |                                                             |
+|    |   then                                              | 20 mg          |       | OD         | 3 days   |                                                             |
+|    |   then                                              | 10 mg          |       | OD         | 3 days   | then stop                                                   |
+| 5  | Cap. Doxycycline                                    | 100 mg         | PO    | BD (1-0-1) | 5 days   | after food                                                  |
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed-lip breathing and daily walking as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other:
+    - Inhaler technique demonstrated - use with spacer
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 16/06/2026
+  - PFT / spirometry - Chest OPD on 18/07/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

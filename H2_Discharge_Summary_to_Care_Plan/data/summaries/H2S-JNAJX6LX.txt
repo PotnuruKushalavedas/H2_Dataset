@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Abdul Mishra, 66/M  UHID: CDH3048503  IP: IP/26/554557
+DOA: 30-Jul-26  DOD: 02-Aug-26  Cons: Dr. Anil Bhosale (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+- Hypothyroidism
+
+H/o: 66/M, k/c/o T2DM x 16 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.0%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 12.0%, FBS 210 mg/dl, PPBS 351 mg/dl, S. Cr 0.7 mg/dl, Urine microalbumin 151 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 120/72 mmHg, PR 84/min, SpO2 97% on RA. Pre-meal sugars 155-185 mg/dl.
+
+Rx on discharge:
+1) Inj. Huminsulin 30/70 20-0-10 units SC 30 min before breakfast and dinner till review
+2) T. Metformin 1000 mg BD after food life long
+3) T. Thyronorm 50 OD empty stomach lifelong
+
+STOP Tab. Amaryl 1 mg (now on insulin)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Always carry sugar or glucose with you
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 12-Aug-26 - Review with SMBG chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

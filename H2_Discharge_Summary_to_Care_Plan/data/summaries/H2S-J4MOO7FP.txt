@@ -1,0 +1,53 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rajni Patel                    Age/Sex  : 39 Y / F
+UHID       : CDH1596645                     IP No.   : IP/26/173238
+DOA        : 24/07/2026                     DOD      : 30/07/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+BRIEF HISTORY:
+  - 39/F, k/c/o T2DM x 13 yrs, presented with swelling, redness and pain over left foot x 5 days following a minor injury. RBS 360 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.8% | FBS 228 mg/dl | PPBS 327 mg/dl | S. Cr 0.6 mg/dl | Urine routine: sugar ++, ketones nil | Hb 13.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 124/76 mmHg, PR 80/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+-------------+------------------+---------------------------+
+| No | Medicine                           | Dose   | Route | Frequency   | Duration         | Instructions              |
++----+------------------------------------+--------+-------+-------------+------------------+---------------------------+
+| 1  | Tab. Metformin                     | 500 mg | PO    | BD (1-0-1)  | Lifelong         | after food                |
+| 2  | Tab. Empagliflozin                 | 10 mg  | PO    | OD (1-0-0)  | Till next review | after breakfast           |
+| 3  | Tab. Amoxicillin + Clavulanic acid | 625 mg | PO    | TDS (1-1-1) | 7 days           | PC                        |
+| 4  | Tab. Paracetamol                   | 650 mg | PO    | SOS         | -                | for pain; max 3 doses/day |
++----+------------------------------------+--------+-------+-------------+------------------+---------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - Diabetes Clinic (Medicine OPD) on 06/08/2026 (Thu); bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. S. K. Mishra (Consultant)

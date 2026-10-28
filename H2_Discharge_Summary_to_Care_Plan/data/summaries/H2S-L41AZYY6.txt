@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mukesh Joseph                  Age/Sex  : 48 Y / M
+UHID       : CDH5597591                     IP No.   : IP/26/446926
+DOA        : 16/07/2026                     DOD      : 25/07/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 26%
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 48/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 60 kg to 56 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 8875 pg/ml | S. Cr 0.7 mg/dl | Na 139 mEq/L | K 3.9 mEq/L | 2D Echo: LVEF 26%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 80/min, SpO2 96% on RA. Dry weight 56 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                                        | Dose   | Route | Frequency  | Duration    | Instructions |
++----+-------------------------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Dytor                                      | 20 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Bisoprolol                                 | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (Vymada) (24/26 mg) | 50 mg  | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone                             | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin                              | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Metformin                                  | 500 mg | PO    | BD (1-0-1) | Lifelong    | PC           |
++----+-------------------------------------------------+--------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 01/08/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

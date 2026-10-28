@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Joseph Kulkarni    Age: 82 years    Sex: Male
+UHID: CDH5084612    IP Number: IP/26/619672
+Date of admission: 12th August 2026    Date of discharge: 17th August 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. BPH
+
+HISTORY:
+  - 82/M, presented with palpitations and breathlessness on exertion x 9 days. ECG: AF with FVR (HR 151/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 77/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 56%; S. Cr 0.6 mg/dl; Hb 13.3 g/dl; TSH 1.3 mIU/L; Weight 79 kg; CrCl (Cockcroft-Gault) 106 ml/min; CHA2DS2-VASc score 2
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 130/74 mmHg, PR 88/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate (Seloken XL) 50 mg once daily in the morning lifelong
+2. Tablet Rivaroxaban 20 mg once daily at night with dinner to continue lifelong
+Continue previous medications for BPH as before.
+
+PLEASE STOP:
+  - Tab. Aspirin 75 mg (since started on anticoagulant)
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 31st August 2026. Please bring: ECG, S. Creatinine, CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

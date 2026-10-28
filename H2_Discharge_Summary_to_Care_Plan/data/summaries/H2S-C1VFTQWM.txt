@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Deepak Dhillon                 Age/Sex  : 69 Y / M
+UHID       : CDH1514257                     IP No.   : IP/26/942281
+DOA        : 09/04/2026                     DOD      : 16/04/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 22%
+
+BRIEF HISTORY:
+  - 69/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 74 kg to 69 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 9081 pg/ml | S. Cr 0.9 mg/dl | Na 140 mEq/L | K 4.3 mEq/L | 2D Echo: LVEF 22%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 81/min, SpO2 99% on RA. Dry weight 69 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                | Dose   | Route | Frequency  | Duration    | Instructions |
++----+-------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide         | 40 mg  | PO    | BD (1-1-0) | Till review |              |
+| 2  | Tab. Bisoprolol         | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Ramipril (Cardace) | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Spironolactone     | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin      | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
++----+-------------------------+--------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 23/04/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

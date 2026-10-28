@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Venkatesh D'Souza, 53/M  UHID: CDH9145130  IP: IP/26/183353
+DOA: 13/01/2026  DOD: 18/01/2026  Cons: Dr. Farah Siddiqui (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+H/o: 53/M, k/c/o T2DM x 12 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.9%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 11.9%, FBS 188 mg/dl, PPBS 344 mg/dl, S. Cr 0.7 mg/dl, Urine microalbumin 145 mg/g, Fundus: mild NPDR
+
+Condn at d/c: Stable. BP 120/76 mmHg, PR 85/min, SpO2 99% on RA. Pre-meal sugars 136-184 mg/dl.
+
+Rx on discharge:
+1) Inj. Huminsulin 30/70 16-0-8 U SC 30 min before breakfast and dinner till next review
+2) T. Glyciphage 500 mg BD PC life long
+3) T. Storvas 10 HS lifelong
+
+STOP Tab. Amaryl 1 mg (now on insulin)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Always carry sugar or glucose with you
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- DM clinic, Medicine OPD on 28/01/2026 (Wed) - Review with SMBG chart
+- Diabetes Clinic (Medicine OPD) on 18/04/2026 - Review with HbA1c with S. Creatinine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Farah Siddiqui (Consultant)

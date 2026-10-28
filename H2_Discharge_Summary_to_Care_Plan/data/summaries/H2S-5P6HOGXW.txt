@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Nirmala Patnaik
+Age / Sex    : 50 yrs / Female
+UHID         : CDH5000933      IP No: IP/26/138001
+Admitted on  : 21.03.2026      Discharged on: 25.03.2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+
+Brief History:
+  * 50/F, k/c/o bronchial asthma since childhood, irregular inhaler use, recently started on Tab. Propranolol for anxiety/tremors, presented with breathlessness and wheeze x 1 day, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 151 to 350 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 350 L/min; CXR: no pneumothorax, no consolidation; AEC 649/cumm; TLC 10,200/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 120/74 mmHg, PR 76/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 1 puff 1-0-1 till next review (with spacer; gargle after use)
+- Inh. Asthalin 100 mcg 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+- Tab. Prednisolone 30 mg 1-0-0 x 5 days, then 20 mg 1-0-0 x 5 days, then 10 mg 1-0-0 x 5 days, then stop (after breakfast)
+- Tab. Montelukast 10 mg 0-0-1 (HS) x 1 month
+
+- STOP Tab. Ciplar 10 mg (worsens asthma)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid triggers - dust / smoke / cold air
+    * Gradually increase walking as tolerated
+  General:
+    * Inhaler technique demonstrated - use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze / breathlessness not settling with reliever inhaler
+  * Too breathless to complete sentences
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Chest pain / heaviness / sweating
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 01.04.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. T. Raghavan (Consultant)

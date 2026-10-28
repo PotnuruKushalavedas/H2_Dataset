@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Harish Ansari
+Age / Sex    : 66 yrs / Male
+UHID         : CDH5171847      IP No: IP/26/903021
+Admitted on  : 26.05.2026      Discharged on: 01.06.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+  * Hypothyroidism
+
+Brief History:
+  * 66/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 7 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 18,800/cumm; CRP 127 mg/L; CXR: consolidation left lower lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 124/74 mmHg, PR 78/min, SpO2 98% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Cefuroxime (Ceftum) 500 mg 1-0-1 PC x 7 days
+- Tab. Paracetamol (Crocin) 500 mg SOS for pain (not more than 3 doses in 24 h)
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises 10 times every hour while awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+
+Danger signs - report to Casualty immediately:
+  * Fever recurring, or persisting for more than 3 days after discharge
+  * Breathlessness or difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 11.06.2026 (Thu); bring reports: CBC
+  * Repeat chest X-ray - Pulmonary Medicine (Chest) OPD on 13.07.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Anil Bhosale (Consultant)

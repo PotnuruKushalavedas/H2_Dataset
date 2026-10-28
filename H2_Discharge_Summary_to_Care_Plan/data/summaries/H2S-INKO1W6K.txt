@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Nitin Ansari, 48/M  UHID: CDH2261952  IP: IP/26/608479
+DOA: 13-Jul-26  DOD: 17-Jul-26  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - Anterior wall STEMI
+- CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+H/o: 48/M, smoker, presented with retrosternal chest pain with sweating x 5 hrs. ECG: ST elevation in V1-V5.
+
+Course: Taken up for primary PCI on 14-Jul-26: CAG showed 100% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Procedure: CAG + PCI with 1 DES to LAD (14-Jul-26)
+
+Ix: Hb 12.8 g/dl, S. Cr 1.1 mg/dl, K 4.7 mEq/L, LDL 132 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 37%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 114/78 mmHg, PR 86/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 OD after lunch life long
+2) T. Prasita 10 mg OD x 1 yr
+3) T. Storvas 80 HS lifelong
+4) T. Seloken XL 50 mg OD lifelong
+5) T. Cardace 2.5 OD life long
+6) T. Pantocid 40 mg OD 30 min before breakfast x 3/12
+7) T. Isosorbide Dinitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8) T. Aldactone 25 mg OD till next review
+9) T. Forxiga 10 mg OD lifelong
+
+Adv:
+  Diet:
+  - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - No driving for 1 week
+  Others:
+  - No smoking / no tobacco in any form
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness / difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 24-Jul-26 (Fri) - Review with reports with ECG, S. Creatinine, S. Electrolytes
+- Get Fasting lipid profile done on 31-Aug-26 (Mon) (Hospital laboratory)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

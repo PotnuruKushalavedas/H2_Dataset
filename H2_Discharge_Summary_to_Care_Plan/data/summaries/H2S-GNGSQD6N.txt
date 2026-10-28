@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Kishore Deshpande    Age: 50 years    Sex: Male
+UHID: CDH1125764    IP Number: IP/26/574277
+Date of admission: 24 Jun 2026    Date of discharge: 29 Jun 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+HISTORY:
+  - 50/M, k/c/o T2DM x 9 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 3 days. RBS at admission 408 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.4%; FBS 194 mg/dl; PPBS 263 mg/dl; S. Cr 0.6 mg/dl; Urine routine: pus cells plenty; Hb 13.3 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 130/74 mmHg, PR 68/min, SpO2 99% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin (Glyciphage) 500 mg twice daily after food till the next review
+2. Tablet Sitagliptin (Istavel) 100 mg once daily in the morning till the next review
+3. Tablet Cefixime 200 mg twice daily PC for 5 days
+4. Tablet Atorvastatin 20 mg once daily at bedtime to continue lifelong
+5. Tablet Paracetamol 650 mg only if needed (SOS) for fever or pain (max 4 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - High fever with chills
+  - Burning or pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Medicine OPD on 09 Jul 2026. Please bring: FBS, PPBS, Urine routine.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Anil Bhosale (Consultant)

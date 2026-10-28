@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Naresh Dhillon
+Age / Sex    : 54 yrs / Male
+UHID         : CDH7288862      IP No: IP/26/585478
+Admitted on  : 20/05/2026      Discharged on: 25/05/2026
+Consultant   : Dr. Manoj Kulkarni, MS (Orthopaedics) (Ortho Unit II)
+
+Final Diagnosis:
+  * Closed fracture distal end right radius
+  * s/p ORIF with volar locking plate (21/05/2026)
+
+Brief History:
+  * 54/M, h/o fall on outstretched hand 2 days back; pain, swelling and deformity right wrist.
+
+Course in Hospital:
+  * Limb immobilised in slab. Underwent ORIF with volar locking plate under brachial block on 21/05/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+Procedure:
+  * ORIF with volar locking plate under brachial block (21/05/2026)
+
+Investigations:
+  * Hb 12.6 g/dl; S. Cr 1.0 mg/dl; Weight 59 kg; Post-op X-ray: fracture fixed in good alignment; RBS 142 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, distal pulses felt. BP 118/74 mmHg, PR 87/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg SOS for fever / pain (not more than 4 doses in 24 h)
+- Tab. Calcium carbonate + Vit D3 (Shelcal) 500 mg 1-0-0 after food x 3 months
+- Tab. Pantoprazole (Pantocid) 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Limb elevation (hand above heart level) + active finger movements
+  Wound care:
+    * Keep the plaster slab dry; do not insert anything under it
+    * Keep the wound clean and dry
+
+Danger signs - report to Casualty immediately:
+  * Numbness, tingling, bluish colour or severe swelling of the operated hand
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+
+Follow-up:
+  * Removal of sutures - Ortho OPD on 04/06/2026 (Thu) (POD 14)
+  * Check X-ray and review - Orthopaedics OPD on 06/07/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Manoj Kulkarni (Consultant)

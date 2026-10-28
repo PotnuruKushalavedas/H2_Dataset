@@ -1,0 +1,75 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mukesh Gowda                   Age/Sex  : 66 Y / M
+UHID       : CDH8661806                     IP No.   : IP/26/538712
+DOA        : 19 Jun 2026                    DOD      : 23 Jun 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+  - 3. Systemic hypertension
+  - 4. BPH
+
+BRIEF HISTORY:
+  - 66/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 9.4 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 21 Jun 2026: 94% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (21 Jun 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.5 g/dl | S. Cr 0.8 mg/dl | K 3.9 mEq/L | LDL 124 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 37%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/72 mmHg, PR 78/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+-------+-------+------------+-------------+-------------------------------------------------------------+
+| No | Medicine                     | Dose  | Route | Frequency  | Duration    | Instructions                                                |
++----+------------------------------+-------+-------+------------+-------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)      | 75 mg | PO    | OD (0-1-0) | Lifelong    | after lunch                                                 |
+| 2  | Tab. Clopitab                | 75 mg | PO    | OD (1-0-0) | 1 year      |                                                             |
+| 3  | Tab. Rosuvastatin            | 20 mg | PO    | HS (0-0-1) | Lifelong    |                                                             |
+| 4  | Tab. Metoprolol Succinate    | 50 mg | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 5  | Tab. Ramipril                | 5 mg  | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 6  | Tab. Pantoprazole (Pantocid) | 40 mg | PO    | OD (1-0-0) | 3 months    | 30 min before breakfast                                     |
+| 7  | Tab. Isosorbide Dinitrate    | 5 mg  | SL    | SOS        | -           | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
+| 8  | Tab. Spironolactone          | 25 mg | PO    | OD (1-0-0) | Till review |                                                             |
+| 9  | Tab. Dapagliflozin           | 10 mg | PO    | OD (1-0-0) | Lifelong    |                                                             |
++----+------------------------------+-------+-------+------------+-------------+-------------------------------------------------------------+
+  Continue previous medications for BPH as before.
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 30 Jun 2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+  - Get Lipid profile (fasting) done on 04 Aug 2026 (Tue) (Hospital laboratory)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

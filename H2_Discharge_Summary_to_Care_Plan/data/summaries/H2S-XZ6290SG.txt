@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Suresh Jadhav                  Age/Sex  : 26 Y / M
+UHID       : CDH8218730                     IP No.   : IP/26/196870
+DOA        : 01/09/2026                     DOD      : 09/09/2026
+Consultant : Dr. Imran Qureshi, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+BRIEF HISTORY:
+  - 26/M, presented with cough x 9 weeks, evening rise of temperature, loss of appetite and weight loss of 5 kg.
+
+HOSPITAL COURSE:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 02/09/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+KEY INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: right upper zone infiltrates with cavity | Hb 10.8 g/dl | LFT: within normal limits | RBS 115 mg/dl | HIV: non-reactive | Weight 45 kg
+
+CONDITION AT DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 120/70 mmHg, PR 88/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------------------+--------+-------+------------+------------------+---------------------------------------------------------------------------------------------------------------+
+| No | Medicine                                                        | Dose   | Route | Frequency  | Duration         | Instructions                                                                                                  |
++----+-----------------------------------------------------------------+--------+-------+------------+------------------+---------------------------------------------------------------------------------------------------------------+
+| 1  | Tab. Isoniazid + Rifampicin + Pyrazinamide + Ethambutol (4-FDC) | 3 tabs | PO    | OD (1-0-0) | 49 days          | empty stomach; as per weight band; to complete 8 weeks of intensive phase; then review for continuation phase |
+| 2  | Tab. Pyridoxine                                                 | 10 mg  | PO    | OD (1-0-0) | Till next review |                                                                                                               |
+| 3  | Tab. Paracetamol (Dolo)                                         | 650 mg | PO    | SOS        | -                | for fever or pain; max 4 doses/day                                                                            |
++----+-----------------------------------------------------------------+--------+-------+------------+------------------+---------------------------------------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High-protein nutritious diet (dal, eggs, milk, soya)
+    - Avoid alcohol completely
+  Other:
+    - Daily ATT without missing doses - full course to be completed
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - No smoking / no tobacco in any form
+    - Orange-red urine expected with rifampicin (harmless)
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Generalised skin rash / itching
+  - Coughing up blood
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - LFT and review - DOTS centre / TB clinic on 23/09/2026
+  - Sputum AFB at end of IP - DOTS centre / TB clinic on 29/10/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

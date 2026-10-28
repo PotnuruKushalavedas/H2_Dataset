@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Kamala Bora
+Age / Sex    : 58 yrs / Female
+UHID         : CDH8241804      IP No: IP/26/370581
+Admitted on  : 03/07/2026      Discharged on: 07/07/2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  * Hypothyroidism
+
+Brief History:
+  * 58/F, k/c/o T2DM x 19 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.2%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 12.2%; FBS 256 mg/dl; PPBS 339 mg/dl; S. Cr 0.9 mg/dl; Urine microalbumin 38 mg/g; Fundus: no DR
+
+Condition at Discharge: Stable. BP 124/74 mmHg, PR 78/min, SpO2 99% on RA. Pre-meal sugars 143-183 mg/dl.
+
+Medications at Discharge:
+- Inj. Premixed Insulin 30/70 16-0-8 U SC ½ hr before breakfast & dinner till next review
+- Tab. Metformin 500 mg 1-0-1 after food lifelong
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Levothyroxine 50 mcg 1-0-0 empty stomach lifelong
+
+- STOP Tab. Glimepiride 1 mg (since started on insulin)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Carry glucose / sugar at all times
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with sugar chart - DM clinic, Medicine OPD on 14/07/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

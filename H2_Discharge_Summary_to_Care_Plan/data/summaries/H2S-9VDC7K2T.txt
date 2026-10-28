@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Harish Kumar                   Age/Sex  : 69 Y / M
+UHID       : CDH9364002                     IP No.   : IP/26/975966
+DOA        : 03 May 2026                    DOD      : 08 May 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 24%
+
+BRIEF HISTORY:
+  - 69/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6 L; weight down from 81 kg to 75 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 8780 pg/ml | S. Cr 0.8 mg/dl | Na 135 mEq/L | K 4.4 mEq/L | 2D Echo: LVEF 24%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 66/min, SpO2 97% on RA. Dry weight 75 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine                  | Dose     | Route | Frequency  | Duration    | Instructions |
++----+---------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Tab. Dytor                | 10 mg    | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol           | 3.125 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 3  | Tab. Ramipril             | 2.5 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 4  | Tab. Spironolactone 25 mg | ½ tab    | PO    | OD (½-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin        | 10 mg    | PO    | OD (1-0-0) | Lifelong    |              |
++----+---------------------------+----------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 18 May 2026 (Mon); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

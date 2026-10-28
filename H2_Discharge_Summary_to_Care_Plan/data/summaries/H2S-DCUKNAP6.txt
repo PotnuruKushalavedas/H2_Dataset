@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Lakshman Sahu
+Age / Sex    : 64 yrs / Male
+UHID         : CDH7961494      IP No: IP/26/911093
+Admitted on  : 04/03/2026      Discharged on: 10/03/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (right upper lobe) - CURB-65 score 2
+  * Hypothyroidism
+
+Brief History:
+  * 64/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 5 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 16,400/cumm; CRP 176 mg/L; CXR: consolidation right upper lobe; S. Cr 1.0 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 114/76 mmHg, PR 73/min, SpO2 97% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxicillin + Clavulanic acid 625 mg 1-1-1 after food x 7 days
+- Tab. Crocin 650 mg SOS for fever / pain (max 3 doses/day)
+- Tab. Levothyroxine 50 mcg 1-0-0 empty stomach lifelong
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises 10 times every hour while awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Fever recurring, or persisting for more than 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Chest OPD on 17/03/2026 (Tue); bring reports: CBC
+  * Repeat CXR - Pulmonary Medicine (Chest) OPD on 21/04/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Anil Bhosale (Consultant)

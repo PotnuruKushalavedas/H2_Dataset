@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Saroj Nair    Age: 59 years    Sex: Female
+UHID: CDH8260844    IP Number: IP/26/207442
+Date of admission: 23 Apr 2026    Date of discharge: 30 Apr 2026
+Under the care of: Dr. Kavita Deshmukh, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Hypothyroidism
+
+HISTORY:
+  - 59/F, h/o long-term chulha smoke exposure, k/c/o COPD x 7 yrs, presented with increased breathlessness, cough with purulent sputum x 7 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 1 day. Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 52 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 10,500/cumm; RBS 175 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 3. BP 114/80 mmHg, PR 76/min, SpO2 92% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 cap once daily in the morning to continue lifelong (via rotahaler)
+2. Inhaler Budesonide + Formoterol (6/200 mcg) 2 puffs twice daily lifelong (via spacer; gargle after use)
+3. Inhaler Salbutamol (Asthalin) 2 puffs only if needed (SOS) for breathlessness / wheeze (not more than 8 puffs in 24 h)
+4. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+5. Tablet Amoxycillin + Clavulanic acid 625 mg twice daily PC for 5 days
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - No exposure to biomass (chulha) smoke / dust
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+    - Influenza and pneumococcal vaccination advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increase in sputum quantity or change to yellow/green colour
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 14 May 2026.
+  - Spirometry (PFT) in Pulmonary Medicine (Chest) OPD on 04 Jun 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Kavita Deshmukh (Consultant)

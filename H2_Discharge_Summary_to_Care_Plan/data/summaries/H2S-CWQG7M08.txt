@@ -1,0 +1,69 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Venkatesh Singh    Age: 40 years    Sex: Male
+UHID: CDH5838689    IP Number: IP/26/107579
+Date of admission: 12th March 2026    Date of discharge: 16th March 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Inferior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to RCA
+  - 3. Type 2 diabetes mellitus
+
+HISTORY:
+  - 40/M, k/c/o T2DM, smoker, presented with retrosternal chest pain with sweating x 5 hrs. ECG: ST elevation in II, III, aVF.
+
+COURSE IN THE HOSPITAL:
+  - Taken up for primary PCI on 12th March 2026: CAG showed 97% thrombotic occlusion of mid RCA; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to RCA (12th March 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 12.0 g/dl; S. Cr 0.9 mg/dl; K 4.1 mEq/L; LDL 151 mg/dl; 2D Echo: RWMA in RCA territory, LVEF 42%; HbA1c 7.6%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 120/72 mmHg, PR 66/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch lifelong
+2. Tablet Ticagrelor 90 mg twice daily for 12 months
+3. Tablet Atorvastatin 40 mg once daily at bedtime to continue lifelong
+4. Tablet Bisoprolol 2.5 mg once daily in the morning lifelong
+5. Tablet Ramipril 2.5 mg once daily in the morning lifelong
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast till the next review
+7. Tablet Sorbitrate 5 mg SL only if needed (SOS) for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+8. Tablet Metformin 500 mg twice daily PC to continue lifelong
+
+PLEASE STOP:
+  - Tab. Clopidogrel 75 mg (switched to Ticagrelor)
+
+GENERAL ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Physical activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other instructions:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 23rd March 2026 (Mon). Please bring: ECG.
+  - Fasting lipid profile on 27th April 2026 at Hospital laboratory
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

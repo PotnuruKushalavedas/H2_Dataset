@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Poonam Gill                    Age/Sex  : 54 Y / F
+UHID       : CDH8643783                     IP No.   : IP/26/254628
+DOA        : 13/04/2026                     DOD      : 18/04/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 54/F, k/c/o T2DM x 4 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 463 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.6% | FBS 290 mg/dl | PPBS 374 mg/dl | S. Cr 0.5 mg/dl | Urine routine: pus cells plenty | Hb 13.3 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 120/80 mmHg, PR 71/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+------------------+----------------------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration         | Instructions               |
++----+-----------------------------+--------+-------+------------+------------------+----------------------------+
+| 1  | Tab. Metformin              | 500 mg | PO    | BD (1-0-1) | Lifelong         | after food                 |
+| 2  | Tab. Sitagliptin (Januvia)  | 100 mg | PO    | OD (1-0-0) | Till next review |                            |
+| 3  | Tab. Cefixime               | 200 mg | PO    | BD (1-0-1) | 5 days           | PC                         |
+| 4  | Tab. Atorvastatin (Storvas) | 20 mg  | PO    | HS (0-0-1) | Lifelong         |                            |
+| 5  | Tab. Paracetamol            | 650 mg | PO    | SOS        | -                | for fever; max 3 doses/day |
+| 6  | Tab. Thyronorm              | 25 mcg | PO    | OD (1-0-0) | Lifelong         | on empty stomach           |
++----+-----------------------------+--------+-------+------------+------------------+----------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning micturition / pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - DM clinic, Medicine OPD on 02/05/2026 (Sat); bring reports: FBS, PPBS, Urine routine
+  - Review with HbA1c - DM clinic, Medicine OPD on 11/07/2026 (Sat)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. R. Venkatesh (Consultant)

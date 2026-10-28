@@ -1,0 +1,41 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Satish Tiwari, 62/M  UHID: CDH3908489  IP: IP/26/774315
+DOA: 16/08/2026  DOD: 20/08/2026  Cons: Dr. S. K. Mishra (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- BPH
+
+H/o: 62/M, k/c/o T2DM x 6 yrs, stopped medicines 2 months ago, presented with polyuria, polydipsia, generalised weakness x 13 days. RBS 387 mg/dl, urine ketones negative.
+
+Course: Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+Ix: HbA1c 10.1%, FBS 281 mg/dl, PPBS 338 mg/dl, S. Cr 0.7 mg/dl, Urine routine: sugar ++, ketones nil, Hb 13.1 g/dl
+
+Condn at d/c: Afebrile, stable. BP 114/70 mmHg, PR 77/min, SpO2 97% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD PC till review
+2) T. Jardiance 10 mg OD after breakfast till next review
+3) T. Atorvastatin 10 mg HS lifelong
+Continue previous medications for BPH as before.
+
+STOP Tab. Amaryl 2 mg (hypoglycaemia risk)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- DM clinic, Medicine OPD on 31/08/2026 - Review with reports with FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

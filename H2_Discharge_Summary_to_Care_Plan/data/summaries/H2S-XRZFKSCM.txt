@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Rekha Bora, 68/F  UHID: CDH2206684  IP: IP/26/395667
+DOA: 06-Jan-26  DOD: 09-Jan-26  Cons: Dr. R. Venkatesh (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+H/o: 68/F, k/c/o T2DM x 10 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.6%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 12.6%, FBS 198 mg/dl, PPBS 273 mg/dl, S. Cr 0.8 mg/dl, Urine microalbumin 141 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 110/78 mmHg, PR 70/min, SpO2 96% on RA. Pre-meal sugars 156-182 mg/dl.
+
+Rx on discharge:
+1) Inj. Human Mixtard 30 14-0-6 units SC 30 min before breakfast and dinner till review
+2) T. Metformin 1000 mg BD PC life long
+3) T. Atorva 10 HS life long
+
+STOP Tab. Glimepiride 1 mg (since started on insulin)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Carry glucose / sugar at all times
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 19-Jan-26 - Review with sugar chart
+- Diabetes Clinic (Medicine OPD) on 03-Apr-26 - Review with HbA1c with S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

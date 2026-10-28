@@ -1,0 +1,67 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Raju D'Souza    Age: 71 years    Sex: Male
+UHID: CDH9633768    IP Number: IP/26/299749
+Date of admission: 23 Feb 2026    Date of discharge: 27 Feb 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to RCA
+  - 3. Type 2 diabetes mellitus
+
+HISTORY:
+  - 71/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 4.0 ng/ml (raised).
+
+COURSE IN THE HOSPITAL:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 25 Feb 2026: 93% stenosis of proximal RCA; PCI with 1 DES done. No post-procedure complications.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to RCA (25 Feb 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 14.7 g/dl; S. Cr 1.2 mg/dl; K 4.6 mEq/L; LDL 112 mg/dl; 2D Echo: RWMA in RCA territory, LVEF 50%; HbA1c 7.6%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 110/76 mmHg, PR 88/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin 75 mg once daily after lunch lifelong
+2. Tablet Clopitab 75 mg once daily in the morning for 12 months
+3. Tablet Atorvastatin 80 mg once daily at bedtime to continue lifelong
+4. Tablet Bisoprolol 5 mg once daily in the morning lifelong
+5. Tablet Telmisartan 40 mg once daily in the morning lifelong
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 3 months
+7. Tablet Isosorbide Dinitrate 5 mg SL only if needed (SOS) for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+8. Tablet Metformin 500 mg twice daily PC to continue lifelong
+9. Tablet Empagliflozin 10 mg once daily in the morning lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Physical activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other instructions:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 09 Mar 2026. Please bring: ECG.
+  - Fasting lipid profile on 13 Apr 2026 (Mon) at Hospital laboratory
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,92 @@
+{
+  "summary_id": "H2S-20CGBP5B",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Cefuroxime (Ceftum)",
+        "dose": "500 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day, after food, for 5 days."
+      },
+      {
+        "name": "Metronidazole (Flagyl)",
+        "dose": "400 mg",
+        "frequency": "TDS",
+        "timing": "after food",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (400 mg) three times a day, after food, for 5 days. Do not drink alcohol while taking it."
+      },
+      {
+        "name": "Paracetamol (Calpol)",
+        "dose": "650 mg",
+        "frequency": "TDS",
+        "timing": "after food",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (650 mg) three times a day, after food, for 5 days."
+      },
+      {
+        "name": "Diclofenac (Voveran)",
+        "dose": "50 mg",
+        "frequency": "BD",
+        "timing": "after food",
+        "duration": "3 days",
+        "how_to_take_plain": "Take 1 tablet (50 mg) twice a day, after food, for 3 days."
+      },
+      {
+        "name": "Rabeprazole (Rablet)",
+        "dose": "20 mg",
+        "frequency": "OD",
+        "timing": "half an hour before breakfast",
+        "duration": "5 days",
+        "how_to_take_plain": "Take 1 tablet (20 mg) once a day, half an hour before breakfast, for 5 days."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Fever above 100.4 F (38 C)",
+      "Wound becomes red or swollen, or pus or fluid comes out of it",
+      "Belly pain that is severe or getting worse",
+      "Vomiting again and again, or not able to eat or drink",
+      "Belly swelling up and not passing stool or gas"
+    ],
+    "diet": [
+      "Soft, easy-to-digest food for 1 week, then normal food"
+    ],
+    "activity": [
+      "Walk around the house several times a day",
+      "Do not lift anything heavier than 5 kg for 6 weeks",
+      "Hold a pillow against the wound when you cough or sneeze; do not strain"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-05-01",
+        "with_whom": "Surgery OPD",
+        "purpose": "Removal of stitches",
+        "bring": []
+      },
+      {
+        "date": "2026-05-05",
+        "with_whom": "Surgery OPD",
+        "purpose": "Check-up with the lab report on the removed tissue (HPE report)",
+        "bring": []
+      }
+    ],
+    "wound_care": [
+      "Keep the wound clean and dry",
+      "You may bathe after 48 hours; gently pat the wound dry with a clean cloth"
+    ],
+    "other_advice": [],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Selvam Joshi    Age: 37 years\nWent home from hospital on: 2026-04-23 (23 April 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had appendicitis (an infected appendix). The appendix was removed in an operation.\n\nYOUR MEDICINES (take exactly as written)\n1. Cefuroxime (Ceftum) 500 mg\n   - Take 1 tablet (500 mg) twice a day, after food, for 5 days.\n   - What it is for: antibiotic that kills the germs causing infection.\n2. Metronidazole (Flagyl) 400 mg\n   - Take 1 tablet (400 mg) three times a day, after food, for 5 days.\n   - Do not drink alcohol while taking it.\n   - What it is for: antibiotic for infection in the belly.\n3. Paracetamol (Calpol) 650 mg\n   - Take 1 tablet (650 mg) three times a day, after food, for 5 days.\n   - What it is for: relieves pain and fever.\n4. Diclofenac (Voveran) 50 mg\n   - Take 1 tablet (50 mg) twice a day, after food, for 3 days.\n   - What it is for: painkiller.\n5. Rabeprazole (Rablet) 20 mg\n   - Take 1 tablet (20 mg) once a day, half an hour before breakfast, for 5 days.\n   - What it is for: reduces stomach acid and protects the stomach.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Fever above 100.4 F (38 C)\n- Wound becomes red or swollen, or pus or fluid comes out of it\n- Belly pain that is severe or getting worse\n- Vomiting again and again, or not able to eat or drink\n- Belly swelling up and not passing stool or gas\n\nFOOD\n- Soft, easy-to-digest food for 1 week, then normal food\n\nACTIVITY\n- Walk around the house several times a day\n- Do not lift anything heavier than 5 kg for 6 weeks\n- Hold a pillow against the wound when you cough or sneeze; do not strain\n\nWOUND CARE\n- Keep the wound clean and dry\n- You may bathe after 48 hours; gently pat the wound dry with a clean cloth\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-05-01 (Friday, 1 May 2026): Surgery OPD. Removal of stitches.\n- 2026-05-05 (Tuesday, 5 May 2026): Surgery OPD. Check-up with the lab report on the removed tissue (HPE report).\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Selvam Joshi    उम्र: 37 साल\nअस्पताल से छुट्टी की तारीख़: 2026-04-23 (23 अप्रैल 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको अपेंडिसाइटिस (अपेंडिक्स में संक्रमण) था। ऑपरेशन करके अपेंडिक्स निकाल दिया गया।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Cefuroxime (Ceftum) 500 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (500 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: संक्रमण (infection) फैलाने वाले कीटाणुओं को मारने वाली एंटीबायोटिक।\n2. Metronidazole (Flagyl) 400 mg\n   - दिन में 3 बार, खाने के बाद: 1 गोली (400 mg) लें; 5 दिन तक जारी रखें।\n   - इसे लेते समय शराब न पिएँ।\n   - यह किसलिए है: पेट के संक्रमण के लिए एंटीबायोटिक।\n3. Paracetamol (Calpol) 650 mg\n   - दिन में 3 बार, खाने के बाद: 1 गोली (650 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n4. Diclofenac (Voveran) 50 mg\n   - दिन में 2 बार, खाने के बाद: 1 गोली (50 mg) लें; 3 दिन तक जारी रखें।\n   - यह किसलिए है: दर्द कम करने की दवा।\n5. Rabeprazole (Rablet) 20 mg\n   - दिन में 1 बार, नाश्ते से आधा घंटा पहले: 1 गोली (20 mg) लें; 5 दिन तक जारी रखें।\n   - यह किसलिए है: पेट का एसिड कम करने और पेट की रक्षा के लिए।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- 100.4 F (38 C) से ज़्यादा बुखार\n- घाव में लाली या सूजन, या घाव से मवाद/पानी निकलना\n- पेट में तेज़ या बढ़ता हुआ दर्द\n- बार-बार उल्टी होना, या कुछ खा-पी न पाना\n- पेट फूलना और मल (पाखाना) या गैस न निकलना\n\nखाना\n- 1 हफ़्ते तक नरम, आसानी से पचने वाला खाना, फिर सामान्य खाना\n\nचलना-फिरना और काम\n- दिन में कई बार घर के अंदर चलें-फिरें\n- 6 हफ़्ते तक 5 kg से ज़्यादा वज़न न उठाएँ\n- खांसते या छींकते समय घाव पर तकिया दबाकर रखें; ज़ोर न लगाएँ\n\nघाव की देखभाल\n- घाव को साफ़ और सूखा रखें\n- 48 घंटे बाद नहाना ठीक है; घाव को साफ़ कपड़े से हल्के-हल्के थपथपाकर सुखाएँ\n\nअगली बार अस्पताल कब आना है\n- 2026-05-01 (शुक्रवार, 1 मई 2026): सर्जरी ओपीडी (Surgery OPD)। टांके निकलवाने के लिए।\n- 2026-05-05 (मंगलवार, 5 मई 2026): सर्जरी ओपीडी (Surgery OPD)। निकाले गए हिस्से की लैब रिपोर्ट (HPE रिपोर्ट) लेकर डॉक्टर को दिखाएँ।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.69
+  }
+}

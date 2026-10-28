@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Anita Banerjee    Age: 64 years    Sex: Female
+UHID: CDH5908503    IP Number: IP/26/303126
+Date of admission: 17th July 2026    Date of discharge: 22nd July 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+HISTORY:
+  - 64/F, presented with cough x 7 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg, with 2 episodes of streaky haemoptysis.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 18th July 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: bilateral upper zone infiltrates with cavity; Hb 12.2 g/dl; LFT: within normal limits; RBS 120 mg/dl; HIV: non-reactive; Weight 44 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 114/78 mmHg, PR 67/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet 4-FDC (HRZE) 3 tablets once daily in the morning on empty stomach for 52 days (as per weight band; to complete 8 weeks of intensive phase; then review for continuation phase)
+2. Tablet Pyridoxine 10 mg once daily in the morning until the next visit
+3. Tablet Paracetamol 500 mg only if needed (SOS) for fever (not more than 3 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / soya
+    - Strictly no alcohol
+  Other instructions:
+    - Daily ATT without missing doses - full course to be completed
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - Orange-red urine expected with rifampicin (harmless)
+    - Rifampicin reduces the effect of contraceptive pills - use condom / IUCD for contraception
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Generalised skin rash / itching
+  - Haemoptysis (coughing out blood)
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Review with LFT in DOTS centre / TB clinic on 6th August 2026 (Thu).
+  - Sputum examination at end of intensive phase in DOTS centre / TB clinic on 14th September 2026 (Mon).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Imran Qureshi (Consultant)

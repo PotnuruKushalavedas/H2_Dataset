@@ -1,0 +1,42 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Rukhsana Meena, 55/F  UHID: CDH5360284  IP: IP/26/936314
+DOA: 25-Jul-26  DOD: 30-Jul-26  Cons: Dr. R. Venkatesh (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+
+H/o: 55/F, k/c/o T2DM x 4 yrs, stopped medicines 2 months ago, presented with polyuria, polydipsia, generalised weakness x 16 days. RBS 493 mg/dl, urine ketones negative.
+
+Course: Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+Ix: HbA1c 12.5%, FBS 254 mg/dl, PPBS 348 mg/dl, S. Cr 0.6 mg/dl, Urine routine: sugar ++, ketones nil, Hb 14.4 g/dl
+
+Condn at d/c: Afebrile, stable. BP 126/74 mmHg, PR 72/min, SpO2 96% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Metformin 1000 mg BD PC life long
+2) T. Galvus 50 mg BD till review
+3) Inj. Lantus 10 units SC OD at 10 PM till next review
+4) T. Crocin 650 SOS for fever / pain (not more than 3 doses in 24 h)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Sugar > 300 mg/dl on 2 readings
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+F/U:
+- Gen. Medicine OPD on 06-Aug-26 - Review with reports with FBS, PPBS
+- Diabetes Clinic (Medicine OPD) on 22-Oct-26 (Thu) - HbA1c and review
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. R. Venkatesh (Consultant)

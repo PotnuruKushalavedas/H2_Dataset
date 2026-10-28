@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Fatima Pawar
+Age / Sex    : 68 yrs / Female
+UHID         : CDH8907184      IP No: IP/26/575692
+Admitted on  : 15.04.2026      Discharged on: 19.04.2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+
+Brief History:
+  * 68/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 7 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 14,800/cumm; CRP 116 mg/L; CXR: consolidation left lower lobe; S. Cr 0.8 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 124/70 mmHg, PR 84/min, SpO2 98% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 7 days
+- Tab. Paracetamol 650 mg SOS for fever (max 3 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+    * No smoking / no tobacco in any form
+
+Danger signs - report to Casualty immediately:
+  * Fever recurring, or persisting for more than 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 29.04.2026 (Wed); bring reports: CBC
+  * Repeat chest X-ray - Chest OPD on 01.06.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

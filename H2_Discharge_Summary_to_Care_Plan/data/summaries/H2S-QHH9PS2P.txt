@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Shabana Murmu    Age: 75 years    Sex: Female
+UHID: CDH3087661    IP Number: IP/26/393370
+Date of admission: 10 Jul 2026    Date of discharge: 16 Jul 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 32%
+
+HISTORY:
+  - 75/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 71 kg to 65 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 9392 pg/ml; S. Cr 1.7 mg/dl; Na 139 mEq/L; K 4.5 mEq/L; 2D Echo: LVEF 32%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 82/min, SpO2 99% on RA. Dry weight 65 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Frusemide 40 mg once daily in the morning until the next visit
+2. Tablet Metoprolol Succinate ER 25 mg once daily in the morning lifelong
+3. Tablet Enalapril 2.5 mg twice daily lifelong
+4. Tablet Dapagliflozin (Forxiga) 10 mg once daily in the morning lifelong
+
+PLEASE STOP:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 23 Jul 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+  - Repeat 2D Echo and review in Cardiology OPD on 14 Oct 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Prakash Nair (Consultant)

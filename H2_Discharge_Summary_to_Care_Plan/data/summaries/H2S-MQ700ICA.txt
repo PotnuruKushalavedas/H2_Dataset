@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Parvati Deshpande              Age/Sex  : 27 Y / F
+UHID       : CDH5118874                     IP No.   : IP/26/593270
+DOA        : 09 Mar 2026                    DOD      : 12 Mar 2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G1P1L1, Emergency LSCS for breech presentation in labour on 09 Mar 2026
+
+BRIEF HISTORY:
+  - 27/F, Primigravida at 37 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 09 Mar 2026 for breech presentation in labour. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby boy, 3.51 kg, APGAR 8/9. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (09 Mar 2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 9.6 g/dl | Blood group A +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 114/78 mmHg, PR 71/min, SpO2 99% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+| No | Medicine                                   | Dose   | Route | Frequency   | Duration | Instructions          |
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Cefixime                              | 200 mg | PO    | BD (1-0-1)  | 5 days   | after food            |
+| 2  | Tab. Paracetamol                           | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food            |
+| 3  | Tab. Pantoprazole                          | 40 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast |
+| 4  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner          |
+| 5  | Tab. Calcium carbonate + Vit D3 (Shelcal)  | 500 mg | PO    | BD (1-1-0)  | 6 months | PC                    |
++----+--------------------------------------------+--------+-------+-------------+----------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+  Wound care:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Fever above 100.4 F (38 C)
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Painful, red, hard swelling of the breast with fever
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Suture removal - Obstetrics & Gynaecology OPD on 16 Mar 2026 (POD 7)
+  - PNC visit at 6 weeks - OBG OPD on 20 Apr 2026; bring reports: Hb
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Nirmala Joshi (Consultant)

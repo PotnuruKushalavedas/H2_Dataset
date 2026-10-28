@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Farhan Lal    Age: 63 years    Sex: Male
+UHID: CDH8250997    IP Number: IP/26/136419
+Date of admission: 26th April 2026    Date of discharge: 2nd May 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+HISTORY:
+  - 63/M, k/c/o T2DM x 14 yrs, presented with swelling, redness and pain over left foot x 4 days following a minor injury. RBS 367 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 10.8%; FBS 250 mg/dl; PPBS 329 mg/dl; S. Cr 1.1 mg/dl; Urine routine: sugar ++, ketones nil; Hb 12.7 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 118/80 mmHg, PR 77/min, SpO2 99% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 500 mg twice daily after food till the next review
+2. Tablet Glimepiride 2 mg once daily in the morning ½ hr before breakfast till the next review
+3. Tablet Amoxicillin + Clavulanic acid (Augmentin) 625 mg three times daily after food for 5 days
+4. Tablet Atorvastatin 10 mg once daily at bedtime to continue lifelong
+5. Tablet Paracetamol 650 mg only if needed (SOS) for fever (not more than 4 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+REVIEW:
+  - Review with reports in DM clinic, Medicine OPD on 16th May 2026. Please bring: FBS, PPBS.
+  - Review with HbA1c in DM clinic, Medicine OPD on 25th July 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Anil Bhosale (Consultant)

@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bhavana Patnaik                Age/Sex  : 61 Y / F
+UHID       : CDH5730280                     IP No.   : IP/26/703721
+DOA        : 11 Apr 2026                    DOD      : 17 Apr 2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 61/F, k/c/o T2DM x 8 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 40 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.15, HCO3 14 mEq/L | Urine ketones +++ | RBS at admission 448 mg/dl | HbA1c 10.6% | S. Cr 0.8 mg/dl | K 4.1 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 126/74 mmHg, PR 76/min, SpO2 99% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------+------+-------+-------------+------------------+----------------------------------------+
+| No | Medicine                       | Dose | Route | Frequency   | Duration         | Instructions                           |
++----+--------------------------------+------+-------+-------------+------------------+----------------------------------------+
+| 1  | Inj. Insulin Glargine (Lantus) | 12 U | SC    | HS (0-0-1)  | Till next review |                                        |
+| 2  | Inj. Insulin Aspart            | 4 U  | SC    | TDS (1-1-1) | Till review      | 0-15 min before meals                  |
+| 3  | Tab. Ondansetron (Ondem)       | 4 mg | PO    | SOS         | -                | for nausea / vomiting; max 3 doses/day |
++----+--------------------------------+------+-------+-------------+------------------+----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 24 Apr 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

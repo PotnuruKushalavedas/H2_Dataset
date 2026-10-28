@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Shankar Singh
+Age / Sex    : 39 yrs / Male
+UHID         : CDH3872362      IP No: IP/26/473032
+Admitted on  : 10/05/2026      Discharged on: 17/05/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+
+Brief History:
+  * 39/M, k/c/o T2DM x 10 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 5 days. RBS at admission 382 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 12.7%; FBS 297 mg/dl; PPBS 366 mg/dl; S. Cr 0.9 mg/dl; Urine routine: pus cells plenty; Hb 13.9 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 124/70 mmHg, PR 76/min, SpO2 98% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food till review
+- Tab. Vildagliptin (Jalra) 50 mg 1-0-1 till review
+- Tab. Cefixime 200 mg 1-0-1 after food x 7 days
+
+- STOP Tab. Glimepiride 2 mg
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Danger signs - report to Casualty immediately:
+  * High grade fever with chills
+  * Burning micturition / pain while passing urine
+  * Sugar > 300 mg/dl on 2 readings
+
+Follow-up:
+  * Review with reports - Medicine OPD on 28/05/2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

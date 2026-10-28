@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Lakshman Mukherjee
+Age / Sex    : 61 yrs / Male
+UHID         : CDH3873563      IP No: IP/26/617486
+Admitted on  : 17.06.2026      Discharged on: 22.06.2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis left foot
+  * Systemic hypertension
+
+Brief History:
+  * 61/M, k/c/o T2DM x 7 yrs, presented with swelling, redness and pain over left foot x 7 days following a minor injury. RBS 389 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 10.3%; FBS 286 mg/dl; PPBS 366 mg/dl; S. Cr 1.1 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.8 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 120/70 mmHg, PR 86/min, SpO2 98% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 after food long term (lifelong)
+- Tab. Glimepiride 2 mg 1-0-0 30 min before breakfast till review
+- Tab. Amoxicillin + Clavulanic acid 625 mg 1-1-1 PC x 7 days
+- Tab. Storvas 10 mg 0-0-1 (HS) lifelong
+- Tab. Telmisartan 40 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - Diabetes Clinic (Medicine OPD) on 02.07.2026; bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. S. K. Mishra (Consultant)

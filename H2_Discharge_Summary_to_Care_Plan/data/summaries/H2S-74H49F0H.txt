@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ajay Siddiqui                  Age/Sex  : 61 Y / M
+UHID       : CDH2971403                     IP No.   : IP/26/950425
+DOA        : 27/02/2026                     DOD      : 06/03/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 61/M, k/c/o T2DM x 6 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: acute gastroenteritis.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 39 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.14, HCO3 14 mEq/L | Urine ketones +++ | RBS at admission 218 mg/dl | HbA1c 10.8% | S. Cr 1.0 mg/dl | K 4.0 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 114/72 mmHg, PR 78/min, SpO2 97% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------+------+-------+-------------+------------------+---------------------+
+| No | Medicine                                | Dose | Route | Frequency   | Duration         | Instructions        |
++----+-----------------------------------------+------+-------+-------------+------------------+---------------------+
+| 1  | Inj. Insulin Glargine                   | 12 U | SC    | OD (0-0-1)  | Till next review | at 10 PM            |
+| 2  | Inj. Insulin Regular (Human) (Actrapid) | 4 U  | SC    | TDS (1-1-1) | Till next review | 30 min before meals |
++----+-----------------------------------------+------+-------+-------------+------------------+---------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Dapagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Oral fluids 2-3 L/day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+FOLLOW-UP:
+  - Get S. Creatinine and electrolytes (Na, K) done on 10/03/2026 (Hospital laboratory)
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 13/03/2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

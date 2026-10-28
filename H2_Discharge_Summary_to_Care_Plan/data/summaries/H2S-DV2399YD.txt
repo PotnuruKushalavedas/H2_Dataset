@@ -1,0 +1,67 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Arjun Krishnan
+Age / Sex    : 54 yrs / Male
+UHID         : CDH6643580      IP No: IP/26/814180
+Admitted on  : 16.02.2026      Discharged on: 21.02.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - NSTEMI
+  * CAD - SVD; s/p PCI with 1 DES to LAD
+  * Hypothyroidism
+
+Brief History:
+  * 54/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 7.2 ng/ml (raised).
+
+Course in Hospital:
+  * Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 17.02.2026: 83% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure:
+  * CAG + PCI with 1 DES to LAD (17.02.2026)
+
+Investigations:
+  * Hb 13.7 g/dl; S. Cr 0.6 mg/dl; K 4.3 mEq/L; LDL 189 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 39%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 118/78 mmHg, PR 84/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Clopidogrel 75 mg 1-0-0 x 1 year
+- Tab. Rozavel 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Metoprolol Succinate ER 50 mg 1-0-0 lifelong
+- Tab. Ramipril 5 mg 1-0-0 long term (lifelong)
+- Tab. Pan 40 mg 1-0-0 30 min before breakfast x 3 months
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+- Tab. Spironolactone 25 mg 1-0-0 till review
+- Tab. Dapagliflozin 10 mg 1-0-0 long term (lifelong)
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    * No heavy lifting (more than 5 kg) for 4 weeks
+    * Avoid driving x 1 week
+  General:
+    * Stop smoking and all forms of tobacco
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    * Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Danger signs - report to Casualty immediately:
+  * Chest pain not relieved after 3 SL tablets taken 5 min apart
+  * Breathlessness or difficulty in breathing
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Palpitations - fast / irregular heart beat
+  * Giddiness / fainting / LOC
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 28.02.2026 (Sat); bring reports: ECG, S. Creatinine, S. Electrolytes
+  * Get Lipid profile (fasting) done on 04.04.2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

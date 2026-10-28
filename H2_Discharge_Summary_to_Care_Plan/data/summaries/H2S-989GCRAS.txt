@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Jagdish D'Souza, 39/M  UHID: CDH1864216  IP: IP/26/281062
+DOA: 21-Jun-26  DOD: 28-Jun-26  Cons: Dr. Imran Qureshi (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+H/o: 39/M, presented with cough x 10 weeks, evening rise of temperature, loss of appetite and weight loss of 9 kg.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 22-Jun-26; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: bilateral upper zone infiltrates with cavity, Hb 10.1 g/dl, LFT: within normal limits, RBS 96 mg/dl, HIV: non-reactive, Weight 36 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 110/78 mmHg, PR 78/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Forecox 3 tabs OD empty stomach x 50 days (as per weight band; to complete 8 weeks of intensive phase; then review for continuation phase)
+2) T. Pyridoxine 10 mg OD till review
+3) T. Calpol 650 SOS for fever (max 4 doses/day)
+
+Adv:
+  Diet:
+  - High-protein nutritious diet (dal, eggs, milk, soya)
+  - Avoid alcohol completely
+  Others:
+  - Take TB medicines daily without missing a dose; complete the full course
+  - Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+  - Household contacts - TB screening at nearest PHC
+  - No smoking / no tobacco in any form
+  - Urine may turn orange-red due to TB medicine - harmless
+
+Review SOS if:
+- Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+- Blurred vision / difficulty in distinguishing colours
+- Generalised skin rash / itching
+- Coughing up blood
+- Breathlessness / difficulty in breathing
+
+F/U:
+- DOTS centre / TB clinic on 13-Jul-26 - LFT and review
+- DOTS centre / TB clinic on 18-Aug-26 - Sputum AFB at end of IP
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Imran Qureshi (Consultant)

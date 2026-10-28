@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Venkatesh Khan                 Age/Sex  : 74 Y / M
+UHID       : CDH8548709                     IP No.   : IP/26/272339
+DOA        : 13/02/2026                     DOD      : 18/02/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 33%
+
+BRIEF HISTORY:
+  - 74/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 83 kg to 80 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 6692 pg/ml | S. Cr 1.5 mg/dl | Na 138 mEq/L | K 4.6 mEq/L | 2D Echo: LVEF 33%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 84/min, SpO2 99% on RA. Dry weight 80 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------+---------+-------+------------+-------------+--------------+
+| No | Medicine                              | Dose    | Route | Frequency  | Duration    | Instructions |
++----+---------------------------------------+---------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide                       | 40 mg   | PO    | BD (1-1-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate ER (Met XL) | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Vymada (24/26 mg)                | 50 mg   | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone                   | 25 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Jardiance                        | 10 mg   | PO    | OD (1-0-0) | Lifelong    |              |
++----+---------------------------------------+---------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (not safe with heart disease)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 25/02/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

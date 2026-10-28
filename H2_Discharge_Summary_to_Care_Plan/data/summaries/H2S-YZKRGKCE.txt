@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Anil Dhillon    Age: 85 years    Sex: Male
+UHID: CDH7139717    IP Number: IP/26/418087
+Date of admission: 28 Mar 2026    Date of discharge: 31 Mar 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+
+HISTORY:
+  - 85/M, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 150/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 90/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 51%; S. Cr 1.0 mg/dl; Hb 11.9 g/dl; TSH 2.8 mIU/L; Weight 52 kg; CrCl (Cockcroft-Gault) 39 ml/min; CHA2DS2-VASc score 2
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 124/72 mmHg, PR 78/min, SpO2 96% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate ER 25 mg once daily in the morning to continue lifelong
+2. Tablet Rivaroxaban 15 mg once daily at night with evening meal lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 21 Apr 2026 (Tue). Please bring: ECG, S. Creatinine, CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

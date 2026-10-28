@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Dinesh Nair                    Age/Sex  : 58 Y / M
+UHID       : CDH2474768                     IP No.   : IP/26/557325
+DOA        : 04/09/2026                     DOD      : 08/09/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 58/M, smoker, presented with retrosternal chest pain with sweating x 6 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 04/09/2026: CAG showed 100% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (04/09/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.5 g/dl | S. Cr 0.6 mg/dl | K 3.9 mEq/L | LDL 168 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 39%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/74 mmHg, PR 75/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| No | Medicine                    | Dose  | Route | Frequency  | Duration         | Instructions                                                |
++----+-----------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin                | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                 |
+| 2  | Tab. Clopidogrel            | 75 mg | PO    | OD (1-0-0) | 1 year           |                                                             |
+| 3  | Tab. Rosuvastatin (Rosuvas) | 20 mg | PO    | HS (0-0-1) | Lifelong         |                                                             |
+| 4  | Tab. Metoprolol Succinate   | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 5  | Tab. Ramipril               | 5 mg  | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 6  | Tab. Pantoprazole           | 40 mg | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate   | 5 mg  | SL    | SOS        | -                | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
+| 8  | Tab. Spironolactone         | 25 mg | PO    | OD (1-0-0) | Till review      |                                                             |
+| 9  | Tab. Dapagliflozin          | 10 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
++----+-----------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 18/09/2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

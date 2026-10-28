@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sneha Tiwari                   Age/Sex  : 28 Y / F
+UHID       : CDH5374262                     IP No.   : IP/26/705091
+DOA        : 15 Aug 2026                    DOD      : 18 Aug 2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, GDM on metformin
+  - 2. Delivered by elective LSCS on 15 Aug 2026
+
+BRIEF HISTORY:
+  - 28/F, diagnosed GDM at 25 wks (OGTT), on Tab. Metformin 500 mg BD. Admitted at 38 wks.
+
+HOSPITAL COURSE:
+  - Elective LSCS under SA on 15 Aug 2026: live baby boy, 3.13 kg, APGAR 8/10. Baby's sugars monitored - normal. Mother's postpartum sugars normal off treatment (FBS 86 mg/dl, PPBS 124 mg/dl).
+
+PROCEDURE(S) DONE:
+  - Elective LSCS under SA (15 Aug 2026)
+
+KEY INVESTIGATIONS:
+  - Postpartum FBS 86 mg/dl | Hb 10.6 g/dl | HbA1c (antenatal) 6.0%
+
+CONDITION AT DISCHARGE: Stable. BP 120/70 mmHg, PR 69/min, SpO2 99% on RA. Baby: healthy, breastfeeding.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+-------------+----------+--------------+
+| No | Medicine                                   | Dose   | Route | Frequency   | Duration | Instructions |
++----+--------------------------------------------+--------+-------+-------------+----------+--------------+
+| 1  | Tab. Cefuroxime (Ceftum)                   | 500 mg | PO    | BD (1-0-1)  | 5 days   | after food   |
+| 2  | Tab. Paracetamol (Calpol)                  | 650 mg | PO    | TDS (1-1-1) | 5 days   | after food   |
+| 3  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner |
+| 4  | Tab. Calcium carbonate + Vit D3            | 500 mg | PO    | BD (1-1-0)  | 6 months | after food   |
++----+--------------------------------------------+--------+-------+-------------+----------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Metformin 500 mg (not required post delivery)
+
+ADVICE:
+  Diet:
+    - Avoid sugar and sweets; keep a healthy weight
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Gradually increase walking as tolerated
+  Wound care:
+    - Keep the wound clean and dry
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever > 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache / blurred vision / epigastric pain
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Redness, swelling, pus or discharge from the wound
+
+FOLLOW-UP:
+  - PNC visit at 6 weeks - OBG OPD on 26 Sep 2026; bring reports: Hb
+  - 75 g OGTT - Obstetrics & Gynaecology OPD on 10 Oct 2026 (Sat)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Pooja Mehra (Consultant)

@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Rajendra Jadhav
+Age / Sex    : 69 yrs / Male
+UHID         : CDH2905554      IP No: IP/26/970014
+Admitted on  : 03.09.2026      Discharged on: 06.09.2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+  * BPH
+
+Brief History:
+  * 69/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 156/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 83/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 56%; S. Cr 1.0 mg/dl; Hb 14.1 g/dl; TSH 2.1 mIU/L; Weight 74 kg; CrCl (Cockcroft-Gault) 72 ml/min; CHA2DS2-VASc score 2
+
+Condition at Discharge: Stable, rate controlled. BP 126/76 mmHg, PR 75/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate ER 25 mg 1-0-0 long term (lifelong)
+- Tab. Rivaroxaban 20 mg 0-0-1 with evening meal long term (lifelong)
+- Tab. Amlodipine 5 mg 1-0-0 long term (lifelong)
+To continue other previous medicines for BPH as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness, fainting or loss of consciousness
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 28.09.2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Prakash Nair (Consultant)

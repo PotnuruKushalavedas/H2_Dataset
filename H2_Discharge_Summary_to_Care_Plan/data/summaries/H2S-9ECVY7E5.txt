@@ -1,0 +1,65 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Manoj Kalita                   Age/Sex  : 47 Y / M
+UHID       : CDH2295291                     IP No.   : IP/26/557553
+DOA        : 12/03/2026                     DOD      : 21/03/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 29%
+
+BRIEF HISTORY:
+  - 47/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 65 kg to 59 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 3535 pg/ml | S. Cr 1.1 mg/dl | Na 137 mEq/L | K 4.0 mEq/L | 2D Echo: LVEF 29%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 82/min, SpO2 99% on RA. Dry weight 59 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                                        | Dose   | Route | Frequency  | Duration    | Instructions |
++----+-------------------------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Lasix                                      | 40 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Bisoprolol                                 | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (Vymada) (24/26 mg) | 50 mg  | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone (Aldactone)                 | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin (Jardiance)                  | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Ecosprin                                   | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin                               | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+-------------------------------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Voveran 50 mg (not safe with heart disease)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 31/03/2026 (Tue); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 19/06/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

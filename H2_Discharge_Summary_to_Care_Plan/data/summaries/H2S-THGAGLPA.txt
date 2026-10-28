@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Naresh Joseph
+Age / Sex    : 34 yrs / Male
+UHID         : CDH8586985      IP No: IP/26/307475
+Admitted on  : 18/09/2026      Discharged on: 20/09/2026
+Consultant   : Dr. N. Chakraborty, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Left inguinal hernia (indirect, reducible)
+  * s/p Lichtenstein tension-free mesh hernioplasty (18/09/2026)
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 34/M, c/o swelling in left groin x 22 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Lichtenstein tension-free mesh hernioplasty under SA on 18/09/2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Lichtenstein tension-free mesh hernioplasty under SA (18/09/2026)
+
+Investigations:
+  * Hb 13.6 g/dl; RBS 118 mg/dl; S. Cr 1.2 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 130/74 mmHg, PR 84/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg SOS for fever (max 4 doses/day)
+- Tab. Zerodol 100 mg 1-0-1 PC x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Tab. Cefuroxime 500 mg 1-0-1 after food x 5 days
+Continue previous medications for T2DM as before.
+
+Advice on Discharge:
+  Diet:
+    * High fibre diet + plenty of fluids (avoid constipation)
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep the wound clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Swelling or severe pain in the scrotum
+  * Inability to pass urine
+  * Bleeding from the wound or soakage of dressing
+
+Follow-up:
+  * Suture removal - Surgery OPD on 28/09/2026 (POD 10)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. N. Chakraborty (Consultant)

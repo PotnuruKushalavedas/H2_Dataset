@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Imran Chauhan
+Age / Sex    : 46 yrs / Male
+UHID         : CDH4575743      IP No: IP/26/420813
+Admitted on  : 26/01/2026      Discharged on: 02/02/2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Hypothyroidism
+
+Brief History:
+  * 46/M, k/c/o T2DM x 9 yrs, stopped medicines 5 months ago, presented with polyuria, polydipsia, generalised weakness x 14 days. RBS 396 mg/dl, urine ketones negative.
+
+Course in Hospital:
+  * Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+Investigations:
+  * HbA1c 12.1%; FBS 239 mg/dl; PPBS 289 mg/dl; S. Cr 0.7 mg/dl; Urine routine: sugar ++, ketones nil; Hb 11.1 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 126/72 mmHg, PR 72/min, SpO2 99% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food till next review
+- Tab. Empagliflozin 10 mg 1-0-0 after breakfast till next review
+- Inj. Insulin Glargine 14 IU SC 0-0-1 at 10 PM till review
+- Tab. Atorvastatin 10 mg 0-0-1 (HS) lifelong
+- Tab. Crocin 650 mg SOS for fever / pain (max 4 doses/day)
+- Tab. Levothyroxine 75 mcg 1-0-0 on empty stomach long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+  General:
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Blood sugar above 300 mg/dl on two readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - Diabetes Clinic (Medicine OPD) on 12/02/2026 (Thu); bring reports: FBS, PPBS
+  * HbA1c and review - Diabetes Clinic (Medicine OPD) on 04/05/2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

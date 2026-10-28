@@ -1,0 +1,65 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ashok Pawar                    Age/Sex  : 81 Y / M
+UHID       : CDH5687271                     IP No.   : IP/26/298201
+DOA        : 11/04/2026                     DOD      : 17/04/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 38%
+  - 3. BPH
+
+BRIEF HISTORY:
+  - 81/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 76 kg to 71 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 6207 pg/ml | S. Cr 0.6 mg/dl | Na 139 mEq/L | K 4.8 mEq/L | 2D Echo: LVEF 38%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 71/min, SpO2 96% on RA. Dry weight 71 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------------+--------+-------+------------+------------------+--------------+
+| No | Medicine                                        | Dose   | Route | Frequency  | Duration         | Instructions |
++----+-------------------------------------------------+--------+-------+------------+------------------+--------------+
+| 1  | Tab. Frusemide                                  | 40 mg  | PO    | OD (1-0-0) | Till next review |              |
+| 2  | Tab. Concor                                     | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 3  | Tab. Sacubitril + Valsartan (Vymada) (24/26 mg) | 50 mg  | PO    | BD (1-0-1) | Lifelong         |              |
+| 4  | Tab. Dapagliflozin                              | 10 mg  | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Aspirin                                    | 75 mg  | PO    | OD (0-1-0) | Lifelong         | after lunch  |
+| 6  | Tab. Storvas                                    | 40 mg  | PO    | HS (0-0-1) | Lifelong         |              |
+| 7  | Cap. Veltam                                     | 0.4 mg | PO    | HS (0-0-1) | Lifelong         |              |
++----+-------------------------------------------------+--------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 24/04/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

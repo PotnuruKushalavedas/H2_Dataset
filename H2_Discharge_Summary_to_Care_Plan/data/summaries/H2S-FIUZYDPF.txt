@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Gurpreet Yadav
+Age / Sex    : 24 yrs / Male
+UHID         : CDH6872025      IP No: IP/26/995275
+Admitted on  : 08.05.2026      Discharged on: 12.05.2026
+Consultant   : Dr. N. Chakraborty, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Open appendicectomy (08.05.2026)
+
+Brief History:
+  * 24/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 08.05.2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure:
+  * Open appendicectomy under GA (08.05.2026)
+
+Investigations:
+  * TLC 15,900/cumm; CRP 56 mg/L; HPE: awaited; Hb 12.9 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 130/74 mmHg, PR 79/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 PC x 5 days
+- Tab. Paracetamol 500 mg 1-1-1 PC x 3 days
+- Tab. Brufen 400 mg 1-1-1 PC x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe / increasing abdominal pain
+  * Persistent vomiting or unable to take food and fluids orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 18.05.2026 (POD 10)
+  * Review with histopathology report - General Surgery OPD on 22.05.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. N. Chakraborty (Consultant)

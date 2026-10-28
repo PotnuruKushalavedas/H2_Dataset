@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Lakshman Iyer                  Age/Sex  : 83 Y / M
+UHID       : CDH7147639                     IP No.   : IP/26/246499
+DOA        : 16/09/2026                     DOD      : 21/09/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+
+BRIEF HISTORY:
+  - 83/M, presented with palpitations and breathlessness on exertion x 7 days. ECG: AF with FVR (HR 145/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 76/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 60% | S. Cr 1.5 mg/dl | Hb 12.8 g/dl | TSH 3.9 mIU/L | Weight 79 kg | CrCl (Cockcroft-Gault) 41 ml/min | CHA2DS2-VASc score 2
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 126/70 mmHg, PR 73/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+----------------+-------+-------+-------------+------------------+--------------+
+| No | Medicine       | Dose  | Route | Frequency   | Duration         | Instructions |
++----+----------------+-------+-------+-------------+------------------+--------------+
+| 1  | Tab. Diltiazem | 30 mg | PO    | TDS (1-1-1) | Till next review |              |
+| 2  | Tab. Xarelto   | 15 mg | PO    | OD (0-0-1)  | Lifelong         | with dinner  |
++----+----------------+-------+-------+-------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (since started on anticoagulant)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 12/10/2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

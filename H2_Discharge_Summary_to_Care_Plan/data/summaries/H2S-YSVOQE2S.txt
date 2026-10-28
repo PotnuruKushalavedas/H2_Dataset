@@ -1,0 +1,65 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rani Maurya                    Age/Sex  : 60 Y / F
+UHID       : CDH4459674                     IP No.   : IP/26/866715
+DOA        : 02/09/2026                     DOD      : 06/09/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to RCA
+
+BRIEF HISTORY:
+  - 60/F, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 1.5 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 03/09/2026: 92% stenosis of mid RCA; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (03/09/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.8 g/dl | S. Cr 0.5 mg/dl | K 4.3 mEq/L | LDL 154 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 54%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/80 mmHg, PR 69/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+-------+-------+------------+----------+--------------------------------------------------------------------------------+
+| No | Medicine                  | Dose  | Route | Frequency  | Duration | Instructions                                                                   |
++----+---------------------------+-------+-------+------------+----------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)   | 75 mg | PO    | OD (0-1-0) | Lifelong | after lunch                                                                    |
+| 2  | Tab. Clopilet             | 75 mg | PO    | OD (1-0-0) | 1 year   |                                                                                |
+| 3  | Tab. Rosuvastatin         | 20 mg | PO    | HS (0-0-1) | Lifelong |                                                                                |
+| 4  | Tab. Seloken XL           | 50 mg | PO    | OD (1-0-0) | Lifelong |                                                                                |
+| 5  | Tab. Pan                  | 40 mg | PO    | OD (1-0-0) | 3 months | ½ hr before breakfast                                                          |
+| 6  | Tab. Isosorbide Dinitrate | 5 mg  | SL    | SOS        | -        | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+---------------------------+-------+-------+------------+----------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 16/09/2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

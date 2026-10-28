@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Gurpreet Das                   Age/Sex  : 60 Y / M
+UHID       : CDH5765048                     IP No.   : IP/26/331367
+DOA        : 19/02/2026                     DOD      : 28/02/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 32%
+  - 3. BPH
+
+BRIEF HISTORY:
+  - 60/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 60 kg to 54 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 5561 pg/ml | S. Cr 0.7 mg/dl | Na 134 mEq/L | K 4.5 mEq/L | 2D Echo: LVEF 32%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 80/min, SpO2 99% on RA. Dry weight 54 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+---------+-------+------------+-------------+--------------+
+| No | Medicine                     | Dose    | Route | Frequency  | Duration    | Instructions |
++----+------------------------------+---------+-------+------------+-------------+--------------+
+| 1  | Tab. Torsemide               | 10 mg   | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate ER | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Enalapril               | 2.5 mg  | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone          | 25 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin (Forxiga) | 10 mg   | PO    | OD (1-0-0) | Lifelong    |              |
++----+------------------------------+---------+-------+------------+-------------+--------------+
+  To continue other previous medicines for BPH as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 07/03/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Manoj Ghosh
+Age / Sex    : 31 yrs / Male
+UHID         : CDH3870589      IP No: IP/26/996335
+Admitted on  : 19/02/2026      Discharged on: 23/02/2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis with localised perforation
+  * s/p Laparoscopic appendicectomy (19/02/2026)
+
+Brief History:
+  * 31/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 9. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency laparoscopic appendicectomy under GA on 19/02/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure:
+  * Laparoscopic appendicectomy under GA (19/02/2026)
+
+Investigations:
+  * TLC 12,500/cumm; CRP 46 mg/L; HPE: awaited; Hb 14.6 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 118/78 mmHg, PR 77/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 7 days
+- Tab. Metronidazole 400 mg 1-1-1 after food x 7 days (no alcohol during course)
+- Tab. Paracetamol 650 mg SOS for pain (max 3 doses/day)
+- Tab. Rabeprazole 20 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep the wound clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting or unable to take food and fluids orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Wound check - Surgery OPD on 02/03/2026 (Mon) (POD 11)
+  * Review with histopathology report - General Surgery OPD on 05/03/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Vivek Rathore (Consultant)

@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ajay Sharma                    Age/Sex  : 61 Y / M
+UHID       : CDH4073665                     IP No.   : IP/26/748845
+DOA        : 15/05/2026                     DOD      : 23/05/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 24%
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 61/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 70 kg to 66 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 4576 pg/ml | S. Cr 1.0 mg/dl | Na 139 mEq/L | K 3.8 mEq/L | 2D Echo: LVEF 24%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 86/min, SpO2 97% on RA. Dry weight 66 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine                               | Dose    | Route | Frequency  | Duration         | Instructions |
++----+----------------------------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Torsemide                         | 20 mg   | PO    | OD (1-0-0) | Till next review |              |
+| 2  | Tab. Metoprolol Succinate ER           | 12.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong         |              |
+| 4  | Tab. Spironolactone (Aldactone)        | 25 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Empagliflozin (Jardiance)         | 10 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 6  | Tab. Metformin (Glycomet)              | 500 mg  | PO    | BD (1-0-1) | Lifelong         | PC           |
++----+----------------------------------------+---------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 02/06/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

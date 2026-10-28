@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vikram Siddiqui                Age/Sex  : 65 Y / M
+UHID       : CDH8316907                     IP No.   : IP/26/322913
+DOA        : 21 May 2026                    DOD      : 25 May 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 65/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 158/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 86/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 54% | S. Cr 1.1 mg/dl | Hb 14.4 g/dl | TSH 2.0 mIU/L | Weight 67 kg | CrCl (Cockcroft-Gault) 63 ml/min | CHA2DS2-VASc score 2
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 110/76 mmHg, PR 92/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+-------------+------------------+--------------+
+| No | Medicine                  | Dose   | Route | Frequency   | Duration         | Instructions |
++----+---------------------------+--------+-------+-------------+------------------+--------------+
+| 1  | Tab. Diltiazem            | 30 mg  | PO    | TDS (1-1-1) | Till next review |              |
+| 2  | Cap. Dabigatran (Pradaxa) | 150 mg | PO    | BD (1-0-1)  | Lifelong         |              |
+| 3  | Tab. Telma                | 40 mg  | PO    | OD (1-0-0)  | Lifelong         |              |
++----+---------------------------+--------+-------+-------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (since started on anticoagulant)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness or difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 08 Jun 2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

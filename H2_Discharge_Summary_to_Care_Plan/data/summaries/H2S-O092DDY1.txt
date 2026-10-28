@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Rani Shaikh
+Age / Sex    : 41 yrs / Female
+UHID         : CDH6259946      IP No: IP/26/207822
+Admitted on  : 18.08.2026      Discharged on: 21.08.2026
+Consultant   : Dr. Imran Qureshi, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+
+Brief History:
+  * 41/F, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 2 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 171 to 321 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 321 L/min; CXR: no pneumothorax, no consolidation; AEC 590/cumm; TLC 10,200/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 130/70 mmHg, PR 87/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 1 puff 1-0-1 till review (with spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+- Tab. Prednisolone 40 mg 1-0-0 x 5 days, then 30 mg 1-0-0 x 3 days, then 20 mg 1-0-0 x 3 days, then 10 mg 1-0-0 x 3 days, then stop (after breakfast)
+- Tab. Montelukast 10 mg 0-0-1 (HS) till next review
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid triggers - dust / smoke / cold air
+    * Gradual increase in walking as tolerated
+  General:
+    * Inhaler technique taught; to use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze / breathlessness not settling with reliever inhaler
+  * Too breathless to complete sentences
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Chest pain / heaviness / sweating
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 28.08.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

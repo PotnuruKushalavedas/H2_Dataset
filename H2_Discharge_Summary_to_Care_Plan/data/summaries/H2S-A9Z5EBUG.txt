@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Bhavana Hembram    Age: 27 years    Sex: Female
+UHID: CDH4599838    IP Number: IP/26/943173
+Date of admission: 17th June 2026    Date of discharge: 24th June 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 27/F, k/c/o T2DM x 2 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 28 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.2, HCO3 11 mEq/L; Urine ketones +++; RBS at admission 244 mg/dl; HbA1c 10.8%; S. Cr 0.6 mg/dl; K 4.0 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 124/78 mmHg, PR 68/min, SpO2 98% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine (Basalog) 14 U SC once daily at night at 10 pm daily until the next visit
+2. Injection Insulin Regular (Human) (Actrapid) 4 U SC three times daily 30 min before meals until the next visit
+3. Tablet Metformin (Glycomet) 500 mg twice daily after food till the next review
+4. Tablet Ondansetron (Ondem) 4 mg only if needed (SOS) for nausea / vomiting (not more than 3 doses in 24 h)
+5. Tablet Levothyroxine 100 mcg once daily in the morning empty stomach to continue lifelong
+
+PLEASE STOP:
+  - Tab. Dapagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Oral fluids 2-3 L/day
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+REVIEW:
+  - Review with SMBG chart in Diabetes Clinic (Medicine OPD) on 29th June 2026 (Mon).
+  - Get S. Creatinine and electrolytes (Na, K) done on 29th June 2026 (Hospital laboratory)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Mamta Shah    Age: 44 years    Sex: Female
+UHID: CDH8265037    IP Number: IP/26/206474
+Date of admission: 16 Feb 2026    Date of discharge: 22 Feb 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+HISTORY:
+  - 44/F, k/c/o T2DM x 7 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: missed medicines.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 48 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.16, HCO3 10 mEq/L; Urine ketones +++; RBS at admission 384 mg/dl; HbA1c 11.7%; S. Cr 0.7 mg/dl; K 3.6 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 110/70 mmHg, PR 83/min, SpO2 98% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 10 units SC once daily at bedtime until the next visit
+2. Injection Insulin Aspart (NovoRapid) 4 units SC three times daily 0-15 min before meals till the next review
+3. Tablet Metformin 500 mg twice daily after food until the next visit
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other instructions:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+REVIEW:
+  - Get S. Creatinine and electrolytes (Na, K) done on 25 Feb 2026 (Central lab)
+  - Review with sugar chart in Diabetes Clinic (Medicine OPD) on 02 Mar 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Imran Verma                    Age/Sex  : 68 Y / M
+UHID       : CDH5235393                     IP No.   : IP/26/841744
+DOA        : 07/07/2026                     DOD      : 12/07/2026
+Consultant : Dr. A. Sengupta, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Intertrochanteric fracture right femur
+  - 2. s/p Closed reduction and PFN fixation (08/07/2026)
+
+BRIEF HISTORY:
+  - 68/M, h/o trivial fall at home; unable to bear weight on right lower limb since then.
+
+HOSPITAL COURSE:
+  - Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 08/07/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - Closed reduction and internal fixation with PFN under SA (08/07/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 10.4 g/dl | S. Cr 0.6 mg/dl | Weight 68 kg | Post-op X-ray: fracture fixed in good alignment | RBS 134 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 120/76 mmHg, PR 73/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| No | Medicine                                       | Dose      | Route | Frequency   | Duration | Instructions                                    |
++----+------------------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| 1  | Inj. Enoxaparin                                | 40 mg     | SC    | OD (1-0-0)  | 28 days  | in abdominal wall                               |
+| 2  | Tab. Calpol                                    | 650 mg    | PO    | TDS (1-1-1) | 2 weeks  | PC                                              |
+| 3  | Cap. Tramadol                                  | 50 mg     | PO    | SOS         | -        | for severe pain; not more than 2 doses in 24 h  |
+| 4  | Tab. Calcium carbonate + Vit D3                | 500 mg    | PO    | BD (1-1-0)  | 3 months | after food                                      |
+| 5  | Sachet Vitamin D3 (Cholecalciferol) (Calcirol) | 60,000 IU | PO    | once weekly | 8 weeks  | on the same day each week; with a glass of milk |
+| 6  | Syp. Lactulose                                 | 15 mL     | PO    | HS (0-0-1)  | 2 weeks  |                                                 |
+| 7  | Tab. Pantoprazole                              | 40 mg     | PO    | OD (1-0-0)  | 2 weeks  | ½ hr before breakfast                           |
++----+------------------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / paneer - for healing
+  Activity:
+    - Walker-assisted mobilisation - PWB (toe touch) on operated limb
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Fall prevention - night light, remove loose rugs, use support while walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Breathlessness or difficulty in breathing
+  - Operated leg - numbness / tingling / bluish discolouration / severe swelling
+
+FOLLOW-UP:
+  - Removal of sutures - Ortho OPD on 20/07/2026 (POD 12)
+  - Check X-ray and review - Orthopaedics OPD on 10/08/2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. A. Sengupta (Consultant)

@@ -1,0 +1,70 @@
+{
+  "summary_id": "H2S-SJ6WXBR0",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Premixed Insulin 30/70 (Human Mixtard 30)",
+        "dose": "12 units before breakfast, 6 units before dinner",
+        "frequency": "BD (12-0-6)",
+        "timing": "half an hour before breakfast and half an hour before dinner",
+        "duration": "till next review",
+        "how_to_take_plain": "Inject under the skin: 12 units before breakfast, 6 units before dinner (half an hour before breakfast and half an hour before dinner), until your next check-up."
+      },
+      {
+        "name": "Metformin",
+        "dose": "1000 mg",
+        "frequency": "BD (1-0-1)",
+        "timing": "after food",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (1000 mg) twice a day (morning and night), after food, every day for life; do not stop on your own."
+      }
+    ],
+    "stop_medicines": [
+      "Glimepiride (Amaryl) 2 mg"
+    ],
+    "warning_signs": [
+      "Signs of low sugar: sweating, shaking, confusion. Take 3 teaspoons of sugar or glucose in water at once, then come to hospital. If the person is drowsy, do not give anything by mouth; bring them to hospital",
+      "Blood sugar above 300 mg/dl on two checks"
+    ],
+    "diet": [
+      "Diabetic food: do not eat sugar, sweets, jaggery (gur) or honey, and do not drink fruit juice",
+      "Eat small meals often; do not skip any meal"
+    ],
+    "activity": [],
+    "follow_ups": [
+      {
+        "date": "2026-08-31",
+        "with_whom": "Diabetes Clinic (Medicine OPD)",
+        "purpose": "Check-up. Bring with you: your sugar chart",
+        "bring": [
+          "your sugar chart"
+        ]
+      },
+      {
+        "date": "2026-11-18",
+        "with_whom": "Diabetes Clinic (Medicine OPD)",
+        "purpose": "3-month sugar test (HbA1c) and check-up. Bring with you: your creatinine (kidney test) report",
+        "bring": [
+          "your creatinine (kidney test) report"
+        ]
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Check your blood sugar 4 times a day (before each meal and at bedtime) and write it in a chart",
+      "Change the injection spot each time (belly or thigh); keep insulin in the fridge, not in the freezer",
+      "Always carry sugar or glucose with you",
+      "Look at your feet every day; always wear footwear; never walk barefoot"
+    ],
+    "continue_previous_medications": true
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Babu Kulkarni    Age: 73 years\nWent home from hospital on: 2026-08-20 (20 August 2026)\n\nWHY YOU WERE IN HOSPITAL\nYour blood sugar stayed high even with tablets, so insulin injections have been started.\n\nYOUR MEDICINES (take exactly as written)\n1. Premixed Insulin 30/70 (Human Mixtard 30) 12 units before breakfast, 6 units before dinner\n   - Inject under the skin: 12 units before breakfast, 6 units before dinner (half an hour before breakfast and half an hour before dinner), until your next check-up.\n   - What it is for: mixed insulin taken before breakfast and dinner to control blood sugar.\n2. Metformin 1000 mg\n   - Take 1 tablet (1000 mg) twice a day (morning and night), after food, every day for life; do not stop on your own.\n   - What it is for: keeps your blood sugar under control.\n* Keep taking your earlier medicines for thyroid and prostate exactly as before (they are not listed here).\n\nMEDICINES TO STOP\n- STOP Glimepiride (Amaryl) 2 mg. Do not take it any more: you are now on insulin instead.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Signs of low sugar: sweating, shaking, confusion. Take 3 teaspoons of sugar or glucose in water at once, then come to hospital. If the person is drowsy, do not give anything by mouth; bring them to hospital\n- Blood sugar above 300 mg/dl on two checks\n\nFOOD\n- Diabetic food: do not eat sugar, sweets, jaggery (gur) or honey, and do not drink fruit juice\n- Eat small meals often; do not skip any meal\n\nOTHER ADVICE\n- Check your blood sugar 4 times a day (before each meal and at bedtime) and write it in a chart\n- Change the injection spot each time (belly or thigh); keep insulin in the fridge, not in the freezer\n- Always carry sugar or glucose with you\n- Look at your feet every day; always wear footwear; never walk barefoot\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-08-31 (Monday, 31 August 2026): Diabetes Clinic (Medicine OPD). Check-up. Bring with you: your sugar chart.\n- 2026-11-18 (Wednesday, 18 November 2026): Diabetes Clinic (Medicine OPD). 3-month sugar test (HbA1c) and check-up. Bring with you: your creatinine (kidney test) report.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Babu Kulkarni    उम्र: 73 साल\nअस्पताल से छुट्टी की तारीख़: 2026-08-20 (20 अगस्त 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nगोलियों के बावजूद आपकी शुगर ज़्यादा रह रही थी, इसलिए इंसुलिन के इंजेक्शन शुरू किए गए हैं।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Premixed Insulin 30/70 (Human Mixtard 30) नाश्ते से पहले 12 units, रात के खाने से पहले 6 units\n   - त्वचा के नीचे इंसुलिन लगाएँ: नाश्ते से पहले 12 units, रात के खाने से पहले 6 units (नाश्ते से आधा घंटा पहले और रात के खाने से आधा घंटा पहले), अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: नाश्ते और रात के खाने से पहले लिया जाने वाला मिला-जुला इंसुलिन, जो शुगर काबू में रखता है।\n2. Metformin 1000 mg\n   - दिन में 2 बार (सुबह और रात), खाने के बाद: 1 गोली (1000 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: खून में शुगर को काबू में रखने के लिए।\n* थायरॉइड और प्रोस्टेट की अपनी पुरानी दवाइयाँ पहले की तरह ही लेना जारी रखें (वे यहाँ नहीं लिखी हैं)।\n\nये दवाइयाँ बंद करें\n- Glimepiride (Amaryl) 2 mg लेना बंद करें। इसे अब बिल्कुल न लें: अब इसकी जगह आपको इंसुलिन दिया गया है।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- शुगर कम होने के लक्षण: पसीना, कंपकंपी, सोचने-समझने में गड़बड़ी। तुरंत 3 छोटे (चाय वाले) चम्मच चीनी या ग्लूकोज़ पानी में घोलकर पिएँ, फिर अस्पताल आएँ। अगर मरीज़ बहुत सुस्त/बेहोश-सा हो, तो मुँह से कुछ न दें; सीधे अस्पताल लाएँ\n- 2 बार जाँच में शुगर 300 mg/dl से ज़्यादा आना\n\nखाना\n- डायबिटीज़ वाला खाना: चीनी, मिठाई, गुड़ या शहद न खाएँ, और फलों का जूस न पिएँ\n- थोड़ा-थोड़ा खाना बार-बार खाएँ; कोई भी खाना न छोड़ें\n\nअन्य सलाह\n- दिन में 4 बार शुगर जाँचें (हर खाने से पहले और सोते समय) और चार्ट में लिखें\n- हर बार इंजेक्शन की जगह बदलें (पेट या जांघ); इंसुलिन को फ़्रिज में रखें, फ़्रीज़र में नहीं\n- हमेशा अपने पास चीनी या ग्लूकोज़ रखें\n- रोज़ अपने पैरों को देखें; हमेशा चप्पल/जूते पहनें; कभी नंगे पैर न चलें\n\nअगली बार अस्पताल कब आना है\n- 2026-08-31 (सोमवार, 31 अगस्त 2026): डायबिटीज़ क्लिनिक (Medicine OPD)। डॉक्टर को दिखाने आएँ। साथ लाएँ: अपना शुगर चार्ट।\n- 2026-11-18 (बुधवार, 18 नवंबर 2026): डायबिटीज़ क्लिनिक (Medicine OPD)। 3 महीने की औसत शुगर जाँच (HbA1c) करवाएँ और डॉक्टर को दिखाएँ। साथ लाएँ: क्रिएटिनिन (गुर्दे की जाँच) की रिपोर्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 6.34
+  }
+}

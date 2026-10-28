@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Ajay Krishnan, 45/M  UHID: CDH1581530  IP: IP/26/503218
+DOA: 31-Jan-26  DOD: 05-Feb-26  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+
+H/o: 45/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 4.6 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 02-Feb-26: 90% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (02-Feb-26)
+
+Ix: Hb 13.2 g/dl, S. Cr 0.7 mg/dl, K 4.3 mEq/L, LDL 127 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 54%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 120/74 mmHg, PR 81/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 mg OD after lunch lifelong
+2) T. Prasita 10 mg OD x 1 yr
+3) T. Atorva 40 mg HS lifelong
+4) T. Met XL 25 OD lifelong
+5) T. Telma 40 mg OD lifelong
+6) T. Pan 40 mg OD 30 min before breakfast till next review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+STOP Tab. Voveran 50 mg (NSAID - avoid in heart disease)
+
+Adv:
+  Diet:
+  - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+  - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness / difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 16-Feb-26 - Review with reports with ECG
+- Lipid profile (fasting) on 19-Mar-26 at Central lab
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

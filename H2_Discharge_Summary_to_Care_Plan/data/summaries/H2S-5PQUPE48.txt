@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Divya Murmu                    Age/Sex  : 41 Y / F
+UHID       : CDH9757046                     IP No.   : IP/26/338672
+DOA        : 06/08/2026                     DOD      : 10/08/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Inferior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to RCA
+
+BRIEF HISTORY:
+  - 41/F, presented with retrosternal chest pain with sweating x 6 hrs. ECG: ST elevation in II, III, aVF.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 06/08/2026: CAG showed 95% thrombotic occlusion of mid RCA; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (06/08/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 11.6 g/dl | S. Cr 0.6 mg/dl | K 4.4 mEq/L | LDL 138 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 54%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/80 mmHg, PR 85/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+-------+-------+------------+----------+--------------------------------------------------------------------------------+
+| No | Medicine                           | Dose  | Route | Frequency  | Duration | Instructions                                                                   |
++----+------------------------------------+-------+-------+------------+----------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                       | 75 mg | PO    | OD (0-1-0) | Lifelong | after lunch                                                                    |
+| 2  | Tab. Ticagrelor (Brilinta)         | 90 mg | PO    | BD (1-0-1) | 1 year   |                                                                                |
+| 3  | Tab. Rosuvastatin (Rozavel)        | 20 mg | PO    | HS (0-0-1) | Lifelong |                                                                                |
+| 4  | Tab. Metoprolol Succinate (Met XL) | 25 mg | PO    | OD (1-0-0) | Lifelong |                                                                                |
+| 5  | Tab. Pantoprazole (Pantocid)       | 40 mg | PO    | OD (1-0-0) | 3 months | ½ hr before breakfast                                                          |
+| 6  | Tab. Isosorbide Dinitrate          | 5 mg  | SL    | SOS        | -        | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+------------------------------------+-------+-------+------------+----------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 17/08/2026; bring reports: ECG
+  - Lipid profile (fasting) on 21/09/2026 at Central lab
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

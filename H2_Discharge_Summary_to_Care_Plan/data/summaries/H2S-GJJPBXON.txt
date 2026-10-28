@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Venkatesh Mishra               Age/Sex  : 68 Y / M
+UHID       : CDH1294495                     IP No.   : IP/26/580289
+DOA        : 19 May 2026                    DOD      : 25 May 2026
+Consultant : Dr. A. Sengupta, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Primary osteoarthritis right knee (KL grade 4)
+  - 2. s/p Right TKR (20 May 2026)
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 68/M, c/o pain right knee x 5 yrs, difficulty in walking and climbing stairs, not relieved by conservative management.
+
+HOSPITAL COURSE:
+  - Underwent Right cemented TKR under spinal-epidural anaesthesia on 20 May 2026. Received Inj. Cefazolin periop. Mobilised with walker on POD 1; knee flexion 85 deg at discharge. Thromboprophylaxis started.
+
+PROCEDURE(S) DONE:
+  - Right cemented total knee replacement (20 May 2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 10.7 g/dl | S. Cr 1.1 mg/dl | Weight 75 kg | Check X-ray: implant in good position | RBS 130 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, walking with walker. BP 114/70 mmHg, PR 78/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+-----------+-------+-------------+----------+----------------------------------+
+| No | Medicine                            | Dose      | Route | Frequency   | Duration | Instructions                     |
++----+-------------------------------------+-----------+-------+-------------+----------+----------------------------------+
+| 1  | Inj. Enoxaparin (Clexane)           | 40 mg     | SC    | OD (1-0-0)  | 9 days   | in abdominal wall                |
+| 2  | Tab. Paracetamol (Calpol)           | 650 mg    | PO    | TDS (1-1-1) | 2 weeks  | after food                       |
+| 3  | Cap. Tramadol                       | 50 mg     | PO    | SOS         | -        | for severe pain; max 2 doses/day |
+| 4  | Tab. Pantoprazole (Pantocid)        | 40 mg     | PO    | OD (1-0-0)  | 2 weeks  | 30 min before breakfast          |
+| 5  | Tab. Calcium + Vitamin D3 (Shelcal) | 500 mg    | PO    | BD (1-1-0)  | 3 months | PC                               |
+| 6  | Sachet Vitamin D3 (Cholecalciferol) | 60,000 IU | PO    | once weekly | 8 weeks  | same day every week; with milk   |
++----+-------------------------------------+-----------+-------+-------------+----------+----------------------------------+
+  To continue other previous medicines for T2DM as before (unchanged).
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - Knee bending and quadriceps exercises as taught by physiotherapist, 3-4 times a day
+    - Walk with walker support; full weight bearing as tolerated
+    - Avoid squatting and sitting cross-legged; use western toilet
+  Wound care:
+    - Keep wound site clean and dry
+    - Do not remove the dressing; it will be changed at review
+  Other:
+    - Cryotherapy (ice) 15-20 min TDS-QID over knee
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Physiotherapy session - Physiotherapy Dept. on 29 May 2026
+  - Removal of skin staples + wound inspection - Orthopaedics OPD on 03 Jun 2026 (Wed) (POD 14); bring reports: X-ray
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. A. Sengupta (Consultant)

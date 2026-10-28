@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Harpreet Tiwari                Age/Sex  : 57 Y / M
+UHID       : CDH7026344                     IP No.   : IP/26/471996
+DOA        : 13 May 2026                    DOD      : 15 May 2026
+Consultant : Dr. N. Chakraborty, MS (General Surgery) Unit     : Surgery Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Right inguinal hernia (direct, reducible)
+  - 2. s/p Lichtenstein tension-free mesh hernioplasty (13 May 2026)
+
+BRIEF HISTORY:
+  - 57/M, c/o swelling in right groin x 17 months, increasing on coughing/straining, reducible.
+
+HOSPITAL COURSE:
+  - Underwent Lichtenstein tension-free mesh hernioplasty under SA on 13 May 2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+PROCEDURE(S) DONE:
+  - Lichtenstein tension-free mesh hernioplasty under SA (13 May 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.0 g/dl | RBS 120 mg/dl | S. Cr 0.7 mg/dl | ECG: normal sinus rhythm
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, passing urine and stools. BP 130/74 mmHg, PR 88/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine                | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+-------------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. Paracetamol        | 650 mg | PO    | SOS        | -        | for pain; not more than 3 doses in 24 h |
+| 2  | Tab. Diclofenac         | 50 mg  | PO    | BD (1-0-1) | 5 days   | after food                              |
+| 3  | Tab. Pantoprazole (Pan) | 40 mg  | PO    | OD (1-0-0) | 5 days   | ½ hr before breakfast                   |
+| 4  | Syp. Lactulose          | 15 mL  | PO    | HS (0-0-1) | 7 days   |                                         |
++----+-------------------------+--------+-------+------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - High-fibre diet with plenty of oral fluids to avoid constipation
+  Activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+    - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    - Keep wound site clean and dry
+    - Do not apply oil, turmeric or powder on the wound
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Redness, swelling, pus or discharge from the wound
+  - Scrotal swelling / severe scrotal pain
+  - Inability to pass urine
+  - Bleeding from the wound or soakage of dressing
+
+FOLLOW-UP:
+  - Removal of sutures - Surgery OPD on 21 May 2026 (Thu) (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. N. Chakraborty (Consultant)

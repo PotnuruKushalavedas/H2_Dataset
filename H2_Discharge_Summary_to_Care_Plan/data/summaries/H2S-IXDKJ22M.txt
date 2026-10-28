@@ -1,0 +1,52 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Priya Bora
+Age / Sex    : 57 yrs / Female
+UHID         : CDH7095965      IP No: IP/26/726908
+Admitted on  : 23.06.2026      Discharged on: 28.06.2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  * Hypothyroidism
+
+Brief History:
+  * 57/F, k/c/o T2DM x 8 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.6%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 11.6%; FBS 224 mg/dl; PPBS 277 mg/dl; S. Cr 0.5 mg/dl; Urine microalbumin 127 mg/g; Fundus: no DR
+
+Condition at Discharge: Stable. BP 120/76 mmHg, PR 80/min, SpO2 98% on RA. Pre-meal sugars 125-189 mg/dl.
+
+Medications at Discharge:
+- Inj. Human Premix Insulin 30/70 10-0-6 IU SC ½ hr before breakfast & dinner till review
+- Tab. Metformin 1000 mg 1-0-1 after food lifelong
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+- STOP Tab. Glimepiride 1 mg (now on insulin)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Carry glucose / sugar at all times
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with sugar chart - DM clinic, Medicine OPD on 06.07.2026 (Mon)
+  * Review with HbA1c - DM clinic, Medicine OPD on 21.09.2026; bring reports: S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

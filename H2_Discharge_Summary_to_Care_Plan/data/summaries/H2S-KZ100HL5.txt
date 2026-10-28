@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Kavita Shaikh, 70/F  UHID: CDH5966143  IP: IP/26/870266
+DOA: 07/03/2026  DOD: 13/03/2026  Cons: Dr. Anil Bhosale (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Acute pyelonephritis (UTI)
+
+H/o: 70/F, k/c/o T2DM x 9 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 364 mg/dl.
+
+Course: Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+Ix: HbA1c 9.3%, FBS 308 mg/dl, PPBS 384 mg/dl, S. Cr 0.8 mg/dl, Urine routine: pus cells plenty, Hb 11.9 g/dl
+
+Condn at d/c: Afebrile, stable. BP 130/78 mmHg, PR 85/min, SpO2 97% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD PC till review
+2) T. Istavel 100 mg OD till review
+3) T. Taxim-O 200 BD after food x 5 days
+
+STOP Tab. Amaryl 2 mg (risk of low sugar)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - Check fasting and post-meal blood sugar at home twice a week and keep a record
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Review SOS if:
+- High fever with chills
+- Burning or pain while passing urine
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- Medicine OPD on 27/03/2026 - Review with reports with FBS, PPBS, Urine routine
+- Diabetes Clinic (Medicine OPD) on 05/06/2026 - HbA1c and review
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

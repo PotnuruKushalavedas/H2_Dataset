@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Renu Pillai                    Age/Sex  : 61 Y / F
+UHID       : CDH3650877                     IP No.   : IP/26/324459
+DOA        : 11/05/2026                     DOD      : 15/05/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 61/F, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 3.0 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 12/05/2026: 83% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (12/05/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.2 g/dl | S. Cr 0.6 mg/dl | K 4.1 mEq/L | LDL 166 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 57%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/80 mmHg, PR 81/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+-------+-------+------------+-----------+--------------------------------------------------------------------------------+
+| No | Medicine                    | Dose  | Route | Frequency  | Duration  | Instructions                                                                   |
++----+-----------------------------+-------+-------+------------+-----------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                | 75 mg | PO    | OD (0-1-0) | Lifelong  | after lunch                                                                    |
+| 2  | Tab. Clopidogrel            | 75 mg | PO    | OD (1-0-0) | 12 months |                                                                                |
+| 3  | Tab. Rosuvastatin (Rozavel) | 20 mg | PO    | HS (0-0-1) | Lifelong  |                                                                                |
+| 4  | Tab. Metoprolol Succinate   | 25 mg | PO    | OD (1-0-0) | Lifelong  |                                                                                |
+| 5  | Tab. Cardace                | 5 mg  | PO    | OD (1-0-0) | Lifelong  |                                                                                |
+| 6  | Tab. Pantoprazole           | 40 mg | PO    | OD (1-0-0) | 3 months  | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate   | 5 mg  | SL    | SOS        | -         | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+-----------------------------+-------+-------+------------+-----------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 25/05/2026 (Mon); bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Prakash Nair (Consultant)

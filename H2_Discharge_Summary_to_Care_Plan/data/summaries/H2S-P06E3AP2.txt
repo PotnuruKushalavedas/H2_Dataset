@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sita Jadhav                    Age/Sex  : 36 Y / F
+UHID       : CDH5485001                     IP No.   : IP/26/736765
+DOA        : 02 Feb 2026                    DOD      : 07 Feb 2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Emergency LSCS for fetal distress on 03 Feb 2026
+
+BRIEF HISTORY:
+  - 36/F, G2 at 40 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 03 Feb 2026 for fetal distress. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby boy, 3.53 kg, APGAR 9/10. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (03 Feb 2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 10.6 g/dl | Blood group B +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 114/72 mmHg, PR 76/min, SpO2 97% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+-------------+----------+-------------------------+
+| No | Medicine                           | Dose   | Route | Frequency   | Duration | Instructions            |
++----+------------------------------------+--------+-------+-------------+----------+-------------------------+
+| 1  | Tab. Amoxicillin + Clavulanic acid | 625 mg | PO    | BD (1-0-1)  | 5 days   | after food              |
+| 2  | Tab. Crocin                        | 650 mg | PO    | TDS (1-1-1) | 5 days   | PC                      |
+| 3  | Tab. Rabeprazole                   | 20 mg  | PO    | OD (1-0-0)  | 5 days   | 30 min before breakfast |
+| 4  | Tab. Iron + Folic acid (IFA)       | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner            |
+| 5  | Tab. Calcium + Vitamin D3          | 500 mg | PO    | BD (1-1-0)  | 6 months | PC                      |
++----+------------------------------------+--------+-------+-------------+----------+-------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - No heavy lifting (more than 5 kg) for 6 weeks
+  Wound care:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+    - Contraception to be discussed at postnatal visit; spacing of at least 2 years advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever above 100.4 F (38 C)
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Painful, red, hard swelling of the breast with fever
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Wound inspection - OBG OPD on 11 Feb 2026 (POD 8)
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 17 Mar 2026; bring reports: Hb
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Pooja Mehra (Consultant)

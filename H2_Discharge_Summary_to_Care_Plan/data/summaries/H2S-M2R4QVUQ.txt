@@ -1,0 +1,60 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Subhash Murmu
+Age / Sex    : 74 yrs / Male
+UHID         : CDH7754764      IP No: IP/26/942558
+Admitted on  : 26.02.2026      Discharged on: 03.03.2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Dilated cardiomyopathy, LVEF 38%
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 74/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 2.5 L; weight down from 90 kg to 87 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 9224 pg/ml; S. Cr 1.5 mg/dl; Na 133 mEq/L; K 4.0 mEq/L; 2D Echo: LVEF 38%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 67/min, SpO2 97% on RA. Dry weight 87 kg.
+
+Medications at Discharge:
+- Tab. Torsemide (Dytor) 10 mg 1-0-0 till next review
+- Tab. Metoprolol Succinate ER 25 mg 1-0-0 long term (lifelong)
+- Tab. Sacubitril + Valsartan (24/26 mg) 50 mg 1-0-1 lifelong
+- Tab. Spironolactone 25 mg half tab ½-0-0 long term (lifelong)
+- Tab. Dapagliflozin 10 mg 1-0-0 long term (lifelong)
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+
+- STOP Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+    * Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Check weight every morning and keep a record
+    * Do not take painkillers from the chemist without doctor's advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest / on lying down flat
+  * Increasing swelling of feet or legs
+  * Marked decrease in urine output
+  * Giddiness / fainting / LOC
+  * Palpitations (fast or irregular heartbeat)
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 10.03.2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  * 2D Echo + review - Cardiology OPD on 01.06.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

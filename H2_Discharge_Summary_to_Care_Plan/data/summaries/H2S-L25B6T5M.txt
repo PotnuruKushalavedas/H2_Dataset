@@ -1,0 +1,61 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Revathi Gill, 62/F  UHID: CDH9766801  IP: IP/26/597371
+DOA: 17-Jan-26  DOD: 21-Jan-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - Inferior wall STEMI
+- CAD - SVD; s/p primary PCI with 1 DES to RCA
+- Type 2 diabetes mellitus
+- Systemic hypertension
+
+H/o: 62/F, k/c/o T2DM, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in II, III, aVF.
+
+Course: Taken up for primary PCI on 18-Jan-26: CAG showed 100% thrombotic occlusion of proximal RCA; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Procedure: CAG + PCI with 1 DES to RCA (18-Jan-26)
+
+Ix: Hb 14.0 g/dl, S. Cr 1.0 mg/dl, K 3.9 mEq/L, LDL 153 mg/dl, 2D Echo: RWMA in RCA territory, LVEF 41%, HbA1c 9.5%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 126/74 mmHg, PR 84/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 mg OD after lunch lifelong
+2) T. Axcer 90 mg BD x 1 yr
+3) T. Rosuvas 20 HS lifelong
+4) T. Met XL 50 mg OD lifelong
+5) T. Cardace 5 OD lifelong
+6) T. Pantoprazole 40 mg OD 30 min before breakfast till next review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8) T. Metformin 500 mg BD PC lifelong
+9) T. Empagliflozin 10 mg OD life long
+
+STOP Tab. Clopilet 75 mg (switched to Ticagrelor)
+
+Adv:
+  Diet:
+  - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - No driving for 1 week
+  Others:
+  - No smoking / no tobacco in any form
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain not relieved after 3 SL tablets taken 5 min apart
+- Breathlessness or difficulty in breathing
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+
+F/U:
+- Cardiology OPD on 28-Jan-26 - Review with reports with ECG
+- Lipid profile (fasting) on 07-Mar-26 at Hospital laboratory
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

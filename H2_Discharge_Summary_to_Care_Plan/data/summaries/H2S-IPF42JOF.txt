@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Arjun Reddy, 65/M  UHID: CDH6872628  IP: IP/26/586650
+DOA: 27/07/2026  DOD: 31/07/2026  Cons: Dr. Anil Bhosale (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Community-acquired pneumonia (right lower lobe) - CURB-65 score 2
+
+H/o: 65/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 6 days.
+
+Course: Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Ix: TLC 15,800/cumm, CRP 74 mg/L, CXR: consolidation right lower lobe, S. Cr 0.7 mg/dl, Blood C/S: no growth
+
+Condn at d/c: Afebrile, comfortable. BP 118/70 mmHg, PR 66/min, SpO2 97% on RA. Chest: crepts reducing.
+
+Rx on discharge:
+1) T. Amoxicillin + Clavulanic acid 625 mg BD after food x 7/7
+2) T. Calpol 650 SOS for pain (not more than 3 doses in 24 h)
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  - Oral fluids 2-3 L/day
+  Activity:
+  - Deep breathing exercises - 10 breaths every hour when awake
+  - Gradually increase walking as tolerated
+  Others:
+  - Influenza and pneumococcal vaccination advised
+  - No smoking / no tobacco in any form
+
+Review SOS if:
+- Fever recurring, or persisting for more than 3 days after discharge
+- Breathlessness / difficulty in breathing
+- Chest pain, heaviness or sweating
+- Bluish lips or fingertips, drowsiness or confusion
+- Coughing up blood
+
+F/U:
+- Medicine OPD on 10/08/2026 - Review with reports with CBC
+- Pulmonary Medicine (Chest) OPD on 11/09/2026 - Repeat chest X-ray
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

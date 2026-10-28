@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Mahesh Joseph    Age: 37 years    Sex: Male
+UHID: CDH7541631    IP Number: IP/26/139163
+Date of admission: 19 Apr 2026    Date of discharge: 23 Apr 2026
+Under the care of: Dr. N. Chakraborty, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis
+  - 2. s/p Open appendicectomy (19 Apr 2026)
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 37/M, c/o periumbilical pain shifting to RIF x 3 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency open appendicectomy under GA on 19 Apr 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+OPERATIVE PROCEDURE:
+  - Open appendicectomy under GA (19 Apr 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 15,500/cumm; CRP 117 mg/L; HPE: awaited; Hb 12.9 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 120/72 mmHg, PR 68/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin + Clavulanic acid 625 mg three times daily after food for 5 days
+2. Tablet Paracetamol (Crocin) 650 mg three times daily PC for 7 days
+3. Tablet Rabeprazole 20 mg once daily in the morning ½ hr before breakfast for 5 days
+To continue other previous medicines for hypothyroidism as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - No heavy lifting (more than 5 kg) for 6 weeks
+    - Splint wound with pillow on coughing / sneezing; avoid straining
+  Care of the wound:
+    - Keep wound site clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever > 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting / not able to take orally
+  - Distension of abdomen with no passage of stool or gas
+
+REVIEW:
+  - Suture removal in General Surgery OPD on 27 Apr 2026 (POD 8).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. N. Chakraborty (Consultant)

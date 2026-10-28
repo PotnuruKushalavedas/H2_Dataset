@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Bhaskar Kalita, 65/M  UHID: CDH4527292  IP: IP/26/693281
+DOA: 25/08/2026  DOD: 01/09/2026  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+
+H/o: 65/M, chronic smoker (20 pack-yrs), k/c/o COPD x 7 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.31, pCO2 54 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 13,300/cumm, RBS 111 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 3. BP 114/76 mmHg, PR 74/min, SpO2 94% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 cap OD life long (via rotahaler)
+2) MDI Budesonide + Formoterol (6/200 mcg) 2 puffs BD life long (via spacer; rinse mouth after use)
+3) MDI Asthalin 100 mcg 2 puffs SOS for wheeze or breathlessness (not more than 8 puffs in 24 h)
+4) T. Wysolone 40 mg OD x 3/7 then 30 mg OD x 3 days then 20 mg OD x 3 days then 10 mg OD x 3/7 then stop (after breakfast)
+5) T. Augmentin 625 BD after food x 5/7
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed lip breathing + daily walk as tolerated
+  Others:
+  - Inhaler technique demonstrated - use with spacer
+  - Influenza and pneumococcal vaccination advised
+  - No smoking / no tobacco in any form
+
+Review SOS if:
+- Breathlessness / difficulty in breathing
+- Wheeze or breathlessness not relieved by the reliever inhaler
+- Bluish lips or fingertips, drowsiness or confusion
+- Fever above 100.4 F (38 C)
+- Increase in sputum quantity or change to yellow/green colour
+
+F/U:
+- Chest OPD on 11/09/2026 - Review with reports
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Kavita Deshmukh (Consultant)

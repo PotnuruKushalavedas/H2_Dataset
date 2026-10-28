@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Kalpana Gill    Age: 72 years    Sex: Female
+UHID: CDH6172747    IP Number: IP/26/427770
+Date of admission: 26 Aug 2026    Date of discharge: 02 Sep 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 72/F, h/o long-term chulha smoke exposure, k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.36, pCO2 48 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 12,300/cumm; RBS 190 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 3. BP 126/80 mmHg, PR 69/min, SpO2 92% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 rotacap once daily in the morning to continue lifelong (with rotahaler device)
+2. Inhaler Budesonide + Formoterol (Foracort) 400 1 puff twice daily lifelong (via spacer; rinse mouth after use)
+3. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for breathlessness / wheeze (max 8 puffs/day)
+4. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+5. Capsule Doxycycline 100 mg twice daily after food for 5 days
+6. Tablet Pantoprazole 40 mg once daily in the morning ½ hr before breakfast for 5 days
+7. Tablet Telmisartan 40 mg once daily in the morning lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other instructions:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Chest OPD on 12 Sep 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Imran Qureshi (Consultant)

@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Rakesh Hembram    Age: 33 years    Sex: Male
+UHID: CDH6367954    IP Number: IP/26/849883
+Date of admission: 20th June 2026    Date of discharge: 25th June 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+HISTORY:
+  - 33/M, presented with cough x 10 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 21st June 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: left upper zone infiltrates with cavity; Hb 10.3 g/dl; LFT: within normal limits; RBS 95 mg/dl; HIV: non-reactive; Weight 54 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 118/70 mmHg, PR 81/min, SpO2 96% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet 4-FDC (HRZE) 4 tablets once daily in the morning empty stomach for 52 days (weight-band dose; to complete IP of 8 wks; review for CP thereafter)
+2. Tablet Pyridoxine (Vit B6) 10 mg once daily in the morning until the next visit
+3. Tablet Paracetamol 650 mg only if needed (SOS) for fever / pain (max 3 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - High-protein nutritious diet (dal, eggs, milk, soya)
+    - Strictly no alcohol
+  Other instructions:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - Stop smoking and all forms of tobacco
+    - Orange-red urine expected with rifampicin (harmless)
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurring of vision or difficulty in telling colours apart
+  - Generalised skin rash / itching
+  - Haemoptysis (coughing out blood)
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with LFT in DOTS centre / TB clinic on 9th July 2026.
+  - Sputum AFB at end of IP in DOTS centre / TB clinic on 17th August 2026 (Mon).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. T. Raghavan (Consultant)

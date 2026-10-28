@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Hemant Bora    Age: 70 years    Sex: Male
+UHID: CDH1136905    IP Number: IP/26/193915
+Date of admission: 19th February 2026    Date of discharge: 25th February 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+HISTORY:
+  - 70/M, h/o long-term chulha smoke exposure, k/c/o COPD x 4 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.32, pCO2 62 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 15,500/cumm; RBS 122 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 3. BP 124/76 mmHg, PR 78/min, SpO2 93% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 rotacap once daily in the morning lifelong (via rotahaler)
+2. Inhaler Budamate 200 2 puffs twice daily lifelong (with spacer; gargle after use)
+3. Inhaler Salbutamol (Asthalin) 2 puffs only if needed (SOS) for wheeze or breathlessness (max 8 puffs/day)
+4. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+5. Capsule Doxycycline 100 mg twice daily PC for 5 days
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed lip breathing + daily walk as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+    - Flu + pneumococcal vaccine advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Chest OPD on 11th March 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

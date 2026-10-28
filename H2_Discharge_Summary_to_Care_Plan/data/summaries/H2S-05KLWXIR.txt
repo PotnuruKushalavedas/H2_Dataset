@@ -1,0 +1,70 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Shankar Patnaik                Age/Sex  : 50 Y / M
+UHID       : CDH7295269                     IP No.   : IP/26/550223
+DOA        : 15 Apr 2026                    DOD      : 21 Apr 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to RCA
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 50/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 7.9 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 16 Apr 2026: 93% stenosis of proximal RCA; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (16 Apr 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.5 g/dl | S. Cr 0.8 mg/dl | K 4.2 mEq/L | LDL 133 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 54% | HbA1c 7.3%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/70 mmHg, PR 88/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+------------------+-------------------------------------------------------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration         | Instructions                                                |
++----+-----------------------------+--------+-------+------------+------------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin                | 75 mg  | PO    | OD (0-1-0) | Lifelong         | after lunch                                                 |
+| 2  | Tab. Clopidogrel (Clopitab) | 75 mg  | PO    | OD (1-0-0) | 12 months        |                                                             |
+| 3  | Tab. Storvas                | 40 mg  | PO    | HS (0-0-1) | Lifelong         |                                                             |
+| 4  | Tab. Concor                 | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 5  | Tab. Ramipril               | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 6  | Tab. Pantoprazole           | 40 mg  | PO    | OD (1-0-0) | Till next review | 30 min before breakfast                                     |
+| 7  | Tab. Isosorbide Dinitrate   | 5 mg   | SL    | SOS        | -                | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
+| 8  | Tab. Metformin              | 500 mg | PO    | BD (1-0-1) | Lifelong         | after food                                                  |
++----+-----------------------------+--------+-------+------------+------------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 28 Apr 2026; bring reports: ECG
+  - Lipid profile (fasting) on 02 Jun 2026 at Central lab
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

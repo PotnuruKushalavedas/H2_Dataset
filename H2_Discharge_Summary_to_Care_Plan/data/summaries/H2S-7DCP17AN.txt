@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Subhash Kushwaha    Age: 34 years    Sex: Male
+UHID: CDH3850917    IP Number: IP/26/456961
+Date of admission: 22 May 2026    Date of discharge: 29 May 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+  - 2. Systemic hypertension
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 34/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 3 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 19,400/cumm; CRP 159 mg/L; CXR: consolidation left lower lobe; S. Cr 1.0 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 110/78 mmHg, PR 86/min, SpO2 96% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Cefuroxime (Ceftum) 500 mg twice daily after food for 7 days
+2. Tablet Paracetamol 500 mg only if needed (SOS) for fever (not more than 3 doses in 24 h)
+3. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+Continue previous medications for hypothyroidism as before.
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Physical activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Coughing up blood
+
+REVIEW:
+  - Review with reports in Gen. Medicine OPD on 05 Jun 2026 (Fri). Please bring: CBC.
+  - Repeat chest X-ray in Chest OPD on 10 Jul 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. S. K. Mishra (Consultant)

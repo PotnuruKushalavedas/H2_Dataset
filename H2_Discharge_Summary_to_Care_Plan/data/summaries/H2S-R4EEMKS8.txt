@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Venkatesh Shaikh, 45/M  UHID: CDH4927614  IP: IP/26/567249
+DOA: 20/04/2026  DOD: 24/04/2026  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+
+H/o: 45/M, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 2.9 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 21/04/2026: 84% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (21/04/2026)
+
+Ix: Hb 14.6 g/dl, S. Cr 0.7 mg/dl, K 4.5 mEq/L, LDL 151 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 44%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 124/76 mmHg, PR 68/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 OD after lunch lifelong
+2) T. Clopitab 75 mg OD x 1 yr
+3) T. Atorvastatin 40 mg HS life long
+4) T. Metoprolol Succinate ER 25 mg OD lifelong
+5) T. Cardace 5 OD lifelong
+6) T. Pantoprazole 40 mg OD 30 min before breakfast till review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+
+Adv:
+  Diet:
+  - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - No heavy lifting (more than 5 kg) for 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain not relieved after 3 SL tablets taken 5 min apart
+- Breathlessness or difficulty in breathing
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 01/05/2026 - Review with reports with ECG
+- Fasting lipid profile on 08/06/2026 at Hospital laboratory
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Prakash Nair (Consultant)

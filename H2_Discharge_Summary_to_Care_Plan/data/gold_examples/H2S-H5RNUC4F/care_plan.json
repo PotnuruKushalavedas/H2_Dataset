@@ -1,0 +1,122 @@
+{
+  "summary_id": "H2S-H5RNUC4F",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Aspirin",
+        "dose": "75 mg",
+        "frequency": "OD (0-1-0)",
+        "timing": "after lunch",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (75 mg) once a day, after lunch, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Clopidogrel (Clopilet)",
+        "dose": "75 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "1 year",
+        "how_to_take_plain": "Take 1 tablet (75 mg) once a day, in the morning, for 1 year."
+      },
+      {
+        "name": "Atorvastatin (Atorva)",
+        "dose": "80 mg",
+        "frequency": "HS (0-0-1)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (80 mg) once a day, at bedtime, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Metoprolol Succinate (Seloken XL)",
+        "dose": "50 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (50 mg) once a day, in the morning, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Ramipril",
+        "dose": "2.5 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (2.5 mg) once a day, in the morning, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Pantoprazole",
+        "dose": "40 mg",
+        "frequency": "OD (1-0-0)",
+        "timing": "half an hour before breakfast",
+        "duration": "till next review",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, half an hour before breakfast, until your next check-up."
+      },
+      {
+        "name": "Isosorbide Dinitrate",
+        "dose": "5 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Only when you have chest pain: put 1 tablet (5 mg) under the tongue; if the pain does not go, you may put 1 more tablet every 5 minutes, up to 3 tablets in all."
+      },
+      {
+        "name": "Levothyroxine (Thyronorm)",
+        "dose": "50 mcg",
+        "frequency": "OD (1-0-0)",
+        "timing": "on an empty stomach",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (50 mcg) once a day, in the morning, on an empty stomach, every day for life; do not stop on your own."
+      }
+    ],
+    "stop_medicines": [
+      "Diclofenac 50 mg"
+    ],
+    "warning_signs": [
+      "Chest pain that does not go away even after 3 under-the-tongue tablets taken 5 minutes apart",
+      "Breathlessness or trouble breathing",
+      "Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood",
+      "Heart racing or beating unevenly",
+      "Dizziness, fainting or passing out"
+    ],
+    "diet": [
+      "Heart-healthy food: more vegetables, fruits and whole grains; avoid fried food and too much oil",
+      "Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen"
+    ],
+    "activity": [
+      "For the first 2 weeks, walk on flat ground for 10 to 15 minutes twice a day; avoid climbing many stairs",
+      "Do not lift anything heavier than 5 kg for 4 weeks",
+      "Do not drive for 1 week"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-09-19",
+        "with_whom": "Cardiology (heart) OPD",
+        "purpose": "Check-up with your test reports. Bring with you: your ECG",
+        "bring": [
+          "your ECG"
+        ]
+      },
+      {
+        "date": "2026-10-21",
+        "with_whom": "Hospital laboratory (blood test)",
+        "purpose": "Fasting cholesterol blood test (lipid profile)",
+        "bring": []
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Do not smoke, and do not use tobacco in any form",
+      "Never stop your blood-thinning medicines on your own, even for a dental or small procedure, without asking the heart doctor",
+      "If you get chest pain: sit down and put 1 tablet under your tongue; you may repeat every 5 minutes, up to 3 tablets"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Vijay Bora    Age: 76 years\nWent home from hospital on: 2026-09-09 (9 September 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had a heart attack: one of the blood vessels of the heart was blocked. It was opened with a stent (angioplasty).\n\nYOUR MEDICINES (take exactly as written)\n1. Aspirin 75 mg\n   - Take 1 tablet (75 mg) once a day, after lunch, every day for life; do not stop on your own.\n   - What it is for: thins the blood to prevent clots.\n2. Clopidogrel (Clopilet) 75 mg\n   - Take 1 tablet (75 mg) once a day, in the morning, for 1 year.\n   - What it is for: thins the blood to prevent clots.\n3. Atorvastatin (Atorva) 80 mg\n   - Take 1 tablet (80 mg) once a day, at bedtime, every day for life; do not stop on your own.\n   - What it is for: lowers cholesterol and protects the heart and blood vessels.\n4. Metoprolol Succinate (Seloken XL) 50 mg\n   - Take 1 tablet (50 mg) once a day, in the morning, every day for life; do not stop on your own.\n   - What it is for: slows the heart rate and protects the heart.\n5. Ramipril 2.5 mg\n   - Take 1 tablet (2.5 mg) once a day, in the morning, every day for life; do not stop on your own.\n   - What it is for: lowers blood pressure and protects the heart and kidneys.\n6. Pantoprazole 40 mg\n   - Take 1 tablet (40 mg) once a day, half an hour before breakfast, until your next check-up.\n   - What it is for: reduces stomach acid and protects the stomach.\n7. Isosorbide Dinitrate 5 mg\n   - Only when you have chest pain: put 1 tablet (5 mg) under the tongue; if the pain does not go, you may put 1 more tablet every 5 minutes, up to 3 tablets in all.\n   - What it is for: quick relief of chest pain; put it under the tongue.\n8. Levothyroxine (Thyronorm) 50 mcg\n   - Take 1 tablet (50 mcg) once a day, in the morning, on an empty stomach, every day for life; do not stop on your own.\n   - What it is for: thyroid hormone for an underactive thyroid.\n\nMEDICINES TO STOP\n- STOP Diclofenac 50 mg. Do not take it any more: this painkiller is not safe for your heart.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Chest pain that does not go away even after 3 under-the-tongue tablets taken 5 minutes apart\n- Breathlessness or trouble breathing\n- Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood\n- Heart racing or beating unevenly\n- Dizziness, fainting or passing out\n\nFOOD\n- Heart-healthy food: more vegetables, fruits and whole grains; avoid fried food and too much oil\n- Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen\n\nACTIVITY\n- For the first 2 weeks, walk on flat ground for 10 to 15 minutes twice a day; avoid climbing many stairs\n- Do not lift anything heavier than 5 kg for 4 weeks\n- Do not drive for 1 week\n\nOTHER ADVICE\n- Do not smoke, and do not use tobacco in any form\n- Never stop your blood-thinning medicines on your own, even for a dental or small procedure, without asking the heart doctor\n- If you get chest pain: sit down and put 1 tablet under your tongue; you may repeat every 5 minutes, up to 3 tablets\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-09-19 (Saturday, 19 September 2026): Cardiology (heart) OPD. Check-up with your test reports. Bring with you: your ECG.\n- 2026-10-21 (Wednesday, 21 October 2026): Hospital laboratory (blood test). Fasting cholesterol blood test (lipid profile).\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Vijay Bora    उम्र: 76 साल\nअस्पताल से छुट्टी की तारीख़: 2026-09-09 (9 सितंबर 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको दिल का दौरा (heart attack) पड़ा था: दिल की एक नस बंद हो गई थी। उसे स्टेंट (एंजियोप्लास्टी) से खोला गया।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Aspirin 75 mg\n   - दिन में 1 बार, दोपहर के खाने के बाद: 1 गोली (75 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: खून को पतला रखकर थक्का (clot) बनने से रोकने के लिए।\n2. Clopidogrel (Clopilet) 75 mg\n   - दिन में 1 बार, सुबह: 1 गोली (75 mg) लें; 1 साल तक जारी रखें।\n   - यह किसलिए है: खून को पतला रखकर थक्का (clot) बनने से रोकने के लिए।\n3. Atorvastatin (Atorva) 80 mg\n   - दिन में 1 बार, रात को सोते समय: 1 गोली (80 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: कोलेस्ट्रॉल कम करने और दिल व नसों की रक्षा के लिए।\n4. Metoprolol Succinate (Seloken XL) 50 mg\n   - दिन में 1 बार, सुबह: 1 गोली (50 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: दिल की धड़कन धीमी रखने और दिल की रक्षा के लिए।\n5. Ramipril 2.5 mg\n   - दिन में 1 बार, सुबह: 1 गोली (2.5 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: ब्लड प्रेशर कम करने और दिल व गुर्दों की रक्षा के लिए।\n6. Pantoprazole 40 mg\n   - दिन में 1 बार, नाश्ते से आधा घंटा पहले: 1 गोली (40 mg) लें; अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: पेट का एसिड कम करने और पेट की रक्षा के लिए।\n7. Isosorbide Dinitrate 5 mg\n   - सिर्फ़ सीने में दर्द होने पर: 1 गोली (5 mg) जीभ के नीचे रखें; दर्द न जाए तो हर 5 मिनट में दोबारा 1 गोली रखें, कुल मिलाकर ज़्यादा से ज़्यादा 3 गोलियाँ।\n   - यह किसलिए है: सीने के दर्द में तुरंत आराम के लिए; जीभ के नीचे रखें।\n8. Levothyroxine (Thyronorm) 50 mcg\n   - दिन में 1 बार, सुबह, खाली पेट: 1 गोली (50 mcg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: थायरॉइड (thyroid) कम काम करने पर उसकी कमी पूरी करने वाला हार्मोन।\n\nये दवाइयाँ बंद करें\n- Diclofenac 50 mg लेना बंद करें। इसे अब बिल्कुल न लें: दर्द की यह दवा आपके दिल के लिए सुरक्षित नहीं है।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- 5-5 मिनट के अंतर पर जीभ के नीचे 3 गोलियाँ रखने के बाद भी सीने का दर्द ठीक न होना\n- सांस फूलना या सांस लेने में तकलीफ़\n- कहीं से भी खून आना: मसूड़ों से, पेशाब में, काला या लाल मल (पाखाना), या खून की उल्टी\n- दिल की धड़कन बहुत तेज़ या अनियमित (कभी तेज़, कभी रुक-रुक कर) होना\n- चक्कर आना, बेहोश होना या होश खो देना\n\nखाना\n- दिल के लिए अच्छा खाना: ज़्यादा सब्ज़ियाँ, फल और साबुत अनाज; तला खाना और ज़्यादा तेल न खाएँ\n- कम नमक वाला खाना: दिन में 5 g से कम नमक; अचार, पापड़ और नमकीन न खाएँ\n\nचलना-फिरना और काम\n- पहले 2 हफ़्ते, समतल जगह पर दिन में 2 बार 10 से 15 मिनट चलें; ज़्यादा सीढ़ियाँ न चढ़ें\n- 4 हफ़्ते तक 5 kg से ज़्यादा वज़न न उठाएँ\n- 1 हफ़्ते तक गाड़ी न चलाएँ\n\nअन्य सलाह\n- बीड़ी-सिगरेट न पिएँ, और किसी भी रूप में तंबाकू न लें\n- दाँत के इलाज या छोटे ऑपरेशन के लिए भी, दिल के डॉक्टर से पूछे बिना खून पतला करने वाली दवाएँ खुद से बंद न करें\n- सीने में दर्द हो तो: बैठ जाएँ और 1 गोली जीभ के नीचे रखें; दर्द न जाए तो हर 5 मिनट में दोबारा 1 गोली रखें, ज़्यादा से ज़्यादा 3 गोलियाँ\n\nअगली बार अस्पताल कब आना है\n- 2026-09-19 (शनिवार, 19 सितंबर 2026): दिल के रोग की ओपीडी (Cardiology OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ। साथ लाएँ: ECG।\n- 2026-10-21 (बुधवार, 21 अक्टूबर 2026): अस्पताल की लैब (खून की जाँच)। खाली पेट कोलेस्ट्रॉल की खून जाँच (lipid profile)।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.2
+  }
+}

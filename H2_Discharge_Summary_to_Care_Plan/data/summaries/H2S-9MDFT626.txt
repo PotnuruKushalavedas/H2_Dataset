@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Deepa Bhatt                    Age/Sex  : 65 Y / F
+UHID       : CDH4568743                     IP No.   : IP/26/408787
+DOA        : 12/05/2026                     DOD      : 20/05/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 31%
+
+BRIEF HISTORY:
+  - 65/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 58 kg to 55 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 3093 pg/ml | S. Cr 0.7 mg/dl | Na 135 mEq/L | K 4.9 mEq/L | 2D Echo: LVEF 31%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 82/min, SpO2 98% on RA. Dry weight 55 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+----------+-------+------------+------------------+--------------+
+| No | Medicine                     | Dose     | Route | Frequency  | Duration         | Instructions |
++----+------------------------------+----------+-------+------------+------------------+--------------+
+| 1  | Tab. Furosemide (Lasix)      | 40 mg    | PO    | BD (1-1-0) | Till next review |              |
+| 2  | Tab. Carvedilol              | 3.125 mg | PO    | BD (1-0-1) | Lifelong         |              |
+| 3  | Tab. Ramipril                | 2.5 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 4  | Tab. Dapagliflozin (Forxiga) | 10 mg    | PO    | OD (1-0-0) | Lifelong         |              |
++----+------------------------------+----------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 30/05/2026 (Sat); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 18/08/2026 (Tue)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

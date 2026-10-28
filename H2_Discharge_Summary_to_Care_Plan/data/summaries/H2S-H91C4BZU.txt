@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Thomas Iyer
+Age / Sex    : 37 yrs / Male
+UHID         : CDH6242015      IP No: IP/26/477176
+Admitted on  : 15.03.2026      Discharged on: 23.03.2026
+Consultant   : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+  * Hypothyroidism
+
+Brief History:
+  * 37/M, presented with cough x 9 weeks, evening rise of temperature, loss of appetite and weight loss of 4 kg.
+
+Course in Hospital:
+  * Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 16.03.2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations:
+  * Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: bilateral upper zone infiltrates with cavity; Hb 11.2 g/dl; LFT: within normal limits; RBS 137 mg/dl; HIV: non-reactive; Weight 54 kg
+
+Condition at Discharge: Afebrile for 3 days, tolerating ATT. BP 130/72 mmHg, PR 86/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. 4-FDC (HRZE) 4 tabs 1-0-0 empty stomach x 49 days (weight-band dose; to complete 8 weeks of intensive phase; then review for continuation phase)
+- Tab. Pyridoxine 10 mg 1-0-0 till next review
+- Tab. Levothyroxine 75 mcg 1-0-0 empty stomach lifelong
+
+Advice on Discharge:
+  Diet:
+    * High protein diet - dal / eggs / milk / soya
+    * Strictly no alcohol
+  General:
+    * Take TB medicines daily without missing a dose; complete the full course
+    * Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+    * Household contacts - TB screening at nearest PHC
+    * No smoking / no tobacco in any form
+    * Urine may turn orange-red due to TB medicine - harmless
+
+Danger signs - report to Casualty immediately:
+  * Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  * Blurred vision / difficulty in distinguishing colours
+  * Skin rash or itching all over the body
+  * Haemoptysis (coughing out blood)
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Review with LFT - DOTS centre / TB clinic on 07.04.2026
+  * Sputum AFB at end of IP - TB clinic (DOTS centre) on 12.05.2026 (Tue)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Kavita Deshmukh (Consultant)

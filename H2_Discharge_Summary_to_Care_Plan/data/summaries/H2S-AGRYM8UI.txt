@@ -1,0 +1,52 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Babu Gupta | 56 Y/M | UHID CDH3794517 | IP IP/26/122407
+DOA - 20/01/2026 | DOD - 27/01/2026 | Consultant - Dr. Kavita Deshmukh, Chest Unit
+
+Diagnosis -
+  • Acute exacerbation of COPD (infective)
+  • Type 2 diabetes mellitus
+  • BPH
+
+Presenting complaints & history - 56/M, chronic smoker (39 pack-yrs), k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 4 days.
+
+Hospital course -
+  • Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 2 days. Improved; weaned to room air.
+
+Investigations -
+  • ABG at admission: pH 7.34, pCO2 55 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 14,300/cumm | RBS 149 mg/dl | ECG: sinus rhythm
+
+Status at discharge - Breathlessness mMRC grade 2. BP 118/70 mmHg, PR 83/min, SpO2 93% on RA.
+
+ADV ON DISCHARGE -
+• Rotacap Tiotropium 18 mcg 1 cap OD lifelong (via rotahaler)
+• Inh. Budesonide + Formoterol (Foracort) 400 1 puff BD life long (via spacer; rinse mouth after use)
+• Inh. Salbutamol (Asthalin) 2 puffs SOS for wheeze or breathlessness (max 8 puffs/day)
+• Tab. Prednisolone (Omnacortil) 40 mg OD x 3 days, then 30 mg OD x 3 days, then 20 mg OD x 3/7, then 10 mg OD x 3/7, then stop (after breakfast)
+• Cap. Doxycycline (Biodoxi) 100 mg PO BD after food x 5 days
+• Tab. Pantoprazole (Pan) 40 mg PO OD 30 min before breakfast x 14 days
+To continue other previous medicines for T2DM and BPH as before (unchanged).
+
+Instructions -
+  Diet:
+    • Normal diet as tolerated
+  Activity:
+    • Pursed lip breathing + daily walk as tolerated
+  Others:
+    • Inhaler technique demonstrated - use with spacer
+    • Influenza and pneumococcal vaccination advised
+    • No smoking / no tobacco in any form
+    • Sugar may rise while on steroid - check blood sugar daily during the course
+
+Report immediately to Casualty in case of -
+  • Breathlessness / difficulty in breathing
+  • Wheeze or breathlessness not relieved by the reliever inhaler
+  • Bluish lips or fingertips, drowsiness or confusion
+  • Fever > 100.4 F (38 C)
+  • Increase in sputum quantity or change to yellow/green colour
+
+Follow up -
+  • Review with reports - Chest OPD on 06/02/2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Kavita Deshmukh (Consultant)

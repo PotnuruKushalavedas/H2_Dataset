@@ -1,0 +1,45 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Gurpreet Pawar | 76 Y/F | UHID CDH6853614 | IP IP/26/340446
+DOA - 15-04-2026 | DOD - 18-04-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 76/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 165/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 76/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 59% | S. Cr 1.4 mg/dl | Hb 14.3 g/dl | TSH 1.9 mIU/L | Weight 54 kg | CrCl (Cockcroft-Gault) 29 ml/min | CHA2DS2-VASc score 4
+
+Status at discharge - Stable, rate controlled. BP 124/76 mmHg, PR 82/min, SpO2 98% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Bisoprolol (Concor) 5 mg PO OD lifelong
+• Tab. Apixaban (Eliquis) 5 mg PO BD life long
+• Tab. Telmisartan (Telma) 40 mg PO OD life long
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Avoid OTC painkillers (NSAIDs) without medical advice
+    • Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Report immediately to Casualty in case of -
+  • Any bleeding - gums, urine, black or red stools, vomiting blood
+  • Sudden weakness of face, arm or leg, or slurred speech
+  • Palpitations - fast / irregular heart beat
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • Review with reports - Cardiology OPD on 04-05-2026 (Mon); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

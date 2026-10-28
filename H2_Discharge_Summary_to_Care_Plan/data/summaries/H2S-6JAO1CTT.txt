@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Thomas Deshpande
+Age / Sex    : 83 yrs / Male
+UHID         : CDH9657368      IP No: IP/26/842365
+Admitted on  : 31.07.2026      Discharged on: 03.08.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Type 2 diabetes mellitus
+  * Dyslipidaemia
+
+Brief History:
+  * 83/M, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 136/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 82/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 56%; S. Cr 1.2 mg/dl; Hb 14.4 g/dl; TSH 3.1 mIU/L; Weight 65 kg; CrCl (Cockcroft-Gault) 42 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 124/80 mmHg, PR 72/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol 5 mg 1-0-0 long term (lifelong)
+- Tab. Apixaban 5 mg 1-0-1 lifelong
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) lifelong
+To continue other previous medicines for T2DM as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 24.08.2026 (Mon); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

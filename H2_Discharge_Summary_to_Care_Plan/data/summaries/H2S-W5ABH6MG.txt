@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Geeta Patel
+Age / Sex    : 54 yrs / Female
+UHID         : CDH4238842      IP No: IP/26/715799
+Admitted on  : 02/01/2026      Discharged on: 06/01/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+
+Brief History:
+  * 54/F, k/c/o T2DM x 6 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 6 days. RBS at admission 431 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 10.9%; FBS 316 mg/dl; PPBS 425 mg/dl; S. Cr 0.5 mg/dl; Urine routine: pus cells plenty; Hb 13.4 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 114/80 mmHg, PR 80/min, SpO2 97% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+- Tab. Glimepiride (Amaryl) 1 mg 1-0-0 30 min before breakfast till review
+- Inj. Insulin Glargine 12 units SC 0-0-1 at 10 pm daily till next review
+- Tab. Taxim-O 200 mg 1-0-1 PC x 7 days
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+  General:
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * High grade fever with chills
+  * Burning or pain while passing urine
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - DM clinic, Medicine OPD on 13/01/2026; bring reports: FBS, PPBS, Urine routine
+  * Review with HbA1c - DM clinic, Medicine OPD on 06/04/2026 (Mon)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

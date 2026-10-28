@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Farhan Prajapati
+Age / Sex    : 71 yrs / Male
+UHID         : CDH8121005      IP No: IP/26/121954
+Admitted on  : 14.08.2026      Discharged on: 19.08.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (right middle lobe) - CURB-65 score 2
+
+Brief History:
+  * 71/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 14,200/cumm; CRP 137 mg/L; CXR: consolidation right middle lobe; S. Cr 1.1 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 110/78 mmHg, PR 78/min, SpO2 96% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 PC x 5 days
+- Tab. Paracetamol 650 mg SOS for pain (not more than 4 doses in 24 h)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain / heaviness / sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Medicine OPD on 26.08.2026; bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Anil Bhosale (Consultant)

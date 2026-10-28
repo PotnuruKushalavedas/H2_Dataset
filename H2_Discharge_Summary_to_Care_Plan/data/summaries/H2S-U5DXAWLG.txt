@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Ashok Kushwaha    Age: 48 years    Sex: Male
+UHID: CDH7993712    IP Number: IP/26/451396
+Date of admission: 20 Sep 2026    Date of discharge: 24 Sep 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+HISTORY:
+  - 48/M, k/c/o T2DM x 11 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.2%) with weight loss and fatigue. No ketosis.
+
+COURSE IN THE HOSPITAL:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.2%; FBS 275 mg/dl; PPBS 282 mg/dl; S. Cr 1.1 mg/dl; Urine microalbumin 128 mg/g; Fundus: no DR
+
+CONDITION AT THE TIME OF DISCHARGE: Stable. BP 118/70 mmHg, PR 74/min, SpO2 97% on RA. Pre-meal sugars 143-173 mg/dl.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Human Premix Insulin 30/70 14 U before breakfast, 8 U before dinner SC 30 min before breakfast and dinner until the next visit
+2. Tablet Metformin 1000 mg twice daily PC lifelong
+
+PLEASE STOP:
+  - Tab. Glimepiride 1 mg (now on insulin)
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Carry glucose / sugar at all times
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with sugar chart in DM clinic, Medicine OPD on 01 Oct 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Farah Siddiqui (Consultant)

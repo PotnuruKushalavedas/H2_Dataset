@@ -1,0 +1,72 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mukesh Sahu                    Age/Sex  : 70 Y / M
+UHID       : CDH5644250                     IP No.   : IP/26/868845
+DOA        : 19/03/2026                     DOD      : 25/03/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Inferior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to RCA
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 70/M, k/c/o T2DM, smoker, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in II, III, aVF.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 19/03/2026: CAG showed 99% thrombotic occlusion of mid RCA; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (19/03/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.1 g/dl | S. Cr 0.8 mg/dl | K 4.0 mEq/L | LDL 126 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 40% | HbA1c 9.2%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 126/74 mmHg, PR 79/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| No | Medicine                        | Dose   | Route | Frequency  | Duration    | Instructions                                                                   |
++----+---------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)         | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch                                                                    |
+| 2  | Tab. Ticagrelor                 | 90 mg  | PO    | BD (1-0-1) | 1 year      |                                                                                |
+| 3  | Tab. Atorvastatin (Atorva)      | 80 mg  | PO    | HS (0-0-1) | Lifelong    |                                                                                |
+| 4  | Tab. Bisoprolol (Concor)        | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 5  | Tab. Ramipril                   | 5 mg   | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 6  | Tab. Pantocid                   | 40 mg  | PO    | OD (1-0-0) | 3 months    | 30 min before breakfast                                                        |
+| 7  | Tab. Sorbitrate                 | 5 mg   | SL    | SOS        | -           | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Spironolactone (Aldactone) | 25 mg  | PO    | OD (1-0-0) | Till review |                                                                                |
+| 9  | Tab. Dapagliflozin (Forxiga)    | 10 mg  | PO    | OD (1-0-0) | Lifelong    |                                                                                |
+| 10 | Tab. Metformin                  | 500 mg | PO    | BD (1-0-1) | Lifelong    | after food                                                                     |
++----+---------------------------------+--------+-------+------------+-------------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 01/04/2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+  - Get Fasting lipid profile done on 09/05/2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

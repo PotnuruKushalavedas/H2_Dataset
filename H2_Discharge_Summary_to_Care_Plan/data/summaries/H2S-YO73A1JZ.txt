@@ -1,0 +1,54 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rupa Khan                      Age/Sex  : 23 Y / F
+UHID       : CDH6173403                     IP No.   : IP/26/573880
+DOA        : 05 Sep 2026                    DOD      : 10 Sep 2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right upper lobe) - CURB-65 score 2
+
+BRIEF HISTORY:
+  - 23/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 6 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 15,600/cumm | CRP 62 mg/L | CXR: consolidation right upper lobe | S. Cr 0.5 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 118/78 mmHg, PR 83/min, SpO2 99% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine                           | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. Amoxycillin + Clavulanic acid | 625 mg | PO    | BD (1-0-1) | 5 days   | PC                                      |
+| 2  | Tab. Paracetamol                   | 650 mg | PO    | SOS        | -        | for pain; not more than 3 doses in 24 h |
++----+------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Oral fluids 2-3 L/day
+  Activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradual increase in walking as tolerated
+  Other:
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever recurring, or persisting for more than 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 17 Sep 2026; bring reports: CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

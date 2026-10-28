@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Suresh Prajapati    Age: 69 years    Sex: Male
+UHID: CDH9583176    IP Number: IP/26/836091
+Date of admission: 14th July 2026    Date of discharge: 21st July 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 24%
+
+HISTORY:
+  - 69/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 72 kg to 68 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 5640 pg/ml; S. Cr 1.0 mg/dl; Na 140 mEq/L; K 4.1 mEq/L; 2D Echo: LVEF 24%, global hypokinesia, RWMA in LAD territory; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 77/min, SpO2 98% on RA. Dry weight 68 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Torsemide (Dytor) 20 mg once daily in the morning until the next visit
+2. Tablet Metoprolol Succinate ER 25 mg once daily in the morning lifelong
+3. Tablet Ramipril 2.5 mg once daily in the morning lifelong
+4. Tablet Spironolactone (Aldactone) 25 mg once daily in the morning lifelong
+5. Tablet Dapagliflozin 10 mg once daily in the morning to continue lifelong
+6. Tablet Aspirin 75 mg once daily after lunch to continue lifelong
+7. Tablet Atorvastatin 40 mg once daily at bedtime to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Heart Failure Clinic, Cardiology OPD on 28th July 2026. Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

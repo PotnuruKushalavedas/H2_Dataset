@@ -1,0 +1,140 @@
+{
+  "summary_id": "H2S-09980YDH",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Aspirin (Ecosprin)",
+        "dose": "75 mg",
+        "frequency": "OD",
+        "timing": "after lunch",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (75 mg) once a day, after lunch, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Ticagrelor",
+        "dose": "90 mg",
+        "frequency": "BD",
+        "timing": "",
+        "duration": "12 months",
+        "how_to_take_plain": "Take 1 tablet (90 mg) twice a day, for 12 months."
+      },
+      {
+        "name": "Rosuvastatin (Rozavel)",
+        "dose": "20 mg",
+        "frequency": "HS",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (20 mg) once a day, at bedtime, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Metoprolol Succinate",
+        "dose": "50 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (50 mg) once a day, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Telmisartan (Telma)",
+        "dose": "40 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Pantoprazole",
+        "dose": "40 mg",
+        "frequency": "OD",
+        "timing": "half an hour before breakfast",
+        "duration": "till next review",
+        "how_to_take_plain": "Take 1 tablet (40 mg) once a day, half an hour before breakfast, until your next check-up."
+      },
+      {
+        "name": "Isosorbide Dinitrate (Sorbitrate)",
+        "dose": "5 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Only when you have chest pain: put 1 tablet (5 mg) under the tongue; if the pain does not go, you may put 1 more tablet every 5 minutes, up to 3 tablets in all."
+      },
+      {
+        "name": "Spironolactone (Aldactone)",
+        "dose": "25 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "till next review",
+        "how_to_take_plain": "Take 1 tablet (25 mg) once a day, until your next check-up."
+      },
+      {
+        "name": "Dapagliflozin (Forxiga)",
+        "dose": "10 mg",
+        "frequency": "OD",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (10 mg) once a day, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "100 mcg",
+        "frequency": "OD",
+        "timing": "on an empty stomach",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 tablet (100 mcg) once a day, on an empty stomach, every day for life; do not stop on your own."
+      },
+      {
+        "name": "Tamsulosin",
+        "dose": "0.4 mg",
+        "frequency": "HS",
+        "timing": "",
+        "duration": "lifelong",
+        "how_to_take_plain": "Take 1 capsule (0.4 mg) once a day, at bedtime, every day for life; do not stop on your own."
+      }
+    ],
+    "stop_medicines": [],
+    "warning_signs": [
+      "Chest pain that does not go away even after 3 under-the-tongue tablets taken 5 minutes apart",
+      "Breathlessness or trouble breathing",
+      "Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood",
+      "Heart racing or beating unevenly",
+      "Dizziness, fainting or passing out"
+    ],
+    "diet": [
+      "Heart-healthy food: more vegetables, fruits and whole grains; avoid fried food and too much oil",
+      "Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen"
+    ],
+    "activity": [
+      "For the first 2 weeks, walk on flat ground for 10 to 15 minutes twice a day; avoid climbing many stairs",
+      "Do not lift anything heavier than 5 kg for 4 weeks",
+      "Do not drive for 1 week"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-02-20",
+        "with_whom": "Cardiology (heart) OPD",
+        "purpose": "Check-up with your test reports. Bring with you: your ECG, your creatinine (kidney test) report, your electrolytes (blood salts) report",
+        "bring": [
+          "your ECG",
+          "your creatinine (kidney test) report",
+          "your electrolytes (blood salts) report"
+        ]
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Do not smoke, and do not use tobacco in any form",
+      "Never stop your blood-thinning medicines on your own, even for a dental or small procedure, without asking the heart doctor",
+      "If you get chest pain: sit down and put 1 tablet under your tongue; you may repeat every 5 minutes, up to 3 tablets"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Ganesh Dhillon    Age: 50 years\nWent home from hospital on: 2026-02-13 (13 February 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had a heart attack: one of the blood vessels of the heart was blocked. It was opened with a stent (angioplasty).\n\nYOUR MEDICINES (take exactly as written)\n1. Aspirin (Ecosprin) 75 mg\n   - Take 1 tablet (75 mg) once a day, after lunch, every day for life; do not stop on your own.\n   - What it is for: thins the blood to prevent clots.\n2. Ticagrelor 90 mg\n   - Take 1 tablet (90 mg) twice a day, for 12 months.\n   - What it is for: thins the blood to prevent clots.\n3. Rosuvastatin (Rozavel) 20 mg\n   - Take 1 tablet (20 mg) once a day, at bedtime, every day for life; do not stop on your own.\n   - What it is for: lowers cholesterol and protects the heart and blood vessels.\n4. Metoprolol Succinate 50 mg\n   - Take 1 tablet (50 mg) once a day, every day for life; do not stop on your own.\n   - What it is for: slows the heart rate and protects the heart.\n5. Telmisartan (Telma) 40 mg\n   - Take 1 tablet (40 mg) once a day, every day for life; do not stop on your own.\n   - What it is for: lowers blood pressure.\n6. Pantoprazole 40 mg\n   - Take 1 tablet (40 mg) once a day, half an hour before breakfast, until your next check-up.\n   - What it is for: reduces stomach acid and protects the stomach.\n7. Isosorbide Dinitrate (Sorbitrate) 5 mg\n   - Only when you have chest pain: put 1 tablet (5 mg) under the tongue; if the pain does not go, you may put 1 more tablet every 5 minutes, up to 3 tablets in all.\n   - What it is for: quick relief of chest pain; put it under the tongue.\n8. Spironolactone (Aldactone) 25 mg\n   - Take 1 tablet (25 mg) once a day, until your next check-up.\n   - What it is for: helps a weak heart and removes extra water.\n9. Dapagliflozin (Forxiga) 10 mg\n   - Take 1 tablet (10 mg) once a day, every day for life; do not stop on your own.\n   - What it is for: helps the heart and kidneys.\n10. Levothyroxine 100 mcg\n   - Take 1 tablet (100 mcg) once a day, on an empty stomach, every day for life; do not stop on your own.\n   - What it is for: thyroid hormone for an underactive thyroid.\n11. Tamsulosin 0.4 mg\n   - Take 1 capsule (0.4 mg) once a day, at bedtime, every day for life; do not stop on your own.\n   - What it is for: helps urine flow in prostate enlargement.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Chest pain that does not go away even after 3 under-the-tongue tablets taken 5 minutes apart\n- Breathlessness or trouble breathing\n- Any bleeding: from the gums, in the urine, black or red stools, or vomiting blood\n- Heart racing or beating unevenly\n- Dizziness, fainting or passing out\n\nFOOD\n- Heart-healthy food: more vegetables, fruits and whole grains; avoid fried food and too much oil\n- Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen\n\nACTIVITY\n- For the first 2 weeks, walk on flat ground for 10 to 15 minutes twice a day; avoid climbing many stairs\n- Do not lift anything heavier than 5 kg for 4 weeks\n- Do not drive for 1 week\n\nOTHER ADVICE\n- Do not smoke, and do not use tobacco in any form\n- Never stop your blood-thinning medicines on your own, even for a dental or small procedure, without asking the heart doctor\n- If you get chest pain: sit down and put 1 tablet under your tongue; you may repeat every 5 minutes, up to 3 tablets\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-02-20 (Friday, 20 February 2026): Cardiology (heart) OPD. Check-up with your test reports. Bring with you: your ECG, your creatinine (kidney test) report, your electrolytes (blood salts) report.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Ganesh Dhillon    उम्र: 50 साल\nअस्पताल से छुट्टी की तारीख़: 2026-02-13 (13 फ़रवरी 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको दिल का दौरा (heart attack) पड़ा था: दिल की एक नस बंद हो गई थी। उसे स्टेंट (एंजियोप्लास्टी) से खोला गया।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Aspirin (Ecosprin) 75 mg\n   - दिन में 1 बार, दोपहर के खाने के बाद: 1 गोली (75 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: खून को पतला रखकर थक्का (clot) बनने से रोकने के लिए।\n2. Ticagrelor 90 mg\n   - दिन में 2 बार: 1 गोली (90 mg) लें; 12 महीने तक जारी रखें।\n   - यह किसलिए है: खून को पतला रखकर थक्का (clot) बनने से रोकने के लिए।\n3. Rosuvastatin (Rozavel) 20 mg\n   - दिन में 1 बार, रात को सोते समय: 1 गोली (20 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: कोलेस्ट्रॉल कम करने और दिल व नसों की रक्षा के लिए।\n4. Metoprolol Succinate 50 mg\n   - दिन में 1 बार: 1 गोली (50 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: दिल की धड़कन धीमी रखने और दिल की रक्षा के लिए।\n5. Telmisartan (Telma) 40 mg\n   - दिन में 1 बार: 1 गोली (40 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: ब्लड प्रेशर कम करने के लिए।\n6. Pantoprazole 40 mg\n   - दिन में 1 बार, नाश्ते से आधा घंटा पहले: 1 गोली (40 mg) लें; अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: पेट का एसिड कम करने और पेट की रक्षा के लिए।\n7. Isosorbide Dinitrate (Sorbitrate) 5 mg\n   - सिर्फ़ सीने में दर्द होने पर: 1 गोली (5 mg) जीभ के नीचे रखें; दर्द न जाए तो हर 5 मिनट में दोबारा 1 गोली रखें, कुल मिलाकर ज़्यादा से ज़्यादा 3 गोलियाँ।\n   - यह किसलिए है: सीने के दर्द में तुरंत आराम के लिए; जीभ के नीचे रखें।\n8. Spironolactone (Aldactone) 25 mg\n   - दिन में 1 बार: 1 गोली (25 mg) लें; अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: कमज़ोर दिल की मदद करने और शरीर से फ़ालतू पानी निकालने के लिए।\n9. Dapagliflozin (Forxiga) 10 mg\n   - दिन में 1 बार: 1 गोली (10 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: दिल और गुर्दों (kidney) की मदद के लिए।\n10. Levothyroxine 100 mcg\n   - दिन में 1 बार, खाली पेट: 1 गोली (100 mcg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: थायरॉइड (thyroid) कम काम करने पर उसकी कमी पूरी करने वाला हार्मोन।\n11. Tamsulosin 0.4 mg\n   - दिन में 1 बार, रात को सोते समय: 1 कैप्सूल (0.4 mg) लें; इसे जीवन भर रोज़ लेना है; अपने आप बंद न करें।\n   - यह किसलिए है: प्रोस्टेट बढ़ने पर पेशाब आसानी से आने के लिए।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- 5-5 मिनट के अंतर पर जीभ के नीचे 3 गोलियाँ रखने के बाद भी सीने का दर्द ठीक न होना\n- सांस फूलना या सांस लेने में तकलीफ़\n- कहीं से भी खून आना: मसूड़ों से, पेशाब में, काला या लाल मल (पाखाना), या खून की उल्टी\n- दिल की धड़कन बहुत तेज़ या अनियमित (कभी तेज़, कभी रुक-रुक कर) होना\n- चक्कर आना, बेहोश होना या होश खो देना\n\nखाना\n- दिल के लिए अच्छा खाना: ज़्यादा सब्ज़ियाँ, फल और साबुत अनाज; तला खाना और ज़्यादा तेल न खाएँ\n- कम नमक वाला खाना: दिन में 5 g से कम नमक; अचार, पापड़ और नमकीन न खाएँ\n\nचलना-फिरना और काम\n- पहले 2 हफ़्ते, समतल जगह पर दिन में 2 बार 10 से 15 मिनट चलें; ज़्यादा सीढ़ियाँ न चढ़ें\n- 4 हफ़्ते तक 5 kg से ज़्यादा वज़न न उठाएँ\n- 1 हफ़्ते तक गाड़ी न चलाएँ\n\nअन्य सलाह\n- बीड़ी-सिगरेट न पिएँ, और किसी भी रूप में तंबाकू न लें\n- दाँत के इलाज या छोटे ऑपरेशन के लिए भी, दिल के डॉक्टर से पूछे बिना खून पतला करने वाली दवाएँ खुद से बंद न करें\n- सीने में दर्द हो तो: बैठ जाएँ और 1 गोली जीभ के नीचे रखें; दर्द न जाए तो हर 5 मिनट में दोबारा 1 गोली रखें, ज़्यादा से ज़्यादा 3 गोलियाँ\n\nअगली बार अस्पताल कब आना है\n- 2026-02-20 (शुक्रवार, 20 फ़रवरी 2026): दिल के रोग की ओपीडी (Cardiology OPD)। जाँच रिपोर्ट लेकर डॉक्टर को दिखाएँ। साथ लाएँ: ECG, क्रिएटिनिन (गुर्दे की जाँच) की रिपोर्ट, इलेक्ट्रोलाइट्स (खून में नमक) की रिपोर्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.01
+  }
+}

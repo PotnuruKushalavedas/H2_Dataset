@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Sunita Lal    Age: 64 years    Sex: Female
+UHID: CDH7801454    IP Number: IP/26/370027
+Date of admission: 5th June 2026    Date of discharge: 13th June 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+  - 2. Hypothyroidism
+  - 3. Systemic hypertension
+
+HISTORY:
+  - 64/F, presented with cough x 8 weeks, evening rise of temperature, loss of appetite and weight loss of 9 kg.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 6th June 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: bilateral upper zone infiltrates with cavity; Hb 11.5 g/dl; LFT: within normal limits; RBS 102 mg/dl; HIV: non-reactive; Weight 44 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 118/74 mmHg, PR 88/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet 4-FDC (HRZE) 3 tablets once daily in the morning on empty stomach for 49 days (weight-band dose; to complete 8 weeks of intensive phase; then review for continuation phase)
+2. Tablet Pyridoxine 10 mg once daily in the morning till the next review
+3. Tablet Paracetamol 650 mg only if needed (SOS) for pain (not more than 3 doses in 24 h)
+4. Tablet Levothyroxine 100 mcg once daily in the morning empty stomach lifelong
+5. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - High-protein nutritious diet (dal, eggs, milk, soya)
+    - Strictly no alcohol
+  Other instructions:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Family members to be screened for TB at the nearest health centre
+    - Orange-red urine expected with rifampicin (harmless)
+    - OCPs unreliable with rifampicin - use barrier method / IUCD
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurring of vision or difficulty in telling colours apart
+  - Skin rash or itching all over the body
+  - Haemoptysis (coughing out blood)
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Review with LFT in TB clinic (DOTS centre) on 29th June 2026.
+  - Sputum AFB at end of IP in TB clinic (DOTS centre) on 3rd August 2026 (Mon).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Imran Qureshi (Consultant)

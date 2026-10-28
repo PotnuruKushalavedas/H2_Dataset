@@ -1,0 +1,58 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Biju Verma
+Age / Sex    : 52 yrs / Male
+UHID         : CDH2332993      IP No: IP/26/106058
+Admitted on  : 04.09.2026      Discharged on: 09.09.2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+  * Systemic hypertension
+  * Hypothyroidism
+
+Brief History:
+  * 52/M, k/c/o T2DM x 4 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: acute gastroenteritis.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 37 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.24, HCO3 7 mEq/L; Urine ketones +++; RBS at admission 238 mg/dl; HbA1c 11.4%; S. Cr 0.9 mg/dl; K 4.0 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 124/70 mmHg, PR 77/min, SpO2 97% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 18 units SC 0-0-1 (HS) till next review
+- Inj. Insulin Aspart 6-4-6 units SC 0-15 min before meals till review
+- Tab. Ondansetron (Emeset) 4 mg SOS for nausea or vomiting (max 3 doses/day)
+- Tab. Levothyroxine 25 mcg 1-0-0 empty stomach lifelong
+To continue other previous medicines for HTN as before (unchanged).
+
+- STOP Tab. Empagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow-up:
+  * Get S. Creatinine and electrolytes (Na, K) done on 14.09.2026 (Hospital laboratory)
+  * Review with SMBG chart - DM clinic, Medicine OPD on 16.09.2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. R. Venkatesh (Consultant)

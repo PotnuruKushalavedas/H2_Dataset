@@ -1,0 +1,55 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Ashok Gaikwad, 52/M  UHID: CDH7251147  IP: IP/26/850168
+DOA: 12-Jul-26  DOD: 18-Jul-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+
+H/o: 52/M, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 6.5 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 14-Jul-26: 92% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (14-Jul-26)
+
+Ix: Hb 13.9 g/dl, S. Cr 0.7 mg/dl, K 4.7 mEq/L, LDL 177 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 40%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 130/72 mmHg, PR 83/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Aspirin 75 mg OD after lunch lifelong
+2) T. Axcer 90 mg BD x 12 months
+3) T. Atorva 40 HS lifelong
+4) T. Seloken XL 25 mg OD lifelong
+5) T. Telmisartan 40 mg OD lifelong
+6) T. Pantocid 40 mg OD 30 min before breakfast till review
+7) T. Sorbitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8) T. Aldactone 25 mg OD till next review
+9) T. Forxiga 10 mg OD lifelong
+
+Adv:
+  Diet:
+  - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+  - No heavy lifting (more than 5 kg) for 4 weeks
+  - Avoid driving x 1 week
+  Others:
+  - No smoking / no tobacco in any form
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness or difficulty in breathing
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Palpitations (fast or irregular heartbeat)
+- Giddiness, fainting or loss of consciousness
+
+F/U:
+- Cardiology OPD on 28-Jul-26 - Review with reports with ECG, S. Creatinine, S. Electrolytes
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Meenakshi Rao (Consultant)

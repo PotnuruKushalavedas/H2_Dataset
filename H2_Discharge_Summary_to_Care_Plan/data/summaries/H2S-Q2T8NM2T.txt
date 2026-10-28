@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rajesh Rajput                  Age/Sex  : 62 Y / M
+UHID       : CDH3179911                     IP No.   : IP/26/829248
+DOA        : 05/04/2026                     DOD      : 09/04/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 62/M, k/c/o T2DM x 9 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 364 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.4% | FBS 261 mg/dl | PPBS 379 mg/dl | S. Cr 0.7 mg/dl | Urine routine: pus cells plenty | Hb 12.4 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 114/70 mmHg, PR 87/min, SpO2 98% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+------------------+-------------------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration         | Instructions            |
++----+-----------------------------+--------+-------+------------+------------------+-------------------------+
+| 1  | Tab. Metformin (Glycomet)   | 500 mg | PO    | BD (1-0-1) | Till next review | PC                      |
+| 2  | Tab. Glimepiride (Amaryl)   | 1 mg   | PO    | OD (1-0-0) | Till review      | 30 min before breakfast |
+| 3  | Tab. Cefixime (Taxim-O)     | 200 mg | PO    | BD (1-0-1) | 7 days           | PC                      |
+| 4  | Tab. Atorvastatin (Storvas) | 20 mg  | PO    | HS (0-0-1) | Lifelong         |                         |
+| 5  | Tab. Thyronorm              | 75 mcg | PO    | OD (1-0-0) | Lifelong         | on empty stomach        |
++----+-----------------------------+--------+-------+------------+------------------+-------------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning or pain while passing urine
+  - Blood sugar above 300 mg/dl on two readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - DM clinic, Medicine OPD on 16/04/2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

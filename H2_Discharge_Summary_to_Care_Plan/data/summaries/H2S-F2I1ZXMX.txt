@@ -1,0 +1,55 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Joseph Hegde
+Age / Sex    : 75 yrs / Male
+UHID         : CDH8829446      IP No: IP/26/152907
+Admitted on  : 14.03.2026      Discharged on: 17.03.2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Left inguinal hernia (indirect, reducible)
+  * s/p Laparoscopic TEP mesh repair (14.03.2026)
+
+Brief History:
+  * 75/M, c/o swelling in left groin x 26 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Laparoscopic TEP mesh repair under GA on 14.03.2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Laparoscopic TEP mesh repair under GA (14.03.2026)
+
+Investigations:
+  * Hb 12.5 g/dl; RBS 114 mg/dl; S. Cr 1.6 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 118/80 mmHg, PR 73/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg SOS for fever / pain (not more than 4 doses in 24 h)
+- Tab. Rabeprazole 20 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * High fibre diet + plenty of fluids (avoid constipation)
+  Activity:
+    * Walk around the house several times a day
+    * No heavy lifting (more than 5 kg) for 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Do not apply oil, turmeric or powder on the wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Swelling or severe pain in the scrotum
+  * Inability to pass urine
+  * Bleeding from the wound or soakage of dressing
+
+Follow-up:
+  * Wound inspection - General Surgery OPD on 23.03.2026 (POD 9)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Vivek Rathore (Consultant)

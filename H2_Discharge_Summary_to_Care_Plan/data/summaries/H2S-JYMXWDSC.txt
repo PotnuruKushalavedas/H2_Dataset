@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Rani Ghosh    Age: 46 years    Sex: Female
+UHID: CDH3403933    IP Number: IP/26/929524
+Date of admission: 6th August 2026    Date of discharge: 11th August 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 27%
+
+HISTORY:
+  - 46/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 54 kg to 48 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 7980 pg/ml; S. Cr 0.8 mg/dl; Na 135 mEq/L; K 4.2 mEq/L; 2D Echo: LVEF 27%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 83/min, SpO2 99% on RA. Dry weight 48 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide 40 mg once daily in the morning till the next review
+2. Tablet Bisoprolol 2.5 mg once daily in the morning to continue lifelong
+3. Tablet Enalapril 2.5 mg twice daily lifelong
+4. Tablet Spironolactone 25 mg once daily in the morning to continue lifelong
+5. Tablet Dapagliflozin 10 mg once daily in the morning to continue lifelong
+
+PLEASE STOP:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in Heart Failure Clinic, Cardiology OPD on 21st August 2026 (Fri). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Prakash Nair (Consultant)

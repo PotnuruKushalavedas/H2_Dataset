@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Thomas Rao                     Age/Sex  : 70 Y / M
+UHID       : CDH6581700                     IP No.   : IP/26/907305
+DOA        : 03/02/2026                     DOD      : 10/02/2026
+Consultant : Dr. T. Raghavan, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. Hypothyroidism
+  - 3. BPH
+
+BRIEF HISTORY:
+  - 70/M, chronic smoker (38 pack-yrs), k/c/o COPD x 3 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 2 days. Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.34, pCO2 58 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 10,300/cumm | RBS 118 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 3. BP 124/74 mmHg, PR 80/min, SpO2 91% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------+----------------+-------+------------+----------+------------------------------------------------------------+
+| No | Medicine                                            | Dose           | Route | Frequency  | Duration | Instructions                                               |
++----+-----------------------------------------------------+----------------+-------+------------+----------+------------------------------------------------------------+
+| 1  | Rotacap Tiova                                       | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | with rotahaler device                                      |
+| 2  | Inh. Budesonide + Formoterol (Budamate) (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; rinse mouth after use                          |
+| 3  | Inh. Salbutamol (Asthalin) (100 mcg)                | 2 puffs        | Inh   | SOS        | -        | for breathlessness / wheeze; not more than 8 puffs in 24 h |
+| 4  | Tab. Prednisolone (Wysolone)                        | 30 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                                            |
+|    |   then                                              | 20 mg          |       | OD         | 5 days   |                                                            |
+|    |   then                                              | 10 mg          |       | OD         | 5 days   | then stop                                                  |
+| 5  | Cap. Doxycycline (Biodoxi)                          | 100 mg         | PO    | BD (1-0-1) | 5 days   | after food                                                 |
+| 6  | Tab. Levothyroxine                                  | 50 mcg         | PO    | OD (1-0-0) | Lifelong | empty stomach                                              |
+| 7  | Cap. Tamsulosin (Veltam)                            | 0.4 mg         | PO    | HS (0-0-1) | Lifelong |                                                            |
++----+-----------------------------------------------------+----------------+-------+------------+----------+------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed-lip breathing and daily walking as tolerated
+  Other:
+    - Inhaler technique taught; to use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - Stop smoking and all forms of tobacco
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 24/02/2026 (Tue)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. T. Raghavan (Consultant)

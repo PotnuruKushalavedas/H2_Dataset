@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Abdul Reddy                    Age/Sex  : 74 Y / M
+UHID       : CDH4266195                     IP No.   : IP/26/304972
+DOA        : 22/05/2026                     DOD      : 27/05/2026
+Consultant : Dr. Manoj Kulkarni, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Intertrochanteric fracture right femur
+  - 2. s/p Closed reduction and PFN fixation (23/05/2026)
+
+BRIEF HISTORY:
+  - 74/M, h/o trivial fall at home; unable to bear weight on right lower limb since then.
+
+HOSPITAL COURSE:
+  - Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 23/05/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - Closed reduction and internal fixation with PFN under SA (23/05/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.1 g/dl | S. Cr 0.7 mg/dl | Weight 76 kg | Post-op X-ray: fracture fixed in good alignment | RBS 109 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 126/74 mmHg, PR 67/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| No | Medicine                                  | Dose      | Route | Frequency   | Duration | Instructions                                    |
++----+-------------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| 1  | Inj. Enoxaparin                           | 40 mg     | SC    | OD (1-0-0)  | 28 days  | in abdominal wall                               |
+| 2  | Tab. Paracetamol                          | 650 mg    | PO    | TDS (1-1-1) | 2 weeks  | PC                                              |
+| 3  | Cap. Tramadol                             | 50 mg     | PO    | SOS         | -        | for severe pain; max 2 doses/day                |
+| 4  | Tab. Calcium carbonate + Vit D3 (Shelcal) | 500 mg    | PO    | BD (1-1-0)  | 3 months | PC                                              |
+| 5  | Sachet Calcirol                           | 60,000 IU | PO    | once weekly | 8 weeks  | on the same day each week; with a glass of milk |
+| 6  | Syp. Duphalac                             | 15 mL     | PO    | HS (0-0-1)  | 2 weeks  |                                                 |
+| 7  | Tab. Pantoprazole                         | 40 mg     | PO    | OD (1-0-0)  | 2 weeks  | ½ hr before breakfast                           |
++----+-------------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - Walker-assisted mobilisation - PWB (toe touch) on operated limb
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Fall prevention - night light, remove loose rugs, use support while walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+  - Breathlessness / difficulty in breathing
+  - Operated leg - numbness / tingling / bluish discolouration / severe swelling
+
+FOLLOW-UP:
+  - Removal of sutures - Ortho OPD on 06/06/2026 (Sat) (POD 14)
+  - Check X-ray and review - Orthopaedics OPD on 24/06/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Manoj Kulkarni (Consultant)

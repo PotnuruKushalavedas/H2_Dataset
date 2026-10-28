@@ -1,0 +1,92 @@
+{
+  "summary_id": "H2S-UDGVXGAX",
+  "care_plan": {
+    "medicines": [
+      {
+        "name": "Nifedipine (slow-release) (Nicardia Retard)",
+        "dose": "10 mg",
+        "frequency": "BD (1-0-1)",
+        "timing": "",
+        "duration": "till next review",
+        "how_to_take_plain": "Take 1 tablet (10 mg) twice a day (morning and night), until your next check-up."
+      },
+      {
+        "name": "Paracetamol (Crocin)",
+        "dose": "500 mg",
+        "frequency": "SOS (only when needed)",
+        "timing": "",
+        "duration": "",
+        "how_to_take_plain": "Take 1 tablet (500 mg) only when you have fever. Do not take more than 4 doses in a day."
+      },
+      {
+        "name": "Iron + Folic Acid (IFA)",
+        "dose": "1 tablet",
+        "frequency": "OD (0-0-1)",
+        "timing": "after dinner",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet once a day, after dinner, for 6 months."
+      },
+      {
+        "name": "Calcium + Vitamin D3 (Shelcal)",
+        "dose": "500 mg",
+        "frequency": "BD (1-1-0)",
+        "timing": "after food",
+        "duration": "6 months",
+        "how_to_take_plain": "Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 6 months."
+      }
+    ],
+    "stop_medicines": [
+      "Aspirin 75 mg"
+    ],
+    "warning_signs": [
+      "Severe headache, blurred vision, or pain in the upper belly",
+      "Fits (seizures)",
+      "Blood pressure 150/100 or higher when checked at home",
+      "Breathlessness or trouble breathing",
+      "Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots",
+      "Baby not feeding well, very sleepy, has fever, or skin turning yellow",
+      "Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby"
+    ],
+    "diet": [
+      "Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids",
+      "Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen"
+    ],
+    "activity": [
+      "Take enough rest; do only light housework for 6 weeks"
+    ],
+    "follow_ups": [
+      {
+        "date": "2026-02-10",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Blood pressure check. Bring with you: your BP chart",
+        "bring": [
+          "your BP chart"
+        ]
+      },
+      {
+        "date": "2026-03-13",
+        "with_whom": "Obstetrics & Gynaecology (women's) OPD",
+        "purpose": "Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report, your urine test report",
+        "bring": [
+          "your Hb (haemoglobin) report",
+          "your urine test report"
+        ]
+      }
+    ],
+    "wound_care": [],
+    "other_advice": [
+      "Check your blood pressure at home twice a day and write it in a chart",
+      "Feed the baby only breast milk, nothing else, for 6 months"
+    ],
+    "continue_previous_medications": false
+  },
+  "plain_text_en": "MY CARE PLAN - Chandrapuri District Hospital\nName: Meena Das    Age: 27 years\nWent home from hospital on: 2026-02-03 (3 February 2026)\n\nWHY YOU WERE IN HOSPITAL\nYou had pre-eclampsia: high blood pressure in pregnancy that can affect the body. Your baby has been delivered, but your blood pressure still needs medicine and checking.\n\nYOUR MEDICINES (take exactly as written)\n1. Nifedipine (slow-release) (Nicardia Retard) 10 mg\n   - Take 1 tablet (10 mg) twice a day (morning and night), until your next check-up.\n   - What it is for: lowers blood pressure.\n2. Paracetamol (Crocin) 500 mg\n   - Take 1 tablet (500 mg) only when you have fever.\n   - Do not take more than 4 doses in a day.\n   - What it is for: relieves pain and fever.\n3. Iron + Folic Acid (IFA) 1 tablet\n   - Take 1 tablet once a day, after dinner, for 6 months.\n   - What it is for: iron tablet that builds up blood (haemoglobin).\n4. Calcium + Vitamin D3 (Shelcal) 500 mg\n   - Take 1 tablet (500 mg) twice a day (morning and afternoon), after food, for 6 months.\n   - What it is for: calcium for strong bones.\n\nMEDICINES TO STOP\n- STOP Aspirin 75 mg. Do not take it any more: it was needed only during pregnancy.\n\nGO TO HOSPITAL IMMEDIATELY IF YOU HAVE ANY OF THESE\n- Severe headache, blurred vision, or pain in the upper belly\n- Fits (seizures)\n- Blood pressure 150/100 or higher when checked at home\n- Breathlessness or trouble breathing\n- Heavy bleeding from the vagina (soaking more than 1 pad in an hour) or passing clots\n- Baby not feeding well, very sleepy, has fever, or skin turning yellow\n- Feeling sad or hopeless most of the time, not able to sleep, or thoughts of harming yourself or the baby\n\nFOOD\n- Healthy food with 1 extra meal a day: green leafy vegetables, milk and dal; drink plenty of fluids\n- Low-salt food: less than 5 g of salt a day; avoid pickles, papad and namkeen\n\nACTIVITY\n- Take enough rest; do only light housework for 6 weeks\n\nOTHER ADVICE\n- Check your blood pressure at home twice a day and write it in a chart\n- Feed the baby only breast milk, nothing else, for 6 months\n\nYOUR NEXT HOSPITAL VISITS\n- 2026-02-10 (Tuesday, 10 February 2026): Obstetrics & Gynaecology (women's) OPD. Blood pressure check. Bring with you: your BP chart.\n- 2026-03-13 (Friday, 13 March 2026): Obstetrics & Gynaecology (women's) OPD. Check-up 6 weeks after delivery. Bring with you: your Hb (haemoglobin) report, your urine test report.\n\nIn an emergency, go to the Casualty of Chandrapuri District Hospital (open 24 hours).\nIf anything here is unclear, ask your doctor or nurse before changing any medicine.\n",
+  "translation": {
+    "language_code": "hi",
+    "text": "मेरी देखभाल योजना - चंद्रपुरी जिला अस्पताल\nनाम: Meena Das    उम्र: 27 साल\nअस्पताल से छुट्टी की तारीख़: 2026-02-03 (3 फ़रवरी 2026)\n\nआपको अस्पताल में क्यों भर्ती किया गया\nआपको प्री-एक्लेम्पसिया था: गर्भावस्था में बढ़ा हुआ ब्लड प्रेशर, जो शरीर पर असर डाल सकता है। बच्चे का जन्म हो गया है, पर आपके ब्लड प्रेशर के लिए अभी दवा और जाँच ज़रूरी है।\n\nआपकी दवाइयाँ (ठीक वैसे ही लें जैसा लिखा है)\n1. Nifedipine (धीरे असर करने वाली) (Nicardia Retard) 10 mg\n   - दिन में 2 बार (सुबह और रात): 1 गोली (10 mg) लें; अगली जाँच (review) तक जारी रखें।\n   - यह किसलिए है: ब्लड प्रेशर कम करने के लिए।\n2. Paracetamol (Crocin) 500 mg\n   - सिर्फ़ बुखार होने पर: 1 गोली (500 mg) लें।\n   - दिन भर में 4 बार से ज़्यादा न लें।\n   - यह किसलिए है: दर्द और बुखार कम करने के लिए।\n3. Iron + Folic Acid (IFA) 1 गोली\n   - दिन में 1 बार, रात के खाने के बाद: 1 गोली लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: खून (हीमोग्लोबिन) बढ़ाने वाली आयरन की गोली।\n4. Calcium + Vitamin D3 (Shelcal) 500 mg\n   - दिन में 2 बार (सुबह और दोपहर), खाने के बाद: 1 गोली (500 mg) लें; 6 महीने तक जारी रखें।\n   - यह किसलिए है: हड्डियों को मज़बूत रखने के लिए कैल्शियम।\n\nये दवाइयाँ बंद करें\n- Aspirin 75 mg लेना बंद करें। इसे अब बिल्कुल न लें: यह सिर्फ़ गर्भावस्था के दौरान ज़रूरी थी।\n\nइनमें से कुछ भी हो तो तुरंत अस्पताल जाएँ\n- तेज़ सिरदर्द, धुंधला दिखना, या पेट के ऊपरी हिस्से में दर्द\n- दौरे (झटके) पड़ना\n- घर पर जाँच में ब्लड प्रेशर 150/100 या उससे ज़्यादा आना\n- सांस फूलना या सांस लेने में तकलीफ़\n- योनि से बहुत ज़्यादा खून आना (1 घंटे में 1 से ज़्यादा पैड भीग जाना) या थक्के निकलना\n- बच्चा ठीक से दूध न पिए, बहुत सुस्त रहे, बुखार हो, या त्वचा पीली पड़े\n- ज़्यादातर समय उदासी या निराशा रहना, नींद न आना, या खुद को या बच्चे को नुकसान पहुँचाने के विचार आना\n\nखाना\n- पौष्टिक खाना खाएँ और रोज़ 1 बार ज़्यादा (अलग से) खाना लें: हरी पत्तेदार सब्ज़ियाँ, दूध और दाल; खूब पानी/तरल पिएँ\n- कम नमक वाला खाना: दिन में 5 g से कम नमक; अचार, पापड़ और नमकीन न खाएँ\n\nचलना-फिरना और काम\n- पूरा आराम करें; 6 हफ़्ते तक सिर्फ़ हल्का घरेलू काम करें\n\nअन्य सलाह\n- घर पर दिन में 2 बार ब्लड प्रेशर जाँचें और चार्ट में लिखें\n- 6 महीने तक बच्चे को सिर्फ़ माँ का दूध दें, और कुछ नहीं\n\nअगली बार अस्पताल कब आना है\n- 2026-02-10 (मंगलवार, 10 फ़रवरी 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। ब्लड प्रेशर की जाँच। साथ लाएँ: अपना BP चार्ट।\n- 2026-03-13 (शुक्रवार, 13 मार्च 2026): महिला रोग और प्रसूति ओपीडी (OBG OPD)। प्रसव के 6 हफ़्ते बाद की जाँच। साथ लाएँ: Hb (हीमोग्लोबिन) की रिपोर्ट, पेशाब की जाँच की रिपोर्ट।\n\nइमरजेंसी में चंद्रपुरी जिला अस्पताल की कैज़ुअल्टी (24 घंटे खुली) में जाएँ।\nअगर कुछ भी समझ न आए, तो कोई भी दवा बदलने से पहले अपने डॉक्टर या नर्स से पूछें।\n"
+  },
+  "readability": {
+    "metric": "flesch_kincaid_grade (English plain text)",
+    "score": 5.78
+  }
+}

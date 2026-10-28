@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Raju Bhatt    Age: 19 years    Sex: Male
+UHID: CDH2759948    IP Number: IP/26/463289
+Date of admission: 11 Aug 2026    Date of discharge: 16 Aug 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+HISTORY:
+  - 19/M, presented with cough x 4 weeks, evening rise of temperature, loss of appetite and weight loss of 4 kg.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 12 Aug 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: right upper zone infiltrates; Hb 11.0 g/dl; LFT: within normal limits; RBS 127 mg/dl; HIV: non-reactive; Weight 58 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 124/70 mmHg, PR 70/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet HRZE (4-FDC) 4 tablets once daily in the morning on empty stomach for 52 days (as per weight band; to complete 8 weeks of intensive phase; then review for continuation phase)
+2. Tablet Pyridoxine (Vit B6) 10 mg once daily in the morning till the next review
+3. Tablet Paracetamol 500 mg only if needed (SOS) for fever / pain (max 3 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - High-protein nutritious diet (dal, eggs, milk, soya)
+    - Strictly no alcohol
+  Other instructions:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Family members to be screened for TB at the nearest health centre
+    - Stop smoking and all forms of tobacco
+    - Orange-red urine expected with rifampicin (harmless)
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Generalised skin rash / itching
+  - Coughing up blood
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with LFT in TB clinic (DOTS centre) on 31 Aug 2026.
+  - Sputum examination at end of intensive phase in TB clinic (DOTS centre) on 08 Oct 2026 (Thu).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Imran Qureshi (Consultant)

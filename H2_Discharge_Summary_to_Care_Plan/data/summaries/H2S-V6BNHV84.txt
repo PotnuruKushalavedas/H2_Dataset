@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Rupa Mishra
+Age / Sex    : 45 yrs / Female
+UHID         : CDH9692809      IP No: IP/26/799859
+Admitted on  : 11.01.2026      Discharged on: 16.01.2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 45/F, k/c/o T2DM x 2 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 37 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.12, HCO3 10 mEq/L; Urine ketones +++; RBS at admission 217 mg/dl; HbA1c 12.5%; S. Cr 0.5 mg/dl; K 4.5 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 120/70 mmHg, PR 76/min, SpO2 98% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Lantus 18 units SC 0-0-1 at 10 PM till next review
+- Inj. Insulin Aspart 6-4-6 units SC 0-15 min before meals till next review
+- Tab. Ondansetron 4 mg SOS for nausea or vomiting (max 3 doses/day)
+
+- STOP Tab. Empagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+    * Oral fluids 2-3 L/day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow-up:
+  * Get RFT + S. electrolytes done on 19.01.2026 (Hospital laboratory)
+  * Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 23.01.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Farah Siddiqui (Consultant)

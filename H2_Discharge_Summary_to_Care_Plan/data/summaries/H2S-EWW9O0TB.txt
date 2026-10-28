@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Naresh Sahu, 78/M  UHID: CDH7918063  IP: IP/26/529290
+DOA: 31/01/2026  DOD: 05/02/2026  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute exacerbation of COPD (infective)
+- Systemic hypertension
+
+H/o: 78/M, chronic smoker (42 pack-yrs), k/c/o COPD x 4 yrs, presented with increased breathlessness, cough with purulent sputum x 5 days.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Required NIV for 1 day. Improved; weaned to room air.
+
+Ix: ABG at admission: pH 7.34, pCO2 62 mmHg, CXR: hyperinflated lung fields, no consolidation, TLC 14,100/cumm, RBS 125 mg/dl, ECG: sinus rhythm
+
+Condn at d/c: Breathlessness mMRC grade 3. BP 124/70 mmHg, PR 84/min, SpO2 94% on RA.
+
+Rx on discharge:
+1) Rotacap Tiova 18 mcg 1 rotacap OD life long (with rotahaler device)
+2) MDI Budesonide + Formoterol (6/200 mcg) 2 puffs BD lifelong (via spacer; gargle after use)
+3) MDI Asthalin 2 puffs SOS for breathlessness / wheeze (max 8 puffs/day)
+4) T. Prednisolone 40 mg OD x 5/7 then 30 mg OD x 3 days then 20 mg OD x 3 days then 10 mg OD x 3/7 then stop (after breakfast)
+5) T. Azithral 500 mg OD x 3 days
+6) T. Pan 40 OD 30 min before breakfast x 14 days
+7) T. Stamlo 5 mg OD lifelong
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Pursed-lip breathing and daily walking as tolerated
+  Others:
+  - Inhaler technique taught; to use with spacer
+  - Flu + pneumococcal vaccine advised
+  - Stop smoking and all forms of tobacco
+
+Review SOS if:
+- Breathlessness or difficulty in breathing
+- Wheeze / breathlessness not settling with reliever inhaler
+- Bluish lips or fingertips, drowsiness or confusion
+- Fever above 100.4 F (38 C)
+- Increased sputum / sputum turning yellow or green
+
+F/U:
+- Chest OPD on 19/02/2026 (Thu) - Review with reports
+- Pulmonary Medicine (Chest) OPD on 19/03/2026 - PFT / spirometry
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. T. Raghavan (Consultant)

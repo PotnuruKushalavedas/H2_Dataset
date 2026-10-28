@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Anil Jadhav                    Age/Sex  : 62 Y / M
+UHID       : CDH2981451                     IP No.   : IP/26/284446
+DOA        : 25 Feb 2026                    DOD      : 04 Mar 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 34%
+
+BRIEF HISTORY:
+  - 62/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 57 kg to 53 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 7724 pg/ml | S. Cr 1.1 mg/dl | Na 138 mEq/L | K 4.2 mEq/L | 2D Echo: LVEF 34%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 71/min, SpO2 97% on RA. Dry weight 53 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------------+---------+-------+------------+-------------+--------------+
+| No | Medicine                                        | Dose    | Route | Frequency  | Duration    | Instructions |
++----+-------------------------------------------------+---------+-------+------------+-------------+--------------+
+| 1  | Tab. Frusemide                                  | 40 mg   | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Met XL                                     | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (Vymada) (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone                             | 25 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin                              | 10 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Aspirin (Ecosprin)                         | 75 mg   | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin                               | 40 mg   | PO    | HS (0-0-1) | Lifelong    |              |
++----+-------------------------------------------------+---------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 11 Mar 2026 (Wed); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 02 Jun 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

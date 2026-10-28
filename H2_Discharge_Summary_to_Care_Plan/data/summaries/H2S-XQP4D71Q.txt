@@ -1,0 +1,54 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Selvi Das                      Age/Sex  : 60 Y / F
+UHID       : CDH3982383                     IP No.   : IP/26/765466
+DOA        : 30/07/2026                     DOD      : 05/08/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right upper lobe) - CURB-65 score 2
+
+BRIEF HISTORY:
+  - 60/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 6 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 15,200/cumm | CRP 164 mg/L | CXR: consolidation right upper lobe | S. Cr 0.8 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 124/78 mmHg, PR 88/min, SpO2 96% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+-------------------+--------+-------+------------+----------+-----------------------------------+
+| No | Medicine          | Dose   | Route | Frequency  | Duration | Instructions                      |
++----+-------------------+--------+-------+------------+----------+-----------------------------------+
+| 1  | Tab. Levofloxacin | 500 mg | PO    | OD (1-0-0) | 7 days   |                                   |
+| 2  | Tab. Paracetamol  | 650 mg | PO    | SOS        | -        | for fever / pain; max 3 doses/day |
++----+-------------------+--------+-------+------------+----------+-----------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    - Deep breathing exercises - 10 breaths every hour when awake
+    - Gradually increase walking as tolerated
+  Other:
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain, heaviness or sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Haemoptysis (coughing out blood)
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 12/08/2026; bring reports: CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. R. Venkatesh (Consultant)

@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Kavita Gill, 82/F  UHID: CDH8029915  IP: IP/26/955086
+DOA: 11-Apr-26  DOD: 16-Apr-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate (non-valvular)
+- Systemic hypertension
+- Hypothyroidism
+
+H/o: 82/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 136/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 80/min at discharge.
+
+Ix: 2D Echo: LA dilated, no significant valvular disease, LVEF 50%, S. Cr 1.4 mg/dl, Hb 13.1 g/dl, TSH 1.0 mIU/L, Weight 57 kg, CrCl (Cockcroft-Gault) 27 ml/min, CHA2DS2-VASc score 4
+
+Condn at d/c: Stable, rate controlled. BP 124/80 mmHg, PR 81/min, SpO2 98% on RA.
+
+Rx on discharge:
+1) T. Met XL 50 mg OD lifelong
+2) T. Apixaban 2.5 mg BD lifelong
+3) T. Telma 40 mg OD life long
+4) T. Eltroxin 50 mcg OD empty stomach lifelong
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Do not take painkillers from the chemist without doctor's advice
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Review SOS if:
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Sudden weakness of face, arm or leg, or slurred speech
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+- Breathlessness / difficulty in breathing
+
+F/U:
+- Cardiology OPD on 07-May-26 - Review with reports with ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

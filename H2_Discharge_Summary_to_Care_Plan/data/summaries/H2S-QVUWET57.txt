@@ -1,0 +1,62 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Harpreet Murmu
+Age / Sex    : 41 yrs / Male
+UHID         : CDH8126143      IP No: IP/26/613620
+Admitted on  : 26/05/2026      Discharged on: 30/05/2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Symptomatic cholelithiasis
+  * s/p Laparoscopic cholecystectomy (27/05/2026)
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 41/M, c/o recurrent right upper abdominal pain after fatty meals x 9 months. USG abdomen: multiple calculi in GB, largest 18 mm, CBD normal.
+
+Course in Hospital:
+  * Underwent Lap. cholecystectomy under GA on 27/05/2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+Procedure:
+  * Laparoscopic cholecystectomy under GA (27/05/2026)
+
+Investigations:
+  * Hb 12.1 g/dl; LFT: within normal limits; S. Amylase 89 U/L; HPE: awaited; S. Cr 0.7 mg/dl
+
+Condition at Discharge: Afebrile, tolerating normal diet, port sites healthy. BP 120/70 mmHg, PR 87/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 500 mg SOS for fever / pain (max 4 doses/day)
+- Tab. Aceclofenac 100 mg 1-0-1 after food x 3 days
+- Tab. Pantoprazole (Pantocid) 40 mg 1-0-0 30 min before breakfast x 7 days
+- Tab. Cefuroxime 500 mg 1-0-1 after food x 5 days
+- Tab. Metformin (Glyciphage) 500 mg 1-0-1 PC lifelong
+
+Advice on Discharge:
+  Diet:
+    * Low fat diet; avoid fried and oily food, ghee, red meat
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * May resume desk work after 2 weeks
+  Wound care:
+    * Keep the wound clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting / not able to take orally
+  * Yellowish eyes / urine (jaundice)
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 04/06/2026 (POD 8)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Vivek Rathore (Consultant)

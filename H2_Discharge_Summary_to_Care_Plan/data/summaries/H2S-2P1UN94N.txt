@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Hema Dhillon                   Age/Sex  : 48 Y / F
+UHID       : CDH7454523                     IP No.   : IP/26/574439
+DOA        : 04/08/2026                     DOD      : 08/08/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 48/F, k/c/o T2DM x 12 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 6 days. RBS at admission 380 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.9% | FBS 258 mg/dl | PPBS 311 mg/dl | S. Cr 0.8 mg/dl | Urine routine: pus cells plenty | Hb 11.8 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 126/72 mmHg, PR 82/min, SpO2 97% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+------------+------------------+---------------------------+
+| No | Medicine                    | Dose   | Route | Frequency  | Duration         | Instructions              |
++----+-----------------------------+--------+-------+------------+------------------+---------------------------+
+| 1  | Tab. Metformin              | 500 mg | PO    | BD (1-0-1) | Lifelong         | PC                        |
+| 2  | Tab. Glimepiride            | 1 mg   | PO    | OD (1-0-0) | Till next review | ½ hr before breakfast     |
+| 3  | Inj. Lantus                 | 8 U    | SC    | HS (0-0-1) | Till review      |                           |
+| 4  | Tab. Cefixime               | 200 mg | PO    | BD (1-0-1) | 7 days           | after food                |
+| 5  | Tab. Atorvastatin (Storvas) | 20 mg  | PO    | HS (0-0-1) | Lifelong         |                           |
+| 6  | Tab. Dolo                   | 650 mg | PO    | SOS        | -                | for pain; max 3 doses/day |
++----+-----------------------------+--------+-------+------------+------------------+---------------------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High fever with chills
+  - Burning or pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 18/08/2026; bring reports: FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

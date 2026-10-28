@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Biju Fernandes
+Age / Sex    : 71 yrs / Male
+UHID         : CDH9325520      IP No: IP/26/318995
+Admitted on  : 09/07/2026      Discharged on: 12/07/2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+
+Brief History:
+  * 71/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 136/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 85/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 59%; S. Cr 0.6 mg/dl; Hb 11.6 g/dl; TSH 2.9 mIU/L; Weight 55 kg; CrCl (Cockcroft-Gault) 87 ml/min; CHA2DS2-VASc score 2
+
+Condition at Discharge: Stable, rate controlled. BP 126/70 mmHg, PR 78/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Bisoprolol 5 mg 1-0-0 lifelong
+- Cap. Dabigatran 150 mg 1-0-1 lifelong
+- Tab. Telmisartan 40 mg 1-0-0 long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 03/08/2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

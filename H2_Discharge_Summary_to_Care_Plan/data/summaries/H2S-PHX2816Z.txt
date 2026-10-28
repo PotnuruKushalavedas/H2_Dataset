@@ -1,0 +1,59 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Rajendra Pandey, 54/M  UHID: CDH3237040  IP: IP/26/811001
+DOA: 25-Aug-26  DOD: 30-Aug-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+- Type 2 diabetes mellitus
+
+H/o: 54/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 8.0 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 26-Aug-26: 93% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (26-Aug-26)
+
+Ix: Hb 14.6 g/dl, S. Cr 0.6 mg/dl, K 4.6 mEq/L, LDL 134 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 39%, HbA1c 9.8%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 126/76 mmHg, PR 78/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Aspirin 75 mg OD after lunch lifelong
+2) T. Brilinta 90 BD x 1 yr
+3) T. Rosuvastatin 20 mg HS life long
+4) T. Concor 5 mg OD lifelong
+5) T. Telma 40 OD lifelong
+6) T. Pantocid 40 mg OD ½ hr before breakfast x 3/12
+7) T. Isosorbide Dinitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8) T. Aldactone 25 OD till review
+9) T. Forxiga 10 mg OD lifelong
+10) T. Glyciphage 500 mg BD after food life long
+
+Adv:
+  Diet:
+  - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Activity:
+  - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - No driving for 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+  - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+Review SOS if:
+- Chest pain not relieved after 3 SL tablets taken 5 min apart
+- Breathlessness or difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations - fast / irregular heart beat
+- Giddiness / fainting / LOC
+
+F/U:
+- Cardiology OPD on 09-Sep-26 - Review with reports with ECG, S. Creatinine, S. Electrolytes
+- Get Fasting lipid profile done on 12-Oct-26 (Mon) (Hospital laboratory)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

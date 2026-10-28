@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rupa Gill                      Age/Sex  : 61 Y / F
+UHID       : CDH2961776                     IP No.   : IP/26/482062
+DOA        : 07 Feb 2026                    DOD      : 13 Feb 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 29%
+
+BRIEF HISTORY:
+  - 61/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 73 kg to 69 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 4704 pg/ml | S. Cr 0.8 mg/dl | Na 140 mEq/L | K 3.9 mEq/L | 2D Echo: LVEF 29%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 70/min, SpO2 96% on RA. Dry weight 69 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+------------------+--------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration         | Instructions |
++----+----------------------------------------+--------+-------+------------+------------------+--------------+
+| 1  | Tab. Torsemide                         | 20 mg  | PO    | OD (1-0-0) | Till next review |              |
+| 2  | Tab. Bisoprolol                        | 2.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg  | PO    | BD (1-0-1) | Lifelong         |              |
+| 4  | Tab. Aldactone                         | 25 mg  | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Dapagliflozin (Forxiga)           | 10 mg  | PO    | OD (1-0-0) | Lifelong         |              |
++----+----------------------------------------+--------+-------+------------+------------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 23 Feb 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,46 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Pradeep Kalita | 42 Y/M | UHID CDH1463646 | IP IP/26/353206
+DOA - 28/07/2026 | DOD - 02/08/2026 | Consultant - Dr. T. Raghavan, Chest Unit
+
+Diagnosis -
+  • Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Presenting complaints & history - 42/M, presented with cough x 5 weeks, evening rise of temperature, loss of appetite and weight loss of 4 kg.
+
+Hospital course -
+  • Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 29/07/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations -
+  • Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: bilateral upper zone infiltrates with cavity | Hb 12.2 g/dl | LFT: within normal limits | RBS 105 mg/dl | HIV: non-reactive | Weight 43 kg
+
+Status at discharge - Afebrile for 3 days, tolerating ATT. BP 118/76 mmHg, PR 86/min, SpO2 97% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Isoniazid + Rifampicin + Pyrazinamide + Ethambutol (4-FDC) 3 tabs PO OD on empty stomach x 52 days (as per weight band; to complete 8 weeks of intensive phase; review for CP thereafter)
+• Tab. Pyridoxine 10 mg PO OD till review
+
+Instructions -
+  Diet:
+    • High protein diet - dal / eggs / milk / soya
+    • Strictly no alcohol
+  Others:
+    • Daily ATT without missing doses - full course to be completed
+    • Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    • Family members to be screened for TB at the nearest health centre
+    • No smoking / no tobacco in any form
+    • Urine may turn orange-red due to TB medicine - harmless
+
+Report immediately to Casualty in case of -
+  • Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  • Blurred vision / difficulty in distinguishing colours
+  • Generalised skin rash / itching
+  • Haemoptysis (coughing out blood)
+  • Breathlessness / difficulty in breathing
+
+Follow up -
+  • LFT and review - TB clinic (DOTS centre) on 17/08/2026
+  • Sputum AFB at end of IP - DOTS centre / TB clinic on 24/09/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. T. Raghavan (Consultant)

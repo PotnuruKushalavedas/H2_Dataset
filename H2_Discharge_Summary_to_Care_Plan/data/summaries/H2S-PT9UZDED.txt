@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Arun Siddiqui, 63/M  UHID: CDH6150032  IP: IP/26/800492
+DOA: 28-Feb-26  DOD: 06-Mar-26  Cons: Dr. Farah Siddiqui (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Community-acquired pneumonia (right lower lobe) - CURB-65 score 1
+
+H/o: 63/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 5 days.
+
+Course: Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Ix: TLC 13,200/cumm, CRP 138 mg/L, CXR: consolidation right lower lobe, S. Cr 0.9 mg/dl, Blood C/S: no growth
+
+Condn at d/c: Afebrile, comfortable. BP 114/80 mmHg, PR 67/min, SpO2 96% on RA. Chest: crepts reducing.
+
+Rx on discharge:
+1) T. Amoxicillin-Clavulanate 625 mg TDS PC x 5/7
+2) T. Crocin 650 SOS for pain (not more than 3 doses in 24 h)
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  - Oral fluids 2-3 L/day
+  Activity:
+  - Deep breathing exercises - 10 breaths every hour when awake
+  - Gradually increase walking as tolerated
+  Others:
+  - Flu + pneumococcal vaccine advised
+  - No smoking / no tobacco in any form
+
+Review SOS if:
+- Recurrence of fever / fever > 3 days after discharge
+- Breathlessness or difficulty in breathing
+- Chest pain, heaviness or sweating
+- Bluish lips / fingertips, drowsiness or confusion
+- Haemoptysis (coughing out blood)
+
+F/U:
+- Chest OPD on 16-Mar-26 - Review with reports with CBC
+- Pulmonary Medicine (Chest) OPD on 17-Apr-26 - Repeat CXR
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

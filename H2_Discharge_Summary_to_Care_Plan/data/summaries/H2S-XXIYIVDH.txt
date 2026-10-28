@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mamta Gowda                    Age/Sex  : 31 Y / F
+UHID       : CDH1141331                     IP No.   : IP/26/377066
+DOA        : 09/04/2026                     DOD      : 10/04/2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, FTNVD with RMLE on 09/04/2026
+
+BRIEF HISTORY:
+  - 31/F, G2P1L1 at 40 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby boy, 3.27 kg, APGAR 7/9, on 09/04/2026. Episiotomy (RMLE) sutured. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 11.6 g/dl | Blood group A +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 118/70 mmHg, PR 72/min, SpO2 99% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+--------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                            |
+| 2  | Tab. Calcium carbonate + Vit D3 (Shelcal)  | 500 mg | PO    | BD (1-1-0) | 6 months | PC                                      |
+| 3  | Tab. Paracetamol (Calpol)                  | 650 mg | PO    | SOS        | -        | for pain; not more than 3 doses in 24 h |
++----+--------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Pelvic floor (Kegel) exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+    - Sitz bath (warm water) twice daily for 1 week
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Foul-smelling vaginal discharge
+  - Fever > 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - OBG OPD on 23/05/2026; bring reports: Hb
+  - Infant immunisation - 6 week dose - Immunisation clinic (Paediatrics) on 23/05/2026 (Sat)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Lakshmi Iyer (Consultant)

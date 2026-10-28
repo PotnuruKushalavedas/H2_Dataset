@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nirmala Krishnan               Age/Sex  : 45 Y / F
+UHID       : CDH1551446                     IP No.   : IP/26/705169
+DOA        : 27/04/2026                     DOD      : 01/05/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 45/F, k/c/o T2DM x 1 yr on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 25 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.19, HCO3 13 mEq/L | Urine ketones +++ | RBS at admission 398 mg/dl | HbA1c 11.8% | S. Cr 0.9 mg/dl | K 4.4 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 114/72 mmHg, PR 72/min, SpO2 98% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+----------+-------+-------------+------------------+-------------------+
+| No | Medicine                                  | Dose     | Route | Frequency   | Duration         | Instructions      |
++----+-------------------------------------------+----------+-------+-------------+------------------+-------------------+
+| 1  | Inj. Insulin Glargine                     | 12 units | SC    | OD (0-0-1)  | Till next review | at 10 pm daily    |
+| 2  | Inj. Human Regular Insulin (Huminsulin R) | 4 units  | SC    | TDS (1-1-1) | Till review      | ½ hr before meals |
+| 3  | Tab. Metformin                            | 500 mg   | PO    | BD (1-0-1)  | Till next review | after food        |
++----+-------------------------------------------+----------+-------+-------------+------------------+-------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 08/05/2026 (Fri)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Anil Bhosale (Consultant)

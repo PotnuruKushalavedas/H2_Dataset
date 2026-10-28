@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Revathi Ansari                 Age/Sex  : 70 Y / F
+UHID       : CDH4607568                     IP No.   : IP/26/827719
+DOA        : 27 Mar 2026                    DOD      : 02 Apr 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 70/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 10 days. ECG: AF with FVR (HR 152/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 85/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 50% | S. Cr 0.6 mg/dl | Hb 12.4 g/dl | TSH 3.0 mIU/L | Weight 56 kg | CrCl (Cockcroft-Gault) 77 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 120/72 mmHg, PR 83/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------------+-------+-------+------------+----------+--------------+
+| No | Medicine                              | Dose  | Route | Frequency  | Duration | Instructions |
++----+---------------------------------------+-------+-------+------------+----------+--------------+
+| 1  | Tab. Metoprolol Succinate ER (Met XL) | 25 mg | PO    | OD (1-0-0) | Lifelong |              |
+| 2  | Tab. Apixaban                         | 5 mg  | PO    | BD (1-0-1) | Lifelong |              |
+| 3  | Tab. Amlodipine                       | 5 mg  | PO    | OD (1-0-0) | Lifelong |              |
++----+---------------------------------------+-------+-------+------------+----------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Ecosprin 75 mg (since started on anticoagulant)
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 16 Apr 2026 (Thu); bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

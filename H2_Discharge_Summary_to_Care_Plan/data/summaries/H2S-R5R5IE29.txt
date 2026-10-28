@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Tarun Singh                    Age/Sex  : 78 Y / M
+UHID       : CDH5784343                     IP No.   : IP/26/427906
+DOA        : 13 Jul 2026                    DOD      : 17 Jul 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Inferior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to RCA
+
+BRIEF HISTORY:
+  - 78/M, presented with retrosternal chest pain with sweating x 3 hrs. ECG: ST elevation in II, III, aVF.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 13 Jul 2026: CAG showed 97% thrombotic occlusion of mid RCA; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to RCA (13 Jul 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.2 g/dl | S. Cr 1.5 mg/dl | K 4.3 mEq/L | LDL 115 mg/dl | 2D Echo: RWMA in RCA territory, LVEF 54%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 124/80 mmHg, PR 87/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration | Instructions                                                |
++----+---------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Tab. Ecosprin             | 75 mg  | PO    | OD (0-1-0) | Lifelong | after lunch                                                 |
+| 2  | Tab. Clopidogrel          | 75 mg  | PO    | OD (1-0-0) | 1 year   |                                                             |
+| 3  | Tab. Rosuvastatin         | 20 mg  | PO    | HS (0-0-1) | Lifelong |                                                             |
+| 4  | Tab. Met XL               | 50 mg  | PO    | OD (1-0-0) | Lifelong |                                                             |
+| 5  | Tab. Ramipril (Cardace)   | 2.5 mg | PO    | OD (1-0-0) | Lifelong |                                                             |
+| 6  | Tab. Pantoprazole         | 40 mg  | PO    | OD (1-0-0) | 3 months | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate | 5 mg   | SL    | SOS        | -        | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+---------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 27 Jul 2026; bring reports: ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Imran Joseph                   Age/Sex  : 52 Y / M
+UHID       : CDH6731535                     IP No.   : IP/26/387938
+DOA        : 22/07/2026                     DOD      : 26/07/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+BRIEF HISTORY:
+  - 52/M, k/c/o T2DM x 9 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.7%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.7% | FBS 229 mg/dl | PPBS 374 mg/dl | S. Cr 1.1 mg/dl | Urine microalbumin 131 mg/g | Fundus: no DR
+
+CONDITION AT DISCHARGE: Stable. BP 130/72 mmHg, PR 79/min, SpO2 97% on RA. Pre-meal sugars 161-180 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+----------+-------+------------+-------------+--------------------------------+
+| No | Medicine                        | Dose     | Route | Frequency  | Duration    | Instructions                   |
++----+---------------------------------+----------+-------+------------+-------------+--------------------------------+
+| 1  | Inj. Human Premix Insulin 30/70 | 18-0-8 U | SC    | BD         | Till review | ½ hr before breakfast & dinner |
+| 2  | Tab. Glyciphage                 | 500 mg   | PO    | BD (1-0-1) | Lifelong    | after food                     |
+| 3  | Tab. Atorvastatin               | 10 mg    | PO    | HS (0-0-1) | Lifelong    |                                |
++----+---------------------------------+----------+-------+------------+-------------+--------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 2 mg (now on insulin)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Always carry sugar or glucose with you
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 03/08/2026
+  - Review with HbA1c - DM clinic, Medicine OPD on 19/10/2026; bring reports: S. Creatinine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Anil Bhosale (Consultant)

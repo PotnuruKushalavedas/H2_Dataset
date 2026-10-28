@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Pooja Patel                    Age/Sex  : 70 Y / F
+UHID       : CDH2506784                     IP No.   : IP/26/139752
+DOA        : 10 Aug 2026                    DOD      : 16 Aug 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 70/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 7 days. ECG: AF with FVR (HR 131/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 87/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 57% | S. Cr 0.8 mg/dl | Hb 13.3 g/dl | TSH 2.0 mIU/L | Weight 46 kg | CrCl (Cockcroft-Gault) 47 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 120/70 mmHg, PR 84/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+--------+-------+------------+----------+-------------------+
+| No | Medicine                   | Dose   | Route | Frequency  | Duration | Instructions      |
++----+----------------------------+--------+-------+------------+----------+-------------------+
+| 1  | Tab. Bisoprolol (Concor)   | 2.5 mg | PO    | OD (1-0-0) | Lifelong |                   |
+| 2  | Tab. Rivaroxaban (Xarelto) | 15 mg  | PO    | OD (0-0-1) | Lifelong | with evening meal |
+| 3  | Tab. Amlodipine            | 5 mg   | PO    | OD (1-0-0) | Lifelong |                   |
++----+----------------------------+--------+-------+------------+----------+-------------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 31 Aug 2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

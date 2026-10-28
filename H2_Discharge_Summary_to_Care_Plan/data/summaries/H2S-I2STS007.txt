@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Nitin Rajput                   Age/Sex  : 49 Y / M
+UHID       : CDH4307330                     IP No.   : IP/26/467768
+DOA        : 12/03/2026                     DOD      : 17/03/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 32%
+
+BRIEF HISTORY:
+  - 49/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 83 kg to 79 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 8007 pg/ml | S. Cr 0.9 mg/dl | Na 133 mEq/L | K 4.7 mEq/L | 2D Echo: LVEF 32%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 79/min, SpO2 98% on RA. Dry weight 79 kg.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration    | Instructions |
++----+---------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Torsemide            | 10 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Enalapril            | 2.5 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Aldactone            | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Forxiga              | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
++----+---------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Heart Failure Clinic, Cardiology OPD on 27/03/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - 2D Echo + review - Cardiology OPD on 15/06/2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Prakash Nair (Consultant)

@@ -1,0 +1,70 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Kamala Bhatt
+Age / Sex    : 69 yrs / Female
+UHID         : CDH2656137      IP No: IP/26/617508
+Admitted on  : 26/08/2026      Discharged on: 31/08/2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - NSTEMI
+  * CAD - SVD; s/p PCI with 1 DES to LCx
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 69/F, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 4.1 ng/ml (raised).
+
+Course in Hospital:
+  * Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 28/08/2026: 92% stenosis of mid LCx; PCI with 1 DES done. No post-procedure complications.
+
+Procedure:
+  * CAG + PCI with 1 DES to LCx (28/08/2026)
+
+Investigations:
+  * Hb 13.7 g/dl; S. Cr 0.7 mg/dl; K 4.1 mEq/L; LDL 121 mg/dl; 2D Echo: RWMA in LCx territory, LVEF 36%; HbA1c 7.2%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 118/76 mmHg, PR 82/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Clopidogrel 75 mg 1-0-0 x 12 months
+- Tab. Atorvastatin 80 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Concor 5 mg 1-0-0 long term (lifelong)
+- Tab. Cardace 2.5 mg 1-0-0 lifelong
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast till next review
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+- Tab. Spironolactone 25 mg 1-0-0 till next review
+- Tab. Dapagliflozin 10 mg 1-0-0 lifelong
+- Tab. Glycomet 500 mg 1-0-1 PC long term (lifelong)
+
+- STOP Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+Advice on Discharge:
+  Diet:
+    * Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+    * Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Avoid driving x 1 week
+  General:
+    * Stop smoking and all forms of tobacco
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    * For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Danger signs - report to Casualty immediately:
+  * Chest pain not relieved after 3 SL tablets taken 5 min apart
+  * Breathlessness / difficulty in breathing
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 10/09/2026; bring reports: ECG, S. Creatinine, S. Electrolytes
+  * Lipid profile (fasting) on 12/10/2026 at Central lab
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Prakash Nair (Consultant)

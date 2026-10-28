@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Priya Patnaik    Age: 40 years    Sex: Female
+UHID: CDH2291633    IP Number: IP/26/743260
+Date of admission: 28 Feb 2026    Date of discharge: 05 Mar 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+HISTORY:
+  - 40/F, k/c/o T2DM x 5 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: missed medicines.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 32 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.16, HCO3 11 mEq/L; Urine ketones +++; RBS at admission 440 mg/dl; HbA1c 11.5%; S. Cr 0.7 mg/dl; K 3.8 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 118/70 mmHg, PR 86/min, SpO2 96% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 10 units SC once daily at night at 10 PM until the next visit
+2. Injection Human Regular Insulin 4 units SC three times daily ½ hr before meals until the next visit
+3. Tablet Metformin 500 mg twice daily PC till the next review
+4. Tablet Ondem 4 mg only if needed (SOS) for nausea / vomiting (not more than 3 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other instructions:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Carry glucose / sugar at all times
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+REVIEW:
+  - Review with sugar chart in DM clinic, Medicine OPD on 12 Mar 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. S. K. Mishra (Consultant)

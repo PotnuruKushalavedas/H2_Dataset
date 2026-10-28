@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Amit Thakur
+Age / Sex    : 23 yrs / Male
+UHID         : CDH5392148      IP No: IP/26/119916
+Admitted on  : 03.03.2026      Discharged on: 08.03.2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+  * Type 2 diabetes mellitus
+  * Hypothyroidism
+
+Brief History:
+  * 23/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 6 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 14,200/cumm; CRP 132 mg/L; CXR: consolidation left lower lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 120/78 mmHg, PR 82/min, SpO2 96% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Levofloxacin 500 mg 1-0-0 x 7 days
+- Tab. Paracetamol 650 mg SOS for fever (max 4 doses/day)
+Continue previous medications for T2DM and hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Oral fluids 2-3 L/day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+
+Danger signs - report to Casualty immediately:
+  * Fever recurring, or persisting for more than 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 16.03.2026; bring reports: CBC
+  * Repeat CXR - Chest OPD on 20.04.2026 (Mon)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

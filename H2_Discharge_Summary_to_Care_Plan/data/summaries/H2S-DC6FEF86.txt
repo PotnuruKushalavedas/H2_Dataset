@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Surgery                       
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bhavana Mishra                 Age/Sex  : 50 Y / F
+UHID       : CDH5233906                     IP No.   : IP/26/716865
+DOA        : 12/02/2026                     DOD      : 15/02/2026
+Consultant : Dr. Rajesh Kumar Verma, MS (General Surgery) Unit     : Surgery Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Symptomatic cholelithiasis
+  - 2. s/p Laparoscopic cholecystectomy (12/02/2026)
+
+BRIEF HISTORY:
+  - 50/F, c/o recurrent right upper abdominal pain after fatty meals x 4 months. USG abdomen: multiple calculi in GB, largest 13 mm, CBD normal.
+
+HOSPITAL COURSE:
+  - Underwent Lap. cholecystectomy under GA on 12/02/2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+PROCEDURE(S) DONE:
+  - Laparoscopic cholecystectomy under GA (12/02/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.6 g/dl | LFT: within normal limits | S. Amylase 61 U/L | HPE: awaited
+
+CONDITION AT DISCHARGE: Afebrile, tolerating normal diet, port sites healthy. BP 126/80 mmHg, PR 75/min, SpO2 99% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+----------+------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration | Instructions                             |
++----+---------------------------+--------+-------+------------+----------+------------------------------------------+
+| 1  | Tab. Paracetamol          | 650 mg | PO    | SOS        | -        | for fever; not more than 4 doses in 24 h |
+| 2  | Tab. Rabeprazole (Rablet) | 20 mg  | PO    | OD (1-0-0) | 5 days   | ½ hr before breakfast                    |
++----+---------------------------+--------+-------+------------+----------+------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Low-fat diet - no fried / oily food, ghee, red meat
+    - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    - Early ambulation - walk in the house several times a day
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - May resume desk work after 2 weeks
+  Wound care:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+    - Do not apply oil, turmeric or powder on the wound
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Fever > 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting / not able to take orally
+  - Yellowish eyes / urine (jaundice)
+  - Distension of abdomen with no passage of stool or gas
+
+FOLLOW-UP:
+  - Suture removal - Surgery OPD on 20/02/2026 (POD 8)
+  - Review with histopathology report - Surgery OPD on 27/02/2026 (Fri)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Rajesh Kumar Verma (Consultant)

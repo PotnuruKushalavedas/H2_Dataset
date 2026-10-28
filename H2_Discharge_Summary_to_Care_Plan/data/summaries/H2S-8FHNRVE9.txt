@@ -1,0 +1,52 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bhaskar Das                    Age/Sex  : 73 Y / M
+UHID       : CDH9634589                     IP No.   : IP/26/863589
+DOA        : 06/02/2026                     DOD      : 11/02/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+
+BRIEF HISTORY:
+  - 73/M, k/c/o T2DM x 10 yrs, stopped medicines 4 months ago, presented with polyuria, polydipsia, generalised weakness x 18 days. RBS 466 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 12.4% | FBS 265 mg/dl | PPBS 370 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 14.1 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 124/74 mmHg, PR 86/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+---------+-------+------------+-------------+------------------------------------+
+| No | Medicine                  | Dose    | Route | Frequency  | Duration    | Instructions                       |
++----+---------------------------+---------+-------+------------+-------------+------------------------------------+
+| 1  | Tab. Metformin            | 1000 mg | PO    | BD (1-0-1) | Lifelong    | PC                                 |
+| 2  | Tab. Januvia              | 100 mg  | PO    | OD (1-0-0) | Till review |                                    |
+| 3  | Tab. Paracetamol (Calpol) | 500 mg  | PO    | SOS        | -           | for fever or pain; max 4 doses/day |
++----+---------------------------+---------+-------+------------+-------------+------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 21/02/2026; bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

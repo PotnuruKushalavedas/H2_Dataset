@@ -1,0 +1,70 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rajni Iyer                     Age/Sex  : 33 Y / F
+UHID       : CDH1561662                     IP No.   : IP/26/104350
+DOA        : 14 May 2026                    DOD      : 19 May 2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, Pre-eclampsia with severe features at 36 wks
+  - 2. Delivered by Emergency LSCS on 15 May 2026
+
+BRIEF HISTORY:
+  - 33/F, G2, on low-dose aspirin from 12 wks, presented with headache and BP 169/110 mmHg, urine albumin ++.
+
+HOSPITAL COURSE:
+  - Received Inj. Magnesium sulphate (Pritchard regimen) and oral antihypertensives. Underwent emergency LSCS on 15 May 2026: live baby boy, 2.47 kg, APGAR 9/10. MgSO4 continued for 24 hrs postpartum. BP settled to 136/88 mmHg on oral treatment. No fits.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (15 May 2026)
+
+KEY INVESTIGATIONS:
+  - Platelets 2.5 lakh/cumm | SGOT/SGPT 46/31 U/L | S. Cr 0.7 mg/dl | Urine albumin ++ | Hb 11.7 g/dl
+
+CONDITION AT DISCHARGE: Asymptomatic. BP 130/86 mmHg, PR 70/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+--------+-------+-------------+------------------+--------------+
+| No | Medicine                        | Dose   | Route | Frequency   | Duration         | Instructions |
++----+---------------------------------+--------+-------+-------------+------------------+--------------+
+| 1  | Tab. Amlodipine                 | 5 mg   | PO    | OD (1-0-0)  | Till next review |              |
+| 2  | Tab. Ceftum                     | 500 mg | PO    | BD (1-0-1)  | 5 days           | PC           |
+| 3  | Tab. Paracetamol (Calpol)       | 650 mg | PO    | TDS (1-1-1) | 5 days           | PC           |
+| 4  | Tab. Iron + Folic acid (IFA)    | 1 tab  | PO    | OD (0-0-1)  | 6 months         | after dinner |
+| 5  | Tab. Calcium carbonate + Vit D3 | 500 mg | PO    | BD (1-1-0)  | 6 months         | after food   |
++----+---------------------------------+--------+-------+-------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Aspirin 75 mg (antenatal aspirin - not needed after delivery)
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Adequate rest - only light household work x 6 weeks
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Home BP monitoring BD - keep chart
+    - Exclusive breastfeeding for 6 months
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Severe headache / blurred vision / epigastric pain
+  - Fits (convulsions)
+  - BP 150/100 mmHg or higher on home check
+  - Breathlessness / difficulty in breathing
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Redness, swelling, pus or discharge from the wound
+
+FOLLOW-UP:
+  - BP review with home BP chart - OBG OPD on 25 May 2026
+  - PNC visit at 6 weeks - OBG OPD on 26 Jun 2026; bring reports: Hb, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Nirmala Joshi (Consultant)

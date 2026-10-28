@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Hema Rajput
+Age / Sex    : 50 yrs / Female
+UHID         : CDH1876806      IP No: IP/26/867014
+Admitted on  : 29/06/2026      Discharged on: 04/07/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis left foot
+  * Hypothyroidism
+
+Brief History:
+  * 50/F, k/c/o T2DM x 6 yrs, presented with swelling, redness and pain over left foot x 6 days following a minor injury. RBS 420 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 10.8%; FBS 316 mg/dl; PPBS 395 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.1 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 120/70 mmHg, PR 66/min, SpO2 96% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food long term (lifelong)
+- Tab. Glimepiride 2 mg 1-0-0 30 min before breakfast till next review
+- Inj. Lantus 8 U SC 0-0-1 (HS) till review
+- Tab. Amoxycillin + Clavulanic acid 625 mg 1-1-1 PC x 5 days
+- Tab. Paracetamol (Calpol) 650 mg SOS for fever (not more than 4 doses in 24 h)
+Continue previous medications for hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Blood sugar above 300 mg/dl on two readings
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+Follow-up:
+  * Review with reports - DM clinic, Medicine OPD on 11/07/2026; bring reports: FBS, PPBS
+  * HbA1c and review - DM clinic, Medicine OPD on 03/10/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Farah Siddiqui (Consultant)

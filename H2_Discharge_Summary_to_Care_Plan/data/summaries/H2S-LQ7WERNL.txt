@@ -1,0 +1,67 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rajni Kulkarni                 Age/Sex  : 65 Y / F
+UHID       : CDH9260221                     IP No.   : IP/26/986813
+DOA        : 12/06/2026                     DOD      : 16/06/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 65/F, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 3.9 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 13/06/2026: 82% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (13/06/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.5 g/dl | S. Cr 0.7 mg/dl | K 4.3 mEq/L | LDL 148 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 50%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 126/70 mmHg, PR 81/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+--------+-------+------------+----------+--------------------------------------------------------------------------------+
+| No | Medicine                     | Dose   | Route | Frequency  | Duration | Instructions                                                                   |
++----+------------------------------+--------+-------+------------+----------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                 | 75 mg  | PO    | OD (0-1-0) | Lifelong | after lunch                                                                    |
+| 2  | Tab. Clopidogrel             | 75 mg  | PO    | OD (1-0-0) | 1 year   |                                                                                |
+| 3  | Tab. Rosuvastatin            | 20 mg  | PO    | HS (0-0-1) | Lifelong |                                                                                |
+| 4  | Tab. Metoprolol Succinate ER | 25 mg  | PO    | OD (1-0-0) | Lifelong |                                                                                |
+| 5  | Tab. Ramipril                | 2.5 mg | PO    | OD (1-0-0) | Lifelong |                                                                                |
+| 6  | Tab. Pantoprazole (Pantocid) | 40 mg  | PO    | OD (1-0-0) | 3 months | ½ hr before breakfast                                                          |
+| 7  | Tab. Isosorbide Dinitrate    | 5 mg   | SL    | SOS        | -        | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
++----+------------------------------+--------+-------+------------+----------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 23/06/2026; bring reports: ECG
+  - Get Fasting lipid profile done on 28/07/2026 (Tue) (Central lab)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. H. S. Grewal (Consultant)

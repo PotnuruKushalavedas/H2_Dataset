@@ -1,0 +1,57 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Simran Khan    Age: 30 years    Sex: Female
+UHID: CDH2689314    IP Number: IP/26/974745
+Date of admission: 19th March 2026    Date of discharge: 26th March 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+HISTORY:
+  - 30/F, k/c/o T2DM x 3 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: acute gastroenteritis.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 47 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.22, HCO3 13 mEq/L; Urine ketones +++; RBS at admission 432 mg/dl; HbA1c 13.6%; S. Cr 0.8 mg/dl; K 3.9 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 120/78 mmHg, PR 69/min, SpO2 99% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 10 IU SC once daily at night at 10 pm daily until the next visit
+2. Injection Insulin Aspart 4 IU SC three times daily within 15 min before meals until the next visit
+3. Tablet Metformin 500 mg twice daily PC till the next review
+4. Tablet Ondansetron (Ondem) 4 mg only if needed (SOS) for nausea or vomiting (max 3 doses/day)
+5. Tablet Losartan 50 mg once daily in the morning lifelong
+6. Tablet Levothyroxine (Eltroxin) 25 mcg once daily in the morning on empty stomach to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+REVIEW:
+  - Get S. Creatinine and electrolytes (Na, K) done on 30th March 2026 (Mon) (Central lab)
+  - Review with sugar chart in Diabetes Clinic (Medicine OPD) on 2nd April 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Farah Siddiqui (Consultant)

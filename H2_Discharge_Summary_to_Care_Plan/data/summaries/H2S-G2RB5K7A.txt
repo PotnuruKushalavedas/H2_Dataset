@@ -1,0 +1,69 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Salim Mukherjee                Age/Sex  : 51 Y / M
+UHID       : CDH2651192                     IP No.   : IP/26/374648
+DOA        : 30 Jun 2026                    DOD      : 05 Jul 2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 51/M, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 30 Jun 2026: CAG showed 97% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (30 Jun 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.2 g/dl | S. Cr 0.9 mg/dl | K 4.4 mEq/L | LDL 123 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 38%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 114/72 mmHg, PR 80/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| No | Medicine                     | Dose  | Route | Frequency  | Duration         | Instructions                                                |
++----+------------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)      | 75 mg | PO    | OD (0-1-0) | Lifelong         | after lunch                                                 |
+| 2  | Tab. Ticagrelor              | 90 mg | PO    | BD (1-0-1) | 12 months        |                                                             |
+| 3  | Tab. Rosuvastatin            | 20 mg | PO    | HS (0-0-1) | Lifelong         |                                                             |
+| 4  | Tab. Metoprolol Succinate ER | 25 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 5  | Tab. Ramipril                | 5 mg  | PO    | OD (1-0-0) | Lifelong         |                                                             |
+| 6  | Tab. Pantoprazole (Pan)      | 40 mg | PO    | OD (1-0-0) | 3 months         | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate    | 5 mg  | SL    | SOS        | -                | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
+| 8  | Tab. Spironolactone          | 25 mg | PO    | OD (1-0-0) | Till next review |                                                             |
+| 9  | Tab. Dapagliflozin           | 10 mg | PO    | OD (1-0-0) | Lifelong         |                                                             |
++----+------------------------------+-------+-------+------------+------------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - No driving for 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 13 Jul 2026 (Mon); bring reports: ECG, S. Creatinine, S. Electrolytes
+  - Get Fasting lipid profile done on 17 Aug 2026 (Mon) (Central lab)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

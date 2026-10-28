@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Renu Nair, 82/F  UHID: CDH8519556  IP: IP/26/223904
+DOA: 26/03/2026  DOD: 03/04/2026  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 28%
+
+H/o: 82/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 71 kg to 65 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 9067 pg/ml, S. Cr 1.4 mg/dl, Na 137 mEq/L, K 4.1 mEq/L, 2D Echo: LVEF 28%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 79/min, SpO2 97% on RA. Dry weight 65 kg.
+
+Rx on discharge:
+1) T. Lasix 40 BD till next review
+2) T. Seloken XL 25 mg OD lifelong
+3) T. Cardace 2.5 mg OD life long
+4) T. Aldactone 25 mg ½ tab OD lifelong
+5) T. Jardiance 10 mg OD life long
+6) T. Ecosprin 75 OD after lunch life long
+7) T. Atorva 40 mg HS lifelong
+
+STOP Tab. Dilzem 30 mg (not suitable in weak heart (low EF))
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest / on lying down flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Marked decrease in urine output
+- Giddiness, fainting or loss of consciousness
+- Palpitations (fast or irregular heartbeat)
+
+F/U:
+- Cardiology OPD on 13/04/2026 (Mon) - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Prakash Nair (Consultant)

@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Suresh Reddy, 76/M  UHID: CDH3395714  IP: IP/26/653385
+DOA: 26/04/2026  DOD: 05/05/2026  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 30%
+
+H/o: 76/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 14 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 84 kg to 80 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 7005 pg/ml, S. Cr 0.7 mg/dl, Na 139 mEq/L, K 4.2 mEq/L, 2D Echo: LVEF 30%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 73/min, SpO2 98% on RA. Dry weight 80 kg.
+
+Rx on discharge:
+1) T. Furosemide 40 mg OD till review
+2) T. Cardivas 6.25 mg half tab BD (½-0-½) lifelong
+3) T. Sacubitril + Valsartan 50 mg BD life long
+4) T. Aldactone 25 mg half tab OD (½-0-0) life long
+5) T. Dapagliflozin 10 mg OD life long
+6) T. Ecosprin 75 OD after lunch lifelong
+7) T. Atorva 40 HS life long
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Weight gain of more than 2 kg in 3 days
+- Breathlessness at rest / on lying down flat
+- Increasing swelling of feet or legs
+- Urine output markedly reduced
+- Giddiness, fainting or loss of consciousness
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Cardiology OPD on 12/05/2026 (Tue) - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 03/08/2026 - Repeat 2D Echo and review
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

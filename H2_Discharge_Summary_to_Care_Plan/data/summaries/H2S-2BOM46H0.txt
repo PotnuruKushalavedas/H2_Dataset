@@ -1,0 +1,53 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Anil Reddy                     Age/Sex  : 49 Y / M
+UHID       : CDH5509916                     IP No.   : IP/26/617218
+DOA        : 05 Feb 2026                    DOD      : 11 Feb 2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+
+BRIEF HISTORY:
+  - 49/M, k/c/o T2DM x 6 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 6 days. RBS at admission 452 mg/dl.
+
+HOSPITAL COURSE:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.7% | FBS 220 mg/dl | PPBS 302 mg/dl | S. Cr 0.8 mg/dl | Urine routine: pus cells plenty | Hb 14.0 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 114/76 mmHg, PR 88/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine          | Dose    | Route | Frequency  | Duration         | Instructions |
++----+-------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Metformin    | 1000 mg | PO    | BD (1-0-1) | Till next review | after food   |
+| 2  | Tab. Sitagliptin  | 100 mg  | PO    | OD (1-0-0) | Till review      |              |
+| 3  | Tab. Cefixime     | 200 mg  | PO    | BD (1-0-1) | 5 days           | PC           |
+| 4  | Tab. Atorvastatin | 10 mg   | PO    | HS (0-0-1) | Lifelong         |              |
++----+-------------------+---------+-------+------------+------------------+--------------+
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning micturition / pain while passing urine
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - DM clinic, Medicine OPD on 25 Feb 2026 (Wed); bring reports: FBS, PPBS, Urine routine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Farah Siddiqui (Consultant)

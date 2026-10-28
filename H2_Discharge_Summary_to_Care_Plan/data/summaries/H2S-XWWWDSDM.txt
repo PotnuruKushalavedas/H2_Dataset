@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Poonam Meena                   Age/Sex  : 46 Y / F
+UHID       : CDH1211400                     IP No.   : IP/26/166553
+DOA        : 12/01/2026                     DOD      : 16/01/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 46/F, k/c/o T2DM x 4 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 39 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.1, HCO3 11 mEq/L | Urine ketones +++ | RBS at admission 384 mg/dl | HbA1c 13.6% | S. Cr 0.6 mg/dl | K 3.9 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 114/80 mmHg, PR 87/min, SpO2 97% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+---------+-------+------------+------------------+-----------------------+
+| No | Medicine                        | Dose    | Route | Frequency  | Duration         | Instructions          |
++----+---------------------------------+---------+-------+------------+------------------+-----------------------+
+| 1  | Inj. Insulin Glargine (Basalog) | 16 U    | SC    | HS (0-0-1) | Till review      |                       |
+| 2  | Inj. NovoRapid                  | 6-4-6 U | SC    | TDS        | Till next review | 0-15 min before meals |
+| 3  | Tab. Metformin                  | 500 mg  | PO    | BD (1-0-1) | Till review      | PC                    |
++----+---------------------------------+---------+-------+------------+------------------+-----------------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Get RFT + S. electrolytes done on 20/01/2026 (Tue) (Hospital laboratory)
+  - Review with sugar chart - DM clinic, Medicine OPD on 23/01/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. S. K. Mishra (Consultant)

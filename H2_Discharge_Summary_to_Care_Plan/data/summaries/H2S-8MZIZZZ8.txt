@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Dinesh Rajput                  Age/Sex  : 69 Y / M
+UHID       : CDH3482400                     IP No.   : IP/26/824201
+DOA        : 11 Jun 2026                    DOD      : 15 Jun 2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+
+BRIEF HISTORY:
+  - 69/M, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 11 Jun 2026: CAG showed 97% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (11 Jun 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.7 g/dl | S. Cr 1.0 mg/dl | K 4.7 mEq/L | LDL 162 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 59%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 124/74 mmHg, PR 69/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration | Instructions                                                |
++----+----------------------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin                           | 75 mg  | PO    | OD (0-1-0) | Lifelong | after lunch                                                 |
+| 2  | Tab. Clopidogrel                       | 75 mg  | PO    | OD (1-0-0) | 1 year   |                                                             |
+| 3  | Tab. Atorvastatin (Storvas)            | 40 mg  | PO    | HS (0-0-1) | Lifelong |                                                             |
+| 4  | Tab. Bisoprolol (Concor)               | 5 mg   | PO    | OD (1-0-0) | Lifelong |                                                             |
+| 5  | Tab. Ramipril (Cardace)                | 2.5 mg | PO    | OD (1-0-0) | Lifelong |                                                             |
+| 6  | Tab. Pantoprazole (Pantocid)           | 40 mg  | PO    | OD (1-0-0) | 3 months | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -        | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+----------------------------------------+--------+-------+------------+----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 22 Jun 2026; bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Prakash Nair (Consultant)

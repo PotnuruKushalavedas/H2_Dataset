@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sunita Prajapati               Age/Sex  : 56 Y / F
+UHID       : CDH5595098                     IP No.   : IP/26/570685
+DOA        : 04 Jul 2026                    DOD      : 09 Jul 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 25%
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 56/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3 L; weight down from 56 kg to 53 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 8674 pg/ml | S. Cr 0.8 mg/dl | Na 137 mEq/L | K 4.3 mEq/L | 2D Echo: LVEF 25%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 87/min, SpO2 98% on RA. Dry weight 53 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+---------+-------+------------+-------------+---------------+
+| No | Medicine                     | Dose    | Route | Frequency  | Duration    | Instructions  |
++----+------------------------------+---------+-------+------------+-------------+---------------+
+| 1  | Tab. Frusemide               | 40 mg   | PO    | OD (1-0-0) | Till review |               |
+| 2  | Tab. Metoprolol Succinate ER | 25 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 3  | Tab. Enalapril               | 2.5 mg  | PO    | BD (1-0-1) | Lifelong    |               |
+| 4  | Tab. Aldactone               | 25 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 5  | Tab. Dapagliflozin           | 10 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 6  | Tab. Levothyroxine           | 100 mcg | PO    | OD (1-0-0) | Lifelong    | empty stomach |
++----+------------------------------+---------+-------+------------+-------------+---------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 20 Jul 2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

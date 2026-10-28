@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Kiran Bhatt, 62/F  UHID: CDH7238089  IP: IP/26/216666
+DOA: 07-Jul-26  DOD: 10-Jul-26  Cons: Dr. S. K. Mishra (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+- Hypothyroidism
+
+H/o: 62/F, k/c/o T2DM x 14 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.7%) with weight loss and fatigue. No ketosis.
+
+Course: Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Ix: HbA1c 10.7%, FBS 207 mg/dl, PPBS 295 mg/dl, S. Cr 0.8 mg/dl, Urine microalbumin 118 mg/g, Fundus: no DR
+
+Condn at d/c: Stable. BP 130/74 mmHg, PR 73/min, SpO2 97% on RA. Pre-meal sugars 137-184 mg/dl.
+
+Rx on discharge:
+1) Inj. Basalog 10 units SC OD at 10 PM till review
+2) T. Metformin 500 mg BD PC lifelong
+3) T. Glimepiride 1 mg OD 30 min before breakfast till review
+4) T. Atorva 20 mg HS life long
+5) T. Levothyroxine 100 mcg OD empty stomach life long
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Carry glucose / sugar at all times
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 20-Jul-26 (Mon) - Review with SMBG chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

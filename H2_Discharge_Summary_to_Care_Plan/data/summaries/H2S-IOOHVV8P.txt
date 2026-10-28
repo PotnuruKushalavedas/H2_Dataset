@@ -1,0 +1,67 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Prakash Hegde                  Age/Sex  : 52 Y / M
+UHID       : CDH4631831                     IP No.   : IP/26/847984
+DOA        : 13/09/2026                     DOD      : 18/09/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LCx
+
+BRIEF HISTORY:
+  - 52/M, presented with c/o chest heaviness on exertion progressing to rest pain x 2 days. ECG: ST depression in V4-V6. Trop I 5.6 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 15/09/2026: 91% stenosis of mid LCx; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LCx (15/09/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.7 g/dl | S. Cr 1.0 mg/dl | K 3.9 mEq/L | LDL 173 mg/dl | 2D Echo: RWMA in LCx territory, LVEF 52%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/72 mmHg, PR 72/min, SpO2 97% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+-------+-------+------------+-------------+-------------------------------------------------------------+
+| No | Medicine                   | Dose  | Route | Frequency  | Duration    | Instructions                                                |
++----+----------------------------+-------+-------+------------+-------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin               | 75 mg | PO    | OD (0-1-0) | Lifelong    | after lunch                                                 |
+| 2  | Tab. Ticagrelor (Brilinta) | 90 mg | PO    | BD (1-0-1) | 12 months   |                                                             |
+| 3  | Tab. Rosuvastatin          | 20 mg | PO    | HS (0-0-1) | Lifelong    |                                                             |
+| 4  | Tab. Metoprolol Succinate  | 50 mg | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 5  | Tab. Telmisartan (Telma)   | 40 mg | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 6  | Tab. Pantocid              | 40 mg | PO    | OD (1-0-0) | Till review | ½ hr before breakfast                                       |
+| 7  | Tab. Isosorbide Dinitrate  | 5 mg  | SL    | SOS        | -           | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+----------------------------+-------+-------+------------+-------------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness / difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 28/09/2026; bring reports: ECG
+  - Get Lipid profile (fasting) done on 30/10/2026 (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

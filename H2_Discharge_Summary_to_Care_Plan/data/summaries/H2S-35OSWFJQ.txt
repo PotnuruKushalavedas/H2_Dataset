@@ -1,0 +1,63 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Hemant Rathore
+Age / Sex    : 40 yrs / Male
+UHID         : CDH3332990      IP No: IP/26/299717
+Admitted on  : 02.06.2026      Discharged on: 06.06.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - NSTEMI
+  * CAD - SVD; s/p PCI with 1 DES to LAD
+
+Brief History:
+  * 40/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 1.7 ng/ml (raised).
+
+Course in Hospital:
+  * Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 04.06.2026: 90% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure:
+  * CAG + PCI with 1 DES to LAD (04.06.2026)
+
+Investigations:
+  * Hb 13.1 g/dl; S. Cr 0.7 mg/dl; K 4.2 mEq/L; LDL 169 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 48%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 114/76 mmHg, PR 68/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Ecosprin 75 mg 0-1-0 after lunch lifelong
+- Tab. Ticagrelor 90 mg 1-0-1 x 1 year
+- Tab. Rosuvastatin (Rosuvas) 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Metoprolol Succinate ER 50 mg 1-0-0 long term (lifelong)
+- Tab. Cardace 5 mg 1-0-0 long term (lifelong)
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast till review
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+Advice on Discharge:
+  Diet:
+    * Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Avoid driving x 1 week
+  General:
+    * No smoking / no tobacco in any form
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    * For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Danger signs - report to Casualty immediately:
+  * Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  * Breathlessness or difficulty in breathing
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness, fainting or loss of consciousness
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 13.06.2026; bring reports: ECG
+  * Lipid profile (fasting) on 18.07.2026 at Central lab
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Meenakshi Rao (Consultant)

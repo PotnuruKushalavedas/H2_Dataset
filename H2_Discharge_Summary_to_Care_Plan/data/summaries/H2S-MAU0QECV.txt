@@ -1,0 +1,65 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Mahesh Gowda
+Age / Sex    : 58 yrs / Male
+UHID         : CDH8514764      IP No: IP/26/460963
+Admitted on  : 20.08.2026      Discharged on: 24.08.2026
+Consultant   : Dr. Rajesh Kumar Verma, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Symptomatic cholelithiasis
+  * s/p Laparoscopic cholecystectomy (21.08.2026)
+  * Systemic hypertension
+  * Hypothyroidism
+
+Brief History:
+  * 58/M, c/o recurrent right upper abdominal pain after fatty meals x 12 months. USG abdomen: multiple calculi in GB, largest 12 mm, CBD normal.
+
+Course in Hospital:
+  * Underwent Lap. cholecystectomy under GA on 21.08.2026. Received Inj. Cefazolin 2 g IV at induction. Intra-op: GB with multiple calculi, no spillage. Post-op uneventful; orally allowed on POD 1; drain not placed. Specimen sent for HPE.
+
+Procedure:
+  * Laparoscopic cholecystectomy under GA (21.08.2026)
+
+Investigations:
+  * Hb 11.7 g/dl; LFT: within normal limits; S. Amylase 75 U/L; HPE: awaited
+
+Condition at Discharge: Afebrile, tolerating normal diet, port sites healthy. BP 130/76 mmHg, PR 76/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg SOS for fever (max 3 doses/day)
+- Tab. Ibuprofen (Brufen) 400 mg 1-1-1 after food x 3 days
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 5 days
+- Tab. Cefuroxime 500 mg 1-0-1 after food x 5 days
+- Tab. Ondansetron 4 mg SOS for nausea / vomiting (not more than 3 doses in 24 h)
+- Tab. Levothyroxine 75 mcg 1-0-0 on empty stomach lifelong
+To continue other previous medicines for HTN as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * Low-fat diet - no fried / oily food, ghee, red meat
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * No heavy lifting (more than 5 kg) for 4 weeks
+    * May resume desk work after 2 weeks
+  Wound care:
+    * Keep the wound clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Severe / increasing abdominal pain
+  * Persistent vomiting / not able to take orally
+  * Yellowish eyes / urine (jaundice)
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Removal of sutures - General Surgery OPD on 29.08.2026 (Sat) (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Rajesh Kumar Verma (Consultant)

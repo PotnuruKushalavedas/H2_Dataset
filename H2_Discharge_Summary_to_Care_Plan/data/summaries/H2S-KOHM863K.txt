@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Naresh Rathore, 52/M  UHID: CDH4704133  IP: IP/26/291173
+DOA: 08-Sep-26  DOD: 14-Sep-26  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute coronary syndrome - NSTEMI
+- CAD - SVD; s/p PCI with 1 DES to LAD
+- Type 2 diabetes mellitus
+
+H/o: 52/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 4.0 ng/ml (raised).
+
+Course: Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 09-Sep-26: 90% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+Procedure: CAG + PCI with 1 DES to LAD (09-Sep-26)
+
+Ix: Hb 15.0 g/dl, S. Cr 1.2 mg/dl, K 4.6 mEq/L, LDL 144 mg/dl, 2D Echo: RWMA in LAD territory, LVEF 35%, HbA1c 7.7%
+
+Condn at d/c: Chest pain free, haemodynamically stable. BP 118/80 mmHg, PR 81/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+Rx on discharge:
+1) T. Ecosprin 75 OD after lunch lifelong
+2) T. Axcer 90 mg BD x 12 months
+3) T. Rosuvas 20 mg HS lifelong
+4) T. Met XL 50 mg OD lifelong
+5) T. Cardace 2.5 OD life long
+6) T. Rablet 20 mg OD ½ hr before breakfast x 3 months
+7) T. Sorbitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8) T. Aldactone 25 OD till next review
+9) T. Forxiga 10 mg OD life long
+10) T. Metformin 500 mg BD after food lifelong
+
+Adv:
+  Diet:
+  - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+  - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+  - No heavy lifting (more than 5 kg) for 4 weeks
+  - No driving for 1 week
+  Others:
+  - Stop smoking and all forms of tobacco
+  - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+  - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Review SOS if:
+- Chest pain persisting after 3 doses of SL tablet (5 min apart)
+- Breathlessness or difficulty in breathing
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Palpitations (fast or irregular heartbeat)
+- Giddiness, fainting or loss of consciousness
+
+F/U:
+- Cardiology OPD on 24-Sep-26 - Review with reports with ECG, S. Creatinine, S. Electrolytes
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

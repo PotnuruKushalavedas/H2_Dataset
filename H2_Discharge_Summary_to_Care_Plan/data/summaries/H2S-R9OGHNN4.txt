@@ -1,0 +1,47 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Prakash Thakur, 82/M  UHID: CDH2460156  IP: IP/26/999193
+DOA: 23/02/2026  DOD: 01/03/2026  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Dilated cardiomyopathy, LVEF 33%
+
+H/o: 82/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 84 kg to 79 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 7499 pg/ml, S. Cr 1.0 mg/dl, Na 134 mEq/L, K 4.1 mEq/L, 2D Echo: LVEF 33%, global hypokinesia, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 83/min, SpO2 99% on RA. Dry weight 79 kg.
+
+Rx on discharge:
+1) T. Frusemide 40 mg OD till review
+2) T. Metoprolol Succinate 25 mg OD life long
+3) T. Envas 2.5 mg BD life long
+4) T. Aldactone 25 OD lifelong
+5) T. Forxiga 10 mg OD lifelong
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing swelling of feet or legs
+- Urine output markedly reduced
+- Giddiness / fainting / LOC
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Cardiology OPD on 09/03/2026 (Mon) - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

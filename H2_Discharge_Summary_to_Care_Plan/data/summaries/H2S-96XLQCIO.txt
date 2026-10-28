@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Meena Bhatt                    Age/Sex  : 29 Y / F
+UHID       : CDH8391907                     IP No.   : IP/26/417638
+DOA        : 08 Jun 2026                    DOD      : 09 Jun 2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G3P3L3, FTNVD with RMLE on 08 Jun 2026
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 29/F, G3P2L2 at 39 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 3.35 kg, APGAR 9/10, on 08 Jun 2026. Episiotomy (RMLE) sutured. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 11.2 g/dl | Blood group A +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 118/72 mmHg, PR 75/min, SpO2 99% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration | Instructions                                   |
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------------------+
+| 1  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                                   |
+| 2  | Tab. Calcium carbonate + Vit D3            | 500 mg | PO    | BD (1-1-0) | 6 months | PC                                             |
+| 3  | Tab. Paracetamol (Crocin)                  | 650 mg | PO    | SOS        | -        | for pain; max 4 doses/day                      |
+| 4  | Tab. Levothyroxine                         | 75 mcg | PO    | OD (1-0-0) | Lifelong | on empty stomach; 4 hr gap from calcium & iron |
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Pelvic floor (Kegel) exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal hygiene - wash with clean water after toilet; change pads every 4-6 hours
+    - Warm sitz bath BD x 1 week
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Immunisation of baby as per schedule card
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Foul-smelling vaginal discharge
+  - Fever above 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - OBG OPD on 20 Jul 2026; bring reports: Hb
+  - Baby's 6-week vaccines - Paediatric immunisation clinic on 20 Jul 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Lakshmi Iyer (Consultant)

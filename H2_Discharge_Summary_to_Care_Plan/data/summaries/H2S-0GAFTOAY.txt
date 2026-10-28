@@ -1,0 +1,61 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Hemant Ghosh
+Age / Sex    : 75 yrs / Male
+UHID         : CDH4705180      IP No: IP/26/600333
+Admitted on  : 11/08/2026      Discharged on: 14/08/2026
+Consultant   : Dr. Vivek Rathore, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Right inguinal hernia (indirect, reducible)
+  * s/p Laparoscopic TEP mesh repair (12/08/2026)
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 75/M, c/o swelling in right groin x 6 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Laparoscopic TEP mesh repair under GA on 12/08/2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Laparoscopic TEP mesh repair under GA (12/08/2026)
+
+Investigations:
+  * Hb 14.9 g/dl; RBS 94 mg/dl; S. Cr 0.8 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 124/74 mmHg, PR 72/min, SpO2 98% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 650 mg SOS for pain (not more than 3 doses in 24 h)
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+- Tab. Cefuroxime (Ceftum) 500 mg 1-0-1 PC x 5 days
+- Syp. Lactulose 15 ml 0-0-1 (HS) x 2 weeks
+- Tab. Metformin 500 mg 1-0-1 after food long term (lifelong)
+To continue other previous medicines for HTN as before (unchanged).
+
+Advice on Discharge:
+  Diet:
+    * High fibre diet + plenty of fluids (avoid constipation)
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Swelling or severe pain in the scrotum
+  * Unable to pass urine
+  * Bleeding from wound / dressing soakage
+
+Follow-up:
+  * Wound check - General Surgery OPD on 20/08/2026 (Thu) (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Vivek Rathore (Consultant)

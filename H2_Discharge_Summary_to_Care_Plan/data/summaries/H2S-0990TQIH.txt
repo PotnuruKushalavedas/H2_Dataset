@@ -1,0 +1,53 @@
+CDH / General Surgery / DISCHARGE SUMMARY
+Name - Harish Shah | 25 Y/M | UHID CDH3651388 | IP IP/26/882258
+DOA - 22/02/2026 | DOD - 26/02/2026 | Consultant - Dr. Vivek Rathore, Surgery Unit II
+
+Diagnosis -
+  • Acute appendicitis
+  • s/p Laparoscopic appendicectomy (22/02/2026)
+
+Presenting complaints & history - 25/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Hospital course -
+  • Emergency laparoscopic appendicectomy under GA on 22/02/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Operative notes -
+  • Laparoscopic appendicectomy under GA (22/02/2026)
+
+Investigations -
+  • TLC 17,500/cumm | CRP 120 mg/L | HPE: awaited | Hb 14.5 g/dl
+
+Status at discharge - Afebrile, wound healthy, tolerating diet. BP 120/80 mmHg, PR 78/min, SpO2 97% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Cefuroxime 500 mg PO BD after food x 5/7
+• Tab. Metronidazole 400 mg PO TDS after food x 5/7 (avoid alcohol)
+• Tab. Paracetamol (Dolo) 650 mg PO TDS after food x 5 days
+• Tab. Brufen 400 mg PO TDS after food x 3 days
+• Tab. Pantoprazole 40 mg PO OD 30 min before breakfast x 5 days
+
+Instructions -
+  Diet:
+    • Soft diet x 1 week, then normal diet
+  Activity:
+    • Walk around the house several times a day
+    • No heavy lifting (more than 5 kg) for 4 weeks
+    • Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    • Keep wound site clean and dry
+    • Bath allowed after 48 h - pat wound dry with clean cloth
+
+Report immediately to Casualty in case of -
+  • Fever above 100.4 F (38 C)
+  • Redness, swelling, pus or discharge from the wound
+  • Severe or increasing pain in abdomen
+  • Persistent vomiting / not able to take orally
+  • Abdominal distension, not passing stools / flatus
+
+Follow up -
+  • Wound check - Surgery OPD on 05/03/2026 (POD 11)
+  • Review with histopathology report - Surgery OPD on 09/03/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Vivek Rathore (Consultant)

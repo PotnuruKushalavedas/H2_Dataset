@@ -1,0 +1,68 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rohit Gupta                    Age/Sex  : 82 Y / M
+UHID       : CDH3297500                     IP No.   : IP/26/824301
+DOA        : 27/05/2026                     DOD      : 01/06/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 38%
+  - 3. Type 2 diabetes mellitus
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 82/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 70 kg to 66 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 3415 pg/ml | S. Cr 0.6 mg/dl | Na 138 mEq/L | K 3.8 mEq/L | 2D Echo: LVEF 38%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 87/min, SpO2 96% on RA. Dry weight 66 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+---------+-------+------------+-------------+---------------+
+| No | Medicine                               | Dose    | Route | Frequency  | Duration    | Instructions  |
++----+----------------------------------------+---------+-------+------------+-------------+---------------+
+| 1  | Tab. Dytor                             | 20 mg   | PO    | OD (1-0-0) | Till review |               |
+| 2  | Tab. Metoprolol Succinate              | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |               |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong    |               |
+| 4  | Tab. Spironolactone                    | 25 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 5  | Tab. Dapagliflozin                     | 10 mg   | PO    | OD (1-0-0) | Lifelong    |               |
+| 6  | Tab. Aspirin (Ecosprin)                | 75 mg   | PO    | OD (0-1-0) | Lifelong    | after lunch   |
+| 7  | Tab. Atorvastatin                      | 40 mg   | PO    | HS (0-0-1) | Lifelong    |               |
+| 8  | Tab. Levothyroxine (Eltroxin)          | 25 mcg  | PO    | OD (1-0-0) | Lifelong    | empty stomach |
++----+----------------------------------------+---------+-------+------------+-------------+---------------+
+  To continue other previous medicines for T2DM as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 11/06/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Prakash Nair (Consultant)

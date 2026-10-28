@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Bindu Ansari
+Age / Sex    : 60 yrs / Female
+UHID         : CDH5262510      IP No: IP/26/804594
+Admitted on  : 23/06/2026      Discharged on: 28/06/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+Brief History:
+  * 60/F, k/c/o T2DM x 19 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.7%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 12.7%; FBS 227 mg/dl; PPBS 277 mg/dl; S. Cr 0.7 mg/dl; Urine microalbumin 99 mg/g; Fundus: mild NPDR
+
+Condition at Discharge: Stable. BP 118/78 mmHg, PR 82/min, SpO2 96% on RA. Pre-meal sugars 129-186 mg/dl.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 12 U SC 0-0-1 (HS) till review
+- Tab. Metformin (Glyciphage) 500 mg 1-0-1 PC long term (lifelong)
+- Tab. Glimepiride 1 mg 1-0-0 30 min before breakfast till review
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Carry glucose / sugar at all times
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Sugar > 300 mg/dl on 2 readings
+
+Follow-up:
+  * Review with SMBG chart - DM clinic, Medicine OPD on 08/07/2026
+  * HbA1c and review - DM clinic, Medicine OPD on 21/09/2026 (Mon); bring reports: S. Creatinine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Anil Bhosale (Consultant)

@@ -1,0 +1,53 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mary Deshpande                 Age/Sex  : 79 Y / F
+UHID       : CDH9473652                     IP No.   : IP/26/204536
+DOA        : 10/08/2026                     DOD      : 14/08/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+
+BRIEF HISTORY:
+  - 79/F, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 159/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 81/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 57% | S. Cr 1.6 mg/dl | Hb 12.2 g/dl | TSH 3.2 mIU/L | Weight 76 kg | CrCl (Cockcroft-Gault) 34 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 130/80 mmHg, PR 79/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+-------+-------+------------+----------+--------------+
+| No | Medicine                  | Dose  | Route | Frequency  | Duration | Instructions |
++----+---------------------------+-------+-------+------------+----------+--------------+
+| 1  | Tab. Metoprolol Succinate | 50 mg | PO    | OD (1-0-0) | Lifelong |              |
+| 2  | Tab. Apixaban             | 5 mg  | PO    | BD (1-0-1) | Lifelong |              |
++----+---------------------------+-------+-------+------------+----------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 28/08/2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

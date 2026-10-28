@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Shanti Hembram
+Age / Sex    : 67 yrs / Female
+UHID         : CDH8027444      IP No: IP/26/203536
+Admitted on  : 15/07/2026      Discharged on: 21/07/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+
+Brief History:
+  * 67/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 5 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 3 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 13,800/cumm; CRP 93 mg/L; CXR: consolidation left lower lobe; S. Cr 0.8 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 118/74 mmHg, PR 70/min, SpO2 97% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Ceftum 500 mg 1-0-1 after food x 5 days
+- Tab. Paracetamol 650 mg SOS for pain (max 3 doses/day)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradual increase in walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+    * Stop smoking and all forms of tobacco
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Haemoptysis (coughing out blood)
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 28/07/2026 (Tue); bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

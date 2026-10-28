@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Imran Kamble    Age: 48 years    Sex: Male
+UHID: CDH9692797    IP Number: IP/26/600509
+Date of admission: 9th February 2026    Date of discharge: 13th February 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis right foot
+
+HISTORY:
+  - 48/M, k/c/o T2DM x 11 yrs, presented with swelling, redness and pain over right foot x 8 days following a minor injury. RBS 408 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 13.1%; FBS 191 mg/dl; PPBS 300 mg/dl; S. Cr 0.9 mg/dl; Urine routine: sugar ++, ketones nil; Hb 11.7 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 114/72 mmHg, PR 82/min, SpO2 98% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 1000 mg twice daily after food until the next visit
+2. Tablet Vildagliptin 50 mg twice daily until the next visit
+3. Tablet Amoxicillin + Clavulanic acid 625 mg three times daily PC for 7 days
+4. Tablet Atorvastatin 20 mg once daily at bedtime to continue lifelong
+5. Tablet Paracetamol (Crocin) 650 mg only if needed (SOS) for fever or pain (max 3 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+
+REVIEW:
+  - Review with reports in DM clinic, Medicine OPD on 27th February 2026 (Fri). Please bring: FBS, PPBS.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

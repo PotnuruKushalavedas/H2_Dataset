@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Vandana Tiwari, 83/F  UHID: CDH3526527  IP: IP/26/947668
+DOA: 11/02/2026  DOD: 14/02/2026  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate (non-valvular)
+- Systemic hypertension
+
+H/o: 83/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 6 days. ECG: AF with FVR (HR 149/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 75/min at discharge.
+
+Ix: 2D Echo: LA dilated, no significant valvular disease, LVEF 61%, S. Cr 1.5 mg/dl, Hb 12.1 g/dl, TSH 2.7 mIU/L, Weight 56 kg, CrCl (Cockcroft-Gault) 25 ml/min, CHA2DS2-VASc score 4
+
+Condn at d/c: Stable, rate controlled. BP 110/72 mmHg, PR 75/min, SpO2 96% on RA.
+
+Rx on discharge:
+1) T. Concor 5 OD lifelong
+2) T. Xarelto 15 mg OD with dinner life long
+3) T. Telma 40 mg OD life long
+
+STOP Tab. Ecosprin 75 mg (since started on anticoagulant)
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Do not take painkillers from the chemist without doctor's advice
+  - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Review SOS if:
+- Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+- Sudden weakness of face, arm or leg, or slurred speech
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+- Breathlessness / difficulty in breathing
+
+F/U:
+- Cardiology OPD on 28/02/2026 - Review with reports with ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

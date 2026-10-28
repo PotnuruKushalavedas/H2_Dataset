@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sarita Menon                   Age/Sex  : 28 Y / F
+UHID       : CDH4708510                     IP No.   : IP/26/978405
+DOA        : 15/05/2026                     DOD      : 21/05/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+BRIEF HISTORY:
+  - 28/F, k/c/o T2DM x 8 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 40 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.14, HCO3 10 mEq/L | Urine ketones +++ | RBS at admission 219 mg/dl | HbA1c 10.9% | S. Cr 0.8 mg/dl | K 4.3 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 118/80 mmHg, PR 74/min, SpO2 98% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+--------+-------+-------------+------------------+---------------------+
+| No | Medicine                   | Dose   | Route | Frequency   | Duration         | Instructions        |
++----+----------------------------+--------+-------+-------------+------------------+---------------------+
+| 1  | Inj. Insulin Glargine      | 12 U   | SC    | OD (0-0-1)  | Till review      | at 10 PM            |
+| 2  | Inj. Human Regular Insulin | 4 U    | SC    | TDS (1-1-1) | Till next review | 30 min before meals |
+| 3  | Tab. Glycomet              | 500 mg | PO    | BD (1-0-1)  | Till next review | after food          |
++----+----------------------------+--------+-------+-------------+------------------+---------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Empagliflozin 10 mg (risk of ketoacidosis - do not restart)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Get S. Creatinine and electrolytes (Na, K) done on 25/05/2026 (Mon) (Central lab)
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 26/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

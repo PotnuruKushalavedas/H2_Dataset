@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Komal Tiwari                   Age/Sex  : 78 Y / F
+UHID       : CDH6639362                     IP No.   : IP/26/637300
+DOA        : 16/01/2026                     DOD      : 25/01/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 29%
+
+BRIEF HISTORY:
+  - 78/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 61 kg to 55 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 5831 pg/ml | S. Cr 1.6 mg/dl | Na 140 mEq/L | K 4.0 mEq/L | 2D Echo: LVEF 29%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 84/min, SpO2 99% on RA. Dry weight 55 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration    | Instructions |
++----+----------------------------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide                        | 40 mg  | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate (Seloken XL) | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Enalapril                         | 2.5 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone (Aldactone)        | 25 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin (Forxiga)           | 10 mg  | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Tab. Ecosprin                          | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 7  | Tab. Atorvastatin                      | 40 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+----------------------------------------+--------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Dilzem 30 mg (contraindicated in HFrEF)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 04/02/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Prakash Nair (Consultant)

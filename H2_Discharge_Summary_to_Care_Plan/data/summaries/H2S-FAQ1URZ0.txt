@@ -1,0 +1,69 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ashok Ghosh                    Age/Sex  : 75 Y / M
+UHID       : CDH4532741                     IP No.   : IP/26/554938
+DOA        : 22/02/2026                     DOD      : 27/02/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Lateral wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LCx
+
+BRIEF HISTORY:
+  - 75/M, smoker, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in I, aVL, V5-V6.
+
+HOSPITAL COURSE:
+  - Taken up for primary PCI on 23/02/2026: CAG showed 100% thrombotic occlusion of proximal LCx; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LCx (23/02/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 13.8 g/dl | S. Cr 0.7 mg/dl | K 3.9 mEq/L | LDL 112 mg/dl | 2D Echo: RWMA in LCx territory, LVEF 43%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/74 mmHg, PR 81/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+-------------+-------------------------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration    | Instructions                                                |
++----+---------------------------+--------+-------+------------+-------------+-------------------------------------------------------------+
+| 1  | Tab. Aspirin (Ecosprin)   | 75 mg  | PO    | OD (0-1-0) | Lifelong    | after lunch                                                 |
+| 2  | Tab. Ticagrelor           | 90 mg  | PO    | BD (1-0-1) | 1 year      |                                                             |
+| 3  | Tab. Rosuvastatin         | 20 mg  | PO    | HS (0-0-1) | Lifelong    |                                                             |
+| 4  | Tab. Bisoprolol (Concor)  | 2.5 mg | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 5  | Tab. Ramipril (Cardace)   | 5 mg   | PO    | OD (1-0-0) | Lifelong    |                                                             |
+| 6  | Tab. Rabeprazole (Razo)   | 20 mg  | PO    | OD (1-0-0) | Till review | 30 min before breakfast                                     |
+| 7  | Tab. Isosorbide Dinitrate | 5 mg   | SL    | SOS        | -           | for chest pain; SL for chest pain, repeat q5min, max 3 tabs |
++----+---------------------------+--------+-------+------------+-------------+-------------------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Clopidogrel 75 mg (replaced by Ticagrelor)
+
+ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 09/03/2026 (Mon); bring reports: ECG
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

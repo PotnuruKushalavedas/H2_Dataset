@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Hema D'Souza    Age: 54 years    Sex: Female
+UHID: CDH8199956    IP Number: IP/26/713880
+Date of admission: 21st June 2026    Date of discharge: 26th June 2026
+Under the care of: Dr. Imran Qureshi, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+HISTORY:
+  - 54/F, h/o long-term chulha smoke exposure, k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+RELEVANT INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 54 mmHg; CXR: hyperinflated lung fields, no consolidation; TLC 14,100/cumm; RBS 117 mg/dl; ECG: sinus rhythm
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness mMRC grade 2. BP 110/74 mmHg, PR 79/min, SpO2 93% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Rotacap Tiotropium 18 mcg 1 rotacap once daily in the morning to continue lifelong (via rotahaler)
+2. Inhaler Budesonide + Formoterol (6/200 mcg) 2 puffs twice daily lifelong (via spacer; rinse mouth after use)
+3. Inhaler Salbutamol (100 mcg) 2 puffs only if needed (SOS) for breathlessness / wheeze (max 8 puffs/day)
+4. Tablet Prednisolone 40 mg once daily in the morning after breakfast for 5 days
+5. Tablet Azithromycin 500 mg once daily in the morning for 3 days
+6. Tablet Pantoprazole (Pantocid) 40 mg once daily in the morning 30 min before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Physical activity:
+    - Pursed-lip breathing and daily walking as tolerated
+    - No exposure to biomass (chulha) smoke / dust
+  Other instructions:
+    - Inhaler technique taught; to use with spacer
+    - Influenza and pneumococcal vaccination advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+REVIEW:
+  - Review with reports in Pulmonary Medicine (Chest) OPD on 6th July 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Imran Qureshi (Consultant)

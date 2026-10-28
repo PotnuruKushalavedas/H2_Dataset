@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Sanjay Krishnan    Age: 54 years    Sex: Male
+UHID: CDH5794530    IP Number: IP/26/335844
+Date of admission: 13 Jan 2026    Date of discharge: 19 Jan 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+HISTORY:
+  - 54/M, k/c/o T2DM x 6 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: missed medicines.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 34 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.16, HCO3 8 mEq/L; Urine ketones +++; RBS at admission 549 mg/dl; HbA1c 10.9%; S. Cr 1.1 mg/dl; K 4.3 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 130/78 mmHg, PR 85/min, SpO2 98% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 14 U SC once daily at bedtime until the next visit
+2. Injection Insulin Regular (Human) (Huminsulin R) 4 U SC three times daily ½ hr before meals till the next review
+3. Tablet Metformin 500 mg twice daily PC until the next visit
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Oral fluids 2-3 L/day
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+REVIEW:
+  - S. Creatinine and electrolytes (Na, K) on 23 Jan 2026 at Hospital laboratory
+  - Review with sugar chart in Diabetes Clinic (Medicine OPD) on 27 Jan 2026 (Tue).
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Anil Bhosale (Consultant)

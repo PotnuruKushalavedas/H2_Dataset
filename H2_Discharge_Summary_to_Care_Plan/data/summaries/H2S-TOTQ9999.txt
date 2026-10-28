@@ -1,0 +1,56 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Priya Sharma    Age: 55 years    Sex: Female
+UHID: CDH1510390    IP Number: IP/26/963319
+Date of admission: 13 Jul 2026    Date of discharge: 17 Jul 2026
+Under the care of: Dr. S. K. Mishra, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Hypothyroidism
+
+HISTORY:
+  - 55/F, k/c/o T2DM x 12 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 475 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 13.1%; FBS 278 mg/dl; PPBS 392 mg/dl; S. Cr 0.8 mg/dl; Urine routine: pus cells plenty; Hb 11.2 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 124/70 mmHg, PR 79/min, SpO2 97% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 1000 mg twice daily after food to continue lifelong
+2. Tablet Glimepiride (Amaryl) 2 mg once daily in the morning 30 min before breakfast till the next review
+3. Injection Insulin Glargine (Basalog) 8 IU SC once daily at bedtime till the next review
+4. Tablet Cefixime 200 mg twice daily after food for 5 days
+5. Tablet Atorvastatin 10 mg once daily at bedtime to continue lifelong
+Continue previous medications for hypothyroidism as before.
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - High fever with chills
+  - Burning micturition / pain while passing urine
+  - Blood sugar above 300 mg/dl on two readings
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+REVIEW:
+  - Review with reports in Medicine OPD on 24 Jul 2026. Please bring: FBS, PPBS, Urine routine.
+  - Review with HbA1c in Diabetes Clinic (Medicine OPD) on 09 Oct 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. S. K. Mishra (Consultant)

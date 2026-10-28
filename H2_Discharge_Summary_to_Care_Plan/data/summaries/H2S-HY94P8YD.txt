@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ravi Jat                       Age/Sex  : 45 Y / M
+UHID       : CDH4740366                     IP No.   : IP/26/579648
+DOA        : 31/05/2026                     DOD      : 03/06/2026
+Consultant : Dr. Anil Bhosale, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+BRIEF HISTORY:
+  - 45/M, k/c/o T2DM x 17 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.2%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.2% | FBS 211 mg/dl | PPBS 293 mg/dl | S. Cr 1.0 mg/dl | Urine microalbumin 30 mg/g | Fundus: mild NPDR
+
+CONDITION AT DISCHARGE: Stable. BP 118/70 mmHg, PR 76/min, SpO2 99% on RA. Pre-meal sugars 152-171 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------------------+-----------+-------+------------+-------------+------------------------------------+
+| No | Medicine                                           | Dose      | Route | Frequency  | Duration    | Instructions                       |
++----+----------------------------------------------------+-----------+-------+------------+-------------+------------------------------------+
+| 1  | Inj. Human Premix Insulin 30/70 (Huminsulin 30/70) | 18-0-10 U | SC    | BD         | Till review | 30 min before breakfast and dinner |
+| 2  | Tab. Metformin                                     | 1000 mg   | PO    | BD (1-0-1) | Lifelong    | after food                         |
+| 3  | Tab. Atorvastatin                                  | 10 mg     | PO    | HS (0-0-1) | Lifelong    |                                    |
++----+----------------------------------------------------+-----------+-------+------------+-------------+------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg (since started on insulin)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Always carry sugar or glucose with you
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 10/06/2026 (Wed)
+  - Review with HbA1c - Diabetes Clinic (Medicine OPD) on 26/08/2026; bring reports: S. Creatinine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Anil Bhosale (Consultant)

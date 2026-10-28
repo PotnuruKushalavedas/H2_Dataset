@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Parvati Gowda, 57/F  UHID: CDH3120100  IP: IP/26/238311
+DOA: 24/07/2026  DOD: 01/08/2026  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 36%
+
+H/o: 57/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 9 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 2.5 L; weight down from 50 kg to 47 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 9684 pg/ml, S. Cr 0.8 mg/dl, Na 137 mEq/L, K 4.7 mEq/L, 2D Echo: LVEF 36%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 77/min, SpO2 99% on RA. Dry weight 47 kg.
+
+Rx on discharge:
+1) T. Lasix 40 BD till next review
+2) T. Met XL 25 mg OD life long
+3) T. Cardace 2.5 mg OD lifelong
+4) T. Aldactone 25 OD lifelong
+5) T. Forxiga 10 mg OD life long
+6) T. Ecosprin 75 OD after lunch life long
+7) T. Storvas 40 mg HS life long
+
+STOP Tab. Dilzem 30 mg (contraindicated in HFrEF)
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Weight gain of more than 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing swelling of feet or legs
+- Urine output markedly reduced
+- Giddiness, fainting or loss of consciousness
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Heart Failure Clinic, Cardiology OPD on 11/08/2026 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 30/10/2026 - 2D Echo + review
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

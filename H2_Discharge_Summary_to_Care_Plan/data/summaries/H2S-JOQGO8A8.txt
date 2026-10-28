@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Savita Sharma, 60/F  UHID: CDH6852269  IP: IP/26/468671
+DOA: 25-Jun-26  DOD: 29-Jun-26  Cons: Dr. S. K. Mishra (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Acute pyelonephritis (UTI)
+
+H/o: 60/F, k/c/o T2DM x 12 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 3 days. RBS at admission 405 mg/dl.
+
+Course: Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Ix: HbA1c 11.0%, FBS 211 mg/dl, PPBS 300 mg/dl, S. Cr 0.7 mg/dl, Urine routine: pus cells plenty, Hb 12.2 g/dl
+
+Condn at d/c: Afebrile, stable. BP 114/78 mmHg, PR 81/min, SpO2 99% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Metformin 500 mg BD after food till next review
+2) T. Amaryl 1 OD 30 min before breakfast till next review
+3) T. Zifi 200 mg BD after food x 7 days
+4) T. Calpol 650 mg SOS for fever / pain (max 4 doses/day)
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - SMBG - FBS & PPBS twice weekly, maintain diary
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+  - Always carry sugar or glucose with you
+
+Review SOS if:
+- High fever with chills
+- Burning micturition / pain while passing urine
+- Blood sugar above 300 mg/dl on two readings
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+F/U:
+- Gen. Medicine OPD on 13-Jul-26 - Review with reports with FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. S. K. Mishra (Consultant)

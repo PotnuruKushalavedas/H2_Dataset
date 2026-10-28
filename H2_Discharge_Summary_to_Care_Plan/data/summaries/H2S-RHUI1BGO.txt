@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Lakshmi Ghosh                  Age/Sex  : 35 Y / F
+UHID       : CDH3802671                     IP No.   : IP/26/732498
+DOA        : 07/05/2026                     DOD      : 13/05/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Systemic hypertension
+
+BRIEF HISTORY:
+  - 35/F, k/c/o T2DM x 1 yr on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: acute gastroenteritis.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 30 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.15, HCO3 13 mEq/L | Urine ketones +++ | RBS at admission 445 mg/dl | HbA1c 12.4% | S. Cr 0.9 mg/dl | K 3.9 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 126/70 mmHg, PR 82/min, SpO2 96% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------+---------+-------+------------+------------------+---------------------+
+| No | Medicine              | Dose    | Route | Frequency  | Duration         | Instructions        |
++----+-----------------------+---------+-------+------------+------------------+---------------------+
+| 1  | Inj. Insulin Glargine | 12 U    | SC    | OD (0-0-1) | Till next review | at 10 PM            |
+| 2  | Inj. Huminsulin R     | 4-4-4 U | SC    | TDS        | Till review      | 30 min before meals |
++----+-----------------------+---------+-------+------------+------------------+---------------------+
+  To continue other previous medicines for HTN as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 20/05/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. R. Venkatesh (Consultant)

@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Pushpa Tiwari
+Age / Sex    : 45 yrs / Female
+UHID         : CDH4959297      IP No: IP/26/371409
+Admitted on  : 06/05/2026      Discharged on: 11/05/2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis left foot
+
+Brief History:
+  * 45/F, k/c/o T2DM x 15 yrs, presented with swelling, redness and pain over left foot x 5 days following a minor injury. RBS 345 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 13.3%; FBS 251 mg/dl; PPBS 367 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.4 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 118/74 mmHg, PR 67/min, SpO2 97% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 500 mg 1-0-1 PC till review
+- Tab. Empagliflozin 10 mg 1-0-0 after breakfast till review
+- Tab. Amoxicillin + Clavulanic acid 625 mg 1-1-1 PC x 5 days
+- Tab. Atorvastatin 10 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Paracetamol 650 mg SOS for pain (not more than 4 doses in 24 h)
+
+- STOP Tab. Glimepiride 2 mg (hypoglycaemia risk)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+Danger signs - report to Casualty immediately:
+  * Wound site redness / swelling / pus or discharge
+  * Fever > 100.4 F (38 C)
+  * Sugar > 300 mg/dl on 2 readings
+
+Follow-up:
+  * Review with reports - Diabetes Clinic (Medicine OPD) on 21/05/2026; bring reports: FBS, PPBS
+  * Review with HbA1c - DM clinic, Medicine OPD on 10/08/2026 (Mon)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. R. Venkatesh (Consultant)

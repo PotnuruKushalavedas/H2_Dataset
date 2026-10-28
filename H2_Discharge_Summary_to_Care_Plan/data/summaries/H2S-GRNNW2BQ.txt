@@ -1,0 +1,71 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ayesha Shaikh                  Age/Sex  : 20 Y / F
+UHID       : CDH5792614                     IP No.   : IP/26/252750
+DOA        : 25/05/2026                     DOD      : 28/05/2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G1P1L1, Emergency LSCS for non-progress of labour on 25/05/2026
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 20/F, Primigravida at 38 wks GA, admitted in labour.
+
+HOSPITAL COURSE:
+  - Emergency LSCS under SA on 25/05/2026 for non-progress of labour. Received Inj. Cefazolin 2 g IV prophylaxis and Inj. Oxytocin. Delivered a live baby girl, 2.79 kg, APGAR 9/10. Post-op period uneventful; breastfeeding established.
+
+PROCEDURE(S) DONE:
+  - Emergency LSCS under SA (25/05/2026)
+
+KEY INVESTIGATIONS:
+  - Hb (post-op) 11.3 g/dl | Blood group O +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, uterus well contracted. BP 130/74 mmHg, PR 74/min, SpO2 98% on RA. Baby: healthy.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+--------+-------+-------------+----------+-----------------------+
+| No | Medicine                            | Dose   | Route | Frequency   | Duration | Instructions          |
++----+-------------------------------------+--------+-------+-------------+----------+-----------------------+
+| 1  | Tab. Cefuroxime (Ceftum)            | 500 mg | PO    | BD (1-0-1)  | 5 days   | after food            |
+| 2  | Tab. Paracetamol (Calpol)           | 650 mg | PO    | TDS (1-1-1) | 5 days   | PC                    |
+| 3  | Tab. Rabeprazole                    | 20 mg  | PO    | OD (1-0-0)  | 5 days   | ½ hr before breakfast |
+| 4  | Tab. Iron + Folic acid (IFA)        | 1 tab  | PO    | OD (0-0-1)  | 6 months | after dinner          |
+| 5  | Tab. Calcium + Vitamin D3 (Shelcal) | 500 mg | PO    | BD (1-1-0)  | 6 months | after food            |
+| 6  | Syp. Lactulose (Duphalac)           | 15 ml  | PO    | HS (0-0-1)  | 7 days   |                       |
++----+-------------------------------------+--------+-------+-------------+----------+-----------------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Walk around the house several times a day
+    - Avoid lifting weight > 5 kg x 6 weeks
+  Wound care:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Baby's immunisation as per the card given
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever above 100.4 F (38 C)
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Painful, red, hard swelling of the breast with fever
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Feeling low or hopeless most of the time, unable to sleep, or thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Wound check - Obstetrics & Gynaecology OPD on 02/06/2026 (POD 8)
+  - Postnatal check-up (6 weeks) - OBG OPD on 06/07/2026 (Mon); bring reports: Hb
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Nirmala Joshi (Consultant)

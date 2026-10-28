@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Asha Hegde, 34/F  UHID: CDH3200278  IP: IP/26/657953
+DOA: 06-Jun-26  DOD: 12-Jun-26  Cons: Dr. S. K. Mishra (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 34/F, k/c/o T2DM x 1 yr on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 24 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.13, HCO3 9 mEq/L, Urine ketones +++, RBS at admission 263 mg/dl, HbA1c 13.6%, S. Cr 0.9 mg/dl, K 4.4 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 118/72 mmHg, PR 83/min, SpO2 96% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Basalog 16 U SC HS till review
+2) Inj. NovoRapid 6 U SC TDS 0-15 min before meals till review
+
+STOP Tab. Forxiga 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  - Oral fluids 2-3 L/day
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+- Vomiting, pain in abdomen, fast breathing or drowsiness
+
+F/U:
+- Get RFT + S. electrolytes done on 16-Jun-26 (Tue) (Hospital laboratory)
+- DM clinic, Medicine OPD on 19-Jun-26 (Fri) - Review with sugar chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

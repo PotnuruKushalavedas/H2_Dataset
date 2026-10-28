@@ -1,0 +1,51 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Divya Iyer                     Age/Sex  : 50 Y / F
+UHID       : CDH2345526                     IP No.   : IP/26/479595
+DOA        : 08 Aug 2026                    DOD      : 12 Aug 2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 50/F, k/c/o T2DM x 9 yrs, stopped medicines 3 months ago, presented with polyuria, polydipsia, generalised weakness x 13 days. RBS 490 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.6% | FBS 193 mg/dl | PPBS 293 mg/dl | S. Cr 0.9 mg/dl | Urine routine: sugar ++, ketones nil | Hb 11.4 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/76 mmHg, PR 86/min, SpO2 99% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-------------------+--------+-------+------------+-------------+--------------+
+| No | Medicine          | Dose   | Route | Frequency  | Duration    | Instructions |
++----+-------------------+--------+-------+------------+-------------+--------------+
+| 1  | Tab. Metformin    | 500 mg | PO    | BD (1-0-1) | Lifelong    | after food   |
+| 2  | Tab. Istavel      | 100 mg | PO    | OD (1-0-0) | Till review |              |
+| 3  | Tab. Atorvastatin | 20 mg  | PO    | HS (0-0-1) | Lifelong    |              |
++----+-------------------+--------+-------+------------+-------------+--------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - Diabetes Clinic (Medicine OPD) on 19 Aug 2026; bring reports: FBS, PPBS
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

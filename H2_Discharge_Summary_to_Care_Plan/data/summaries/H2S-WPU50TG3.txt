@@ -1,0 +1,46 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Rani Meena | 72 Y/F | UHID CDH5332796 | IP IP/26/736558
+DOA - 10/08/2026 | DOD - 16/08/2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 72/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 141/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 92/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 60% | S. Cr 1.0 mg/dl | Hb 12.9 g/dl | TSH 2.8 mIU/L | Weight 48 kg | INR at discharge 2.2 | CrCl (Cockcroft-Gault) 38 ml/min | CHA2DS2-VASc score 3
+
+Status at discharge - Stable, rate controlled. BP 124/80 mmHg, PR 90/min, SpO2 98% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Metoprolol Succinate (Met XL) 25 mg PO OD lifelong
+• Tab. Acenocoumarol 1 mg PO OD after dinner till next visit (dose as per INR)
+• Tab. Telmisartan 40 mg PO OD life long
+
+Instructions -
+  Diet:
+    • Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Do not take painkillers from the chemist without doctor's advice
+    • No self-adjustment of anticoagulant dose; consult before any new drug
+
+Report immediately to Casualty in case of -
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Sudden weakness of face / arm / leg or slurring of speech
+  • Palpitations - fast / irregular heart beat
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness / difficulty in breathing
+
+Follow up -
+  • Get PT/INR check done on 20/08/2026 (Thu) (Hospital laboratory)
+  • Review with reports - Cardiology OPD on 07/09/2026; bring reports: ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

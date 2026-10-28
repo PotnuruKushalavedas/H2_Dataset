@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Ashok Hembram, 61/M  UHID: CDH2385272  IP: IP/26/317710
+DOA: 04-Jan-26  DOD: 10-Jan-26  Cons: Dr. Farah Siddiqui (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 61/M, k/c/o T2DM x 1 yr on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: acute gastroenteritis.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 43 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.18, HCO3 7 mEq/L, Urine ketones +++, RBS at admission 213 mg/dl, HbA1c 11.4%, S. Cr 0.8 mg/dl, K 4.5 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 110/70 mmHg, PR 78/min, SpO2 97% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Basalog 16 IU SC OD at 10 PM till next review
+2) Inj. Actrapid 6 IU SC TDS 30 min before meals till next review
+3) T. Glyciphage 500 mg BD PC till review
+
+STOP Tab. Jardiance 10 mg (risk of ketoacidosis - do not restart)
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  - Oral fluids 2-3 L/day
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+  - Always carry sugar or glucose with you
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+- Vomiting / pain abdomen / rapid breathing / drowsiness
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 17-Jan-26 - Review with sugar chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Farah Siddiqui (Consultant)

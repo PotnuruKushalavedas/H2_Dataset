@@ -1,0 +1,63 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Radha Meena                    Age/Sex  : 46 Y / F
+UHID       : CDH6528361                     IP No.   : IP/26/221210
+DOA        : 21/06/2026                     DOD      : 30/06/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 38%
+
+BRIEF HISTORY:
+  - 46/F, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 80 kg to 76 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 9138 pg/ml | S. Cr 0.8 mg/dl | Na 140 mEq/L | K 4.0 mEq/L | 2D Echo: LVEF 38%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 104/68 mmHg, PR 83/min, SpO2 96% on RA. Dry weight 76 kg.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+---------+-------+------------+------------------+--------------+
+| No | Medicine                           | Dose    | Route | Frequency  | Duration         | Instructions |
++----+------------------------------------+---------+-------+------------+------------------+--------------+
+| 1  | Tab. Furosemide                    | 40 mg   | PO    | BD (1-1-0) | Till next review |              |
+| 2  | Tab. Metoprolol Succinate (Met XL) | 12.5 mg | PO    | OD (1-0-0) | Lifelong         |              |
+| 3  | Tab. Ramipril (Cardace)            | 2.5 mg  | PO    | OD (1-0-0) | Lifelong         |              |
+| 4  | Tab. Spironolactone                | 25 mg   | PO    | OD (1-0-0) | Lifelong         |              |
+| 5  | Tab. Dapagliflozin (Forxiga)       | 10 mg   | PO    | OD (1-0-0) | Lifelong         |              |
++----+------------------------------------+---------+-------+------------+------------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (not safe with heart disease)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 07/07/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 28/09/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. H. S. Grewal (Consultant)

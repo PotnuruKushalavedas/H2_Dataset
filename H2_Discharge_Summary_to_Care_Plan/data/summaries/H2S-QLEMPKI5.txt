@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sneha Bora                     Age/Sex  : 21 Y / F
+UHID       : CDH6501172                     IP No.   : IP/26/169963
+DOA        : 05/03/2026                     DOD      : 07/03/2026
+Consultant : Dr. Pooja Mehra, MS (OBG)      Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, FTNVD with RMLE on 05/03/2026
+
+BRIEF HISTORY:
+  - 21/F, G2P1L1 at 40 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 2.71 kg, APGAR 8/10, on 05/03/2026. Episiotomy (RMLE) sutured. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 10.9 g/dl | Blood group A +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 110/72 mmHg, PR 73/min, SpO2 96% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------+
+| No | Medicine                                   | Dose   | Route | Frequency  | Duration | Instructions                       |
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------+
+| 1  | Tab. IFA (Iron 60 mg + Folic acid 500 mcg) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                       |
+| 2  | Tab. Calcium carbonate + Vit D3            | 500 mg | PO    | BD (1-1-0) | 6 months | after food                         |
+| 3  | Tab. Paracetamol (Crocin)                  | 650 mg | PO    | SOS        | -        | for fever or pain; max 3 doses/day |
++----+--------------------------------------------+--------+-------+------------+----------+------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+    - Warm sitz bath BD x 1 week
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Immunisation of baby as per schedule card
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Foul-smelling vaginal discharge
+  - Fever > 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache / blurred vision / epigastric pain
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+
+FOLLOW-UP:
+  - PNC visit at 6 weeks - Obstetrics & Gynaecology OPD on 16/04/2026; bring reports: Hb
+  - Baby's 6-week vaccines - Immunisation clinic (Paediatrics) on 16/04/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Pooja Mehra (Consultant)

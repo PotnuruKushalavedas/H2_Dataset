@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Hemant Dhillon, 58/M  UHID: CDH3323288  IP: IP/26/624256
+DOA: 12-Sep-26  DOD: 17-Sep-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Dilated cardiomyopathy, LVEF 22%
+
+H/o: 58/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5 L; weight down from 84 kg to 79 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 7801 pg/ml, S. Cr 0.9 mg/dl, Na 139 mEq/L, K 4.8 mEq/L, 2D Echo: LVEF 22%, global hypokinesia, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 80/min, SpO2 97% on RA. Dry weight 79 kg.
+
+Rx on discharge:
+1) T. Lasix 40 OD till review
+2) T. Seloken XL 25 mg OD life long
+3) T. Cardace 2.5 OD life long
+4) T. Jardiance 10 mg OD lifelong
+
+STOP Tab. Diltiazem 30 mg (contraindicated in HFrEF)
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Marked decrease in urine output
+- Giddiness / fainting / LOC
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Heart Failure Clinic, Cardiology OPD on 24-Sep-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 16-Dec-26 - 2D Echo + review
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

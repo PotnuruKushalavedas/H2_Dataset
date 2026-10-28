@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ramesh Joshi                   Age/Sex  : 70 Y / M
+UHID       : CDH6627185                     IP No.   : IP/26/325227
+DOA        : 20/02/2026                     DOD      : 26/02/2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+BRIEF HISTORY:
+  - 70/M, chronic smoker (33 pack-yrs), k/c/o COPD x 8 yrs, presented with increased breathlessness, cough with purulent sputum x 6 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.34, pCO2 58 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 13,100/cumm | RBS 154 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 3. BP 114/72 mmHg, PR 69/min, SpO2 94% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+| No | Medicine                                 | Dose           | Route | Frequency  | Duration | Instructions                                  |
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+| 1  | Rotacap Tiotropium                       | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | with rotahaler device                         |
+| 2  | Inh. Budesonide + Formoterol (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | with spacer; rinse mouth after use            |
+| 3  | Inh. Salbutamol (100 mcg)                | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; max 8 puffs/day |
+| 4  | Tab. Prednisolone                        | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                               |
+| 5  | Tab. Azithromycin (Azithral)             | 500 mg         | PO    | OD (1-0-0) | 3 days   |                                               |
++----+------------------------------------------+----------------+-------+------------+----------+-----------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed-lip breathing and daily walking as tolerated
+  Other:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever > 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+FOLLOW-UP:
+  - Review with reports - Pulmonary Medicine (Chest) OPD on 12/03/2026 (Thu)
+  - PFT / spirometry - Pulmonary Medicine (Chest) OPD on 02/04/2026 (Thu)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Kavita Deshmukh (Consultant)

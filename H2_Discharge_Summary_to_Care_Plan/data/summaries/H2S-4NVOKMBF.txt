@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mary Bhatt                     Age/Sex  : 28 Y / F
+UHID       : CDH4391638                     IP No.   : IP/26/129273
+DOA        : 14/01/2026                     DOD      : 16/01/2026
+Consultant : Dr. Shabnam Ansari, MS (OBG)   Unit     : OBG Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. G2P2L2, FTNVD with RMLE on 14/01/2026
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 28/F, G2P1L1 at 38 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby boy, 2.72 kg, APGAR 8/9, on 14/01/2026. Episiotomy (RMLE) sutured. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 10.2 g/dl | Blood group A +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 124/72 mmHg, PR 87/min, SpO2 96% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------+--------+-------+------------+----------+---------------------------+
+| No | Medicine                     | Dose   | Route | Frequency  | Duration | Instructions              |
++----+------------------------------+--------+-------+------------+----------+---------------------------+
+| 1  | Tab. Iron + Folic acid (IFA) | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner              |
+| 2  | Tab. Calcium + Vitamin D3    | 500 mg | PO    | BD (1-1-0) | 6 months | PC                        |
+| 3  | Tab. Paracetamol (Dolo)      | 650 mg | PO    | SOS        | -        | for pain; max 3 doses/day |
++----+------------------------------+--------+-------+------------+----------+---------------------------+
+  Continue previous medications for hypothyroidism as before.
+
+ADVICE:
+  Diet:
+    - Nutritious diet with 1 extra meal a day - green leafy vegetables, milk, dal; plenty of fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest - only light household work x 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+    - Warm sitz bath BD x 1 week
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Immunisation of baby as per schedule card
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Foul-smelling vaginal discharge
+  - Fever above 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - OBG OPD on 27/02/2026; bring reports: Hb
+  - Infant immunisation - 6 week dose - Immunisation clinic (Paediatrics) on 27/02/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. Shabnam Ansari (Consultant)

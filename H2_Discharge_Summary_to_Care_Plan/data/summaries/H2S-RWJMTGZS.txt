@@ -1,0 +1,45 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Harpreet Sharma | 76 Y/M | UHID CDH8071701 | IP IP/26/675879
+DOA - 01/03/2026 | DOD - 06/03/2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 76/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 6 days. ECG: AF with FVR (HR 157/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 72/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 56% | S. Cr 1.1 mg/dl | Hb 13.2 g/dl | TSH 2.5 mIU/L | Weight 69 kg | CrCl (Cockcroft-Gault) 55 ml/min | CHA2DS2-VASc score 3
+
+Status at discharge - Stable, rate controlled. BP 120/74 mmHg, PR 76/min, SpO2 99% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Diltiazem 30 mg PO TDS till next visit
+• Tab. Apixaban (Eliquis) 5 mg PO BD life long
+• Tab. Telma 40 mg PO OD lifelong
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Avoid OTC painkillers (NSAIDs) without medical advice
+    • Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Report immediately to Casualty in case of -
+  • Any bleeding - gums, urine, black or red stools, vomiting blood
+  • Sudden weakness of face / arm / leg or slurring of speech
+  • Palpitations - fast / irregular heart beat
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • Review with reports - Cardiology OPD on 20/03/2026 (Fri); bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rukhsana Shetty                Age/Sex  : 74 Y / F
+UHID       : CDH1496442                     IP No.   : IP/26/724408
+DOA        : 25/05/2026                     DOD      : 01/06/2026
+Consultant : Dr. Prakash Nair, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Ischaemic cardiomyopathy, LVEF 37%
+
+BRIEF HISTORY:
+  - 74/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 12 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 6.5 L; weight down from 50 kg to 44 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 5110 pg/ml | S. Cr 1.2 mg/dl | Na 135 mEq/L | K 4.9 mEq/L | 2D Echo: LVEF 37%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 82/min, SpO2 98% on RA. Dry weight 44 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+---------+-------+------------+-------------+--------------+
+| No | Medicine                               | Dose    | Route | Frequency  | Duration    | Instructions |
++----+----------------------------------------+---------+-------+------------+-------------+--------------+
+| 1  | Tab. Furosemide (Lasix)                | 40 mg   | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Metoprolol Succinate ER           | 12.5 mg | PO    | OD (1-0-0) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Dapagliflozin                     | 10 mg   | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Aspirin (Ecosprin)                | 75 mg   | PO    | OD (0-1-0) | Lifelong    | after lunch  |
+| 6  | Tab. Atorvastatin (Storvas)            | 40 mg   | PO    | HS (0-0-1) | Lifelong    |              |
++----+----------------------------------------+---------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Do not take painkillers from the chemist without doctor's advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 11/06/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Prakash Nair (Consultant)

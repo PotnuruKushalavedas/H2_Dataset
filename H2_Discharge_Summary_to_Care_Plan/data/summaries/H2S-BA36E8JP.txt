@@ -1,0 +1,66 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vandana Rajput                 Age/Sex  : 81 Y / F
+UHID       : CDH2355752                     IP No.   : IP/26/815447
+DOA        : 03/06/2026                     DOD      : 07/06/2026
+Consultant : Dr. Ravi Teja, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Intertrochanteric fracture left femur
+  - 2. s/p Closed reduction and PFN fixation (04/06/2026)
+  - 3. Primary open-angle glaucoma
+
+BRIEF HISTORY:
+  - 81/F, h/o trivial fall at home; unable to bear weight on left lower limb since then.
+
+HOSPITAL COURSE:
+  - Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 04/06/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - Closed reduction and internal fixation with PFN under SA (04/06/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.8 g/dl | S. Cr 0.7 mg/dl | Weight 49 kg | Post-op X-ray: fracture fixed in good alignment | RBS 95 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 110/74 mmHg, PR 69/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| No | Medicine                            | Dose      | Route | Frequency   | Duration | Instructions                                    |
++----+-------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| 1  | Inj. Enoxaparin                     | 40 mg     | SC    | OD (1-0-0)  | 28 days  | SC over abdomen                                 |
+| 2  | Tab. Paracetamol (Calpol)           | 650 mg    | PO    | TDS (1-1-1) | 2 weeks  | PC                                              |
+| 3  | Cap. Tramadol                       | 50 mg     | PO    | SOS         | -        | for severe pain; max 2 doses/day                |
+| 4  | Tab. Shelcal                        | 500 mg    | PO    | BD (1-1-0)  | 3 months | PC                                              |
+| 5  | Sachet Vitamin D3 (Cholecalciferol) | 60,000 IU | PO    | 1/week      | 8 weeks  | on the same day each week; with a glass of milk |
+| 6  | Syp. Lactulose (Duphalac)           | 15 mL     | PO    | HS (0-0-1)  | 2 weeks  |                                                 |
+| 7  | Tab. Pantocid                       | 40 mg     | PO    | OD (1-0-0)  | 2 weeks  | 30 min before breakfast                         |
+| 8  | E/D Timolol 0.5%                    | 1 drop    | Eye   | BD (1-0-1)  | Lifelong | both eyes                                       |
++----+-------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / paneer - for healing
+  Activity:
+    - Walker-assisted mobilisation - PWB (toe touch) on operated limb
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Fall precautions: night lamp, no loose mats, walk with support
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Pain in the calf or swelling of the leg (possible DVT - clot in leg vein)
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+  - Breathlessness or difficulty in breathing
+  - Numbness, tingling, bluish colour or severe swelling of the operated leg
+
+FOLLOW-UP:
+  - Suture removal - Ortho OPD on 16/06/2026 (Tue) (POD 12)
+  - Review with check X-ray - Ortho OPD on 20/07/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Ravi Teja (Consultant)

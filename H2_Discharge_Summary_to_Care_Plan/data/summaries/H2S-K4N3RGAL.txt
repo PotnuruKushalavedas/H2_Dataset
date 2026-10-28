@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rakesh Murmu                   Age/Sex  : 68 Y / M
+UHID       : CDH1421572                     IP No.   : IP/26/199708
+DOA        : 14/09/2026                     DOD      : 19/09/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 34%
+
+BRIEF HISTORY:
+  - 68/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 61 kg to 56 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 5830 pg/ml | S. Cr 0.9 mg/dl | Na 137 mEq/L | K 4.7 mEq/L | 2D Echo: LVEF 34%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 87/min, SpO2 99% on RA. Dry weight 56 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine                               | Dose     | Route | Frequency  | Duration    | Instructions |
++----+----------------------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Tab. Frusemide                         | 40 mg    | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol (Cardivas)             | 3.125 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg    | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Aldactone 25 mg                   | ½ tab    | PO    | OD (½-0-0) | Lifelong    |              |
+| 5  | Tab. Dapagliflozin (Forxiga)           | 10 mg    | PO    | OD (1-0-0) | Lifelong    |              |
++----+----------------------------------------+----------+-------+------------+-------------+--------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradual increase in walking as tolerated
+  Other:
+    - Daily morning weight - maintain record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 29/09/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,63 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Satish Dhillon
+Age / Sex    : 78 yrs / Male
+UHID         : CDH5399744      IP No: IP/26/384653
+Admitted on  : 05.05.2026      Discharged on: 09.05.2026
+Consultant   : Dr. Meenakshi Rao, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute coronary syndrome - Anterior wall STEMI
+  * CAD - SVD; s/p primary PCI with 1 DES to LAD
+  * Systemic hypertension
+
+Brief History:
+  * 78/M, smoker, presented with retrosternal chest pain with sweating x 6 hrs. ECG: ST elevation in V1-V5.
+
+Course in Hospital:
+  * Taken up for primary PCI on 06.05.2026: CAG showed 95% thrombotic occlusion of proximal LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+Procedure:
+  * CAG + PCI with 1 DES to LAD (06.05.2026)
+
+Investigations:
+  * Hb 14.1 g/dl; S. Cr 1.6 mg/dl; K 4.3 mEq/L; LDL 129 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 54%
+
+Condition at Discharge: Chest pain free, haemodynamically stable. BP 120/78 mmHg, PR 75/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+Medications at Discharge:
+- Tab. Aspirin 75 mg 0-1-0 after lunch lifelong
+- Tab. Clopitab 75 mg 1-0-0 x 12 months
+- Tab. Rosuvastatin 20 mg 0-0-1 (HS) long term (lifelong)
+- Tab. Metoprolol Succinate ER 25 mg 1-0-0 lifelong
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 3 months
+- Tab. Isosorbide Dinitrate 5 mg SL SOS for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+- Tab. Losartan 50 mg 1-0-0 long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * No driving for 1 week
+  General:
+    * Stop smoking and all forms of tobacco
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    * For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+Danger signs - report to Casualty immediately:
+  * Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  * Breathlessness / difficulty in breathing
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Palpitations - fast / irregular heart beat
+  * Giddiness / fainting / LOC
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 19.05.2026; bring reports: ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Revathi Ansari    Age: 41 years    Sex: Female
+UHID: CDH2976513    IP Number: IP/26/967915
+Date of admission: 02 Feb 2026    Date of discharge: 06 Feb 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+  - 3. Systemic hypertension
+
+HISTORY:
+  - 41/F, k/c/o T2DM x 8 yrs, presented with swelling, redness and pain over left foot x 4 days following a minor injury. RBS 427 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.2%; FBS 228 mg/dl; PPBS 279 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 13.3 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 118/70 mmHg, PR 78/min, SpO2 98% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 1000 mg twice daily PC to continue lifelong
+2. Tablet Sitagliptin (Januvia) 100 mg once daily in the morning till the next review
+3. Tablet Amoxicillin + Clavulanic acid 625 mg three times daily PC for 5 days
+4. Tablet Atorvastatin 20 mg once daily at bedtime to continue lifelong
+5. Tablet Paracetamol 650 mg only if needed (SOS) for pain (not more than 3 doses in 24 h)
+Continue previous medications for HTN as before.
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+
+REVIEW:
+  - Review with reports in Medicine OPD on 13 Feb 2026. Please bring: FBS, PPBS.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

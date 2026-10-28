@@ -1,0 +1,49 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Krishna Kulkarni | 47 Y/M | UHID CDH8985479 | IP IP/26/993060
+DOA - 08-09-2026 | DOD - 15-09-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Dilated cardiomyopathy, LVEF 38%
+
+Presenting complaints & history - 47/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 12 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 60 kg to 56 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 6665 pg/ml | S. Cr 0.7 mg/dl | Na 132 mEq/L | K 3.8 mEq/L | 2D Echo: LVEF 38%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 83/min, SpO2 98% on RA. Dry weight 56 kg.
+
+ADV ON DISCHARGE -
+• Tab. Furosemide (Lasix) 40 mg PO OD till review
+• Tab. Met XL 25 mg PO OD lifelong
+• Tab. Sacubitril + Valsartan (24/26 mg) 50 mg PO BD lifelong
+• Tab. Spironolactone 25 mg PO OD lifelong
+• Tab. Forxiga 10 mg PO OD life long
+
+Instructions -
+  Diet:
+    • Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    • Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Daily morning weight - maintain record
+    • Do not take painkillers from the chemist without doctor's advice
+
+Report immediately to Casualty in case of -
+  • Wt gain > 2 kg in 3 days
+  • Breathlessness at rest / on lying down flat
+  • Increasing swelling of feet or legs
+  • Urine output markedly reduced
+  • Giddiness / fainting / LOC
+  • Palpitations - fast / irregular heart beat
+
+Follow up -
+  • Review with reports - HF clinic (Cardiology OPD) on 25-09-2026 (Fri); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

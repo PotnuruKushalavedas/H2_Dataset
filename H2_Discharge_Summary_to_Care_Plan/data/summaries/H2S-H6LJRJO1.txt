@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Nitin Pillai
+Age / Sex    : 73 yrs / Male
+UHID         : CDH2270784      IP No: IP/26/132466
+Admitted on  : 25.02.2026      Discharged on: 01.03.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Cellulitis right foot
+
+Brief History:
+  * 73/M, k/c/o T2DM x 12 yrs, presented with swelling, redness and pain over right foot x 8 days following a minor injury. RBS 420 mg/dl.
+
+Course in Hospital:
+  * Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Investigations:
+  * HbA1c 11.0%; FBS 238 mg/dl; PPBS 345 mg/dl; S. Cr 1.0 mg/dl; Urine routine: sugar ++, ketones nil; Hb 12.4 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 110/74 mmHg, PR 70/min, SpO2 99% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food till review
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Inj. Insulin Glargine 10 units SC 0-0-1 at 10 pm daily till review
+- Tab. Amoxycillin + Clavulanic acid (Augmentin) 625 mg 1-1-1 PC x 7 days
+- Tab. Atorvastatin (Storvas) 20 mg 0-0-1 (HS) long term (lifelong)
+
+- STOP Tab. Glimepiride 1 mg
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+  General:
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * SMBG - FBS & PPBS twice weekly, maintain diary
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Wound site redness / swelling / pus or discharge
+  * Fever above 100.4 F (38 C)
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - Diabetes Clinic (Medicine OPD) on 11.03.2026; bring reports: FBS, PPBS
+  * HbA1c and review - DM clinic, Medicine OPD on 30.05.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

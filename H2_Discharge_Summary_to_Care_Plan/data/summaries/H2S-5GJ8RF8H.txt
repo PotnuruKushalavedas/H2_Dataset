@@ -1,0 +1,46 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Raju Gowda, 71/M  UHID: CDH3669242  IP: IP/26/328363
+DOA: 05-Apr-26  DOD: 10-Apr-26  Cons: Dr. Meenakshi Rao (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Dilated cardiomyopathy, LVEF 33%
+
+H/o: 71/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 7 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 67 kg to 61 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 4815 pg/ml, S. Cr 1.4 mg/dl, Na 140 mEq/L, K 4.8 mEq/L, 2D Echo: LVEF 33%, global hypokinesia, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 67/min, SpO2 97% on RA. Dry weight 61 kg.
+
+Rx on discharge:
+1) T. Lasix 40 OD till review
+2) T. Concor 2.5 mg OD lifelong
+3) T. Cardace 2.5 OD life long
+4) T. Jardiance 10 mg OD life long
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Daily morning weight - maintain record
+  - Do not take painkillers from the chemist without doctor's advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Marked decrease in urine output
+- Giddiness, fainting or loss of consciousness
+- Palpitations (fast or irregular heartbeat)
+
+F/U:
+- Cardiology OPD on 17-Apr-26 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Meenakshi Rao (Consultant)

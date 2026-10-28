@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Sita Mishra                    Age/Sex  : 44 Y / F
+UHID       : CDH2381480                     IP No.   : IP/26/271076
+DOA        : 02 Jan 2026                    DOD      : 06 Jan 2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 44/F, k/c/o T2DM x 13 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 12.1%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 12.1% | FBS 242 mg/dl | PPBS 325 mg/dl | S. Cr 0.9 mg/dl | Urine microalbumin 70 mg/g | Fundus: mild NPDR
+
+CONDITION AT DISCHARGE: Stable. BP 126/80 mmHg, PR 72/min, SpO2 98% on RA. Pre-meal sugars 144-182 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------------+--------------+-------+------------+------------------+------------------------------------+
+| No | Medicine                                       | Dose         | Route | Frequency  | Duration         | Instructions                       |
++----+------------------------------------------------+--------------+-------+------------+------------------+------------------------------------+
+| 1  | Inj. Premixed Insulin 30/70 (Huminsulin 30/70) | 16-0-8 units | SC    | BD         | Till next review | 30 min before breakfast and dinner |
+| 2  | Tab. Metformin                                 | 1000 mg      | PO    | BD (1-0-1) | Lifelong         | after food                         |
+| 3  | Tab. Atorvastatin                              | 20 mg        | PO    | HS (0-0-1) | Lifelong         |                                    |
+| 4  | Tab. Thyronorm                                 | 75 mcg       | PO    | OD (1-0-0) | Lifelong         | empty stomach                      |
++----+------------------------------------------------+--------------+-------+------------+------------------+------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg (now on insulin)
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Carry glucose / sugar at all times
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with sugar chart - Diabetes Clinic (Medicine OPD) on 13 Jan 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Naresh Chauhan, 60/M  UHID: CDH5804189  IP: IP/26/109063
+DOA: 20-Sep-26  DOD: 27-Sep-26  Cons: Dr. R. Venkatesh (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Cellulitis right foot
+- BPH
+
+H/o: 60/M, k/c/o T2DM x 8 yrs, presented with swelling, redness and pain over right foot x 6 days following a minor injury. RBS 422 mg/dl.
+
+Course: Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Ix: HbA1c 12.2%, FBS 278 mg/dl, PPBS 372 mg/dl, S. Cr 0.6 mg/dl, Urine routine: sugar ++, ketones nil, Hb 11.3 g/dl
+
+Condn at d/c: Afebrile, stable. BP 118/76 mmHg, PR 80/min, SpO2 98% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD after food till review
+2) T. Amaryl 2 mg OD 30 min before breakfast till review
+3) Inj. Lantus 10 U SC HS till review
+4) T. Clavam 625 mg TDS after food x 5/7
+5) T. Storvas 20 mg HS life long
+6) T. Paracetamol 650 mg SOS for pain (not more than 3 doses in 24 h)
+7) C. Tamsulosin 0.4 mg HS lifelong
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  Others:
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Check fasting and post-meal blood sugar at home twice a week and keep a record
+  - Foot care: daily inspection, footwear always, avoid walking barefoot
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Redness, swelling, pus or discharge from the wound
+- Fever above 100.4 F (38 C)
+- Sugar > 300 mg/dl on 2 readings
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+F/U:
+- Medicine OPD on 12-Oct-26 - Review with reports with FBS, PPBS
+- Diabetes Clinic (Medicine OPD) on 26-Dec-26 - Review with HbA1c
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. R. Venkatesh (Consultant)

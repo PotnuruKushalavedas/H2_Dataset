@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Kamala Reddy                   Age/Sex  : 55 Y / F
+UHID       : CDH3554453                     IP No.   : IP/26/434630
+DOA        : 30/05/2026                     DOD      : 03/06/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 55/F, k/c/o T2DM x 4 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: missed medicines.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 26 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.12, HCO3 9 mEq/L | Urine ketones +++ | RBS at admission 255 mg/dl | HbA1c 11.3% | S. Cr 1.0 mg/dl | K 3.7 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 118/80 mmHg, PR 69/min, SpO2 97% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------+--------+-------+-------------+------------------+----------------------------------------+
+| No | Medicine                                | Dose   | Route | Frequency   | Duration         | Instructions                           |
++----+-----------------------------------------+--------+-------+-------------+------------------+----------------------------------------+
+| 1  | Inj. Insulin Glargine (Basalog)         | 10 IU  | SC    | HS (0-0-1)  | Till next review |                                        |
+| 2  | Inj. Insulin Regular (Human) (Actrapid) | 4 IU   | SC    | TDS (1-1-1) | Till review      | ½ hr before meals                      |
+| 3  | Tab. Metformin                          | 500 mg | PO    | BD (1-0-1)  | Till review      | PC                                     |
+| 4  | Tab. Ondansetron (Emeset)               | 4 mg   | PO    | SOS         | -                | for nausea / vomiting; max 3 doses/day |
++----+-----------------------------------------+--------+-------+-------------+------------------+----------------------------------------+
+  To continue other previous medicines for hypothyroidism as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Jardiance 10 mg (not to be restarted (euglycaemic DKA risk))
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Oral fluids 2-3 L/day
+  Other:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 10/06/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. R. Venkatesh (Consultant)

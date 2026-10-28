@@ -1,0 +1,61 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Gopal Shaikh
+Age / Sex    : 58 yrs / Male
+UHID         : CDH1376341      IP No: IP/26/691818
+Admitted on  : 24/08/2026      Discharged on: 29/08/2026
+Consultant   : Dr. Ravi Teja, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Primary osteoarthritis right knee (KL grade 4)
+  * s/p Right TKR (25/08/2026)
+
+Brief History:
+  * 58/M, c/o pain right knee x 8 yrs, difficulty in walking and climbing stairs, not relieved by conservative management.
+
+Course in Hospital:
+  * Underwent Right cemented TKR under spinal-epidural anaesthesia on 25/08/2026. Received Inj. Cefazolin periop. Mobilised with walker on POD 1; knee flexion 98 deg at discharge. Thromboprophylaxis started.
+
+Procedure:
+  * Right cemented total knee replacement (25/08/2026)
+
+Investigations:
+  * Hb (post-op) 10.2 g/dl; S. Cr 0.9 mg/dl; Weight 56 kg; Check X-ray: implant in good position; RBS 120 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, walking with walker. BP 114/78 mmHg, PR 81/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Inj. Enoxaparin 40 mg SC 1-0-0 x 10 days (SC over abdomen)
+- Tab. Paracetamol 650 mg 1-1-1 after food x 2 weeks
+- Cap. Tramadol 50 mg SOS for severe pain (max 2 doses/day)
+- Tab. Pantocid 40 mg 1-0-0 30 min before breakfast x 2 weeks
+- Tab. Calcium + Vitamin D3 500 mg 1-1-0 after food x 3 months
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Knee ROM + quadriceps exercises as taught by physio, 3-4 times/day
+    * Walk with walker support; full weight bearing as tolerated
+    * Avoid squatting and sitting cross-legged; use western toilet
+  Wound care:
+    * Keep wound site clean and dry
+    * Do not remove the dressing; it will be changed at review
+  General:
+    * Cryotherapy (ice) 15-20 min TDS-QID over knee
+
+Danger signs - report to Casualty immediately:
+  * Calf pain / leg swelling - ? DVT (clot in leg vein)
+  * Redness, swelling, pus or discharge from the wound
+  * Fever above 100.4 F (38 C)
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Physiotherapy - Physiotherapy Dept. on 01/09/2026
+  * Staple removal and wound check - Orthopaedics OPD on 08/09/2026 (POD 14); bring reports: X-ray
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Ravi Teja (Consultant)

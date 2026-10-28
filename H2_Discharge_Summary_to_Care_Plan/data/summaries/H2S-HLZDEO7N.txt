@@ -1,0 +1,55 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Kamala Shaikh    Age: 45 years    Sex: Female
+UHID: CDH3836199    IP Number: IP/26/711870
+Date of admission: 27 Jan 2026    Date of discharge: 02 Feb 2026
+Under the care of: Dr. Kavita Deshmukh, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 45/F, presented with cough x 6 weeks, evening rise of temperature, loss of appetite and weight loss of 8 kg, with 2 episodes of streaky haemoptysis.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 28 Jan 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: left upper zone infiltrates with cavity; Hb 10.8 g/dl; LFT: within normal limits; RBS 93 mg/dl; HIV: non-reactive; Weight 42 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 120/80 mmHg, PR 86/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet 4-FDC (HRZE) 3 tabs once daily in the morning on empty stomach for 51 days (weight-band dose; to complete 8 weeks of intensive phase; review for CP thereafter)
+2. Tablet Pyridoxine (Vit B6) 10 mg once daily in the morning until the next visit
+3. Tablet Paracetamol 650 mg only if needed (SOS) for fever or pain (max 4 doses/day)
+4. Tablet Amlodipine 5 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / soya
+    - Avoid alcohol completely
+  Other instructions:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+    - Family members to be screened for TB at the nearest health centre
+    - Orange-red urine expected with rifampicin (harmless)
+    - OCPs unreliable with rifampicin - use barrier method / IUCD
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Skin rash or itching all over the body
+  - Coughing up blood
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - LFT and review in DOTS centre / TB clinic on 16 Feb 2026.
+  - Sputum examination at end of intensive phase in TB clinic (DOTS centre) on 26 Mar 2026.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Kavita Deshmukh (Consultant)

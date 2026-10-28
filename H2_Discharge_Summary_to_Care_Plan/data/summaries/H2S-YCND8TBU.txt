@@ -1,0 +1,43 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Bindu Lal, 41/F  UHID: CDH4001632  IP: IP/26/941794
+DOA: 28-Apr-26  DOD: 02-May-26  Cons: Dr. S. K. Mishra (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 41/F, k/c/o T2DM x 2 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 29 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.23, HCO3 10 mEq/L, Urine ketones +++, RBS at admission 356 mg/dl, HbA1c 12.1%, S. Cr 0.8 mg/dl, K 4.3 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 124/76 mmHg, PR 77/min, SpO2 99% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Basalog 12 units SC OD at 10 PM till review
+2) Inj. Huminsulin R 4 units SC TDS 30 min before meals till review
+3) T. Glyciphage 500 mg BD after food till review
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small, frequent meals - do not skip any meal
+  - Adequate oral fluids - 2 to 3 litres per day
+  Others:
+  - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+  - Always carry sugar or glucose with you
+
+Review SOS if:
+- Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+- Vomiting / pain abdomen / rapid breathing / drowsiness
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 09-May-26 (Sat) - Review with sugar chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

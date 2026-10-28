@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Divya Prajapati                Age/Sex  : 84 Y / F
+UHID       : CDH9982119                     IP No.   : IP/26/801896
+DOA        : 29/06/2026                     DOD      : 03/07/2026
+Consultant : Dr. Manoj Kulkarni, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Intertrochanteric fracture left femur
+  - 2. s/p Closed reduction and PFN fixation (01/07/2026)
+
+BRIEF HISTORY:
+  - 84/F, h/o trivial fall at home; unable to bear weight on left lower limb since then.
+
+HOSPITAL COURSE:
+  - Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 01/07/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - Closed reduction and internal fixation with PFN under SA (01/07/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.8 g/dl | S. Cr 0.9 mg/dl | Weight 49 kg | Post-op X-ray: fracture fixed in good alignment | RBS 118 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 114/70 mmHg, PR 79/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------------+-----------+-------+-------------+----------+-----------------------------------------------------+
+| No | Medicine                                   | Dose      | Route | Frequency   | Duration | Instructions                                        |
++----+--------------------------------------------+-----------+-------+-------------+----------+-----------------------------------------------------+
+| 1  | Inj. Enoxaparin                            | 40 mg     | SC    | OD (1-0-0)  | 28 days  | SC over abdomen                                     |
+| 2  | Tab. Crocin                                | 650 mg    | PO    | TDS (1-1-1) | 2 weeks  | after food                                          |
+| 3  | Cap. Tramadol                              | 50 mg     | PO    | SOS         | -        | for severe pain only; not more than 2 doses in 24 h |
+| 4  | Tab. Shelcal                               | 500 mg    | PO    | BD (1-1-0)  | 3 months | after food                                          |
+| 5  | Sachet Cholecalciferol (Vit D3) (Calcirol) | 60,000 IU | PO    | 1/week      | 8 weeks  | on the same day each week; with milk                |
+| 6  | Syp. Lactulose                             | 15 ml     | PO    | HS (0-0-1)  | 2 weeks  |                                                     |
+| 7  | Tab. Pan                                   | 40 mg     | PO    | OD (1-0-0)  | 2 weeks  | 30 min before breakfast                             |
++----+--------------------------------------------+-----------+-------+-------------+----------+-----------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / paneer - for healing
+  Activity:
+    - Walk with walker; partial (toe-touch) weight bearing on operated leg
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Fall prevention - night light, remove loose rugs, use support while walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Breathlessness or difficulty in breathing
+  - Operated leg - numbness / tingling / bluish discolouration / severe swelling
+
+FOLLOW-UP:
+  - Removal of sutures - Orthopaedics OPD on 13/07/2026 (Mon) (POD 12)
+  - Review with check X-ray - Orthopaedics OPD on 14/08/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Manoj Kulkarni (Consultant)

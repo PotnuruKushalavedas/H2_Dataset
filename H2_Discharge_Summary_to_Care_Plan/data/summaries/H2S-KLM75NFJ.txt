@@ -1,0 +1,45 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Sanjay Reddy, 54/M  UHID: CDH9500241  IP: IP/26/411662
+DOA: 13-Jun-26  DOD: 18-Jun-26  Cons: Dr. Anil Bhosale (Medicine Unit III)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 54/M, k/c/o T2DM x 8 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: UTI.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 41 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.1, HCO3 9 mEq/L, Urine ketones +++, RBS at admission 268 mg/dl, HbA1c 11.4%, S. Cr 1.0 mg/dl, K 3.7 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 126/76 mmHg, PR 72/min, SpO2 98% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Glaritus 16 IU SC OD at 10 PM till next review
+2) Inj. NovoRapid 6 IU SC TDS 0-15 min before meals till next review
+
+STOP Tab. Jardiance 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small, frequent meals - do not skip any meal
+  - Adequate oral fluids - 2 to 3 litres per day
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+  - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Sugar > 300 mg/dl on 2 readings
+- Vomiting, pain in abdomen, fast breathing or drowsiness
+
+F/U:
+- Get RFT + S. electrolytes done on 22-Jun-26 (Hospital laboratory)
+- Diabetes Clinic (Medicine OPD) on 23-Jun-26 (Tue) - Review with SMBG chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. Anil Bhosale (Consultant)

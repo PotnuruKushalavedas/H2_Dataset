@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Joseph Tiwari
+Age / Sex    : 40 yrs / Male
+UHID         : CDH5389374      IP No: IP/26/404763
+Admitted on  : 31.07.2026      Discharged on: 06.08.2026
+Consultant   : Dr. Sunita Patil, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis with localised perforation
+  * s/p Open appendicectomy (31.07.2026)
+
+Brief History:
+  * 40/M, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 31.07.2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Open appendicectomy under GA (31.07.2026)
+
+Investigations:
+  * TLC 16,500/cumm; CRP 90 mg/L; HPE: awaited; Hb 13.6 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 110/78 mmHg, PR 68/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 PC x 7 days
+- Tab. Paracetamol 650 mg SOS for fever (max 4 doses/day)
+- Tab. Rabeprazole 20 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft diet x 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * No heavy lifting (more than 5 kg) for 6 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting or unable to take food and fluids orally
+  * Abdominal distension, not passing stools / flatus
+
+Follow-up:
+  * Suture removal - General Surgery OPD on 08.08.2026 (POD 8)
+  * Review with HPE report - Surgery OPD on 14.08.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Sunita Patil (Consultant)

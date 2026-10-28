@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Renu Patel
+Age / Sex    : 38 yrs / Female
+UHID         : CDH5876118      IP No: IP/26/141971
+Admitted on  : 27/05/2026      Discharged on: 02/06/2026
+Consultant   : Dr. Farah Siddiqui, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (right upper lobe) - CURB-65 score 2
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 38/F, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 14,800/cumm; CRP 142 mg/L; CXR: consolidation right upper lobe; S. Cr 0.8 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 126/74 mmHg, PR 87/min, SpO2 99% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-0-1 after food x 5 days
+- Tab. Paracetamol 650 mg SOS for pain (not more than 3 doses in 24 h)
+- Tab. Losartan 50 mg 1-0-0 lifelong
+- Tab. Metformin 1000 mg 1-0-1 after food lifelong
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises 10 times every hour while awake
+    * Gradually increase walking as tolerated
+  General:
+    * Influenza and pneumococcal vaccination advised
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness / difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Medicine OPD on 12/06/2026; bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. Farah Siddiqui (Consultant)

@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Ajay Menon                     Age/Sex  : 43 Y / M
+UHID       : CDH4464909                     IP No.   : IP/26/225602
+DOA        : 08/04/2026                     DOD      : 14/04/2026
+Consultant : Dr. Farah Siddiqui, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis right foot
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 43/M, k/c/o T2DM x 4 yrs, presented with swelling, redness and pain over right foot x 8 days following a minor injury. RBS 425 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.4% | FBS 286 mg/dl | PPBS 384 mg/dl | S. Cr 1.0 mg/dl | Urine routine: sugar ++, ketones nil | Hb 14.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 110/74 mmHg, PR 85/min, SpO2 98% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------+--------+-------+-------------+-------------+-------------------------------------------------+
+| No | Medicine                           | Dose   | Route | Frequency   | Duration    | Instructions                                    |
++----+------------------------------------+--------+-------+-------------+-------------+-------------------------------------------------+
+| 1  | Tab. Metformin                     | 500 mg | PO    | BD (1-0-1)  | Lifelong    | PC                                              |
+| 2  | Tab. Sitagliptin                   | 100 mg | PO    | OD (1-0-0)  | Till review |                                                 |
+| 3  | Tab. Amoxycillin + Clavulanic acid | 625 mg | PO    | TDS (1-1-1) | 7 days      | after food                                      |
+| 4  | Tab. Atorvastatin                  | 10 mg  | PO    | HS (0-0-1)  | Lifelong    |                                                 |
+| 5  | Tab. Paracetamol                   | 500 mg | PO    | SOS         | -           | for fever / pain; not more than 3 doses in 24 h |
+| 6  | Tab. Thyronorm                     | 25 mcg | PO    | OD (1-0-0)  | Lifelong    | on empty stomach                                |
++----+------------------------------------+--------+-------+-------------+-------------+-------------------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 24/04/2026; bring reports: FBS, PPBS
+  - Review with HbA1c - DM clinic, Medicine OPD on 07/07/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Farah Siddiqui (Consultant)

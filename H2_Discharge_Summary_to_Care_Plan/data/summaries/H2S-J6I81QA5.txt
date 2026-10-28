@@ -1,0 +1,60 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Sachin Nair
+Age / Sex    : 45 yrs / Male
+UHID         : CDH6849816      IP No: IP/26/755544
+Admitted on  : 07.04.2026      Discharged on: 09.04.2026
+Consultant   : Dr. Rajesh Kumar Verma, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Right inguinal hernia (direct, reducible)
+  * s/p Lichtenstein tension-free mesh hernioplasty (07.04.2026)
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 45/M, c/o swelling in right groin x 8 months, increasing on coughing/straining, reducible.
+
+Course in Hospital:
+  * Underwent Lichtenstein tension-free mesh hernioplasty under SA on 07.04.2026. Received Inj. Cefazolin 1 g IV at induction. Post-op period uneventful. Voiding well.
+
+Procedure:
+  * Lichtenstein tension-free mesh hernioplasty under SA (07.04.2026)
+
+Investigations:
+  * Hb 14.4 g/dl; RBS 129 mg/dl; S. Cr 1.0 mg/dl; ECG: normal sinus rhythm
+
+Condition at Discharge: Afebrile, wound healthy, passing urine and stools. BP 118/70 mmHg, PR 83/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Paracetamol 500 mg 1-1-1 PC x 5 days
+- Tab. Aceclofenac 100 mg 1-0-1 PC x 5 days
+- Tab. Pantoprazole 40 mg 1-0-0 30 min before breakfast x 5 days
+- Tab. Metformin 500 mg 1-0-1 PC long term (lifelong)
+Continue previous medications for HTN as before.
+
+Advice on Discharge:
+  Diet:
+    * High fibre diet + plenty of fluids (avoid constipation)
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Nothing (oil / haldi / powder) to be applied on wound
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Redness, swelling, pus or discharge from the wound
+  * Swelling or severe pain in the scrotum
+  * Unable to pass urine
+  * Bleeding from wound / dressing soakage
+
+Follow-up:
+  * Removal of sutures - General Surgery OPD on 14.04.2026 (POD 7)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Rajesh Kumar Verma (Consultant)

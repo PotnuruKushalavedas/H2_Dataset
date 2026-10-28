@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Seema Krishnan
+Age / Sex    : 35 yrs / Female
+UHID         : CDH8425859      IP No: IP/26/137075
+Admitted on  : 15/01/2026      Discharged on: 21/01/2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit II)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+  * Hypothyroidism
+
+Brief History:
+  * 35/F, k/c/o T2DM x 6 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: UTI.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 28 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.15, HCO3 12 mEq/L; Urine ketones +++; RBS at admission 232 mg/dl; HbA1c 13.9%; S. Cr 0.8 mg/dl; K 3.8 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 124/78 mmHg, PR 75/min, SpO2 99% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine 10 IU SC 0-0-1 (HS) till next review
+- Inj. Insulin Regular (Human) 4 IU SC 1-1-1 30 min before meals till review
+- Tab. Ondansetron 4 mg SOS for nausea / vomiting (max 3 doses/day)
+- Tab. Thyronorm 25 mcg 1-0-0 on empty stomach long term (lifelong)
+
+- STOP Tab. Dapagliflozin 10 mg (not to be restarted (euglycaemic DKA risk))
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small, frequent meals - do not skip any meal
+    * Oral fluids 2-3 L/day
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow-up:
+  * Review with SMBG chart - DM clinic, Medicine OPD on 27/01/2026
+  * Get RFT + S. electrolytes done on 27/01/2026 (Tue) (Central lab)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

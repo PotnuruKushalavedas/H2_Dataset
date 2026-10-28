@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Mukesh Khan                    Age/Sex  : 54 Y / M
+UHID       : CDH2935932                     IP No.   : IP/26/423723
+DOA        : 06/09/2026                     DOD      : 13/09/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit III
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis right foot
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 54/M, k/c/o T2DM x 10 yrs, presented with swelling, redness and pain over right foot x 8 days following a minor injury. RBS 442 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 9.8% | FBS 238 mg/dl | PPBS 347 mg/dl | S. Cr 0.8 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.3 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 130/80 mmHg, PR 68/min, SpO2 98% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+--------+-------+-------------+-------------+--------------------------------------------------+
+| No | Medicine                    | Dose   | Route | Frequency   | Duration    | Instructions                                     |
++----+-----------------------------+--------+-------+-------------+-------------+--------------------------------------------------+
+| 1  | Tab. Metformin              | 500 mg | PO    | BD (1-0-1)  | Lifelong    | after food                                       |
+| 2  | Tab. Vildagliptin (Galvus)  | 50 mg  | PO    | BD (1-0-1)  | Till review |                                                  |
+| 3  | Tab. Augmentin              | 625 mg | PO    | TDS (1-1-1) | 5 days      | after food                                       |
+| 4  | Tab. Atorvastatin (Storvas) | 20 mg  | PO    | HS (0-0-1)  | Lifelong    |                                                  |
+| 5  | Tab. Paracetamol            | 650 mg | PO    | SOS         | -           | for fever or pain; not more than 4 doses in 24 h |
++----+-----------------------------+--------+-------+-------------+-------------+--------------------------------------------------+
+  To continue other previous medicines for HTN and hypothyroidism as before (unchanged).
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 28/09/2026 (Mon); bring reports: FBS, PPBS
+  - HbA1c and review - Diabetes Clinic (Medicine OPD) on 12/12/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. R. Venkatesh (Consultant)

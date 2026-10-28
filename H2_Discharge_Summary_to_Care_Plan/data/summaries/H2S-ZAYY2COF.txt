@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Rupa Meena, 69/F  UHID: CDH1880985  IP: IP/26/672884
+DOA: 26-Aug-26  DOD: 01-Sep-26  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 24%
+
+H/o: 69/F, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 12 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 61 kg to 56 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 3685 pg/ml, S. Cr 0.6 mg/dl, Na 136 mEq/L, K 4.8 mEq/L, 2D Echo: LVEF 24%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 66/min, SpO2 96% on RA. Dry weight 56 kg.
+
+Rx on discharge:
+1) T. Furosemide 40 mg OD till review
+2) T. Cardivas 3.125 mg BD lifelong
+3) T. Vymada 50 mg BD life long
+4) T. Forxiga 10 mg OD life long
+5) T. Ecosprin 75 OD after lunch lifelong
+6) T. Storvas 40 HS life long
+
+STOP Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+Adv:
+  Diet:
+  - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Weight gain of more than 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Urine output markedly reduced
+- Giddiness / fainting / LOC
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- Heart Failure Clinic, Cardiology OPD on 11-Sep-26 (Fri) - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

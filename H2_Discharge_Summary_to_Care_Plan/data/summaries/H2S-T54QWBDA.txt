@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rahul Jat                      Age/Sex  : 72 Y / M
+UHID       : CDH2346062                     IP No.   : IP/26/444763
+DOA        : 07/08/2026                     DOD      : 16/08/2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 28%
+  - 3. BPH
+
+BRIEF HISTORY:
+  - 72/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 14 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 66 kg to 61 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 6895 pg/ml | S. Cr 1.6 mg/dl | Na 136 mEq/L | K 4.0 mEq/L | 2D Echo: LVEF 28%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 74/min, SpO2 99% on RA. Dry weight 61 kg.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------------+----------+-------+------------+-------------+--------------+
+| No | Medicine                                        | Dose     | Route | Frequency  | Duration    | Instructions |
++----+-------------------------------------------------+----------+-------+------------+-------------+--------------+
+| 1  | Tab. Torsemide                                  | 20 mg    | PO    | OD (1-0-0) | Till review |              |
+| 2  | Tab. Carvedilol                                 | 3.125 mg | PO    | BD (1-0-1) | Lifelong    |              |
+| 3  | Tab. Sacubitril + Valsartan (Vymada) (24/26 mg) | 50 mg    | PO    | BD (1-0-1) | Lifelong    |              |
+| 4  | Tab. Spironolactone                             | 25 mg    | PO    | OD (1-0-0) | Lifelong    |              |
+| 5  | Tab. Empagliflozin (Jardiance)                  | 10 mg    | PO    | OD (1-0-0) | Lifelong    |              |
+| 6  | Cap. Urimax                                     | 0.4 mg   | PO    | HS (0-0-1) | Lifelong    |              |
++----+-------------------------------------------------+----------+-------+------------+-------------+--------------+
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Weight gain of more than 2 kg in 3 days
+  - Breathlessness at rest or on lying flat
+  - Increasing swelling of feet or legs
+  - Urine output markedly reduced
+  - Giddiness, fainting or loss of consciousness
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - HF clinic (Cardiology OPD) on 26/08/2026 (Wed); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 14/11/2026 (Sat)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

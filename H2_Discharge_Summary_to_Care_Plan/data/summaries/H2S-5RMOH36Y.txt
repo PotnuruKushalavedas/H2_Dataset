@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Asha Rao                       Age/Sex  : 56 Y / F
+UHID       : CDH1808720                     IP No.   : IP/26/654831
+DOA        : 15/03/2026                     DOD      : 19/03/2026
+Consultant : Dr. S. K. Mishra, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Hypothyroidism
+
+BRIEF HISTORY:
+  - 56/F, k/c/o T2DM x 6 yrs, stopped medicines 2 months ago, presented with polyuria, polydipsia, generalised weakness x 10 days. RBS 427 mg/dl, urine ketones negative.
+
+HOSPITAL COURSE:
+  - Managed with IV fluids and basal-bolus insulin. No ketosis. Diabetes education given. Sugars controlled; shifted to the discharge regimen below.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.9% | FBS 277 mg/dl | PPBS 355 mg/dl | S. Cr 0.9 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.2 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 130/80 mmHg, PR 75/min, SpO2 96% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------+--------+-------+------------+------------------+-------------------------+
+| No | Medicine                   | Dose   | Route | Frequency  | Duration         | Instructions            |
++----+----------------------------+--------+-------+------------+------------------+-------------------------+
+| 1  | Tab. Metformin             | 500 mg | PO    | BD (1-0-1) | Till next review | PC                      |
+| 2  | Tab. Glimepiride           | 1 mg   | PO    | OD (1-0-0) | Till review      | 30 min before breakfast |
+| 3  | Inj. Insulin Glargine      | 12 U   | SC    | OD (0-0-1) | Till review      | at 10 PM                |
+| 4  | Tab. Atorvastatin (Atorva) | 20 mg  | PO    | HS (0-0-1) | Lifelong         |                         |
++----+----------------------------+--------+-------+------------+------------------+-------------------------+
+  Continue previous medications for hypothyroidism as before.
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    - Always carry sugar or glucose with you
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Blood sugar above 300 mg/dl on two readings
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+FOLLOW-UP:
+  - Review with reports - Diabetes Clinic (Medicine OPD) on 02/04/2026; bring reports: FBS, PPBS
+  - Review with HbA1c - Diabetes Clinic (Medicine OPD) on 17/06/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. S. K. Mishra (Consultant)

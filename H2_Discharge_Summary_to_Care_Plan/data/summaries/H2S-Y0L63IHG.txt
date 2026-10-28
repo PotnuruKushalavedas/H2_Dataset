@@ -1,0 +1,55 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Shabana Hegde                  Age/Sex  : 70 Y / F
+UHID       : CDH9812079                     IP No.   : IP/26/848857
+DOA        : 09/07/2026                     DOD      : 13/07/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+BRIEF HISTORY:
+  - 70/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 5 days. ECG: AF with FVR (HR 146/min).
+
+HOSPITAL COURSE:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 77/min at discharge.
+
+KEY INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 56% | S. Cr 1.0 mg/dl | Hb 12.6 g/dl | TSH 3.7 mIU/L | Weight 71 kg | CrCl (Cockcroft-Gault) 58 ml/min | CHA2DS2-VASc score 3
+
+CONDITION AT DISCHARGE: Stable, rate controlled. BP 124/72 mmHg, PR 78/min, SpO2 96% on RA.
+
+DISCHARGE MEDICATIONS:
++----+------------------+-------+-------+------------+----------+--------------+
+| No | Medicine         | Dose  | Route | Frequency  | Duration | Instructions |
++----+------------------+-------+-------+------------+----------+--------------+
+| 1  | Tab. Met XL      | 25 mg | PO    | OD (1-0-0) | Lifelong |              |
+| 2  | Tab. Apixaban    | 5 mg  | PO    | BD (1-0-1) | Lifelong |              |
+| 3  | Tab. Telmisartan | 40 mg | PO    | OD (1-0-0) | Lifelong |              |
++----+------------------+-------+-------+------------+----------+--------------+
+
+ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 28/07/2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

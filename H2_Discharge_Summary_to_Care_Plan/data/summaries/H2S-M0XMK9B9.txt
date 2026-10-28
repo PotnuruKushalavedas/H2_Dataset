@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Ganesh Krishnan, 51/M  UHID: CDH1213738  IP: IP/26/683144
+DOA: 12/02/2026  DOD: 17/02/2026  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Ischaemic cardiomyopathy, LVEF 33%
+- Hypothyroidism
+
+H/o: 51/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 10 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 5.5 L; weight down from 64 kg to 58 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 9645 pg/ml, S. Cr 1.0 mg/dl, Na 137 mEq/L, K 4.0 mEq/L, 2D Echo: LVEF 33%, global hypokinesia, RWMA in LAD territory, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 73/min, SpO2 97% on RA. Dry weight 58 kg.
+
+Rx on discharge:
+1) T. Dytor 20 mg OD till review
+2) T. Metoprolol Succinate ER 12.5 mg OD life long
+3) T. Cardace 2.5 mg OD lifelong
+4) T. Spironolactone 25 mg ½ tab OD (½-0-0) lifelong
+5) T. Jardiance 10 mg OD lifelong
+6) T. Ecosprin 75 OD after lunch lifelong
+7) T. Atorva 40 HS lifelong
+8) T. Thyronorm 75 OD empty stomach lifelong
+
+STOP Tab. Voveran 50 mg (not safe with heart disease)
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Weight gain of more than 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing pedal oedema (swelling of feet / legs)
+- Urine output markedly reduced
+- Giddiness, fainting or loss of consciousness
+- Palpitations (fast or irregular heartbeat)
+
+F/U:
+- Heart Failure Clinic, Cardiology OPD on 24/02/2026 (Tue) - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

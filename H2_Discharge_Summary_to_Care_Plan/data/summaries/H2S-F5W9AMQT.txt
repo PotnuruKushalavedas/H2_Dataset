@@ -1,0 +1,61 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Selvi Murmu                    Age/Sex  : 35 Y / F
+UHID       : CDH2863944                     IP No.   : IP/26/816975
+DOA        : 16/07/2026                     DOD      : 18/07/2026
+Consultant : Dr. Nirmala Joshi, MS (OBG)    Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G3P3L3, GDM on metformin
+  - 2. Delivered by NVD on 16/07/2026
+
+BRIEF HISTORY:
+  - 35/F, diagnosed GDM at 25 wks (OGTT), on Tab. Metformin 500 mg BD. Admitted at 38 wks.
+
+HOSPITAL COURSE:
+  - Vaginal delivery on 16/07/2026: live baby boy, 2.55 kg, APGAR 8/9. Baby's sugars monitored - normal. Mother's postpartum sugars normal off treatment (FBS 90 mg/dl, PPBS 124 mg/dl).
+
+KEY INVESTIGATIONS:
+  - Postpartum FBS 90 mg/dl | Hb 10.3 g/dl | HbA1c (antenatal) 5.7%
+
+CONDITION AT DISCHARGE: Stable. BP 130/76 mmHg, PR 79/min, SpO2 99% on RA. Baby: healthy, breastfeeding.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine                        | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+---------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. Paracetamol                | 650 mg | PO    | SOS        | -        | for pain; not more than 4 doses in 24 h |
+| 2  | Tab. Iron + Folic acid (IFA)    | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                            |
+| 3  | Tab. Calcium carbonate + Vit D3 | 500 mg | PO    | BD (1-1-0) | 6 months | PC                                      |
++----+---------------------------------+--------+-------+------------+----------+-----------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Metformin 500 mg (GDM - not needed after delivery)
+
+ADVICE:
+  Diet:
+    - No sugar / sweets; maintain healthy body weight
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Exclusive breastfeeding for 6 months
+    - Immunisation of baby as per schedule card
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Excessive PV bleeding (> 1 pad soaked per hour) / passing clots
+  - Fever > 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Baby: poor feeding / lethargy / fever / yellowish skin
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - OBG OPD on 27/08/2026 (Thu); bring reports: Hb
+  - 75 g OGTT (glucose tolerance test) - OBG OPD on 03/09/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Nirmala Joshi (Consultant)

@@ -1,0 +1,54 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Lakshman Siddiqui    Age: 25 years    Sex: Male
+UHID: CDH7687184    IP Number: IP/26/397393
+Date of admission: 5th July 2026    Date of discharge: 12th July 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+HISTORY:
+  - 25/M, k/c/o T2DM x 5 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: UTI.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 29 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.15, HCO3 8 mEq/L; Urine ketones +++; RBS at admission 241 mg/dl; HbA1c 13.7%; S. Cr 0.9 mg/dl; K 4.1 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 118/72 mmHg, PR 81/min, SpO2 98% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine 12 IU SC once daily at bedtime until the next visit
+2. Injection Insulin Aspart 4 IU SC three times daily within 15 min before meals till the next review
+3. Tablet Ondansetron 4 mg only if needed (SOS) for nausea / vomiting (not more than 3 doses in 24 h)
+
+PLEASE STOP:
+  - Tab. Dapagliflozin 10 mg (risk of ketoacidosis - do not restart)
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+    - Oral fluids 2-3 L/day
+  Other instructions:
+    - Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    - Carry glucose / sugar at all times
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+REVIEW:
+  - Review with sugar chart in Diabetes Clinic (Medicine OPD) on 17th July 2026 (Fri).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Farah Siddiqui (Consultant)

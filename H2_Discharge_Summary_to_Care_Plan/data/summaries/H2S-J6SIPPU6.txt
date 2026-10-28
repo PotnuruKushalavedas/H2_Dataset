@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF PULMONARY MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Dinesh Gill    Age: 38 years    Sex: Male
+UHID: CDH4835702    IP Number: IP/26/125715
+Date of admission: 1st August 2026    Date of discharge: 5th August 2026
+Under the care of: Dr. T. Raghavan, MD (Pulmonary Medicine)
+
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+HISTORY:
+  - 38/M, presented with cough x 5 weeks, evening rise of temperature, loss of appetite and weight loss of 9 kg.
+
+COURSE IN THE HOSPITAL:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 2nd August 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+RELEVANT INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected; CXR: bilateral upper zone infiltrates with cavity; Hb 10.5 g/dl; LFT: within normal limits; RBS 134 mg/dl; HIV: non-reactive; Weight 72 kg
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 120/80 mmHg, PR 73/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet HRZE (4-FDC) 5 tabs once daily in the morning empty stomach for 53 days (weight-band dose; to complete 8 weeks of intensive phase; then review for continuation phase)
+2. Tablet Pyridoxine 10 mg once daily in the morning till the next review
+
+GENERAL ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / soya
+    - Avoid alcohol completely
+  Other instructions:
+    - Take TB medicines daily without missing a dose; complete the full course
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - Stop smoking and all forms of tobacco
+    - Urine may turn orange-red due to TB medicine - harmless
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Skin rash or itching all over the body
+  - Haemoptysis (coughing out blood)
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with LFT in DOTS centre / TB clinic on 20th August 2026 (Thu).
+  - Sputum examination at end of intensive phase in TB clinic (DOTS centre) on 28th September 2026.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

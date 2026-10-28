@@ -1,0 +1,53 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Archana Pillai
+Age / Sex    : 76 yrs / Female
+UHID         : CDH1355684      IP No: IP/26/667985
+Admitted on  : 09.04.2026      Discharged on: 14.04.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+  * Type 2 diabetes mellitus
+
+Brief History:
+  * 76/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 170/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 89/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 61%; S. Cr 0.6 mg/dl; Hb 12.7 g/dl; TSH 0.9 mIU/L; Weight 66 kg; CrCl (Cockcroft-Gault) 83 ml/min; CHA2DS2-VASc score 5
+
+Condition at Discharge: Stable, rate controlled. BP 130/72 mmHg, PR 85/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Diltiazem 30 mg 1-1-1 till next review
+- Cap. Dabigatran 110 mg 1-0-1 lifelong
+- Tab. Telma 40 mg 1-0-0 long term (lifelong)
+Continue previous medications for T2DM as before.
+
+Advice on Discharge:
+  Diet:
+    * Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face / arm / leg or slurring of speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 28.04.2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

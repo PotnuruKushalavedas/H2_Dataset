@@ -1,0 +1,60 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Simran Pandey                  Age/Sex  : 44 Y / F
+UHID       : CDH9853002                     IP No.   : IP/26/298701
+DOA        : 28/07/2026                     DOD      : 02/08/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+  - 2. Systemic hypertension
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 44/F, k/c/o T2DM x 10 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 10.1%) with weight loss and fatigue. No ketosis.
+
+HOSPITAL COURSE:
+  - Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+KEY INVESTIGATIONS:
+  - HbA1c 10.1% | FBS 253 mg/dl | PPBS 321 mg/dl | S. Cr 0.9 mg/dl | Urine microalbumin 132 mg/g | Fundus: no DR
+
+CONDITION AT DISCHARGE: Stable. BP 110/74 mmHg, PR 74/min, SpO2 96% on RA. Pre-meal sugars 129-180 mg/dl.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------+----------+-------+------------+------------------+------------------------------------+
+| No | Medicine                    | Dose     | Route | Frequency  | Duration         | Instructions                       |
++----+-----------------------------+----------+-------+------------+------------------+------------------------------------+
+| 1  | Inj. Premixed Insulin 30/70 | 10-0-6 U | SC    | BD         | Till next review | 30 min before breakfast and dinner |
+| 2  | Tab. Metformin              | 500 mg   | PO    | BD (1-0-1) | Lifelong         | after food                         |
+| 3  | Tab. Atorvastatin           | 10 mg    | PO    | HS (0-0-1) | Lifelong         |                                    |
+| 4  | Tab. Losartan               | 50 mg    | PO    | OD (1-0-0) | Lifelong         |                                    |
+| 5  | Tab. Levothyroxine          | 100 mcg  | PO    | OD (1-0-0) | Lifelong         | empty stomach                      |
++----+-----------------------------+----------+-------+------------+------------------+------------------------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Glimepiride 1 mg (since started on insulin)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Carry glucose / sugar at all times
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 10/08/2026
+  - Review with HbA1c - DM clinic, Medicine OPD on 26/10/2026; bring reports: S. Creatinine
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. R. Venkatesh (Consultant)

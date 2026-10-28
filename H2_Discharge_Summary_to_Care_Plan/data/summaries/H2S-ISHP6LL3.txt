@@ -1,0 +1,45 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Babu Thakur | 80 Y/M | UHID CDH1731975 | IP IP/26/685193
+DOA - 12-04-2026 | DOD - 18-04-2026 | Consultant - Dr. Prakash Nair, Cardiology Unit
+
+Diagnosis -
+  • Atrial fibrillation with fast ventricular rate (non-valvular)
+  • Systemic hypertension
+
+Presenting complaints & history - 80/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 8 days. ECG: AF with FVR (HR 138/min).
+
+Hospital course -
+  • Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 83/min at discharge.
+
+Investigations -
+  • 2D Echo: LA dilated, no significant valvular disease, LVEF 62% | S. Cr 1.4 mg/dl | Hb 13.3 g/dl | TSH 1.5 mIU/L | Weight 67 kg | CrCl (Cockcroft-Gault) 39 ml/min | CHA2DS2-VASc score 3
+
+Status at discharge - Stable, rate controlled. BP 126/80 mmHg, PR 82/min, SpO2 98% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Diltiazem 30 mg PO TDS till review
+• Tab. Apixaban 5 mg PO BD life long
+• Tab. Telmisartan (Telma) 40 mg PO OD life long
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    • Gradually increase walking as tolerated
+  Others:
+    • Do not take painkillers from the chemist without doctor's advice
+    • Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Report immediately to Casualty in case of -
+  • Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  • Sudden weakness of face, arm or leg, or slurred speech
+  • Palpitations (fast or irregular heartbeat)
+  • Giddiness, fainting or loss of consciousness
+  • Breathlessness / difficulty in breathing
+
+Follow up -
+  • Review with reports - Cardiology OPD on 09-05-2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Prakash Nair (Consultant)

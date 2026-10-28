@@ -1,0 +1,54 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Naresh Gaikwad
+Age / Sex    : 75 yrs / Male
+UHID         : CDH4543470      IP No: IP/26/595062
+Admitted on  : 16/01/2026      Discharged on: 22/01/2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - uncontrolled
+  * Acute pyelonephritis (UTI)
+
+Brief History:
+  * 75/M, k/c/o T2DM x 4 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 385 mg/dl.
+
+Course in Hospital:
+  * Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 2. Sugars optimised and oral regimen revised.
+
+Investigations:
+  * HbA1c 12.8%; FBS 253 mg/dl; PPBS 312 mg/dl; S. Cr 0.8 mg/dl; Urine routine: pus cells plenty; Hb 12.3 g/dl
+
+Condition at Discharge: Afebrile, stable. BP 120/70 mmHg, PR 78/min, SpO2 98% on RA. Sugars in target range.
+
+Medications at Discharge:
+- Tab. Metformin 1000 mg 1-0-1 after food long term (lifelong)
+- Tab. Vildagliptin 50 mg 1-0-1 till next review
+- Inj. Insulin Glargine 10 U SC 0-0-1 at 10 PM till next review
+- Tab. Cefixime 200 mg 1-0-1 PC x 7 days
+- Tab. Atorvastatin 20 mg 0-0-1 (HS) lifelong
+- Tab. Paracetamol 650 mg SOS for fever or pain (not more than 3 doses in 24 h)
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+  General:
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Check fasting and post-meal blood sugar at home twice a week and keep a record
+    * Daily foot care - inspect feet, always wear footwear, no barefoot walking
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * High fever with chills
+  * Burning micturition / pain while passing urine
+  * Sugar > 300 mg/dl on 2 readings
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+
+Follow-up:
+  * Review with reports - Gen. Medicine OPD on 02/02/2026; bring reports: FBS, PPBS, Urine routine
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Anil Bhosale (Consultant)

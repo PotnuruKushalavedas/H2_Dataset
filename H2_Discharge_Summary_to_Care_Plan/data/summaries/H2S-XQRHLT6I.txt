@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Farhan Verma    Age: 29 years    Sex: Male
+UHID: CDH7172874    IP Number: IP/26/198435
+Date of admission: 29th March 2026    Date of discharge: 2nd April 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (right middle lobe) - CURB-65 score 1
+
+HISTORY:
+  - 29/M, presented with fever with chills, productive cough with yellowish sputum and right-sided pleuritic chest pain x 4 days.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+RELEVANT INVESTIGATIONS:
+  - TLC 16,200/cumm; CRP 101 mg/L; CXR: consolidation right middle lobe; S. Cr 0.9 mg/dl; Blood C/S: no growth
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, comfortable. BP 124/74 mmHg, PR 77/min, SpO2 97% on RA. Chest: crepts reducing.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxycillin + Clavulanic acid 625 mg twice daily PC for 7 days
+2. Tablet Paracetamol 500 mg only if needed (SOS) for pain (max 3 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Physical activity:
+    - Deep breathing exercises 10 times every hour while awake
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Influenza and pneumococcal vaccination advised
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness or difficulty in breathing
+  - Chest pain / heaviness / sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Coughing up blood
+
+REVIEW:
+  - Review with reports in Gen. Medicine OPD on 13th April 2026. Please bring: CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Anil Bhosale (Consultant)

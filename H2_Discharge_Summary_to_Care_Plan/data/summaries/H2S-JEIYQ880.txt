@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Vikram Shah                    Age/Sex  : 54 Y / M
+UHID       : CDH8648904                     IP No.   : IP/26/926032
+DOA        : 04 Apr 2026                    DOD      : 10 Apr 2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+BRIEF HISTORY:
+  - 54/M, k/c/o T2DM x 4 yrs on OHA (incl. SGLT2 inhibitor), presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+HOSPITAL COURSE:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 42 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+KEY INVESTIGATIONS:
+  - Admission ABG: pH 7.16, HCO3 13 mEq/L | Urine ketones +++ | RBS at admission 243 mg/dl | HbA1c 13.7% | S. Cr 1.0 mg/dl | K 4.0 mEq/L (at discharge)
+
+CONDITION AT DISCHARGE: Conscious, oriented, tolerating diet. BP 120/78 mmHg, PR 66/min, SpO2 99% on RA. Ketones negative.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+---------+-------+-------------+------------------+----------------------------+
+| No | Medicine                  | Dose    | Route | Frequency   | Duration         | Instructions               |
++----+---------------------------+---------+-------+-------------+------------------+----------------------------+
+| 1  | Inj. Insulin Glargine     | 22 U    | SC    | OD (0-0-1)  | Till next review | at 10 pm daily             |
+| 2  | Inj. Insulin Aspart       | 8 U     | SC    | TDS (1-1-1) | Till next review | within 15 min before meals |
+| 3  | Tab. Metformin (Glycomet) | 500 mg  | PO    | BD (1-0-1)  | Till review      | PC                         |
+| 4  | Tab. Levothyroxine        | 100 mcg | PO    | OD (1-0-0)  | Lifelong         | empty stomach              |
++----+---------------------------+---------+-------+-------------+------------------+----------------------------+
+  To continue other previous medicines for HTN as before (unchanged).
+
+MEDICINES TO BE STOPPED:
+  - Tab. Empagliflozin 10 mg (risk of ketoacidosis - do not restart)
+
+ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Carry glucose / sugar at all times
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting, pain in abdomen, fast breathing or drowsiness
+
+FOLLOW-UP:
+  - Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 17 Apr 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. R. Venkatesh (Consultant)

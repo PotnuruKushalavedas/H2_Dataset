@@ -1,0 +1,42 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Gurpreet Verma, 37/M  UHID: CDH5115168  IP: IP/26/143250
+DOA: 08-May-26  DOD: 13-May-26  Cons: Dr. Kavita Deshmukh (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Acute severe asthma (exacerbation of bronchial asthma)
+
+H/o: 37/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 3 days, unable to complete sentences.
+
+Course: Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 127 to 341 L/min. Inhaler technique taught.
+
+Ix: PEFR at discharge 341 L/min, CXR: no pneumothorax, no consolidation, AEC 305/cumm, TLC 7,200/cumm
+
+Condn at d/c: No wheeze at rest, speaking full sentences. BP 114/72 mmHg, PR 87/min, SpO2 96% on RA.
+
+Rx on discharge:
+1) MDI Foracort 200 2 puffs BD till review (with spacer; rinse mouth after use)
+2) MDI Asthalin 2 puffs SOS for breathlessness / wheeze (not more than 8 puffs in 24 h)
+3) T. Omnacortil 30 mg OD x 5 days then 20 mg OD x 5 days then 10 mg OD x 5/7 then stop (after breakfast)
+
+Adv:
+  Diet:
+  - Normal diet as tolerated
+  Activity:
+  - Avoid dust, smoke and cold air (asthma triggers)
+  - Gradual increase in walking as tolerated
+  Others:
+  - Inhaler technique demonstrated - use with spacer
+
+Review SOS if:
+- Wheeze or breathlessness not relieved by the reliever inhaler
+- Too breathless to complete sentences
+- Bluish lips / fingertips, drowsiness or confusion
+- Chest pain / heaviness / sweating
+
+F/U:
+- Pulmonary Medicine (Chest) OPD on 28-May-26 - Review with reports
+- Pulmonary Medicine (Chest) OPD on 10-Jun-26 (Wed) - PFT / spirometry
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Kavita Deshmukh (Consultant)

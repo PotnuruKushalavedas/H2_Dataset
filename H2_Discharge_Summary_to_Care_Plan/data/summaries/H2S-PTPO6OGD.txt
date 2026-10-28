@@ -1,0 +1,53 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Parvati Patel    Age: 58 years    Sex: Female
+UHID: CDH7343122    IP Number: IP/26/212710
+Date of admission: 3rd June 2026    Date of discharge: 7th June 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate
+  - 2. Rheumatic heart disease - moderate mitral stenosis
+  - 3. Systemic hypertension
+
+HISTORY:
+  - 58/F, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 158/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 74/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: thickened MV, MVA 1.3 cm2, LA dilated, LVEF 50%; S. Cr 0.6 mg/dl; Hb 14.4 g/dl; TSH 1.2 mIU/L; Weight 60 kg; INR at discharge 2.3
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 120/74 mmHg, PR 80/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate 25 mg once daily in the morning lifelong
+2. Tablet Acenocoumarol 1 mg once daily at night after dinner till the next review (further dose as per INR)
+3. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Get PT/INR check done on 12th June 2026 (Fri) (Central lab)
+  - Review with reports in Cardiology OPD on 22nd June 2026 (Mon). Please bring: ECG, INR.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

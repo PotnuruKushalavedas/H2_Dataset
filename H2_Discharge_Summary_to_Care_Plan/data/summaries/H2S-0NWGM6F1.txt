@@ -1,0 +1,56 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Thomas Qureshi                 Age/Sex  : 31 Y / M
+UHID       : CDH2007942                     IP No.   : IP/26/845759
+DOA        : 24 May 2026                    DOD      : 29 May 2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+BRIEF HISTORY:
+  - 31/M, presented with cough x 4 weeks, evening rise of temperature, loss of appetite and weight loss of 7 kg, with 2 episodes of streaky haemoptysis.
+
+HOSPITAL COURSE:
+  - Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 25 May 2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+KEY INVESTIGATIONS:
+  - Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: right upper zone infiltrates | Hb 10.2 g/dl | LFT: within normal limits | RBS 120 mg/dl | HIV: non-reactive | Weight 49 kg
+
+CONDITION AT DISCHARGE: Afebrile for 3 days, tolerating ATT. BP 110/76 mmHg, PR 85/min, SpO2 98% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------------------+--------+-------+------------+-------------+-----------------------------------------------------------------------------------------------------+
+| No | Medicine                                                        | Dose   | Route | Frequency  | Duration    | Instructions                                                                                        |
++----+-----------------------------------------------------------------+--------+-------+------------+-------------+-----------------------------------------------------------------------------------------------------+
+| 1  | Tab. Isoniazid + Rifampicin + Pyrazinamide + Ethambutol (4-FDC) | 3 tabs | PO    | OD (1-0-0) | 52 days     | empty stomach; as per weight band; to complete 8 weeks of intensive phase; review for CP thereafter |
+| 2  | Tab. Pyridoxine                                                 | 10 mg  | PO    | OD (1-0-0) | Till review |                                                                                                     |
++----+-----------------------------------------------------------------+--------+-------+------------+-------------+-----------------------------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High protein diet - dal / eggs / milk / soya
+    - Avoid alcohol completely
+  Other:
+    - Daily ATT without missing doses - full course to be completed
+    - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    - Household contacts - TB screening at nearest PHC
+    - Stop smoking and all forms of tobacco
+    - Orange-red urine expected with rifampicin (harmless)
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  - Blurred vision / difficulty in distinguishing colours
+  - Skin rash or itching all over the body
+  - Haemoptysis (coughing out blood)
+  - Breathlessness / difficulty in breathing
+
+FOLLOW-UP:
+  - LFT and review - TB clinic (DOTS centre) on 13 Jun 2026
+  - Sputum examination at end of intensive phase - DOTS centre / TB clinic on 21 Jul 2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. Kavita Deshmukh (Consultant)

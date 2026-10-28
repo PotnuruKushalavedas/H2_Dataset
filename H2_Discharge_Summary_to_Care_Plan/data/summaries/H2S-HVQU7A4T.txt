@@ -1,0 +1,50 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Sangeeta Naidu
+Age / Sex    : 51 yrs / Female
+UHID         : CDH3888590      IP No: IP/26/448568
+Admitted on  : 01/02/2026      Discharged on: 06/02/2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 51/F, k/c/o T2DM x 1 yr on OHA, presented with vomiting, pain abdomen and breathlessness x 1 day; precipitant: UTI.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 41 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.24, HCO3 13 mEq/L; Urine ketones +++; RBS at admission 539 mg/dl; HbA1c 11.0%; S. Cr 0.8 mg/dl; K 4.4 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 118/72 mmHg, PR 66/min, SpO2 98% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Insulin Glargine (Lantus) 12 U SC 0-0-1 (HS) till review
+- Inj. Actrapid 4 U SC 1-1-1 ½ hr before meals till review
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small frequent meals; do not skip meals
+    * Adequate oral fluids - 2 to 3 litres per day
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    * Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    * Carry glucose / sugar at all times
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting / pain abdomen / rapid breathing / drowsiness
+
+Follow-up:
+  * Review with SMBG chart - Diabetes Clinic (Medicine OPD) on 11/02/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

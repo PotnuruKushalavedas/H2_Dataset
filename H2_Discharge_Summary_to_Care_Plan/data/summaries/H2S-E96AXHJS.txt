@@ -1,0 +1,70 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Rahul Hembram                  Age/Sex  : 61 Y / M
+UHID       : CDH7411495                     IP No.   : IP/26/186435
+DOA        : 07 Aug 2026                    DOD      : 13 Aug 2026
+Consultant : Dr. H. S. Grewal, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+  - 3. Type 2 diabetes mellitus
+
+BRIEF HISTORY:
+  - 61/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 1.1 ng/ml (raised).
+
+HOSPITAL COURSE:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 08 Aug 2026: 92% stenosis of proximal LAD; PCI with 1 DES done. No post-procedure complications.
+
+PROCEDURE(S) DONE:
+  - CAG + PCI with 1 DES to LAD (08 Aug 2026)
+
+KEY INVESTIGATIONS:
+  - Hb 14.5 g/dl | S. Cr 1.2 mg/dl | K 4.4 mEq/L | LDL 132 mg/dl | 2D Echo: RWMA in LAD territory, LVEF 47% | HbA1c 9.0%
+
+CONDITION AT DISCHARGE: Chest pain free, haemodynamically stable. BP 120/78 mmHg, PR 69/min, SpO2 99% on RA. Femoral/radial site healthy.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+--------+-------+------------+----------+--------------------------------------------------------------------------------+
+| No | Medicine                               | Dose   | Route | Frequency  | Duration | Instructions                                                                   |
++----+----------------------------------------+--------+-------+------------+----------+--------------------------------------------------------------------------------+
+| 1  | Tab. Aspirin                           | 75 mg  | PO    | OD (0-1-0) | Lifelong | after lunch                                                                    |
+| 2  | Tab. Clopidogrel                       | 75 mg  | PO    | OD (1-0-0) | 1 year   |                                                                                |
+| 3  | Tab. Rosuvastatin                      | 20 mg  | PO    | HS (0-0-1) | Lifelong |                                                                                |
+| 4  | Tab. Metoprolol Succinate              | 25 mg  | PO    | OD (1-0-0) | Lifelong |                                                                                |
+| 5  | Tab. Ramipril                          | 5 mg   | PO    | OD (1-0-0) | Lifelong |                                                                                |
+| 6  | Tab. Pantoprazole                      | 40 mg  | PO    | OD (1-0-0) | 3 months | 30 min before breakfast                                                        |
+| 7  | Tab. Isosorbide Dinitrate (Sorbitrate) | 5 mg   | SL    | SOS        | -        | for chest pain; under the tongue for chest pain, may repeat every 5 min, max 3 |
+| 8  | Tab. Metformin (Glycomet)              | 500 mg | PO    | BD (1-0-1) | Lifelong | after food                                                                     |
+| 9  | Tab. Empagliflozin                     | 10 mg  | PO    | OD (1-0-0) | Lifelong |                                                                                |
++----+----------------------------------------+--------+-------+------------+----------+--------------------------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  Activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - Avoid driving x 1 week
+  Other:
+    - Stop smoking and all forms of tobacco
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - Chest pain - sit, 1 tab SL; repeat q5min up to 3 tabs
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Chest pain not relieved after 3 SL tablets taken 5 min apart
+  - Breathlessness or difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 20 Aug 2026; bring reports: ECG
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

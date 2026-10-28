@@ -1,0 +1,48 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Ravi Krishnan, 45/M  UHID: CDH4790295  IP: IP/26/571863
+DOA: 11/09/2026  DOD: 16/09/2026  Cons: Dr. H. S. Grewal (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Acute decompensated heart failure (HFrEF)
+- Dilated cardiomyopathy, LVEF 38%
+
+H/o: 45/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 5 days.
+
+Course: Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4 L; weight down from 74 kg to 70 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Ix: NT-proBNP 3407 pg/ml, S. Cr 0.6 mg/dl, Na 134 mEq/L, K 4.1 mEq/L, 2D Echo: LVEF 38%, global hypokinesia, CXR: cardiomegaly, resolving pulmonary congestion
+
+Condn at d/c: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 84/min, SpO2 98% on RA. Dry weight 70 kg.
+
+Rx on discharge:
+1) T. Lasix 40 OD till next review
+2) T. Metoprolol Succinate ER 25 mg OD lifelong
+3) T. Enalapril 2.5 mg BD lifelong
+4) T. Aldactone 25 OD lifelong
+5) T. Forxiga 10 mg OD life long
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+  - Gradually increase walking as tolerated
+  Others:
+  - Check weight every morning and keep a record
+  - Avoid OTC painkillers (NSAIDs) without medical advice
+
+Review SOS if:
+- Wt gain > 2 kg in 3 days
+- Breathlessness at rest or on lying flat
+- Increasing swelling of feet or legs
+- Urine output markedly reduced
+- Giddiness, fainting or loss of consciousness
+- Palpitations - fast / irregular heart beat
+
+F/U:
+- HF clinic (Cardiology OPD) on 23/09/2026 - Review with reports with S. Creatinine, S. Electrolytes, Weight chart
+- Cardiology OPD on 15/12/2026 - 2D Echo + review
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Deepak Chauhan (Resident)      Dr. H. S. Grewal (Consultant)

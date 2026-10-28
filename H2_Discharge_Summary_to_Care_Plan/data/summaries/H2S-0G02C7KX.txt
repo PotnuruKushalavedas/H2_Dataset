@@ -1,0 +1,64 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                        Department of Orthopaedics                        
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Krishna Khan                   Age/Sex  : 63 Y / M
+UHID       : CDH3787978                     IP No.   : IP/26/558922
+DOA        : 17/04/2026                     DOD      : 23/04/2026
+Consultant : Dr. A. Sengupta, MS (Orthopaedics) Unit     : Ortho Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Intertrochanteric fracture left femur
+  - 2. s/p Closed reduction and PFN fixation (19/04/2026)
+
+BRIEF HISTORY:
+  - 63/M, h/o trivial fall at home; unable to bear weight on left lower limb since then.
+
+HOSPITAL COURSE:
+  - Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 19/04/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+PROCEDURE(S) DONE:
+  - Closed reduction and internal fixation with PFN under SA (19/04/2026)
+
+KEY INVESTIGATIONS:
+  - Hb 12.5 g/dl | S. Cr 0.7 mg/dl | Weight 86 kg | Post-op X-ray: fracture fixed in good alignment | RBS 119 mg/dl
+
+CONDITION AT DISCHARGE: Afebrile, wound healthy, distal pulses felt. BP 110/70 mmHg, PR 71/min, SpO2 97% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| No | Medicine                            | Dose      | Route | Frequency   | Duration | Instructions                                    |
++----+-------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+| 1  | Inj. Enoxaparin (Clexane)           | 40 mg     | SC    | OD (1-0-0)  | 28 days  | SC over abdomen                                 |
+| 2  | Tab. Paracetamol                    | 650 mg    | PO    | TDS (1-1-1) | 2 weeks  | after food                                      |
+| 3  | Cap. Tramadol                       | 50 mg     | PO    | SOS         | -        | for severe pain; max 2 doses/day                |
+| 4  | Tab. Calcium + Vitamin D3 (Shelcal) | 500 mg    | PO    | BD (1-1-0)  | 3 months | after food                                      |
+| 5  | Sachet Vitamin D3 (Cholecalciferol) | 60,000 IU | PO    | once weekly | 8 weeks  | on the same day each week; with a glass of milk |
+| 6  | Syp. Duphalac                       | 15 mL     | PO    | HS (0-0-1)  | 2 weeks  |                                                 |
+| 7  | Tab. Pantoprazole                   | 40 mg     | PO    | OD (1-0-0)  | 2 weeks  | ½ hr before breakfast                           |
++----+-------------------------------------+-----------+-------+-------------+----------+-------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    - Walker-assisted mobilisation - PWB (toe touch) on operated limb
+  Wound care:
+    - Keep wound site clean and dry
+  Other:
+    - Fall prevention - night light, remove loose rugs, use support while walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Calf pain / leg swelling - ? DVT (clot in leg vein)
+  - Redness, swelling, pus or discharge from the wound
+  - Fever > 100.4 F (38 C)
+  - Breathlessness / difficulty in breathing
+  - Operated leg - numbness / tingling / bluish discolouration / severe swelling
+
+FOLLOW-UP:
+  - Suture removal - Ortho OPD on 04/05/2026 (POD 15)
+  - Review with check X-ray - Ortho OPD on 21/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Priya Menon (Resident)      Dr. A. Sengupta (Consultant)

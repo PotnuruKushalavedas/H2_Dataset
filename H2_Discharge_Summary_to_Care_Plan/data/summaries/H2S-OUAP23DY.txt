@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Rukhsana Gowda
+Age / Sex    : 86 yrs / Female
+UHID         : CDH3225511      IP No: IP/26/160292
+Admitted on  : 06.04.2026      Discharged on: 09.04.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+
+Brief History:
+  * 86/F, presented with palpitations and breathlessness on exertion x 7 days. ECG: AF with FVR (HR 143/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 81/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 53%; S. Cr 0.7 mg/dl; Hb 13.0 g/dl; TSH 3.2 mIU/L; Weight 57 kg; CrCl (Cockcroft-Gault) 51 ml/min; CHA2DS2-VASc score 3
+
+Condition at Discharge: Stable, rate controlled. BP 130/74 mmHg, PR 89/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Diltiazem 30 mg 1-1-1 till next review
+- Tab. Apixaban 2.5 mg 1-0-1 long term (lifelong)
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+Danger signs - report to Casualty immediately:
+  * Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations (fast or irregular heartbeat)
+  * Giddiness / fainting / LOC
+  * Breathlessness / difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 23.04.2026; bring reports: ECG, S. Creatinine, CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. H. S. Grewal (Consultant)

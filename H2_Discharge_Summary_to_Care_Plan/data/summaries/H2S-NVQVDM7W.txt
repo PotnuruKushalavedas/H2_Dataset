@@ -1,0 +1,66 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Subhash Gaikwad    Age: 69 years    Sex: Male
+UHID: CDH6507294    IP Number: IP/26/947317
+Date of admission: 11 Sep 2026    Date of discharge: 15 Sep 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to LAD
+  - 3. Type 2 diabetes mellitus
+
+HISTORY:
+  - 69/M, k/c/o T2DM, presented with c/o chest heaviness on exertion progressing to rest pain x 1 day. ECG: ST depression in V4-V6. Trop I 7.5 ng/ml (raised).
+
+COURSE IN THE HOSPITAL:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 13 Sep 2026: 85% stenosis of mid LAD; PCI with 1 DES done. No post-procedure complications.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to LAD (13 Sep 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 13.5 g/dl; S. Cr 0.8 mg/dl; K 4.3 mEq/L; LDL 132 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 45%; HbA1c 8.6%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 110/80 mmHg, PR 79/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch to continue lifelong
+2. Tablet Ticagrelor 90 mg twice daily for 12 months
+3. Tablet Atorvastatin (Storvas) 80 mg once daily at bedtime to continue lifelong
+4. Tablet Bisoprolol 5 mg once daily in the morning to continue lifelong
+5. Tablet Cardace 5 mg once daily in the morning to continue lifelong
+6. Tablet Rabeprazole (Rablet) 20 mg once daily in the morning ½ hr before breakfast until the next visit
+7. Tablet Sorbitrate 5 mg SL only if needed (SOS) for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+8. Tablet Glycomet 500 mg twice daily PC lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Heart healthy diet: vegetables, fruits, whole grains; no fried food / excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  Physical activity:
+    - Level-ground walking 10-15 min BD x first 2 weeks; avoid repeated stair climbing
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other instructions:
+    - No smoking / no tobacco in any form
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness / fainting / LOC
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 25 Sep 2026. Please bring: ECG.
+  - Fasting lipid profile on 27 Oct 2026 at Hospital laboratory
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. Meenakshi Rao (Consultant)

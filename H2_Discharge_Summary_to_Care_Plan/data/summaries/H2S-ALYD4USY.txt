@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Raju Thomas
+Age / Sex    : 47 yrs / Male
+UHID         : CDH9882366      IP No: IP/26/578369
+Admitted on  : 07.05.2026      Discharged on: 12.05.2026
+Consultant   : Dr. R. Venkatesh, MD (Medicine) (Medicine Unit III)
+
+Final Diagnosis:
+  * Diabetic ketoacidosis (moderate) - resolved
+  * Type 2 diabetes mellitus (ketosis-prone)
+
+Brief History:
+  * 47/M, k/c/o T2DM x 2 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: missed medicines.
+
+Course in Hospital:
+  * Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 48 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Investigations:
+  * Admission ABG: pH 7.18, HCO3 7 mEq/L; Urine ketones +++; RBS at admission 439 mg/dl; HbA1c 13.8%; S. Cr 1.0 mg/dl; K 4.0 mEq/L (at discharge)
+
+Condition at Discharge: Conscious, oriented, tolerating diet. BP 114/74 mmHg, PR 74/min, SpO2 97% on RA. Ketones negative.
+
+Medications at Discharge:
+- Inj. Lantus 14 U SC 0-0-1 (HS) till review
+- Inj. Human Regular Insulin 4 U SC 1-1-1 30 min before meals till next review
+- Tab. Metformin 500 mg 1-0-1 after food till next review
+
+Advice on Discharge:
+  Diet:
+    * Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    * Small, frequent meals - do not skip any meal
+    * Oral fluids 2-3 L/day
+  General:
+    * SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+    * Always carry sugar or glucose with you
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+  * Vomiting, pain in abdomen, fast breathing or drowsiness
+
+Follow-up:
+  * Review with sugar chart - DM clinic, Medicine OPD on 18.05.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. R. Venkatesh (Consultant)

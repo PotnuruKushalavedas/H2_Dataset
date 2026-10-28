@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Sunil Thomas
+Age / Sex    : 42 yrs / Male
+UHID         : CDH6792756      IP No: IP/26/149047
+Admitted on  : 13.07.2026      Discharged on: 17.07.2026
+Consultant   : Dr. Anil Bhosale, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Community-acquired pneumonia (left lower lobe) - CURB-65 score 1
+  * Type 2 diabetes mellitus
+  * Hypothyroidism
+
+Brief History:
+  * 42/M, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 7 days.
+
+Course in Hospital:
+  * Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 1 day. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+Investigations:
+  * TLC 15,600/cumm; CRP 141 mg/L; CXR: consolidation left lower lobe; S. Cr 0.7 mg/dl; Blood C/S: no growth
+
+Condition at Discharge: Afebrile, comfortable. BP 114/70 mmHg, PR 68/min, SpO2 97% on RA. Chest: crepts reducing.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 after food x 5 days
+- Tab. Paracetamol 500 mg SOS for pain (max 4 doses/day)
+- Tab. Levothyroxine 75 mcg 1-0-0 empty stomach lifelong
+Continue previous medications for T2DM as before.
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+    * Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    * Deep breathing exercises - 10 breaths every hour when awake
+    * Gradually increase walking as tolerated
+  General:
+    * Flu + pneumococcal vaccine advised
+    * No smoking / no tobacco in any form
+
+Danger signs - report to Casualty immediately:
+  * Recurrence of fever / fever > 3 days after discharge
+  * Breathlessness or difficulty in breathing
+  * Chest pain, heaviness or sweating
+  * Bluish lips or fingertips, drowsiness or confusion
+  * Coughing up blood
+
+Follow-up:
+  * Review with reports - Chest OPD on 27.07.2026 (Mon); bring reports: CBC
+  * Repeat chest X-ray - Pulmonary Medicine (Chest) OPD on 28.08.2026 (Fri)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Anil Bhosale (Consultant)

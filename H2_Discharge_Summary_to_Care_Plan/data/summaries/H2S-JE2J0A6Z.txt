@@ -1,0 +1,58 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Tarun Sandhu                   Age/Sex  : 52 Y / M
+UHID       : CDH9538079                     IP No.   : IP/26/489002
+DOA        : 20/06/2026                     DOD      : 27/06/2026
+Consultant : Dr. Kavita Deshmukh, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+
+BRIEF HISTORY:
+  - 52/M, h/o long-term chulha smoke exposure, k/c/o COPD x 12 yrs, presented with increased breathlessness, cough with purulent sputum x 3 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.35, pCO2 48 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 15,100/cumm | RBS 119 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 2. BP 126/76 mmHg, PR 69/min, SpO2 94% on RA.
+
+DISCHARGE MEDICATIONS:
++----+--------------------------------------+----------------+-------+------------+----------+----------------------------------------------+
+| No | Medicine                             | Dose           | Route | Frequency  | Duration | Instructions                                 |
++----+--------------------------------------+----------------+-------+------------+----------+----------------------------------------------+
+| 1  | Rotacap Tiotropium (Tiova)           | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | with rotahaler device                        |
+| 2  | Inh. Foracort (6/200 mcg)            | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; rinse mouth after use            |
+| 3  | Inh. Salbutamol (Asthalin) (100 mcg) | 2 puffs        | Inh   | SOS        | -        | for breathlessness / wheeze; max 8 puffs/day |
+| 4  | Tab. Prednisolone                    | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                              |
+| 5  | Tab. Amoxicillin-Clavulanate         | 625 mg         | PO    | BD (1-0-1) | 5 days   | after food                                   |
++----+--------------------------------------+----------------+-------+------------+----------+----------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed-lip breathing and daily walking as tolerated
+    - Avoid exposure to chulha (wood/cow-dung) smoke and dust
+  Other:
+    - Inhaler technique taught; to use with spacer
+    - Flu + pneumococcal vaccine advised
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness or difficulty in breathing
+  - Wheeze or breathlessness not relieved by the reliever inhaler
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increased sputum / sputum turning yellow or green
+
+FOLLOW-UP:
+  - Review with reports - Pulmonary Medicine (Chest) OPD on 07/07/2026 (Tue)
+  - Spirometry (PFT) - Chest OPD on 08/08/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. Kavita Deshmukh (Consultant)

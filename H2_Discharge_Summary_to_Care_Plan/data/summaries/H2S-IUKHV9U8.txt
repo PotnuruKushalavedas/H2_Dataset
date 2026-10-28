@@ -1,0 +1,59 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Vikram Yadav
+Age / Sex    : 27 yrs / Male
+UHID         : CDH1410237      IP No: IP/26/590100
+Admitted on  : 29/04/2026      Discharged on: 01/05/2026
+Consultant   : Dr. N. Chakraborty, MS (General Surgery) (Surgery Unit II)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Laparoscopic appendicectomy (29/04/2026)
+
+Brief History:
+  * 27/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency laparoscopic appendicectomy under GA on 29/04/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure:
+  * Laparoscopic appendicectomy under GA (29/04/2026)
+
+Investigations:
+  * TLC 16,100/cumm; CRP 134 mg/L; HPE: awaited; Hb 12.8 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 126/70 mmHg, PR 85/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 5 days
+- Tab. Metronidazole 400 mg 1-1-1 PC x 5 days (avoid alcohol)
+- Tab. Crocin 650 mg SOS for pain (not more than 3 doses in 24 h)
+- Tab. Brufen 400 mg 1-1-1 after food x 3 days
+- Tab. Rabeprazole 20 mg 1-0-0 30 min before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * Avoid lifting weight > 5 kg x 4 weeks
+    * Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound care:
+    * Keep the wound clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Severe / increasing abdominal pain
+  * Persistent vomiting or unable to take food and fluids orally
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Wound inspection - General Surgery OPD on 09/05/2026 (POD 10)
+  * Review with histopathology report - General Surgery OPD on 13/05/2026 (Wed)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. N. Chakraborty (Consultant)

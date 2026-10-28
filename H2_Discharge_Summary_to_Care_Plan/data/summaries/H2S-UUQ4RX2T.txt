@@ -1,0 +1,48 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Harpreet Das, 72/M  UHID: CDH1117748  IP: IP/26/848605
+DOA: 17-Mar-26  DOD: 24-Mar-26  Cons: Dr. Farah Siddiqui (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Type 2 diabetes mellitus - uncontrolled
+- Cellulitis left foot
+- Systemic hypertension
+
+H/o: 72/M, k/c/o T2DM x 12 yrs, presented with swelling, redness and pain over left foot x 7 days following a minor injury. RBS 449 mg/dl.
+
+Course: Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+Ix: HbA1c 11.3%, FBS 272 mg/dl, PPBS 392 mg/dl, S. Cr 1.0 mg/dl, Urine routine: sugar ++, ketones nil, Hb 14.2 g/dl
+
+Condn at d/c: Afebrile, stable. BP 120/80 mmHg, PR 80/min, SpO2 99% on RA. Sugars in target range.
+
+Rx on discharge:
+1) T. Glyciphage 500 mg BD after food till review
+2) T. Galvus 50 mg BD till review
+3) Inj. Lantus 8 IU SC OD at 10 pm daily till review
+4) T. Augmentin 625 mg TDS PC x 5 days
+5) T. Crocin 650 SOS for fever / pain (max 4 doses/day)
+6) T. Telma 40 mg OD life long
+
+Adv:
+  Diet:
+  - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+  - Small frequent meals; do not skip meals
+  Others:
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Check fasting and post-meal blood sugar at home twice a week and keep a record
+  - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Wound site redness / swelling / pus or discharge
+- Fever above 100.4 F (38 C)
+- Sugar > 300 mg/dl on 2 readings
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+
+F/U:
+- Gen. Medicine OPD on 03-Apr-26 - Review with reports with FBS, PPBS
+- DM clinic, Medicine OPD on 22-Jun-26 (Mon) - Review with HbA1c
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Farah Siddiqui (Consultant)

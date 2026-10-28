@@ -1,0 +1,55 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Kishore D'Souza    Age: 84 years    Sex: Male
+UHID: CDH8398141    IP Number: IP/26/389701
+Date of admission: 22nd January 2026    Date of discharge: 26th January 2026
+Under the care of: Dr. Meenakshi Rao, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+
+HISTORY:
+  - 84/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 9 days. ECG: AF with FVR (HR 139/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 78/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 56%; S. Cr 0.6 mg/dl; Hb 11.8 g/dl; TSH 2.8 mIU/L; Weight 69 kg; INR at discharge 2.2; CrCl (Cockcroft-Gault) 89 ml/min; CHA2DS2-VASc score 3
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 118/76 mmHg, PR 79/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Diltiazem 30 mg three times daily till the next review
+2. Tablet Acenocoumarol (Acitrom) 2 mg once daily at night after dinner until the next visit (dose as per INR)
+3. Tablet Telmisartan 40 mg once daily in the morning lifelong
+
+PLEASE STOP:
+  - Tab. Aspirin 75 mg (since started on anticoagulant)
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - No self-adjustment of anticoagulant dose; consult before any new drug
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+  - Breathlessness or difficulty in breathing
+
+REVIEW:
+  - Get INR test done on 31st January 2026 (Hospital laboratory)
+  - Review with reports in Cardiology OPD on 9th February 2026 (Mon). Please bring: ECG, INR.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. Meenakshi Rao (Consultant)

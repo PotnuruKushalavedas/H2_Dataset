@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Thomas Rathore    Age: 72 years    Sex: Male
+UHID: CDH3929922    IP Number: IP/26/597668
+Date of admission: 19 Jul 2026    Date of discharge: 26 Jul 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+HISTORY:
+  - 72/M, k/c/o T2DM x 9 yrs, presented with swelling, redness and pain over left foot x 7 days following a minor injury. RBS 414 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 9.6%; FBS 319 mg/dl; PPBS 407 mg/dl; S. Cr 1.0 mg/dl; Urine routine: sugar ++, ketones nil; Hb 12.0 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 114/74 mmHg, PR 70/min, SpO2 98% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 500 mg twice daily PC until the next visit
+2. Tablet Sitagliptin 100 mg once daily in the morning until the next visit
+3. Tablet Amoxicillin-Clavulanate 625 mg three times daily after food for 5 days
+4. Tablet Atorvastatin 20 mg once daily at bedtime to continue lifelong
+5. Tablet Paracetamol (Dolo) 650 mg only if needed (SOS) for pain (max 4 doses/day)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Gen. Medicine OPD on 10 Aug 2026 (Mon). Please bring: FBS, PPBS.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Farah Siddiqui (Consultant)

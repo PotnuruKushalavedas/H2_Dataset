@@ -1,0 +1,51 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Subhash Siddiqui
+Age / Sex    : 73 yrs / Male
+UHID         : CDH7725590      IP No: IP/26/891650
+Admitted on  : 06.06.2026      Discharged on: 09.06.2026
+Consultant   : Dr. H. S. Grewal, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Atrial fibrillation with fast ventricular rate (non-valvular)
+  * Systemic hypertension
+
+Brief History:
+  * 73/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 4 days. ECG: AF with FVR (HR 148/min).
+
+Course in Hospital:
+  * Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 87/min at discharge.
+
+Investigations:
+  * 2D Echo: LA dilated, no significant valvular disease, LVEF 50%; S. Cr 0.9 mg/dl; Hb 13.2 g/dl; TSH 2.2 mIU/L; Weight 69 kg; CrCl (Cockcroft-Gault) 71 ml/min; CHA2DS2-VASc score 2
+
+Condition at Discharge: Stable, rate controlled. BP 126/76 mmHg, PR 75/min, SpO2 99% on RA.
+
+Medications at Discharge:
+- Tab. Metoprolol Succinate 25 mg 1-0-0 lifelong
+- Tab. Apixaban 5 mg 1-0-1 lifelong
+- Tab. Amlodipine 5 mg 1-0-0 lifelong
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+    * Gradual increase in walking as tolerated
+  General:
+    * Do not take painkillers from the chemist without doctor's advice
+    * Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+
+Danger signs - report to Casualty immediately:
+  * Any bleeding - gums, urine, black or red stools, vomiting blood
+  * Sudden weakness of face, arm or leg, or slurred speech
+  * Palpitations - fast / irregular heart beat
+  * Giddiness / fainting / LOC
+  * Breathlessness or difficulty in breathing
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 24.06.2026; bring reports: ECG, S. Creatinine, CBC
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,52 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Ganesh Thomas    Age: 43 years    Sex: Male
+UHID: CDH1881234    IP Number: IP/26/163985
+Date of admission: 03 Aug 2026    Date of discharge: 10 Aug 2026
+Under the care of: Dr. Anil Bhosale, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Diabetic ketoacidosis (moderate) - resolved
+  - 2. Type 2 diabetes mellitus (ketosis-prone)
+
+HISTORY:
+  - 43/M, k/c/o T2DM x 1 yr on OHA, presented with vomiting, pain abdomen and breathlessness x 2 days; precipitant: missed medicines.
+
+COURSE IN THE HOSPITAL:
+  - Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 28 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+RELEVANT INVESTIGATIONS:
+  - Admission ABG: pH 7.22, HCO3 7 mEq/L; Urine ketones +++; RBS at admission 385 mg/dl; HbA1c 13.2%; S. Cr 0.8 mg/dl; K 4.0 mEq/L (at discharge)
+
+CONDITION AT THE TIME OF DISCHARGE: Conscious, oriented, tolerating diet. BP 130/70 mmHg, PR 88/min, SpO2 96% on RA. Ketones negative.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Injection Insulin Glargine (Glaritus) 12 U SC once daily at night at 10 pm daily till the next review
+2. Injection Human Regular Insulin (Actrapid) 4 U SC three times daily 30 min before meals till the next review
+3. Tablet Ondansetron (Emeset) 4 mg only if needed (SOS) for nausea / vomiting (not more than 3 doses in 24 h)
+
+GENERAL ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+    - Adequate oral fluids - 2 to 3 litres per day
+  Other instructions:
+    - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+    - Injection technique explained: rotate sites (abdomen / thigh); keep insulin in fridge (not freezer)
+    - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+    - Always carry sugar or glucose with you
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  - Sugar > 300 mg/dl on 2 readings
+  - Vomiting / pain abdomen / rapid breathing / drowsiness
+
+REVIEW:
+  - Get RFT + S. electrolytes done on 14 Aug 2026 (Central lab)
+  - Review with sugar chart in DM clinic, Medicine OPD on 17 Aug 2026 (Mon).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Priya Menon (Resident)      Dr. Anil Bhosale (Consultant)

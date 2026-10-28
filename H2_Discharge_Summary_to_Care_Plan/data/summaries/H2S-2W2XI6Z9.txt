@@ -1,0 +1,59 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                     Department of Pulmonary Medicine                     
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Biju Bhatt                     Age/Sex  : 73 Y / M
+UHID       : CDH1874792                     IP No.   : IP/26/305362
+DOA        : 29 Jan 2026                    DOD      : 05 Feb 2026
+Consultant : Dr. T. Raghavan, MD (Pulmonary Medicine) Unit     : Chest Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute exacerbation of COPD (infective)
+  - 2. BPH
+
+BRIEF HISTORY:
+  - 73/M, chronic smoker (27 pack-yrs), k/c/o COPD x 3 yrs, presented with increased breathlessness, cough with purulent sputum x 7 days.
+
+HOSPITAL COURSE:
+  - Managed with nebulised salbutamol and ipratropium, IV hydrocortisone, IV antibiotics and controlled O2 (target SpO2 88-92%). Improved; weaned to room air.
+
+KEY INVESTIGATIONS:
+  - ABG at admission: pH 7.31, pCO2 60 mmHg | CXR: hyperinflated lung fields, no consolidation | TLC 12,100/cumm | RBS 186 mg/dl | ECG: sinus rhythm
+
+CONDITION AT DISCHARGE: Breathlessness mMRC grade 3. BP 114/80 mmHg, PR 69/min, SpO2 92% on RA.
+
+DISCHARGE MEDICATIONS:
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| No | Medicine                                            | Dose           | Route | Frequency  | Duration | Instructions                                                |
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+| 1  | Rotacap Tiotropium (Tiova)                          | 18 mcg (1 cap) | Inh   | OD (1-0-0) | Lifelong | via rotahaler                                               |
+| 2  | Inh. Budesonide + Formoterol (Foracort) (6/200 mcg) | 2 puffs        | Inh   | BD (1-0-1) | Lifelong | via spacer; gargle after use                                |
+| 3  | Inh. Salbutamol (Asthalin) (100 mcg)                | 2 puffs        | Inh   | SOS        | -        | for wheeze or breathlessness; not more than 8 puffs in 24 h |
+| 4  | Tab. Prednisolone (Omnacortil)                      | 40 mg          | PO    | OD (1-0-0) | 5 days   | after breakfast                                             |
+| 5  | Tab. Amoxycillin + Clavulanic acid                  | 625 mg         | PO    | BD (1-0-1) | 5 days   | after food                                                  |
+| 6  | Cap. Tamsulosin (Veltam)                            | 0.4 mg         | PO    | HS (0-0-1) | Lifelong |                                                             |
++----+-----------------------------------------------------+----------------+-------+------------+----------+-------------------------------------------------------------+
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+  Activity:
+    - Pursed-lip breathing and daily walking as tolerated
+  Other:
+    - Inhaler technique demonstrated - use with spacer
+    - Influenza and pneumococcal vaccination advised
+    - No smoking / no tobacco in any form
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Breathlessness / difficulty in breathing
+  - Wheeze / breathlessness not settling with reliever inhaler
+  - Bluish lips or fingertips, drowsiness or confusion
+  - Fever above 100.4 F (38 C)
+  - Increase in sputum quantity or change to yellow/green colour
+
+FOLLOW-UP:
+  - Review with reports - Chest OPD on 19 Feb 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

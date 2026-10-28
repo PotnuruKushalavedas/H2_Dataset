@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Farhan Patnaik    Age: 86 years    Sex: Male
+UHID: CDH8497738    IP Number: IP/26/207726
+Date of admission: 27th June 2026    Date of discharge: 30th June 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+
+HISTORY:
+  - 86/M, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 134/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 76/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 51%; S. Cr 0.6 mg/dl; Hb 12.4 g/dl; TSH 2.9 mIU/L; Weight 59 kg; CrCl (Cockcroft-Gault) 73 ml/min; CHA2DS2-VASc score 2
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 118/78 mmHg, PR 90/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Diltiazem (Dilzem) 30 mg three times daily till the next review
+2. Tablet Rivaroxaban 20 mg once daily at night with dinner lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Gradual increase in walking as tolerated
+  Other instructions:
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face, arm or leg, or slurred speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 14th July 2026. Please bring: ECG, S. Creatinine, CBC.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. H. S. Grewal (Consultant)

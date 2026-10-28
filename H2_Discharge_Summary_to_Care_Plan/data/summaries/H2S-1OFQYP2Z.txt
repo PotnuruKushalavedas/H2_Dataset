@@ -1,0 +1,62 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Venkatesh Patel    Age: 59 years    Sex: Male
+UHID: CDH9836155    IP Number: IP/26/525276
+Date of admission: 31 Jan 2026    Date of discharge: 05 Feb 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - NSTEMI
+  - 2. CAD - SVD; s/p PCI with 1 DES to RCA
+
+HISTORY:
+  - 59/M, presented with c/o chest heaviness on exertion progressing to rest pain x 3 days. ECG: ST depression in V4-V6. Trop I 3.8 ng/ml (raised).
+
+COURSE IN THE HOSPITAL:
+  - Managed with DAPT, high-intensity statin and Inj. Fondaparinux 2.5 mg SC OD. CAG on 02 Feb 2026: 87% stenosis of mid RCA; PCI with 1 DES done. No post-procedure complications.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to RCA (02 Feb 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 13.3 g/dl; S. Cr 0.8 mg/dl; K 4.3 mEq/L; LDL 135 mg/dl; 2D Echo: RWMA in RCA territory, LVEF 47%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 114/80 mmHg, PR 85/min, SpO2 96% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch lifelong
+2. Tablet Ticagrelor 90 mg twice daily for 12 months
+3. Tablet Atorvastatin 80 mg once daily at bedtime to continue lifelong
+4. Tablet Bisoprolol 2.5 mg once daily in the morning to continue lifelong
+5. Tablet Cardace 2.5 mg once daily in the morning to continue lifelong
+6. Tablet Pantoprazole 40 mg once daily in the morning 30 min before breakfast until the next visit
+7. Tablet Isosorbide Dinitrate (Sorbitrate) 5 mg SL only if needed (SOS) for chest pain (under the tongue for chest pain, may repeat every 5 min, max 3)
+
+GENERAL ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Avoid driving x 1 week
+  Other instructions:
+    - Stop smoking and all forms of tobacco
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Bleeding from any site (gums / urine / black or red stools / blood vomiting)
+  - Palpitations - fast / irregular heart beat
+  - Giddiness / fainting / LOC
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 12 Feb 2026. Please bring: ECG.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Prakash Nair (Consultant)

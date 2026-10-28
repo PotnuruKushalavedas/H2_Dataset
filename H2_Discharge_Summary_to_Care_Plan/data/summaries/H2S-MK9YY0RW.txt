@@ -1,0 +1,48 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Surgery)
+Pt: Salim Pillai, 28/M  UHID: CDH3530860  IP: IP/26/741124
+DOA: 26-Apr-26  DOD: 02-May-26  Cons: Dr. Rajesh Kumar Verma (Surgery Unit II)
+------------------------------------------------------------
+Dx:
+- Acute appendicitis with localised perforation
+- s/p Laparoscopic appendicectomy (26-Apr-26)
+
+H/o: 28/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 9. USG: inflamed, non-compressible appendix.
+
+Course: Emergency laparoscopic appendicectomy under GA on 26-Apr-26. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV and peritoneal lavage. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure: Laparoscopic appendicectomy under GA (26-Apr-26)
+
+Ix: TLC 17,900/cumm, CRP 138 mg/L, HPE: awaited, Hb 11.5 g/dl
+
+Condn at d/c: Afebrile, wound healthy, tolerating diet. BP 118/72 mmHg, PR 66/min, SpO2 96% on RA.
+
+Rx on discharge:
+1) T. Ceftum 500 BD PC x 7/7
+2) T. Metrogyl 400 mg TDS after food x 7 days (no alcohol during course)
+3) T. Dolo 650 TDS after food x 5/7
+4) T. Pantocid 40 mg OD 30 min before breakfast x 5 days
+
+Adv:
+  Diet:
+  - Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+  - Early ambulation - walk in the house several times a day
+  - Avoid lifting weight > 5 kg x 4 weeks
+  - Splint wound with pillow on coughing / sneezing; avoid straining
+  Wound:
+  - Keep the wound clean and dry
+  - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Review SOS if:
+- Fever above 100.4 F (38 C)
+- Redness, swelling, pus or discharge from the wound
+- Severe / increasing abdominal pain
+- Persistent vomiting / not able to take orally
+- Abdominal distension, not passing stools / flatus
+
+F/U:
+- General Surgery OPD on 06-May-26 - Wound inspection (POD 10)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Rajesh Kumar Verma (Consultant)

@@ -1,0 +1,65 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                         Department of Cardiology                         
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Gurpreet Thomas                Age/Sex  : 73 Y / M
+UHID       : CDH2634655                     IP No.   : IP/26/407915
+DOA        : 31/01/2026                     DOD      : 06/02/2026
+Consultant : Dr. Meenakshi Rao, MD, DM (Cardiology) Unit     : Cardiology Unit
+==========================================================================
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 33%
+  - 3. Hypothyroidism
+
+BRIEF HISTORY:
+  - 73/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 13 days.
+
+HOSPITAL COURSE:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3 L; weight down from 72 kg to 69 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+KEY INVESTIGATIONS:
+  - NT-proBNP 5250 pg/ml | S. Cr 0.9 mg/dl | Na 138 mEq/L | K 4.0 mEq/L | 2D Echo: LVEF 33%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 77/min, SpO2 98% on RA. Dry weight 69 kg.
+
+DISCHARGE MEDICATIONS:
++----+----------------------------------------+---------+-------+------------+-------------+------------------+
+| No | Medicine                               | Dose    | Route | Frequency  | Duration    | Instructions     |
++----+----------------------------------------+---------+-------+------------+-------------+------------------+
+| 1  | Tab. Torsemide (Dytor)                 | 10 mg   | PO    | OD (1-0-0) | Till review |                  |
+| 2  | Tab. Bisoprolol (Concor)               | 2.5 mg  | PO    | OD (1-0-0) | Lifelong    |                  |
+| 3  | Tab. Sacubitril + Valsartan (24/26 mg) | 50 mg   | PO    | BD (1-0-1) | Lifelong    |                  |
+| 4  | Tab. Spironolactone                    | 25 mg   | PO    | OD (1-0-0) | Lifelong    |                  |
+| 5  | Tab. Jardiance                         | 10 mg   | PO    | OD (1-0-0) | Lifelong    |                  |
+| 6  | Tab. Levothyroxine (Eltroxin)          | 100 mcg | PO    | OD (1-0-0) | Lifelong    | on empty stomach |
++----+----------------------------------------+---------+-------+------------+-------------+------------------+
+
+MEDICINES TO BE STOPPED:
+  - Tab. Diclofenac 50 mg (NSAID - avoid in heart disease)
+
+ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+    - Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    - Gradually increase walking as tolerated
+  Other:
+    - Check weight every morning and keep a record
+    - Avoid OTC painkillers (NSAIDs) without medical advice
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing pedal oedema (swelling of feet / legs)
+  - Urine output markedly reduced
+  - Giddiness / fainting / LOC
+  - Palpitations (fast or irregular heartbeat)
+
+FOLLOW-UP:
+  - Review with reports - Cardiology OPD on 13/02/2026 (Fri); bring reports: S. Creatinine, S. Electrolytes, Weight chart
+  - Repeat 2D Echo and review - Cardiology OPD on 07/05/2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Meenakshi Rao (Consultant)

@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Arun Rao, 48/M  UHID: CDH9940553  IP: IP/26/201450
+DOA: 31-May-26  DOD: 05-Jun-26  Cons: Dr. S. K. Mishra (Medicine Unit I)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 48/M, k/c/o T2DM x 8 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 24 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.14, HCO3 12 mEq/L, Urine ketones +++, RBS at admission 470 mg/dl, HbA1c 13.0%, S. Cr 1.0 mg/dl, K 3.9 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 130/76 mmHg, PR 69/min, SpO2 98% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Glaritus 12 U SC OD at 10 pm daily till review
+2) Inj. NovoRapid 4-4-4 U SC 0-15 min before meals till next review
+3) T. Metformin 500 mg BD PC till review
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  - Adequate oral fluids - 2 to 3 litres per day
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Do not stop insulin on sick days; check sugar every 4 hours and contact hospital
+  - Carry glucose / sugar at all times
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+- Vomiting / pain abdomen / rapid breathing / drowsiness
+
+F/U:
+- S. Creatinine and electrolytes (Na, K) on 08-Jun-26 at Central lab
+- DM clinic, Medicine OPD on 12-Jun-26 - Review with SMBG chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. S. K. Mishra (Consultant)

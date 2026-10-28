@@ -1,0 +1,47 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Ayesha Fernandes | 53 Y/F | UHID CDH7265688 | IP IP/26/448588
+DOA - 22-06-2026 | DOD - 26-06-2026 | Consultant - Dr. Imran Qureshi, Chest Unit
+
+Diagnosis -
+  • Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Presenting complaints & history - 53/F, presented with cough x 4 weeks, evening rise of temperature, loss of appetite and weight loss of 6 kg.
+
+Hospital course -
+  • Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 23-06-2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations -
+  • Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: left upper zone infiltrates with cavity | Hb 11.2 g/dl | LFT: within normal limits | RBS 104 mg/dl | HIV: non-reactive | Weight 39 kg
+
+Status at discharge - Afebrile for 3 days, tolerating ATT. BP 120/78 mmHg, PR 73/min, SpO2 99% on RA.
+
+ADV ON DISCHARGE -
+• Tab. Isoniazid + Rifampicin + Pyrazinamide + Ethambutol (4-FDC) (Forecox) 3 tabs PO OD empty stomach x 53 days (as per weight band; to complete IP of 8 wks; review for CP thereafter)
+• Tab. Pyridoxine (Vit B6) 10 mg PO OD till next visit
+• Tab. Paracetamol (Dolo) 650 mg PO SOS for pain (not more than 4 doses in 24 h)
+
+Instructions -
+  Diet:
+    • High protein diet - dal / eggs / milk / soya
+    • Strictly no alcohol
+  Others:
+    • Daily ATT without missing doses - full course to be completed
+    • Cover mouth while coughing; spit sputum into a covered container; keep room well ventilated
+    • Household contacts - TB screening at nearest PHC
+    • Orange-red urine expected with rifampicin (harmless)
+    • OCPs unreliable with rifampicin - use barrier method / IUCD
+
+Report immediately to Casualty in case of -
+  • Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  • Blurring of vision or difficulty in telling colours apart
+  • Generalised skin rash / itching
+  • Coughing up blood
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • LFT and review - TB clinic (DOTS centre) on 10-07-2026
+  • Sputum AFB at end of IP - TB clinic (DOTS centre) on 19-08-2026 (Wed)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Imran Qureshi (Consultant)

@@ -1,0 +1,51 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Fatima Iyer    Age: 61 years    Sex: Female
+UHID: CDH7084880    IP Number: IP/26/796811
+Date of admission: 4th August 2026    Date of discharge: 11th August 2026
+Under the care of: Dr. R. Venkatesh, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Acute pyelonephritis (UTI)
+  - 3. Systemic hypertension
+
+HISTORY:
+  - 61/F, k/c/o T2DM x 3 yrs on irregular OHA, presented with c/o fever with chills, burning micturition and increased frequency x 4 days. RBS at admission 418 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Managed with Inj. Ceftriaxone 1 g IV BD, IV fluids and s/c insulin as per sliding scale. Urine C/S: E. coli, sensitive to cefixime. Fever subsided by day 3. Sugars optimised and oral regimen revised.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 11.5%; FBS 302 mg/dl; PPBS 394 mg/dl; S. Cr 0.8 mg/dl; Urine routine: pus cells plenty; Hb 14.0 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 118/72 mmHg, PR 73/min, SpO2 99% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin 500 mg twice daily after food till the next review
+2. Tablet Vildagliptin 50 mg twice daily till the next review
+3. Tablet Cefixime 200 mg twice daily after food for 5 days
+4. Tablet Atorvastatin (Storvas) 10 mg once daily at bedtime to continue lifelong
+Continue previous medications for HTN as before.
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small, frequent meals - do not skip any meal
+  Other instructions:
+    - SMBG - FBS & PPBS twice weekly, maintain diary
+    - Foot care: daily inspection, footwear always, avoid walking barefoot
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - High grade fever with chills
+  - Burning micturition / pain while passing urine
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in Medicine OPD on 18th August 2026 (Tue). Please bring: FBS, PPBS, Urine routine.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. R. Venkatesh (Consultant)

@@ -1,0 +1,55 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Joseph Patel    Age: 77 years    Sex: Male
+UHID: CDH1718565    IP Number: IP/26/511459
+Date of admission: 05 May 2026    Date of discharge: 08 May 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Atrial fibrillation with fast ventricular rate (non-valvular)
+  - 2. Systemic hypertension
+  - 3. BPH
+  - 4. Dyslipidaemia
+
+HISTORY:
+  - 77/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 9 days. ECG: AF with FVR (HR 145/min).
+
+COURSE IN THE HOSPITAL:
+  - Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 74/min at discharge.
+
+RELEVANT INVESTIGATIONS:
+  - 2D Echo: LA dilated, no significant valvular disease, LVEF 58%; S. Cr 0.8 mg/dl; Hb 13.0 g/dl; TSH 1.7 mIU/L; Weight 83 kg; CrCl (Cockcroft-Gault) 90 ml/min; CHA2DS2-VASc score 3
+
+CONDITION AT THE TIME OF DISCHARGE: Stable, rate controlled. BP 110/78 mmHg, PR 87/min, SpO2 99% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metoprolol Succinate 25 mg once daily in the morning lifelong
+2. Tablet Rivaroxaban 20 mg once daily at night with evening meal to continue lifelong
+3. Tablet Telmisartan 40 mg once daily in the morning to continue lifelong
+4. Capsule Tamsulosin 0.4 mg once daily at bedtime lifelong
+To continue other previous medicines for dyslipidaemia as before (unchanged).
+
+GENERAL ADVICE:
+  Diet:
+    - Low salt diet - less than 5 g salt per day; avoid pickles, papad, namkeen
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Do not take painkillers from the chemist without doctor's advice
+    - Do not stop blood thinners on your own, even for dental or minor procedures, without asking cardiologist
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Sudden weakness of face / arm / leg or slurring of speech
+  - Palpitations (fast or irregular heartbeat)
+  - Giddiness, fainting or loss of consciousness
+  - Breathlessness / difficulty in breathing
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 29 May 2026 (Fri). Please bring: ECG, S. Creatinine, CBC.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Prakash Nair (Consultant)

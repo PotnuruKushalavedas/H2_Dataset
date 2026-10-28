@@ -1,0 +1,57 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Simran Murmu                   Age/Sex  : 55 Y / F
+UHID       : CDH2180331                     IP No.   : IP/26/243912
+DOA        : 04 Mar 2026                    DOD      : 08 Mar 2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit I
+==========================================================================
+DIAGNOSIS:
+  - 1. Community-acquired pneumonia (left lower lobe) - CURB-65 score 2
+  - 2. Primary open-angle glaucoma
+
+BRIEF HISTORY:
+  - 55/F, presented with fever with chills, productive cough with yellowish sputum and left-sided pleuritic chest pain x 3 days.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Ceftriaxone 1 g IV BD and Tab. Azithromycin 500 mg OD, O2 by nasal prongs for 2 days. Afebrile for > 48 hrs; SpO2 maintained on room air.
+
+KEY INVESTIGATIONS:
+  - TLC 17,400/cumm | CRP 142 mg/L | CXR: consolidation left lower lobe | S. Cr 0.5 mg/dl | Blood C/S: no growth
+
+CONDITION AT DISCHARGE: Afebrile, comfortable. BP 118/76 mmHg, PR 75/min, SpO2 98% on RA. Chest: crepts reducing.
+
+DISCHARGE MEDICATIONS:
++----+---------------------------+--------+-------+------------+----------+-------------------------------------------------+
+| No | Medicine                  | Dose   | Route | Frequency  | Duration | Instructions                                    |
++----+---------------------------+--------+-------+------------+----------+-------------------------------------------------+
+| 1  | Tab. Cefuroxime           | 500 mg | PO    | BD (1-0-1) | 5 days   | after food                                      |
+| 2  | Tab. Paracetamol (Crocin) | 650 mg | PO    | SOS        | -        | for fever / pain; not more than 3 doses in 24 h |
++----+---------------------------+--------+-------+------------+----------+-------------------------------------------------+
+  Continue previous medications for glaucoma as before.
+
+ADVICE:
+  Diet:
+    - Normal diet as tolerated
+    - Adequate oral fluids - 2 to 3 litres per day
+  Activity:
+    - Deep breathing exercises - 10 breaths every hour when awake
+    - Gradually increase walking as tolerated
+  Other:
+    - Influenza and pneumococcal vaccination advised
+    - Stop smoking and all forms of tobacco
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Recurrence of fever / fever > 3 days after discharge
+  - Breathlessness / difficulty in breathing
+  - Chest pain, heaviness or sweating
+  - Bluish lips / fingertips, drowsiness or confusion
+  - Coughing up blood
+
+FOLLOW-UP:
+  - Review with reports - Gen. Medicine OPD on 18 Mar 2026 (Wed); bring reports: CBC
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. R. Venkatesh (Consultant)

@@ -1,0 +1,68 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Amit Krishnan    Age: 42 years    Sex: Male
+UHID: CDH5898299    IP Number: IP/26/840845
+Date of admission: 19th January 2026    Date of discharge: 24th January 2026
+Under the care of: Dr. Prakash Nair, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute coronary syndrome - Anterior wall STEMI
+  - 2. CAD - SVD; s/p primary PCI with 1 DES to LAD
+  - 3. Systemic hypertension
+  - 4. Hypothyroidism
+
+HISTORY:
+  - 42/M, presented with retrosternal chest pain with sweating x 4 hrs. ECG: ST elevation in V1-V5.
+
+COURSE IN THE HOSPITAL:
+  - Taken up for primary PCI on 19th January 2026: CAG showed 95% thrombotic occlusion of mid LAD; PCI with 1 DES done, TIMI III flow. Received Inj. Heparin during procedure. Post-PCI course uneventful.
+
+OPERATIVE PROCEDURE:
+  - CAG + PCI with 1 DES to LAD (19th January 2026)
+
+RELEVANT INVESTIGATIONS:
+  - Hb 11.8 g/dl; S. Cr 0.7 mg/dl; K 4.1 mEq/L; LDL 166 mg/dl; 2D Echo: RWMA in LAD territory, LVEF 53%
+
+CONDITION AT THE TIME OF DISCHARGE: Chest pain free, haemodynamically stable. BP 118/72 mmHg, PR 74/min, SpO2 98% on RA. Femoral/radial site healthy.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Aspirin (Ecosprin) 75 mg once daily after lunch to continue lifelong
+2. Tablet Ticagrelor 90 mg twice daily for 1 year
+3. Tablet Atorvastatin (Atorva) 80 mg once daily at bedtime lifelong
+4. Tablet Metoprolol Succinate (Seloken XL) 25 mg once daily in the morning to continue lifelong
+5. Tablet Rabeprazole 20 mg once daily in the morning 30 min before breakfast for 3 months
+6. Tablet Isosorbide Dinitrate 5 mg SL only if needed (SOS) for chest pain (SL for chest pain, repeat q5min, max 3 tabs)
+7. Tablet Telmisartan (Telma) 40 mg once daily in the morning to continue lifelong
+8. Tablet Levothyroxine 25 mcg once daily in the morning empty stomach to continue lifelong
+
+PLEASE STOP:
+  - Tab. Clopidogrel 75 mg (switched to Ticagrelor)
+
+GENERAL ADVICE:
+  Diet:
+    - Heart-healthy diet - more vegetables, fruits and whole grains; avoid fried food and excess oil
+    - Salt < 5 g/day - no pickle / papad / namkeen
+  Physical activity:
+    - Walk 10-15 min twice daily on level ground for first 2 weeks; avoid climbing many stairs
+    - Avoid lifting weight > 5 kg x 4 weeks
+    - No driving for 1 week
+  Other instructions:
+    - No smoking / no tobacco in any form
+    - Antiplatelets / anticoagulant not to be stopped without cardiologist's advice (incl. dental / minor procedures)
+    - For chest pain: sit down, put 1 SL tablet under tongue; may repeat every 5 min, max 3 tablets
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Chest pain persisting after 3 doses of SL tablet (5 min apart)
+  - Breathlessness / difficulty in breathing
+  - Any bleeding - gums, urine, black or red stools, vomiting blood
+  - Palpitations - fast / irregular heart beat
+  - Giddiness, fainting or loss of consciousness
+
+REVIEW:
+  - Review with reports in Cardiology OPD on 3rd February 2026. Please bring: ECG.
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Rohit Yadav (Resident)      Dr. Prakash Nair (Consultant)

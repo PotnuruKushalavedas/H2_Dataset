@@ -1,0 +1,51 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Pradeep Thakur | 75 Y/M | UHID CDH5023947 | IP IP/26/347721
+DOA - 02-06-2026 | DOD - 08-06-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Dilated cardiomyopathy, LVEF 29%
+  • Hypothyroidism
+
+Presenting complaints & history - 75/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 57 kg to 52 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 4733 pg/ml | S. Cr 0.7 mg/dl | Na 135 mEq/L | K 3.9 mEq/L | 2D Echo: LVEF 29%, global hypokinesia | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 108/70 mmHg, PR 76/min, SpO2 96% on RA. Dry weight 52 kg.
+
+ADV ON DISCHARGE -
+• Tab. Frusemide 40 mg PO OD till review
+• Tab. Bisoprolol (Concor) 2.5 mg PO OD life long
+• Tab. Ramipril 2.5 mg PO OD lifelong
+• Tab. Spironolactone (Aldactone) 25 mg ½ tab PO OD (½-0-0) lifelong
+• Tab. Empagliflozin 10 mg PO OD life long
+Continue previous medications for hypothyroidism as before.
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+    • Fluid restriction - not more than 1.5 L/day including water, tea, milk, dal
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Check weight every morning and keep a record
+    • Do not take painkillers from the chemist without doctor's advice
+
+Report immediately to Casualty in case of -
+  • Wt gain > 2 kg in 3 days
+  • Breathlessness at rest / on lying down flat
+  • Increasing swelling of feet or legs
+  • Urine output markedly reduced
+  • Giddiness, fainting or loss of consciousness
+  • Palpitations (fast or irregular heartbeat)
+
+Follow up -
+  • Review with reports - HF clinic (Cardiology OPD) on 15-06-2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Fatima Shaikh (Resident)      Dr. H. S. Grewal (Consultant)

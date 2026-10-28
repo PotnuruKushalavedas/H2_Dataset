@@ -1,0 +1,53 @@
+CDH / Cardiology / DISCHARGE SUMMARY
+Name - Rajesh Shetty | 77 Y/M | UHID CDH7406043 | IP IP/26/403637
+DOA - 12-09-2026 | DOD - 19-09-2026 | Consultant - Dr. H. S. Grewal, Cardiology Unit
+
+Diagnosis -
+  • Acute decompensated heart failure (HFrEF)
+  • Ischaemic cardiomyopathy, LVEF 22%
+
+Presenting complaints & history - 77/M, k/c/o CAD (old AWMI), presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 9 days.
+
+Hospital course -
+  • Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 4.5 L; weight down from 73 kg to 68 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations -
+  • NT-proBNP 5703 pg/ml | S. Cr 1.5 mg/dl | Na 132 mEq/L | K 4.0 mEq/L | 2D Echo: LVEF 22%, global hypokinesia, RWMA in LAD territory | CXR: cardiomegaly, resolving pulmonary congestion
+
+Status at discharge - Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 72/min, SpO2 99% on RA. Dry weight 68 kg.
+
+ADV ON DISCHARGE -
+• Tab. Furosemide 40 mg PO BD till next visit
+• Tab. Carvedilol 3.125 mg PO BD life long
+• Tab. Cardace 2.5 mg PO OD life long
+• Tab. Aldactone 25 mg PO OD life long
+• Tab. Empagliflozin (Jardiance) 10 mg PO OD life long
+• Tab. Aspirin 75 mg PO OD after lunch lifelong
+• Tab. Atorvastatin 40 mg PO HS life long
+
+• Stop Tab. Diltiazem 30 mg (not suitable in weak heart (low EF))
+
+Instructions -
+  Diet:
+    • Salt < 5 g/day - no pickle / papad / namkeen
+    • Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    • Gradual increase in walking as tolerated
+  Others:
+    • Daily morning weight - maintain record
+    • Avoid OTC painkillers (NSAIDs) without medical advice
+
+Report immediately to Casualty in case of -
+  • Weight gain of more than 2 kg in 3 days
+  • Breathlessness at rest or on lying flat
+  • Increasing swelling of feet or legs
+  • Urine output markedly reduced
+  • Giddiness / fainting / LOC
+  • Palpitations (fast or irregular heartbeat)
+
+Follow up -
+  • Review with reports - Cardiology OPD on 26-09-2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Rukhsana Thakur
+Age / Sex    : 28 yrs / Female
+UHID         : CDH8882978      IP No: IP/26/543752
+Admitted on  : 20.02.2026      Discharged on: 23.02.2026
+Consultant   : Dr. N. Chakraborty, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Open appendicectomy (20.02.2026)
+
+Brief History:
+  * 28/F, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 20.02.2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+Procedure:
+  * Open appendicectomy under GA (20.02.2026)
+
+Investigations:
+  * TLC 14,900/cumm; CRP 76 mg/L; HPE: awaited; Hb 11.8 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 126/80 mmHg, PR 69/min, SpO2 97% on RA.
+
+Medications at Discharge:
+- Tab. Cefuroxime 500 mg 1-0-1 PC x 5 days
+- Tab. Metronidazole 400 mg 1-1-1 PC x 5 days (avoid alcohol)
+- Tab. Paracetamol 650 mg 1-1-1 PC x 7 days
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Early ambulation - walk in the house several times a day
+    * No heavy lifting (more than 5 kg) for 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * Bath allowed after 48 h - pat wound dry with clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever > 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Severe / increasing abdominal pain
+  * Persistent vomiting / not able to take orally
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 27.02.2026 (POD 7)
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Arjun Reddy (Resident)      Dr. N. Chakraborty (Consultant)

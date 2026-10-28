@@ -1,0 +1,52 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                      Department of General Medicine                      
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Archana Pandey                 Age/Sex  : 47 Y / F
+UHID       : CDH3541866                     IP No.   : IP/26/837080
+DOA        : 26/02/2026                     DOD      : 05/03/2026
+Consultant : Dr. R. Venkatesh, MD (Medicine) Unit     : Medicine Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis right foot
+
+BRIEF HISTORY:
+  - 47/F, k/c/o T2DM x 11 yrs, presented with swelling, redness and pain over right foot x 7 days following a minor injury. RBS 390 mg/dl.
+
+HOSPITAL COURSE:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+KEY INVESTIGATIONS:
+  - HbA1c 11.5% | FBS 292 mg/dl | PPBS 389 mg/dl | S. Cr 0.6 mg/dl | Urine routine: sugar ++, ketones nil | Hb 12.6 g/dl
+
+CONDITION AT DISCHARGE: Afebrile, stable. BP 124/74 mmHg, PR 67/min, SpO2 99% on RA. Sugars in target range.
+
+DISCHARGE MEDICATIONS:
++----+------------------------------------------------+---------+-------+-------------+------------------+-----------------+
+| No | Medicine                                       | Dose    | Route | Frequency   | Duration         | Instructions    |
++----+------------------------------------------------+---------+-------+-------------+------------------+-----------------+
+| 1  | Tab. Metformin                                 | 1000 mg | PO    | BD (1-0-1)  | Till next review | after food      |
+| 2  | Tab. Empagliflozin                             | 10 mg   | PO    | OD (1-0-0)  | Till review      | after breakfast |
+| 3  | Tab. Amoxicillin + Clavulanic acid (Augmentin) | 625 mg  | PO    | TDS (1-1-1) | 5 days           | PC              |
++----+------------------------------------------------+---------+-------+-------------+------------------+-----------------+
+
+ADVICE:
+  Diet:
+    - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+    - Small, frequent meals - do not skip any meal
+  Other:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Wound site redness / swelling / pus or discharge
+  - Fever > 100.4 F (38 C)
+  - Blood sugar above 300 mg/dl on two readings
+
+FOLLOW-UP:
+  - Review with reports - Medicine OPD on 19/03/2026 (Thu); bring reports: FBS, PPBS
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. R. Venkatesh (Consultant)

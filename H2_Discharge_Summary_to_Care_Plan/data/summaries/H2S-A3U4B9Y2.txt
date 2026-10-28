@@ -1,0 +1,42 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (General Medicine)
+Pt: Archana Joshi, 34/F  UHID: CDH9535871  IP: IP/26/225688
+DOA: 08-Jul-26  DOD: 13-Jul-26  Cons: Dr. S. K. Mishra (Medicine Unit II)
+------------------------------------------------------------
+Dx:
+- Diabetic ketoacidosis (moderate) - resolved
+- Type 2 diabetes mellitus (ketosis-prone)
+
+H/o: 34/F, k/c/o T2DM x 2 yrs on OHA, presented with vomiting, pain abdomen and breathlessness x 3 days; precipitant: acute gastroenteritis.
+
+Course: Managed in ICU with IV fluids, IV insulin infusion and potassium chloride replacement as per DKA protocol. Ketosis resolved in 27 hrs. Transitioned to s/c basal-bolus insulin; tolerating orally.
+
+Ix: Admission ABG: pH 7.19, HCO3 10 mEq/L, Urine ketones +++, RBS at admission 332 mg/dl, HbA1c 13.6%, S. Cr 0.9 mg/dl, K 4.1 mEq/L (at discharge)
+
+Condn at d/c: Conscious, oriented, tolerating diet. BP 120/78 mmHg, PR 81/min, SpO2 96% on RA. Ketones negative.
+
+Rx on discharge:
+1) Inj. Glaritus 14 IU SC HS till next review
+2) Inj. NovoRapid 4-4-4 IU SC 0-15 min before meals till next review
+
+Adv:
+  Diet:
+  - Diabetic diet - avoid sugar, sweets, jaggery, honey and fruit juices
+  - Small frequent meals; do not skip meals
+  - Adequate oral fluids - 2 to 3 litres per day
+  Others:
+  - SMBG QID (pre-meals + bedtime) - maintain sugar chart
+  - Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+  - Sick-day rule: never stop insulin, check sugar 4-hourly, contact hospital
+  - Always carry sugar or glucose with you
+
+Review SOS if:
+- Hypoglycaemia - sweating / tremors / confusion: 3 tsp glucose or sugar in water immediately and report; if drowsy, nothing orally - bring to hospital
+- Blood sugar above 300 mg/dl on two readings
+- Vomiting, pain in abdomen, fast breathing or drowsiness
+
+F/U:
+- Diabetes Clinic (Medicine OPD) on 20-Jul-26 (Mon) - Review with sugar chart
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. S. K. Mishra (Consultant)

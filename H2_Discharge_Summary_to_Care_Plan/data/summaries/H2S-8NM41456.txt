@@ -1,0 +1,50 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL MEDICINE
+DISCHARGE SUMMARY
+
+Patient: Rani Siddiqui    Age: 75 years    Sex: Female
+UHID: CDH8763564    IP Number: IP/26/459866
+Date of admission: 3rd January 2026    Date of discharge: 7th January 2026
+Under the care of: Dr. Farah Siddiqui, MD (Medicine)
+
+DIAGNOSIS:
+  - 1. Type 2 diabetes mellitus - uncontrolled
+  - 2. Cellulitis left foot
+
+HISTORY:
+  - 75/F, k/c/o T2DM x 14 yrs, presented with swelling, redness and pain over left foot x 4 days following a minor injury. RBS 403 mg/dl.
+
+COURSE IN THE HOSPITAL:
+  - Treated with Inj. Amoxicillin-clavulanate IV, limb elevation, daily dressing and insulin. Swelling and erythema regressed. No abscess on USG. Switched to oral antibiotics.
+
+RELEVANT INVESTIGATIONS:
+  - HbA1c 10.2%; FBS 220 mg/dl; PPBS 274 mg/dl; S. Cr 0.6 mg/dl; Urine routine: sugar ++, ketones nil; Hb 11.7 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, stable. BP 120/70 mmHg, PR 75/min, SpO2 97% on RA. Sugars in target range.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Metformin (Glycomet) 500 mg twice daily PC to continue lifelong
+2. Tablet Vildagliptin (Galvus) 50 mg twice daily till the next review
+3. Tablet Amoxicillin-Clavulanate 625 mg three times daily after food for 7 days
+4. Tablet Atorvastatin (Storvas) 20 mg once daily at bedtime lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    - Small frequent meals; do not skip meals
+  Other instructions:
+    - Check fasting and post-meal blood sugar at home twice a week and keep a record
+    - Daily foot care - inspect feet, always wear footwear, no barefoot walking
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Redness, swelling, pus or discharge from the wound
+  - Fever above 100.4 F (38 C)
+  - Sugar > 300 mg/dl on 2 readings
+
+REVIEW:
+  - Review with reports in DM clinic, Medicine OPD on 21st January 2026 (Wed). Please bring: FBS, PPBS.
+  - HbA1c and review in Diabetes Clinic (Medicine OPD) on 1st April 2026 (Wed).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. Farah Siddiqui (Consultant)

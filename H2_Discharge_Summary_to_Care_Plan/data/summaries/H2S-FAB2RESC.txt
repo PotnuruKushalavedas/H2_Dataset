@@ -1,0 +1,63 @@
+Chandrapuri District Hospital
+Dept. of Orthopaedics - Discharge Summary
+
+Patient name : Bhaskar Joseph
+Age / Sex    : 83 yrs / Male
+UHID         : CDH2107535      IP No: IP/26/901623
+Admitted on  : 21/07/2026      Discharged on: 25/07/2026
+Consultant   : Dr. A. Sengupta, MS (Orthopaedics) (Ortho Unit I)
+
+Final Diagnosis:
+  * Intertrochanteric fracture left femur
+  * s/p Closed reduction and PFN fixation (22/07/2026)
+  * Type 2 diabetes mellitus
+  * Hypothyroidism
+
+Brief History:
+  * 83/M, h/o trivial fall at home; unable to bear weight on left lower limb since then.
+
+Course in Hospital:
+  * Placed in skin traction pre-op. Underwent Closed reduction and internal fixation with PFN under SA on 22/07/2026. Received Inj. Cefazolin periop. Post-op check X-ray satisfactory. Distal neurovascular status intact.
+
+Procedure:
+  * Closed reduction and internal fixation with PFN under SA (22/07/2026)
+
+Investigations:
+  * Hb 11.7 g/dl; S. Cr 0.8 mg/dl; Weight 57 kg; Post-op X-ray: fracture fixed in good alignment; RBS 104 mg/dl
+
+Condition at Discharge: Afebrile, wound healthy, distal pulses felt. BP 120/80 mmHg, PR 88/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Inj. Clexane 40 mg SC 1-0-0 x 28 days (in abdominal wall)
+- Tab. Paracetamol 650 mg 1-1-1 after food x 2 weeks
+- Cap. Tramadol 50 mg SOS for severe pain (max 2 doses/day)
+- Tab. Calcium carbonate + Vit D3 500 mg 1-1-0 PC x 3 months
+- Sachet Vitamin D3 (Cholecalciferol) 60000 IU once weekly x 8 weeks (same day every week; with a glass of milk)
+- Syp. Lactulose 15 mL 0-0-1 (HS) x 2 weeks
+- Tab. Pantoprazole 40 mg 1-0-0 ½ hr before breakfast x 2 weeks
+Continue previous medications for T2DM and hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * High-protein diet (dal, eggs, milk, paneer) for healing
+  Activity:
+    * Walk with walker; partial (toe-touch) weight bearing on operated leg
+  Wound care:
+    * Keep the wound clean and dry
+  General:
+    * Fall precautions: night lamp, no loose mats, walk with support
+
+Danger signs - report to Casualty immediately:
+  * Calf pain / leg swelling - ? DVT (clot in leg vein)
+  * Redness, swelling, pus or discharge from the wound
+  * Fever above 100.4 F (38 C)
+  * Breathlessness / difficulty in breathing
+  * Operated leg - numbness / tingling / bluish discolouration / severe swelling
+
+Follow-up:
+  * Removal of sutures - Ortho OPD on 03/08/2026 (Mon) (POD 12)
+  * Check X-ray and review - Ortho OPD on 22/08/2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Ankit Saxena (Resident)      Dr. A. Sengupta (Consultant)

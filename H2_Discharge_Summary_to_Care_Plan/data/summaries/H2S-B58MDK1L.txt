@@ -1,0 +1,62 @@
+                      CHANDRAPURI DISTRICT HOSPITAL                       
+                  Department of Obstetrics & Gynaecology                  
+                            DISCHARGE SUMMARY                             
+==========================================================================
+Name       : Bindu Nair                     Age/Sex  : 24 Y / F
+UHID       : CDH3888349                     IP No.   : IP/26/571275
+DOA        : 06 Mar 2026                    DOD      : 07 Mar 2026
+Consultant : Dr. Lakshmi Iyer, MS (OBG)     Unit     : OBG Unit II
+==========================================================================
+DIAGNOSIS:
+  - 1. G1P1L1, FTNVD with RMLE on 06 Mar 2026
+
+BRIEF HISTORY:
+  - 24/F, Primigravida at 39 wks GA, admitted in active labour. Booked case, ANC uneventful.
+
+HOSPITAL COURSE:
+  - Delivered a live baby girl, 2.66 kg, APGAR 7/9, on 06 Mar 2026. Episiotomy (RMLE) sutured. Active management of third stage with Inj. Oxytocin 10 IU IM. Postpartum period uneventful; breastfeeding established.
+
+KEY INVESTIGATIONS:
+  - Hb 11.9 g/dl | Blood group B +ve | HIV/HBsAg/VDRL: non-reactive
+
+CONDITION AT DISCHARGE: Mother: stable, uterus well contracted, lochia normal. BP 124/72 mmHg, PR 86/min, SpO2 97% on RA. Baby: healthy, feeding well.
+
+DISCHARGE MEDICATIONS:
++----+-------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| No | Medicine                                  | Dose   | Route | Frequency  | Duration | Instructions                            |
++----+-------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+| 1  | Tab. Iron + Folic acid (IFA)              | 1 tab  | PO    | OD (0-0-1) | 6 months | after dinner                            |
+| 2  | Tab. Calcium carbonate + Vit D3 (Shelcal) | 500 mg | PO    | BD (1-1-0) | 6 months | after food                              |
+| 3  | Tab. Paracetamol                          | 500 mg | PO    | SOS        | -        | for pain; not more than 3 doses in 24 h |
++----+-------------------------------------------+--------+-------+------------+----------+-----------------------------------------+
+
+ADVICE:
+  Diet:
+    - Nutritious diet + extra meal daily; GLV, milk, dal; plenty of oral fluids
+  Activity:
+    - Kegel's exercises daily
+    - Adequate rest; light household work only for 6 weeks
+  Wound care:
+    - Perineal care: wash with clean water after toilet, change pad 4-6 hourly
+    - Warm sitz bath BD x 1 week
+  Other:
+    - Exclusive breast feeding x 6 months
+    - Immunisation of baby as per schedule card
+    - Family planning counselling at PNC visit - spacing >= 2 years
+
+RETURN TO EMERGENCY IMMEDIATELY IF:
+  - Heavy bleeding per vaginum (soaking more than 1 pad in an hour) or passing clots
+  - Foul-smelling vaginal discharge
+  - Fever > 100.4 F (38 C)
+  - Breast - painful red hard swelling with fever
+  - Severe headache, blurring of vision or pain in upper abdomen
+  - Persistent low mood / hopelessness / insomnia / thoughts of harming self or baby
+  - Baby not feeding well, very sleepy, has fever, or yellow skin
+
+FOLLOW-UP:
+  - Postnatal check-up (6 weeks) - Obstetrics & Gynaecology OPD on 20 Apr 2026; bring reports: Hb
+  - Baby's 6-week vaccines - Immunisation clinic (Paediatrics) on 20 Apr 2026
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Lakshmi Iyer (Consultant)

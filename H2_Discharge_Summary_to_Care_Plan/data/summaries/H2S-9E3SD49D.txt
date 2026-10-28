@@ -1,0 +1,57 @@
+Chandrapuri District Hospital
+Dept. of Cardiology - Discharge Summary
+
+Patient name : Nitin Naidu
+Age / Sex    : 51 yrs / Male
+UHID         : CDH2224645      IP No: IP/26/643785
+Admitted on  : 12/03/2026      Discharged on: 19/03/2026
+Consultant   : Dr. Prakash Nair, MD, DM (Cardiology) (Cardiology Unit)
+
+Final Diagnosis:
+  * Acute decompensated heart failure (HFrEF)
+  * Dilated cardiomyopathy, LVEF 29%
+  * Hypothyroidism
+
+Brief History:
+  * 51/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 11 days.
+
+Course in Hospital:
+  * Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 75 kg to 71 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+Investigations:
+  * NT-proBNP 5581 pg/ml; S. Cr 1.1 mg/dl; Na 139 mEq/L; K 4.1 mEq/L; 2D Echo: LVEF 29%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+Condition at Discharge: Breathlessness NYHA II, no orthopnoea. BP 116/74 mmHg, PR 77/min, SpO2 98% on RA. Dry weight 71 kg.
+
+Medications at Discharge:
+- Tab. Frusemide 40 mg 1-0-0 till next review
+- Tab. Metoprolol Succinate ER 25 mg 1-0-0 long term (lifelong)
+- Tab. Ramipril 2.5 mg 1-0-0 long term (lifelong)
+- Tab. Spironolactone 25 mg 1-0-0 long term (lifelong)
+- Tab. Empagliflozin 10 mg 1-0-0 long term (lifelong)
+Continue previous medications for hypothyroidism as before.
+
+Advice on Discharge:
+  Diet:
+    * Salt < 5 g/day - no pickle / papad / namkeen
+    * Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Activity:
+    * Gradually increase walking as tolerated
+  General:
+    * Daily morning weight - maintain record
+    * Avoid OTC painkillers (NSAIDs) without medical advice
+
+Danger signs - report to Casualty immediately:
+  * Wt gain > 2 kg in 3 days
+  * Breathlessness at rest or on lying flat
+  * Increasing pedal oedema (swelling of feet / legs)
+  * Urine output markedly reduced
+  * Giddiness / fainting / LOC
+  * Palpitations (fast or irregular heartbeat)
+
+Follow-up:
+  * Review with reports - Cardiology OPD on 30/03/2026; bring reports: S. Creatinine, S. Electrolytes, Weight chart
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Kavya Hegde (Resident)      Dr. Prakash Nair (Consultant)

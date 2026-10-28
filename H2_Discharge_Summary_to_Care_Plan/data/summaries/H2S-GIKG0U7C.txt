@@ -1,0 +1,44 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Pulmonary Medicine)
+Pt: Salim Shah, 53/M  UHID: CDH9140008  IP: IP/26/723206
+DOA: 21/02/2026  DOD: 26/02/2026  Cons: Dr. T. Raghavan (Chest Unit)
+------------------------------------------------------------
+Dx:
+- Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+H/o: 53/M, presented with cough x 4 weeks, evening rise of temperature, loss of appetite and weight loss of 4 kg.
+
+Course: Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 22/02/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Ix: Sputum CBNAAT: MTB detected, Rif resistance not detected, CXR: bilateral upper zone infiltrates with cavity, Hb 10.6 g/dl, LFT: within normal limits, RBS 115 mg/dl, HIV: non-reactive, Weight 52 kg
+
+Condn at d/c: Afebrile for 3 days, tolerating ATT. BP 110/78 mmHg, PR 82/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Forecox 4 tablets OD on empty stomach x 52 days (as per weight band; to complete IP of 8 wks; review for CP thereafter)
+2) T. Pyridoxine 10 mg OD till next review
+
+Adv:
+  Diet:
+  - High-protein nutritious diet (dal, eggs, milk, soya)
+  - Avoid alcohol completely
+  Others:
+  - Daily ATT without missing doses - full course to be completed
+  - Cough hygiene - cover mouth, sputum in covered container, ventilated room
+  - Household contacts - TB screening at nearest PHC
+  - Stop smoking and all forms of tobacco
+  - Orange-red urine expected with rifampicin (harmless)
+
+Review SOS if:
+- Yellow eyes or urine, repeated vomiting or loss of appetite - stop TB tablets and report immediately
+- Blurring of vision or difficulty in telling colours apart
+- Skin rash or itching all over the body
+- Coughing up blood
+- Breathlessness or difficulty in breathing
+
+F/U:
+- TB clinic (DOTS centre) on 12/03/2026 - LFT and review
+- DOTS centre / TB clinic on 20/04/2026 - Sputum examination at end of intensive phase
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. T. Raghavan (Consultant)

@@ -1,0 +1,58 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF GENERAL SURGERY
+DISCHARGE SUMMARY
+
+Patient: Rohit Thakur    Age: 28 years    Sex: Male
+UHID: CDH9580754    IP Number: IP/26/249387
+Date of admission: 14th June 2026    Date of discharge: 16th June 2026
+Under the care of: Dr. Sunita Patil, MS (General Surgery)
+
+DIAGNOSIS:
+  - 1. Acute appendicitis
+  - 2. s/p Laparoscopic appendicectomy (14th June 2026)
+
+HISTORY:
+  - 28/M, c/o periumbilical pain shifting to RIF x 1 day with fever and vomiting. Alvarado score 7. USG: inflamed, non-compressible appendix.
+
+COURSE IN THE HOSPITAL:
+  - Emergency laparoscopic appendicectomy under GA on 14th June 2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 2.
+
+OPERATIVE PROCEDURE:
+  - Laparoscopic appendicectomy under GA (14th June 2026)
+
+RELEVANT INVESTIGATIONS:
+  - TLC 17,900/cumm; CRP 49 mg/L; HPE: awaited; Hb 11.7 g/dl
+
+CONDITION AT THE TIME OF DISCHARGE: Afebrile, wound healthy, tolerating diet. BP 124/80 mmHg, PR 76/min, SpO2 98% on RA.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Amoxicillin-Clavulanate 625 mg three times daily PC for 5 days
+2. Tablet Paracetamol (Calpol) 650 mg three times daily after food for 3 days
+3. Tablet Diclofenac 50 mg twice daily after food for 5 days
+4. Tablet Rabeprazole 20 mg once daily in the morning ½ hr before breakfast for 5 days
+
+GENERAL ADVICE:
+  Diet:
+    - Soft diet x 1 week, then normal diet
+  Physical activity:
+    - Walk around the house several times a day
+    - No heavy lifting (more than 5 kg) for 4 weeks
+    - Support the wound with a pillow while coughing or sneezing; avoid straining
+  Care of the wound:
+    - Keep the wound clean and dry
+    - May bathe after 48 hours; pat the wound dry with a clean cloth
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Fever above 100.4 F (38 C)
+  - Wound site redness / swelling / pus or discharge
+  - Severe or increasing pain in abdomen
+  - Persistent vomiting or unable to take food and fluids orally
+  - Distension of abdomen with no passage of stool or gas
+
+REVIEW:
+  - Wound inspection in General Surgery OPD on 22nd June 2026 (POD 8).
+  - Review with HPE report in Surgery OPD on 29th June 2026 (Mon).
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Sneha Kulkarni (Resident)      Dr. Sunita Patil (Consultant)

@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of Pulmonary Medicine - Discharge Summary
+
+Patient name : Amit Kushwaha
+Age / Sex    : 26 yrs / Male
+UHID         : CDH5314671      IP No: IP/26/611611
+Admitted on  : 06.05.2026      Discharged on: 09.05.2026
+Consultant   : Dr. T. Raghavan, MD (Pulmonary Medicine) (Chest Unit)
+
+Final Diagnosis:
+  * Acute severe asthma (exacerbation of bronchial asthma)
+
+Brief History:
+  * 26/M, k/c/o bronchial asthma since childhood, irregular inhaler use, presented with breathlessness and wheeze x 3 days, unable to complete sentences.
+
+Course in Hospital:
+  * Managed with nebulised salbutamol and ipratropium, IV hydrocortisone and O2. Peak flow improved from 137 to 354 L/min. Inhaler technique taught.
+
+Investigations:
+  * PEFR at discharge 354 L/min; CXR: no pneumothorax, no consolidation; AEC 409/cumm; TLC 8,200/cumm
+
+Condition at Discharge: No wheeze at rest, speaking full sentences. BP 124/78 mmHg, PR 83/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Inh. Budesonide + Formoterol (6/200 mcg) 1 puff 1-0-1 long term (lifelong) (via spacer; gargle after use)
+- Inh. Salbutamol (100 mcg) 2 puffs SOS for wheeze or breathlessness (not more than 8 puffs in 24 h)
+- Tab. Prednisolone 40 mg 1-0-0 x 5 days, then 30 mg 1-0-0 x 3 days, then 20 mg 1-0-0 x 3 days, then 10 mg 1-0-0 x 3 days, then stop (after breakfast)
+
+Advice on Discharge:
+  Diet:
+    * Normal diet as tolerated
+  Activity:
+    * Avoid dust, smoke and cold air (asthma triggers)
+    * Gradually increase walking as tolerated
+  General:
+    * Inhaler technique demonstrated - use with spacer
+
+Danger signs - report to Casualty immediately:
+  * Wheeze or breathlessness not relieved by the reliever inhaler
+  * Too breathless to complete sentences
+  * Bluish lips / fingertips, drowsiness or confusion
+  * Chest pain / heaviness / sweating
+
+Follow-up:
+  * Review with reports - Pulmonary Medicine (Chest) OPD on 23.05.2026 (Sat)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Arjun Reddy (Resident)      Dr. T. Raghavan (Consultant)

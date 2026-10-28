@@ -1,0 +1,49 @@
+Chandrapuri District Hospital
+Dept. of General Medicine - Discharge Summary
+
+Patient name : Rukhsana Banerjee
+Age / Sex    : 59 yrs / Female
+UHID         : CDH5791102      IP No: IP/26/585260
+Admitted on  : 14.05.2026      Discharged on: 19.05.2026
+Consultant   : Dr. S. K. Mishra, MD (Medicine) (Medicine Unit I)
+
+Final Diagnosis:
+  * Type 2 diabetes mellitus - secondary OHA failure, initiated on insulin
+
+Brief History:
+  * 59/F, k/c/o T2DM x 14 yrs on Tab. Metformin + Tab. Glimepiride, admitted for persistent hyperglycaemia (HbA1c 11.1%) with weight loss and fatigue. No ketosis.
+
+Course in Hospital:
+  * Insulin initiated and titrated with 4-point SMBG. Patient and attendant trained in insulin injection technique, storage and recognition of hypoglycaemia. Dietician counselling done.
+
+Investigations:
+  * HbA1c 11.1%; FBS 276 mg/dl; PPBS 262 mg/dl; S. Cr 0.9 mg/dl; Urine microalbumin 96 mg/g; Fundus: no DR
+
+Condition at Discharge: Stable. BP 130/72 mmHg, PR 77/min, SpO2 96% on RA. Pre-meal sugars 165-180 mg/dl.
+
+Medications at Discharge:
+- Inj. Premixed Insulin 30/70 10-0-6 units SC ½ hr before breakfast & dinner till next review
+- Tab. Metformin 500 mg 1-0-1 after food lifelong
+
+- STOP Tab. Glimepiride 2 mg (since started on insulin)
+
+Advice on Discharge:
+  Diet:
+    * DM diet: no sugar / sweets / jaggery / honey / fruit juice
+    * Small frequent meals; do not skip meals
+  General:
+    * Check blood sugar 4 times a day (before meals and at bedtime) and maintain a chart
+    * Insulin technique taught - rotate injection sites (abdomen/thigh); store insulin in fridge, not freezer
+    * Carry glucose / sugar at all times
+    * Foot care: daily inspection, footwear always, avoid walking barefoot
+
+Danger signs - report to Casualty immediately:
+  * Low sugar symptoms (sweating, shakiness, confusion): take 3 tsp sugar or glucose in water at once and report; if drowsy, give nothing by mouth - bring to hospital
+  * Blood sugar above 300 mg/dl on two readings
+
+Follow-up:
+  * Review with sugar chart - Diabetes Clinic (Medicine OPD) on 26.05.2026
+
+In case of emergency contact Casualty, Chandrapuri District Hospital (24x7).
+
+Dr. Ankit Saxena (Resident)      Dr. S. K. Mishra (Consultant)

@@ -1,0 +1,49 @@
+CHANDRAPURI DISTRICT HOSPITAL - DISCHARGE SUMMARY (Cardiology)
+Pt: Biju Kulkarni, 55/M  UHID: CDH3941538  IP: IP/26/287119
+DOA: 04-Jan-26  DOD: 09-Jan-26  Cons: Dr. Prakash Nair (Cardiology Unit)
+------------------------------------------------------------
+Dx:
+- Atrial fibrillation with fast ventricular rate
+- Rheumatic heart disease - moderate mitral stenosis
+- Systemic hypertension
+- Type 2 diabetes mellitus
+- BPH
+
+H/o: 55/M, k/c/o HTN, presented with palpitations and breathlessness on exertion x 3 days. ECG: AF with FVR (HR 160/min).
+
+Course: Rate controlled with IV then oral agents. Started on anticoagulation. TSH normal. No features of heart failure at discharge. HR 74/min at discharge.
+
+Ix: 2D Echo: thickened MV, MVA 1.4 cm2, LA dilated, LVEF 60%, S. Cr 0.9 mg/dl, Hb 12.0 g/dl, TSH 2.6 mIU/L, Weight 70 kg, INR at discharge 2.4
+
+Condn at d/c: Stable, rate controlled. BP 110/72 mmHg, PR 83/min, SpO2 99% on RA.
+
+Rx on discharge:
+1) T. Lanoxin 0.25 mg OD till next review
+2) T. Acitrom 1 mg OD after dinner till next review (dose as per INR)
+3) T. Telma 40 OD lifelong
+4) C. Urimax 0.4 mg HS lifelong
+To continue other previous medicines for T2DM as before (unchanged).
+
+Adv:
+  Diet:
+  - Salt < 5 g/day - no pickle / papad / namkeen
+  Activity:
+  - Gradual increase in walking as tolerated
+  Others:
+  - Do not take painkillers from the chemist without doctor's advice
+  - Do not change blood-thinner dose on your own; inform doctor before starting any new medicine
+
+Review SOS if:
+- Any bleeding - gums, urine, black or red stools, vomiting blood
+- Sudden weakness of face / arm / leg or slurring of speech
+- Palpitations - fast / irregular heart beat
+- Giddiness, fainting or loss of consciousness
+- Breathlessness or difficulty in breathing
+
+F/U:
+- Get INR test done on 15-Jan-26 (Thu) (Hospital laboratory)
+- Cardiology OPD on 23-Jan-26 - Review with reports with ECG, INR
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Fatima Shaikh (Resident)      Dr. Prakash Nair (Consultant)

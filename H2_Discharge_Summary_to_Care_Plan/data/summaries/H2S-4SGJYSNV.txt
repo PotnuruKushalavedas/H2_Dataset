@@ -1,0 +1,56 @@
+Chandrapuri District Hospital
+Dept. of General Surgery - Discharge Summary
+
+Patient name : Kalpana Sandhu
+Age / Sex    : 30 yrs / Female
+UHID         : CDH2925067      IP No: IP/26/227404
+Admitted on  : 15/05/2026      Discharged on: 19/05/2026
+Consultant   : Dr. Rajesh Kumar Verma, MS (General Surgery) (Surgery Unit I)
+
+Final Diagnosis:
+  * Acute appendicitis
+  * s/p Open appendicectomy (15/05/2026)
+
+Brief History:
+  * 30/F, c/o periumbilical pain shifting to RIF x 2 days with fever and vomiting. Alvarado score 8. USG: inflamed, non-compressible appendix.
+
+Course in Hospital:
+  * Emergency open appendicectomy under GA on 15/05/2026. Treated with Inj. Ceftriaxone and Inj. Metronidazole IV. Post-op recovery smooth; orally allowed on POD 1.
+
+Procedure:
+  * Open appendicectomy under GA (15/05/2026)
+
+Investigations:
+  * TLC 17,900/cumm; CRP 105 mg/L; HPE: awaited; Hb 12.3 g/dl
+
+Condition at Discharge: Afebrile, wound healthy, tolerating diet. BP 130/72 mmHg, PR 76/min, SpO2 96% on RA.
+
+Medications at Discharge:
+- Tab. Amoxicillin-Clavulanate 625 mg 1-1-1 PC x 5 days
+- Tab. Paracetamol 650 mg 1-1-1 PC x 3 days
+- Tab. Pantoprazole (Pan) 40 mg 1-0-0 ½ hr before breakfast x 5 days
+
+Advice on Discharge:
+  Diet:
+    * Soft, easily digestible diet for 1 week, then normal diet
+  Activity:
+    * Walk around the house several times a day
+    * Avoid lifting weight > 5 kg x 6 weeks
+    * Support the wound with a pillow while coughing or sneezing; avoid straining
+  Wound care:
+    * Keep wound site clean and dry
+    * May bathe after 48 hours; pat the wound dry with a clean cloth
+
+Danger signs - report to Casualty immediately:
+  * Fever above 100.4 F (38 C)
+  * Wound site redness / swelling / pus or discharge
+  * Severe or increasing pain in abdomen
+  * Persistent vomiting or unable to take food and fluids orally
+  * Distension of abdomen with no passage of stool or gas
+
+Follow-up:
+  * Removal of sutures - Surgery OPD on 23/05/2026 (POD 8)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Kavya Hegde (Resident)      Dr. Rajesh Kumar Verma (Consultant)

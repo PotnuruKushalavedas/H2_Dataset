@@ -1,0 +1,59 @@
+CHANDRAPURI DISTRICT HOSPITAL
+DEPARTMENT OF CARDIOLOGY
+DISCHARGE SUMMARY
+
+Patient: Prakash Kulkarni    Age: 58 years    Sex: Male
+UHID: CDH5672570    IP Number: IP/26/816916
+Date of admission: 8th February 2026    Date of discharge: 15th February 2026
+Under the care of: Dr. H. S. Grewal, MD, DM (Cardiology)
+
+DIAGNOSIS:
+  - 1. Acute decompensated heart failure (HFrEF)
+  - 2. Dilated cardiomyopathy, LVEF 32%
+  - 3. Type 2 diabetes mellitus
+  - 4. Hypothyroidism
+
+HISTORY:
+  - 58/M, presented with progressive breathlessness (NYHA III-IV), orthopnoea, PND and swelling of both legs x 8 days.
+
+COURSE IN THE HOSPITAL:
+  - Managed with IV furosemide, O2 support and fluid restriction. Net negative balance of about 3.5 L; weight down from 77 kg to 73 kg. Guideline-directed therapy started and up-titrated as tolerated.
+
+RELEVANT INVESTIGATIONS:
+  - NT-proBNP 2422 pg/ml; S. Cr 1.0 mg/dl; Na 132 mEq/L; K 4.7 mEq/L; 2D Echo: LVEF 32%, global hypokinesia; CXR: cardiomegaly, resolving pulmonary congestion
+
+CONDITION AT THE TIME OF DISCHARGE: Breathlessness NYHA II, no orthopnoea. BP 112/72 mmHg, PR 81/min, SpO2 99% on RA. Dry weight 73 kg.
+
+TREATMENT ADVISED ON DISCHARGE:
+1. Tablet Furosemide (Lasix) 40 mg once daily in the morning until the next visit
+2. Tablet Carvedilol (Cardivas) 3.125 mg twice daily to continue lifelong
+3. Tablet Sacubitril + Valsartan (Vymada) 50 mg twice daily lifelong
+4. Tablet Spironolactone (Aldactone) 25 mg once daily in the morning to continue lifelong
+5. Tablet Dapagliflozin 10 mg once daily in the morning to continue lifelong
+6. Tablet Metformin 1000 mg twice daily PC lifelong
+7. Tablet Levothyroxine 25 mcg once daily in the morning on empty stomach to continue lifelong
+
+GENERAL ADVICE:
+  Diet:
+    - Salt < 5 g/day - no pickle / papad / namkeen
+    - Total fluids max 1.5 litres/day (incl. water / tea / milk / dal)
+  Physical activity:
+    - Gradually increase walking as tolerated
+  Other instructions:
+    - Daily morning weight - maintain record
+    - Do not take painkillers from the chemist without doctor's advice
+
+COME BACK TO THE HOSPITAL IMMEDIATELY IF:
+  - Wt gain > 2 kg in 3 days
+  - Breathlessness at rest / on lying down flat
+  - Increasing swelling of feet or legs
+  - Marked decrease in urine output
+  - Giddiness / fainting / LOC
+  - Palpitations - fast / irregular heart beat
+
+REVIEW:
+  - Review with reports in HF clinic (Cardiology OPD) on 25th February 2026 (Wed). Please bring: S. Creatinine, S. Electrolytes, Weight chart.
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Rohit Yadav (Resident)      Dr. H. S. Grewal (Consultant)

@@ -1,0 +1,47 @@
+CDH / Pulmonary Medicine / DISCHARGE SUMMARY
+Name - Rohit Jat | 42 Y/M | UHID CDH5772590 | IP IP/26/490435
+DOA - 15/03/2026 | DOD - 19/03/2026 | Consultant - Dr. Kavita Deshmukh, Chest Unit
+
+Diagnosis -
+  • Pulmonary tuberculosis - new, microbiologically confirmed (drug-sensitive)
+
+Presenting complaints & history - 42/M, presented with cough x 5 weeks, evening rise of temperature, loss of appetite and weight loss of 5 kg, with 2 episodes of streaky haemoptysis.
+
+Hospital course -
+  • Sputum CBNAAT: MTB detected, rifampicin resistance not detected. Started on daily ATT (HRZE FDC) as per NTEP on 16/03/2026; tolerated well. Notified on Ni-kshay. HIV non-reactive. Baseline LFT normal.
+
+Investigations -
+  • Sputum CBNAAT: MTB detected, Rif resistance not detected | CXR: left upper zone infiltrates with cavity | Hb 11.5 g/dl | LFT: within normal limits | RBS 138 mg/dl | HIV: non-reactive | Weight 48 kg
+
+Status at discharge - Afebrile for 3 days, tolerating ATT. BP 118/76 mmHg, PR 83/min, SpO2 97% on RA.
+
+ADV ON DISCHARGE -
+• Tab. HRZE (4-FDC) 3 tablets PO OD on empty stomach x 53 days (weight-band dose; to complete 8 weeks of intensive phase; review for CP thereafter)
+• Tab. Pyridoxine 10 mg PO OD till review
+• Tab. Paracetamol (Calpol) 650 mg PO SOS for fever (not more than 3 doses in 24 h)
+
+Instructions -
+  Diet:
+    • High protein diet - dal / eggs / milk / soya
+    • Strictly no alcohol
+  Others:
+    • Take TB medicines daily without missing a dose; complete the full course
+    • Cough hygiene - cover mouth, sputum in covered container, ventilated room
+    • Household contacts - TB screening at nearest PHC
+    • No smoking / no tobacco in any form
+    • Urine may turn orange-red due to TB medicine - harmless
+
+Report immediately to Casualty in case of -
+  • Jaundice / repeated vomiting / loss of appetite: stop ATT and report immediately
+  • Blurred vision / difficulty in distinguishing colours
+  • Generalised skin rash / itching
+  • Haemoptysis (coughing out blood)
+  • Breathlessness or difficulty in breathing
+
+Follow up -
+  • LFT and review - DOTS centre / TB clinic on 03/04/2026
+  • Sputum examination at end of intensive phase - TB clinic (DOTS centre) on 12/05/2026 (Tue)
+
+For any emergency report to the Casualty / ER of Chandrapuri District Hospital (open 24 hours).
+
+Dr. Deepak Chauhan (Resident)      Dr. Kavita Deshmukh (Consultant)
