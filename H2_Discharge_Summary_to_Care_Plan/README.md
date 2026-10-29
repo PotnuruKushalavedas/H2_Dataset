@@ -9,6 +9,8 @@
 - a readability score;
 - a one-page "fridge sheet" (judged in your demo, not by the scorer).
 
+The separate local improved implementation in this repository chooses Telugu (`te`) as its regional language. The original baseline and the supplied reference examples retain their original Hindi-oriented format.
+
 Faithfulness is scored above fluency. Stretch goals (optional): a spoken audio version and a 7-day medicine timetable.
 
 > **In short**
@@ -369,13 +371,57 @@ In Step 2, look for the line that starts with `PRIMARY SCORE`. The baseline scor
 - its English text, which mostly copies source lines and so fails the copy check;
 - the translation, where an English copy scores 0.
 
-The 50 reference examples score 1.0 on their own dev keys.
+The 50 supplied reference examples score 1.0 against their corresponding keys, but all 50 IDs also occur in public dev; this is not an independent evaluation.
 
 **Step 4: make the test submission.** This command writes the **test submission** file `submission/H2_predictions.jsonl`. Your final zip holds a file with this same name and format, made by your own solution.
 
 ```bash
 python baseline/baseline.py --split test
 ```
+
+## Local improved implementation (English + Telugu)
+
+`improved_solution.py` is a separate, deterministic generator that emits English and Telugu (`translation.language_code: "te"`) in the official submission schema. It does not change `baseline/baseline.py` or `evaluate.py` and uses only the Python standard library.
+
+For the exact local PowerShell commands and a source-to-output bilingual demo, see [HACKATHON_DEMO.md](./HACKATHON_DEMO.md).
+
+The generator reads the selected split IDs, `summaries.jsonl`, `drug_reference.csv`, and `abbreviation_glossary.csv`. It does not read answer keys, gold-example folders, test labels, or the evaluator during prediction generation. Medicine extraction is limited to discharge-prescription sections; drug aliases come from the supplied reference, and explicitly stated routes are included in care instructions without adding a route field to the official schema.
+
+Telugu output is produced with offline phrase rules and templates, not a translation model or external service. Medicine names, Latin-script dose units, numbers, and dates are retained. The renderer translates common medication instructions, warnings, diet/activity advice, and follow-up phrases. Unknown follow-up wording is retained rather than replaced with a potentially misleading generic instruction. The 257-row abbreviation glossary is not applied wholesale: code uses `abbreviation` and `plain_language` only for a 25-entry allowlist, and skips meanings that are ambiguous or slash-separated. `readability` reports the English Flesch-Kincaid grade; it is not a Telugu readability measure.
+
+The official evaluator supports Telugu: its language-code allowlist includes `te`, and it checks Telugu Unicode script and Telugu function words. `validate_telugu.py` is a separate input-only check for split IDs, JSONL/schema, script, prohibited Devanagari characters, and cross-output presence of structured medicine names/dose numbers and follow-up dates, plus list-count consistency. It reads only source summaries and split IDs. These checks do not prove semantic completeness or detect unsupported translated advice. Neither the official script checks Telugu fluency nor this validator establishes clinical correctness. The rule-based translation has not had native-speaker review.
+
+A script/token check does not establish that the Telugu is complete or natural. Latin-script medicine names, units, dose values, dates, hospital names, and technical terms such as `tsp` may remain; unmatched English prose is also possible. Native-speaker review is needed for grammar, idiom, medical terminology, and comprehension.
+
+From this project directory, set `$py` to a Python 3 interpreter and reproduce the baseline score, generate and score improved dev predictions, validate them, and create the test file with:
+
+```powershell
+$py = 'C:\path\to\python.exe'
+& $py baseline\baseline.py --split dev --out dev_predictions.jsonl
+& $py evaluate.py --submission dev_predictions.jsonl --truth data\dev_fact_key.jsonl --out baseline_score.json
+
+& $py improved_solution.py --split dev --out dev_predictions_telugu.jsonl
+& $py evaluate.py --submission dev_predictions_telugu.jsonl --truth data\dev_fact_key.jsonl --out telugu_dev_score.json
+& $py validate_telugu.py --submission dev_predictions_telugu.jsonl --split dev
+
+& $py improved_solution.py --split test
+& $py validate_telugu.py --submission submission\H2_predictions.jsonl --split test
+```
+
+In the measured run, the unchanged official evaluator scored the baseline **0.5198** and the Telugu implementation **1.0000** on the same 200 public dev summaries. The improved output also scored 1.0000 for medicine recall, dose, frequency, duration, follow-up-date recall, stop recall, English coverage, and translation coverage. These are official evaluator results, not a custom metric; they are not hidden-test results or clinical validation.
+
+**Important evaluation caveat:** all 50 supplied gold-example folders overlap the public dev set, and previous development work inspected those examples and iterated against dev scoring. The generator does not read those files when predicting, but this history means 1.0000 is an in-sample, potentially overfit result rather than an independent estimate. No hidden test labels were used.
+
+Representative source-to-output example from a test input:
+
+| Stage | Example |
+|---|---|
+| Source | `Injection Human Premix Insulin 30/70 10 U before breakfast, 4 U before dinner SC ½ hr before breakfast & dinner` |
+| Structured fields | `dose: "10 units before breakfast, 4 units before dinner"`; `timing: "30 minutes before breakfast and dinner"`; `frequency: "BD"` |
+| English | `10 units before breakfast, 4 units before dinner, twice a day, 30 minutes before breakfast and dinner, until your next check-up, inject under the skin.` |
+| Telugu | `10 units అల్పాహారానికి ముందు, 4 units రాత్రి భోజనానికి ముందు, రోజుకు 2 సార్లు, అల్పాహారం మరియు రాత్రి భోజనానికి 30 నిమిషాల ముందు; చర్మం కింద ఇంజెక్షన్‌గా ఇవ్వండి.` |
+
+An explicit stop example from the same input is retained as `care_plan.stop_medicines: ["Glimepiride 2 mg"]`, rendered in English as `Stop taking Glimepiride 2 mg.` and in Telugu as `Glimepiride 2 mg — ఈ మందును ఆపండి.` The generator architecture is: split IDs select summaries; the drug reference supports medicine extraction, and selected glossary entries support Telugu phrase expansion; a structured care plan feeds separate English and Telugu renderers; the input-only validator checks IDs, schema, script, and rendered-field consistency. This illustrates the code path, not clinical or human translation validation.
 
 ## Assumptions you may make
 
