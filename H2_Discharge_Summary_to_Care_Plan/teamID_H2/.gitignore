@@ -1,0 +1,11 @@
+data/
+models/
+.env
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+dev_predictions*.jsonl
+*_score.json
+*_score.jsonl
+
